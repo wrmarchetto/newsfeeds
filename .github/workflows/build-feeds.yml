@@ -1,0 +1,59 @@
+name: Build TLDR feeds
+
+on:
+  schedule:
+    # Weekdays, every 2h from 10:17 to 22:17 UTC (TLDR sends ~6am ET).
+    - cron: "17 10-22/2 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-feeds
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Parser tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Build feeds
+        id: build
+        env:
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+        run: |
+          set +e
+          python tldr_split.py
+          echo "exit_code=$?" >> "$GITHUB_OUTPUT"
+
+      # Commit whatever succeeded, even if one edition failed.
+      - name: Commit updated feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898273+github-actions[bot]@users.noreply.github.com"
+          git add docs state
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update feeds $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+
+      - name: Fail if any edition errored
+        if: steps.build.outputs.exit_code != '0'
+        run: |
+          echo "::error::tldr_split.py reported errors; see the 'Build feeds' step log."
+          exit 1
