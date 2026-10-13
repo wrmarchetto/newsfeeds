@@ -1,0 +1,563 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://wrmarchetto.github.io/newsfeeds/hardware.xml</id>
+  <title>TLDR Hardware</title>
+  <updated>2026-10-12T11:00:00+00:00</updated>
+  <author>
+    <name>TLDR</name>
+  </author>
+  <link href="https://wrmarchetto.github.io/newsfeeds/hardware.xml" rel="self"/>
+  <link href="https://tldr.tech" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://oxide.computer/blog/our-445m-series-d</id>
+    <title>Oxide Computer Company Secures $445M Series D Funding Round (3 minute read)</title>
+    <updated>2026-10-12T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Who's building on-prem compute in 2026? It turns out a lot of people! Oxide Computer Company, which builds custom on-prem cloud compute systems, has closed a massive $445 million Series D funding round led by Eclipse, with participation from major investors including Jane Street, Atreides Management, and chipmaker AMD. The capital injection follows the startup achieving operational profitability and will be used to scale manufacturing capacity, secure raw material inventory, and fulfill a rapidly expanding order backlog for their commercial cloud computer racks.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-12"&gt;TLDR Hardware · 2026-10-12 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://oxide.computer/blog/our-445m-series-d"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-12T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theregister.com/networks/2026/10/09/spacex-to-buy-key-spectrum-that-could-help-starlink-mobile-become-major-us-cell-carrier/5302393</id>
+    <title>SpaceX buys 800 MHz low-band spectrum to pair terrestrial towers with 2 GHz Starlink satellites (3 minute read)</title>
+    <updated>2026-10-12T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;SpaceX agreed to buy up to 14 MHz of paired 800 MHz low-band spectrum, which penetrates buildings, and plans to deploy its own antennas on towers and rooftops to use it, with most existing phones already supporting the band. Separately, the FCC approved 15,000 more Starlink satellites optimized for 2 GHz. Together they point to a hybrid network, terrestrial indoors and satellite beyond towers. The deal needs FCC approval, and Verizon, AT&amp;amp;T, and T-Mobile shares fell roughly 6% on the news.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-12"&gt;TLDR Hardware · 2026-10-12 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.theregister.com/networks/2026/10/09/spacex-to-buy-key-spectrum-that-could-help-starlink-mobile-become-major-us-cell-carrier/5302393"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-12T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://developer.nvidia.com/blog/the-machines-that-make-the-machines?ncid=so-link-873291&amp;amp%3Butm_source=tldrhardware</id>
+    <title>The Machines That Make the Machines: Advancing Industrial Digital Twins (5 minute read)</title>
+    <updated>2026-10-12T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;In this rare peek under the hood, we get a glimpse of how Foxconn uses NVIDIA Omniverse, Isaac, and Metropolis platforms to create physically accurate digital twins of manufacturing facilities that assemble next-generation AI server hardware. By simulating factory layouts, automated optical inspection systems, and autonomous mobile robot fleets in virtual environments before physical deployment, the company minimizes factory commissioning delays and boosts production efficiency. This approach showcases how system architects and automation specialists can leverage high-fidelity simulation to safely validate and optimize complex robotic workcells prior to hardware installation.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-12"&gt;TLDR Hardware · 2026-10-12 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://developer.nvidia.com/blog/the-machines-that-make-the-machines/?ncid=so-link-873291&amp;amp%3Butm_source=tldrhardware"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-10-12T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn</id>
+    <title>Blue Origin rebuilds LC-36 for vertical New Glenn integration, targeting a December return (4 minute read)</title>
+    <updated>2026-10-12T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;After May's pad explosion destroyed its transporter-erector, Blue Origin is rebuilding LC-36 for vertical integration, loading New Glenn through the support tower alone, as with Starship. Crews destacked the tower, added cryogenic propellant plumbing on the ground, and have begun restacking modules, while the launch bridge is restored. Umbilicals and fairing access platforms haven't appeared yet. Bezos targets a December return to flight carrying Blue Ring, though he joked it could slip to December 31.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-12"&gt;TLDR Hardware · 2026-10-12 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-10-12T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nature.com/articles/s43588-026-01071-0</id>
+    <title>Photonic chips learn after fabrication by measuring their own optical gradients (3 minute read)</title>
+    <updated>2026-10-12T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A Nature Computational Science briefing describes an in situ learning method where photonic integrated circuits directly measure optical gradients, so diverse circuit layouts can be trained after they're built. That removes the need for a full digital model of the chip, which optical training normally leans on. The team demonstrated matrix design, multiwavelength computation, and rapid meta-learning on the hardware. Specifics like accuracy or energy figures aren't included.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-12"&gt;TLDR Hardware · 2026-10-12 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.nature.com/articles/s43588-026-01071-0"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-10-12T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dynamic.robots.ox.ac.uk/projects/scarf-slam</id>
+    <title>ScaRF-SLAM: Scale-Consistent Reconstruction with Feed-Forward Models and Classical Visual SLAM (2 minute read)</title>
+    <updated>2026-10-12T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;ScaRF-SLAM is a dense visual mapping system that pairs the reliability of classical visual SLAM with modern feed-forward geometric foundation models for 3D scene reconstruction from the Oxford Robot Dynamics Lab. By decoupling camera tracking from dense depth estimation and optimizing scale consistency across submaps, it achieves globally accurate 3D maps across diverse sensor configurations. For perception engineers and autonomy developers, this framework provides a practical way to produce metric-scale environmental maps in real time without sacrificing tracking stability&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-12"&gt;TLDR Hardware · 2026-10-12 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://dynamic.robots.ox.ac.uk/projects/scarf-slam/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-10-12T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnx-software.com/2026/10/08/q8botone-a-palm-sized-open-source-quadruped-robot-with-esp32-c3-dynamixel-smart-actuators</id>
+    <title>Q8botOne: A Palm-Sized Open-Source Quadruped Robot with Smart Actuators (3 minute read)</title>
+    <updated>2026-10-12T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;ZeroWire Robotics has launched the Q8botOne, a smartphone-sized open-source quadruped robot featuring an innovative wire-free chassis where the main printed circuit board serves as the structural frame. Driven by an ESP32-C3 microcontroller and eight DYNAMIXEL smart bus actuators with parallel-linkage legs, the compact robot can walk, trot, jump, and carry twice its 250-gram payload.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-12"&gt;TLDR Hardware · 2026-10-12 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cnx-software.com/2026/10/08/q8botone-a-palm-sized-open-source-quadruped-robot-with-esp32-c3-dynamixel-smart-actuators/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-12T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cointribune.com/en/crypto-ledger-investigates-tampered-wallets-after-93-million-in-loses</id>
+    <title>Ledger confirms a hardware implant in a tampered wallet as suspected losses near $93M (3 minute read)</title>
+    <updated>2026-10-12T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Ledger confirmed an unauthorized hardware implant in one affected user's device, bought from Southeast Asian reseller CryptoBilis, pointing to tampering after manufacturing rather than a breach of Ledger itself. Mark Karpelès published images of a modified Nano X with a small board behind the screen and cellular components, which would presumably capture the 24-word recovery phrase as it displays during setup, leaving the secure element untouched.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-12"&gt;TLDR Hardware · 2026-10-12 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cointribune.com/en/crypto-ledger-investigates-tampered-wallets-after-93-million-in-loses/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-12T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://thenextweb.com/news/super-micro-case-fixer-pleads-guilty-to-sending-ai-servers-to-china</id>
+    <title>Super Micro “fixer” pleads guilty in $2.5B scheme to divert Nvidia servers to China (3 minute read)</title>
+    <updated>2026-10-12T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Ting-Wei Sun pleaded guilty to four counts, including conspiracy to violate export controls, in a scheme that routed about $2.5 billion of Nvidia-powered servers through a Southeast Asian company to buyers in China.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-12"&gt;TLDR Hardware · 2026-10-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://thenextweb.com/news/super-micro-case-fixer-pleads-guilty-to-sending-ai-servers-to-china"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-12T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.thelec.net/news/articleView.html?idxno=14518&amp;amp%3Butm_source=tldrhardware</id>
+    <title>ASML raises EUV and DUV spare parts prices 10% for Samsung and SK Hynix (3 minute read)</title>
+    <updated>2026-10-12T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;ASML will raise prices 10% on all EUV and DUV replacement parts supplied to South Korea starting with January 2027 deliveries, and Samsung and SK Hynix have accepted&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-12"&gt;TLDR Hardware · 2026-10-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.thelec.net/news/articleView.html?idxno=14518&amp;amp%3Butm_source=tldrhardware"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-12T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/KingKongRobotics/jumper</id>
+    <title>Jumper: An Open-Source Crab Robot with Walking and Jumping Capabilities (2 minute read)</title>
+    <updated>2026-10-12T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Jumper is an open-source biomimetic robot that replicates crab locomotion, combining sideways multi-legged walking with an explosive spring-assisted jumping mechanism.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-12"&gt;TLDR Hardware · 2026-10-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/KingKongRobotics/jumper"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-12T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://discourse.openrobotics.org/t/easynav-0-5-0-released-for-humble-jazzy-kilted-and-lyrical/58721</id>
+    <title>EasyNav 0.5.0 Navigation System Released for ROS 2 Distributions (2 minute read)</title>
+    <updated>2026-10-12T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;EasyNav 0.5.0 has officially launched, delivering an accessible yet comprehensive open-source navigation stack with upgraded path planning, improved recovery behaviors, and reduced compute overhead for ROS 2 systems.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-12"&gt;TLDR Hardware · 2026-10-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://discourse.openrobotics.org/t/easynav-0-5-0-released-for-humble-jazzy-kilted-and-lyrical/58721"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-12T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html</id>
+    <title>TSMC's September sales surge year-over-year as AI drives chip demand (1 minute read)</title>
+    <updated>2026-10-09T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TSMC reported revenue of $511.86 billion New Taiwan dollars for September, a 54.6% year-over-year increase. Demand for advanced AI chips, driven by customers like Nvidia and Apple, boosted sales. TSMC has also committed to using ASML's advanced lithography machines to enhance chip production.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-09T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout</id>
+    <title>Amazon builds its 1,000th Leo satellite at 27 a week, but only 396 are in orbit (3 minute read)</title>
+    <updated>2026-10-09T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Amazon built its 1,000th Leo broadband satellite at its Kirkland, Washington plant, which took six months to produce its first 27 and now turns out 27 a week. It builds propulsion in-house and borrowed consumer electronics methods to cut tests that took weeks down to hours. The bottleneck is launch: only 396 are in orbit against 3,232 needed, and the Vulcan grounding and a New Glenn pad explosion cost Amazon FCC spectrum priority.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-09T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://spectrum.ieee.org/anderon-quantum-fab</id>
+    <title>Anderon aims to industrialize quantum chip fabrication (5 minute read)</title>
+    <updated>2026-10-09T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;IEEE Spectrum examines the up-to-$1B CHIPS R&amp;amp;D award finalized for IBM spinoff Anderon in September. IBM is matching that funding with $1B, while Anderon uses a 300mm Albany line and plans foundry services and process design kits for outside developers. The challenge is repeatable fabrication, including tighter control of Josephson junctions, rather than simply adding wafer capacity.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://spectrum.ieee.org/anderon-quantum-fab"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-10-09T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge</id>
+    <title>Google open-sources ML Drift, a GPU engine that runs one shader set across OpenCL, Metal, WebGPU, and OpenGL ES (4 minute read)</title>
+    <updated>2026-10-09T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Tensor virtualization decouples a tensor's logical layout from its physical GPU allocation, so one shader template replaces separate backend-specific codebases. For edge LLMs, ML Drift switches kernels between compute-bound prefill and memory-bound decode, using a convolution-aligned KV cache layout and in-kernel activation quantization to skip memory roundtrips. It cut YouTube Shorts frame latency by up to 40%, and Google co-optimized it with Arm, Intel, and Qualcomm GPUs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-10-09T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://newatlas.com/energy/cement-based-supercapacitor</id>
+    <title>Supercapacitor cement is key to buildings that store their own power (3 minute read)</title>
+    <updated>2026-10-09T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Scientists from the Harbin Institute of Technology developed a cement-based supercapacitor capable of powering small devices like LEDs. The device uses a 3D-printed electrode ink made from carbon nanotubes and cement, enabling fast energy discharge. Future research will enhance cold-weather performance, potentially allowing buildings to store energy and support smart environments.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://newatlas.com/energy/cement-based-supercapacitor/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-10-09T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theregister.com/systems/2026/10/08/too-many-quantum-startups-too-little-money-to-keep-them-alive/5302025</id>
+    <title>Too many quantum startups, too little money to keep them alive (3 minute read)</title>
+    <updated>2026-10-09T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Gartner predicts that over half of quantum startups will fail by 2030 due to a market unable to generate sufficient revenue. Despite this, companies are investing in quantum technologies for their potential business advantages, focusing on building expertise rather than waiting for technological maturity. The public sector and financial industries are expected to lead quantum computing investments, with spending reaching $245 million and $289 million by 2027 and 2028, respectively.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.theregister.com/systems/2026/10/08/too-many-quantum-startups-too-little-money-to-keep-them-alive/5302025"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-09T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://appleinsider.com/articles/26/10/08/theres-a-hidden-upside-to-the-rampocalypse-for-apple</id>
+    <title>There's a hidden upside to the rampocalypse for Apple (1 minute read)</title>
+    <updated>2026-10-09T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Apple gained a full percentage point in market share year-over-year as RAM price increases led to a 20% decrease in overall PC shipments. Despite this downturn, Apple was less affected than most competitors. With prices expected to worsen, Apple's resilience highlights its strong customer base willing to invest in new devices.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://appleinsider.com/articles/26/10/08/theres-a-hidden-upside-to-the-rampocalypse-for-apple"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-09T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots</id>
+    <title>NVIDIA's Safety Stack for Physical AI (5 minute read)</title>
+    <updated>2026-10-09T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;NVIDIA expanded its Halos safety system from self-driving cars to robots with Halos for Robotics in June.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-09T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics</id>
+    <title>AWS Launches an Open-Source Physical AI Toolchain for Robotics (5 minute read)</title>
+    <updated>2026-10-09T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The toolchain covers synthetic data generation, training, simulation and validation, edge deployment, and continuous improvement.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-09T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.microsoft.com/en-us/surface/devices/surface-laptop-ultra</id>
+    <title>Microsoft's Surface Laptop Ultra brings Nvidia's RTX Spark to a 15-inch, $2,600 laptop (3 minute read)</title>
+    <updated>2026-10-09T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Microsoft's 15-inch Surface Laptop Ultra runs Nvidia's RTX Spark superchip, pairing up to a 20-core Grace CPU and Blackwell graphics with up to 128GB of unified memory, enough for local agents on models up to 120B parameters.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.microsoft.com/en-us/surface/devices/surface-laptop-ultra"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-09T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.reuters.com/business/media-telecom/spacex-seeks-40-billion-buy-nvidia-chips-ft-reports-2026-10-06</id>
+    <title>SpaceX seeks $40B Apollo-led debt financing to buy Nvidia chips (2 minute read)</title>
+    <updated>2026-10-07T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The FT reports SpaceX is raising about $10 billion in bank loans and $30 billion in investment-grade debt to fund an Nvidia chip order, with Apollo leading and helping sell the debt to a broad investor base, and bond fund Pimco among lenders in talks. The deal is expected to close in 2027. It fits the pattern Nvidia flagged in August, when it disclosed its own SpaceX stake and a $500 billion Wall Street financing push, with chip purchases increasingly funded by debt and equity ties to the buyer. Reuters could not independently verify the report, and SpaceX, Apollo, Nvidia, and Pimco haven't commented.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-07"&gt;TLDR Hardware · 2026-10-07 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.reuters.com/business/media-telecom/spacex-seeks-40-billion-buy-nvidia-chips-ft-reports-2026-10-06/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-07T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai</id>
+    <title>Ghost launches a personal AI computer (5 minute read)</title>
+    <updated>2026-10-07T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Ghost opened pre-orders for Core, a $3,499 screenless computer with an Nvidia RTX Pro 4000 SFF Blackwell GPU. The device runs preinstalled AI models locally and gives users access through a phone app. Ghost raised an $11 million seed round and plans to ship the first batch in late October.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-07"&gt;TLDR Hardware · 2026-10-07 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-07T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai</id>
+    <title>Synopsys and OpenAI team up on GPT-Synopsys, a frontier model that runs EDA tools like an engineer (4 minute read)</title>
+    <updated>2026-10-07T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;GPT-Synopsys is an OpenAI frontier model trained and tuned to operate Synopsys' EDA tools directly, covering PPA optimization, timing closure, and verification. Engineers hand it an objective, and agents run the tools, interpret the results, make changes, and loop until there's a verified outcome to review. It runs on OpenAI-hosted infrastructure and plugs into Synopsys.ai and the Autopilot agentic platform. OpenAI licenses Synopsys' tools to train the model, paying a training subscription fee, and the two companies then share revenue based on how well the model improves chip designs, an unusual structure that ties both to the results. Synopsys says customer design data stays protected and won't be used to train the frontier model, and the bundled service covers compute, the model, and EDA licenses.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-07"&gt;TLDR Hardware · 2026-10-07 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-10-07T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://semiengineering.com/extreme-environments-push-chips-to-their-breaking-point</id>
+    <title>Designing chips for extreme environments (12 minute read)</title>
+    <updated>2026-10-07T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Engineers must test chips against combined radiation, thermal shock, vibration, and other stresses rather than qualify each condition alone. Arizona State University pairs a radiation source with a cryostat to test devices at 77 Kelvin. Digital twins can model package and system behavior, but physical tests still check whether those predictions hold.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-07"&gt;TLDR Hardware · 2026-10-07 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://semiengineering.com/extreme-environments-push-chips-to-their-breaking-point/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-10-07T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dynamic.robots.ox.ac.uk/projects/scarf-slam</id>
+    <title>ScaRF-SLAM: Scale-Consistent Reconstruction with Feed-Forward Models and Classical Visual SLAM (2 minute read)</title>
+    <updated>2026-10-07T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;ScaRF-SLAM is a dense visual mapping system that pairs the reliability of classical visual SLAM with modern feed-forward geometric foundation models for 3D scene reconstruction. By decoupling camera tracking from dense depth estimation and optimizing scale consistency across submaps, it achieves globally accurate 3D maps across diverse sensor configurations. For perception engineers and autonomy developers, this framework provides a practical way to produce metric-scale environmental maps in real time without sacrificing tracking stability.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-07"&gt;TLDR Hardware · 2026-10-07 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://dynamic.robots.ox.ac.uk/projects/scarf-slam/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-10-07T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://interestingengineering.com/ai-robotics/robopartys-rp1-open-source-humanoid-robotics</id>
+    <title>RoboParty demonstrates the RP1 humanoid (3 minute read)</title>
+    <updated>2026-10-07T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;RoboParty demonstrated RP1 recovering its balance after visitors pushed or kicked it at IROS. The platform combines actuator modules, robot hardware, and reinforcement-learning motion control, with peak joint torque up to 160 Nm. RoboParty plans to release more control software, simulation tools, and hardware details, so its full open-source roadmap remains in progress.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-07"&gt;TLDR Hardware · 2026-10-07 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://interestingengineering.com/ai-robotics/robopartys-rp1-open-source-humanoid-robotics"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-10-07T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tomshardware.com/tech-industry/data-centers/google-ai-data-center-project-investigated-after-420-football-fields-of-finnish-forest-razed-trees-were-removed-before-a-mandatory-environmental-impact-assessment-say-reports</id>
+    <title>Google faces scrutiny over Finnish data-center clearing (3 minute read)</title>
+    <updated>2026-10-07T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Finnish authorities are investigating allegations that Google's local operator cleared over 300 hectares of forest before a required environmental assessment. A conservation group has requested a suspension of work near Muhos. Google says the tree felling complied with forestry requirements and that it protected high-value nature zones.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-07"&gt;TLDR Hardware · 2026-10-07 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tomshardware.com/tech-industry/data-centers/google-ai-data-center-project-investigated-after-420-football-fields-of-finnish-forest-razed-trees-were-removed-before-a-mandatory-environmental-impact-assessment-say-reports"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-07T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/FeSens/openTPU</id>
+    <title>OpenTPU Full-Stack Open-Source AI Accelerator (2 minute read)</title>
+    <updated>2026-10-07T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenTPU is a complete, open-source AI accelerator project that packages custom SystemVerilog RTL, instruction set architecture, a bit-exact simulator, and a compiler into a single accessible repository. The design runs modern quantized language models directly on cost-effective Kintex-7 FPGA PCIe cards, matching simulation results bit for bit. This architecture provides embedded systems designers and compute engineers an invaluable end-to-end reference for deploying and tailoring custom neural network hardware without relying on proprietary black-box tooling.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-07"&gt;TLDR Hardware · 2026-10-07 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/FeSens/openTPU"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-07T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.phoronix.com/news/Linux-CRAM-Compressed-RAM</id>
+    <title>Meta develops compressed RAM "CRAM" for Linux (4 minute read)</title>
+    <updated>2026-10-07T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Meta's Gregory Price presented hardware-offloaded compression at Linux Plumbers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-07"&gt;TLDR Hardware · 2026-10-07 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.phoronix.com/news/Linux-CRAM-Compressed-RAM"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-07T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/ManufacturedMotion/Hex</id>
+    <title>Hex Open-Source Hexapod Robot Platform (1 minute read)</title>
+    <updated>2026-10-07T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Hex is an open-source, six-legged robot platform designed to give makers and developers an accessible foundation for building and testing legged locomotion.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-07"&gt;TLDR Hardware · 2026-10-07 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/ManufacturedMotion/Hex"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-07T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1005397/amd-intends-to-substantially-increase-its-chip-supply-next-year</id>
+    <title>AMD says it will substantially increase chip supply in 2027 (1 minute read)</title>
+    <updated>2026-10-07T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Lisa Su said supply grew through 2026.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-07"&gt;TLDR Hardware · 2026-10-07 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.theverge.com/tech/1005397/amd-intends-to-substantially-increase-its-chip-supply-next-year"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-07T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.washingtonpost.com/technology/2026/10/06/trump-steers-nearly-7b-shipbuilding-deal-with-weapons-maker-anduril</id>
+    <title>Trump announces nearly $7B Anduril submarine shipyard deal in Baltimore (3 minute read)</title>
+    <updated>2026-10-07T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anduril will invest $3.7 billion to build a two-million-square-foot "software-defined" shipyard at Sparrows Point, the former Bethlehem Steel site near Baltimore, and the Navy separately awarded it a $2.9 billion "Arsenal 2" contract with payments tied to production outcomes, bringing the package to roughly $6.6 billion.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-07"&gt;TLDR Hardware · 2026-10-07 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.washingtonpost.com/technology/2026/10/06/trump-steers-nearly-7b-shipbuilding-deal-with-weapons-maker-anduril/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-07T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://gadgets.muse.ai/</id>
+    <title>Meta opens its Muse agent to DIY hardware with an open-source gadget SDK (3 minute read)</title>
+    <updated>2026-10-05T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Muse is Meta's subscription AI agent, and its new Apache 2.0 SDK lets hobbyists build physical front-ends for it on ESP32 boards or a Raspberry Pi, adding screens, mics, speakers, and sensors. Community-built skills can let Muse control lights, a TV, or a printer through a local network device. Meta's own Muse Home Link, which bridges Muse to home Wi-Fi devices, is free to US subscribers and ships in October.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-05"&gt;TLDR Hardware · 2026-10-05 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://gadgets.muse.ai/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-05T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai</id>
+    <title>Musk confirms TSMC talks on Terafab, which could sideline Intel's 14A node (3 minute read)</title>
+    <updated>2026-10-05T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Culpium reports TSMC is exploring building and operating a fab that would exclusively serve Tesla, SpaceX, and xAI, and Musk confirmed it on X, saying "just discussions, but something may come of it" while TSMC stayed silent. The two speculative structures Culpium floats are a JASM/ESMC-style joint venture where partners supply capital and demand while TSMC contributes process technology and operations, or a novel arrangement where SpaceX holds majority ownership and TSMC only operates the fab and licenses its process.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-05"&gt;TLDR Hardware · 2026-10-05 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-05T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://roboticsandautomationnews.com/2026/10/02/boston-dynamics-unveils-new-four-finger-hand-for-atlas-humanoid-robot/105440</id>
+    <title>Boston Dynamics unveils new four-finger hand for Atlas humanoid robot (4 minute read)</title>
+    <updated>2026-10-05T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Boston Dynamics has introduced a new four-finger hand for its Atlas robot, optimizing cost and reliability by excluding the pinky. The hand, with 13 degrees of freedom, uses dense tactile sensors and enables complex tasks like in-hand object reorientation and tool operation. Designed for simulation and reinforcement learning, this innovation aims to enhance Atlas' capabilities for industrial applications.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-05"&gt;TLDR Hardware · 2026-10-05 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://roboticsandautomationnews.com/2026/10/02/boston-dynamics-unveils-new-four-finger-hand-for-atlas-humanoid-robot/105440/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-10-05T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office</id>
+    <title>The physical AI race will be won in the patent office (8 minute read)</title>
+    <updated>2026-10-05T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The physical AI race will depend on owning IP rather than just building the best robot. Robotics companies need a strong IP strategy, focusing on key inventions that ensure their competitiveness. Utilizing AI in patent processes can reduce costs and improve efficiency, crucial for resource-limited startups.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-05"&gt;TLDR Hardware · 2026-10-05 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-05T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.latimes.com/california/story/2026-10-02/california-man-smuggled-300-million-of-ai-hardware-to-china-feds-say</id>
+    <title>California man charged with smuggling $300M of Nvidia AI servers to China through Malaysia and Singapore (3 minute read)</title>
+    <updated>2026-10-05T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Federal prosecutors arrested Greg (Yiu Kong) Lui, owner of San Gabriel Valley company Earthmade, on charges of exporting more than $300 million of servers loaded with export-controlled Nvidia AI GPUs to China between 2023 and 2024. The scheme worked by exploiting a licensing gap: Commerce doesn't require an export license to ship this hardware to Malaysia or Singapore, but does for China, so Lui allegedly sent servers to Malaysian and Singapore transshipment companies using false paperwork, then used freight forwarders to move them on to Chinese buyers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-05"&gt;TLDR Hardware · 2026-10-05 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.latimes.com/california/story/2026-10-02/california-man-smuggled-300-million-of-ai-hardware-to-china-feds-say"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-05T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://roboticsandautomationnews.com/2026/10/04/hello-robot-awarded-3-million-to-develop-stretch-robot-for-elder-care/105500</id>
+    <title>Hello Robot awarded $3 million to develop Stretch robot for elder care (5 minute read)</title>
+    <updated>2026-10-05T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Hello Robot secured nearly $3 million from the NIH to advance its Stretch robot for elder care, focusing on cognitive support, social engagement, and safety management.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-05"&gt;TLDR Hardware · 2026-10-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://roboticsandautomationnews.com/2026/10/04/hello-robot-awarded-3-million-to-develop-stretch-robot-for-elder-care/105500/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-05T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses</id>
+    <title>Legato launches $999 AI hearing glasses that amplify voices and cancel noise on-device (3 minute read)</title>
+    <updated>2026-10-05T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Legato Frames pack the startup's hearing-assistance tech into the arms of eyewear, aimed at adults with up to moderate hearing loss and starting at $999.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-05"&gt;TLDR Hardware · 2026-10-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-05T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync</id>
+    <title>Nvidia launches a $4,999 DGX Spark with 64GB of memory that clusters with a second unit to run 200B-parameter models (3 minute read)</title>
+    <updated>2026-10-05T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Nvidia is adding a 64GB unified-memory DGX Spark, sold only through partners (Acer, ASUS, Dell, Gigabyte, HP, and MSI) starting October 23 at $4,999, built on the same GB10 Grace Blackwell chip as the 128GB model and able to run models up to 100B parameters on-device.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-05"&gt;TLDR Hardware · 2026-10-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-05T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics</id>
+    <title>Runway introduces Praxis-1 world action model for robotics (4 minute read)</title>
+    <updated>2026-10-05T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Praxis-1 is a world action model that uses video pretraining to control robots.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-05"&gt;TLDR Hardware · 2026-10-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-05T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://frame.work/blog/192gb-framework-desktop-open-for-pre-order</id>
+    <title>Framework is selling one batch of its 192GB desktop, built from memory it already has (3 minute read)</title>
+    <updated>2026-10-02T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The new Framework Desktop pairs AMD's Ryzen AI Max PRO 495+ with 192GB of LPDDR5X and 273GB/s of memory bandwidth, and it ships in November as a DIY kit, a Fedora prebuilt, or a bare Mini-ITX board. Its PCIe x4 slot is now open-ended, so full-size x8 or x16 cards fit without a riser, letting owners add 50Gbps networking to cluster several machines for faster inference. Framework expects memory prices to keep rising for six months and tells buyers to pick their capacity now.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-02"&gt;TLDR Hardware · 2026-10-02 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://frame.work/blog/192gb-framework-desktop-open-for-pre-order"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-02T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.dyna.co/dyna-2.1</id>
+    <title>Dyna-2.1: A Robot/Model for Unsupervised Long-Horizon Workflows (5 minute read)</title>
+    <updated>2026-10-02T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Dyna-2.1 introduces a semi-humanoid robot named Taku that is designed to autonomously complete long-horizon, complex physical workflows. The system utilizes a dual-model software architecture where a vision-language model monitors the environment while a separate model coordinates whole-body manipulation, allowing the robot to dynamically switch tasks. It highlights a major shift toward utilizing integrated foundation models and highly flexible physical platforms to automate complex, multi-step commercial and industrial service roles.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-02"&gt;TLDR Hardware · 2026-10-02 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.dyna.co/dyna-2.1"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-02T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.automate.org/ai/industry-insights/ikea-is-about-to-take-the-driver-out-of-a-219-mile-freight-run</id>
+    <title>IKEA and Kodiak Prepare for Autonomous Freight Operations (4 minute read)</title>
+    <updated>2026-10-02T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Kodiak AI is preparing to launch a driverless commercial shipping route for IKEA Supply along a 219-mile section of Interstate 45 in Texas. The milestone follows four years of collaborative testing during which they successfully completed over 1,300 runs to resolve operational complexities like scheduling, predictive maintenance, and dock assignment. It serves as a prime case study of how custom autonomous technology can successfully transition from controlled, simulated environments into the real-world logistics and shipping infrastructure.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-02"&gt;TLDR Hardware · 2026-10-02 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.automate.org/ai/industry-insights/ikea-is-about-to-take-the-driver-out-of-a-219-mile-freight-run"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-02T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://payloadspace.com/transporter-18-tests-the-building-blocks-of-orbital-data-centers</id>
+    <title>Transporter-18 Tests the Building Blocks of Orbital Data Centers (5 minute read)</title>
+    <updated>2026-10-02T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;SpaceX's Transporter-18 launched three payloads testing technologies for orbital data centers. Cowboy Space's Reason-1 tests beaming solar power via laser, Google's Project Suncatcher runs AI chips on solar in orbit to evaluate durability, and Star Catcher's Protostar aims to validate power-beaming to satellites. These tests are crucial for building infrastructure to support future AI computing and data centers in space.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-02"&gt;TLDR Hardware · 2026-10-02 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://payloadspace.com/transporter-18-tests-the-building-blocks-of-orbital-data-centers/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-02T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://semiengineering.com/crossing-chiplet-boundaries-with-pcie-over-ucie</id>
+    <title>Crossing Chiplet Boundaries With PCIe Over UCIe (5 minute read)</title>
+    <updated>2026-10-02T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;PCIe 8.0 traffic can cross chiplet boundaries through UCIe 3.0, but engineers must coordinate both protocols' power, reset, and recovery states. Timing mismatches can cause completion timeouts, dropped traffic, and deadlocks. Siemens' verification tools trace transactions across both layers and inject faults before silicon bring-up.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-02"&gt;TLDR Hardware · 2026-10-02 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://semiengineering.com/crossing-chiplet-boundaries-with-pcie-over-ucie/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-10-02T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://semiengineering.com/memory-at-the-edge-non-volatile-memory-challenges-and-requirements-for-humanoid-robots</id>
+    <title>Memory At The Edge: Non-Volatile Memory Challenges And Requirements For Humanoid Robots (8 minute read)</title>
+    <updated>2026-10-02T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Humanoid robots need different memory architectures for centralized AI compute and distributed joint control. Flash and EEPROM can delay writes by 5-10 milliseconds, which risks lost position data during power failures. The article maps F-RAM to continuous telemetry, safety-capable NOR Flash to boot storage, and high-speed NOR Flash to time-sensitive networking.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-02"&gt;TLDR Hardware · 2026-10-02 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://semiengineering.com/memory-at-the-edge-non-volatile-memory-challenges-and-requirements-for-humanoid-robots/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-10-02T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnx-software.com/2026/09/30/openarm-2-0-an-open-source-7-dof-robot-arm-with-qdd-joints-bilateral-force-feedback-in-hand-camera</id>
+    <title>OpenArm 2.0: An Open-Source Compliant Robotic Arm (4 minute read)</title>
+    <updated>2026-10-02T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenArm 2.0 is an open-source, 7-degree-of-freedom robotic arm engineered by Tokyo-based Enactic for contact-rich manipulation and physical artificial intelligence research. The arm features backdrivable, quasi-direct drive joints for highly compliant physical interactions, a gripper with an integrated camera, and a motorless replica arm for bilateral force-feedback teleoperation. It delivers a highly customizable, low-cost platform that facilitates the training of robust manipulation models using modern imitation learning and simulation-to-reality pipelines.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-02"&gt;TLDR Hardware · 2026-10-02 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cnx-software.com/2026/09/30/openarm-2-0-an-open-source-7-dof-robot-arm-with-qdd-joints-bilateral-force-feedback-in-hand-camera/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-10-02T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/AshishA26/Orion-Quadruped</id>
+    <title>Orion: Designing and Programming a Custom Quadruped from Scratch (3 minute read)</title>
+    <updated>2026-10-02T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Orion is a custom-built, 12-degree-of-freedom quadruped robot designed and programmed entirely from scratch. The system combines an NVIDIA Jetson Orin Nano for advanced stereo vision depth perception and LiDAR-based SLAM with an STM32-based microcontroller running FreeRTOS for low-level kinematic gaits and real-time stabilization. It provides a complete, open-source blueprint for constructing complex, dynamically stable legged systems using advanced embedded processors and modern spatial computing toolchains.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-02"&gt;TLDR Hardware · 2026-10-02 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/AshishA26/Orion-Quadruped"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-10-02T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/jfrancis71/ros2_buildhat_differential_drive</id>
+    <title>Building a Lego-Compatible ROS 2 Drive Controller (2 minute read)</title>
+    <updated>2026-10-02T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This open-source repository provides a ROS 2 hardware interface and differential drive controller designed specifically for the Raspberry Pi Build HAT. The package enables direct control of Lego Spike Prime motors and sensors, allowing developers to run modern robot communication middleware on lightweight educational hardware. It offers an accessible entry point for testing and prototyping mobile bases using popular, modular consumer components.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-02"&gt;TLDR Hardware · 2026-10-02 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/jfrancis71/ros2_buildhat_differential_drive"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-02T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://thenextweb.com/news/fedex-harbinger-trucks-europe-grid</id>
+    <title>FedEx is buying 2,000 electric trucks for $300M, and investing in the company building them (3 minute read)</title>
+    <updated>2026-10-02T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;FedEx ordered 2,000 Harbinger electric delivery trucks for $300 million, with delivery due before the end of 2027. FedEx also led the startup's $160 million Series C last year. Harbinger projects $20,000 in annual savings per truck against diesel, but those figures are estimates rather than measured fleet results.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-02"&gt;TLDR Hardware · 2026-10-02 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://thenextweb.com/news/fedex-harbinger-trucks-europe-grid"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-02T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://thenextweb.com/news/deepseek-huawei-ascend-tilelang-open-source-cuda</id>
+    <title>DeepSeek open-sources Huawei chip tools as a simpler alternative to CUDA (2 minute read)</title>
+    <updated>2026-10-02T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;DeepSeek released six software modules for Huawei Ascend chips, including compute and communication libraries and TileLang support.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-02"&gt;TLDR Hardware · 2026-10-02 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://thenextweb.com/news/deepseek-huawei-ascend-tilelang-open-source-cuda"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-02T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tomshardware.com/desktops/mini-pcs/first-intel-panther-lake-mini-pc-cooled-with-solid-state-airjet-tech-operates-at-less-than-21-dba-aaeon-claims-its-fanless-up-xtreme-ptl-edge-air-is-also-slimmer-lighter-than-actively-cooled-rivals</id>
+    <title>First Intel Panther Lake mini PC cooled with solid-state AirJet tech operates at less than 21 dBA (3 minute read)</title>
+    <updated>2026-10-02T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Aaeon launched the Up Xtreme PTL Edge Air mini PC with Intel Panther Lake processors and Frore's AirJet cooling.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-02"&gt;TLDR Hardware · 2026-10-02 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tomshardware.com/desktops/mini-pcs/first-intel-panther-lake-mini-pc-cooled-with-solid-state-airjet-tech-operates-at-less-than-21-dba-aaeon-claims-its-fanless-up-xtreme-ptl-edge-air-is-also-slimmer-lighter-than-actively-cooled-rivals"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-02T10:59:49+00:00</published>
+  </entry>
+</feed>
