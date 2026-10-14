@@ -1,5 +1,6 @@
 {
  "issues": {
+  "ai/2026-09-30": "2026-10-14T20:13:09+00:00",
   "ai/2026-10-01": "2026-10-14T15:11:33+00:00",
   "ai/2026-10-02": "2026-10-14T15:11:34+00:00",
   "ai/2026-10-05": "2026-10-14T15:11:35+00:00",
@@ -10,6 +11,7 @@
   "ai/2026-10-12": "2026-10-13T23:08:27+00:00",
   "ai/2026-10-13": "2026-10-13T23:08:28+00:00",
   "ai/2026-10-14": "2026-10-14T15:11:38+00:00",
+  "dev/2026-09-30": "2026-10-14T20:13:06+00:00",
   "dev/2026-10-01": "2026-10-14T15:11:26+00:00",
   "dev/2026-10-02": "2026-10-14T15:11:27+00:00",
   "dev/2026-10-05": "2026-10-14T15:11:29+00:00",
@@ -27,6 +29,7 @@
   "hardware/2026-10-09": "2026-10-13T23:08:34+00:00",
   "hardware/2026-10-12": "2026-10-13T23:08:35+00:00",
   "hardware/2026-10-14": "2026-10-14T15:11:41+00:00",
+  "tech/2026-09-30": "2026-10-14T20:13:03+00:00",
   "tech/2026-10-01": "2026-10-14T15:11:19+00:00",
   "tech/2026-10-02": "2026-10-14T15:11:20+00:00",
   "tech/2026-10-05": "2026-10-14T15:11:21+00:00",
@@ -5318,6 +5321,466 @@
    "summary_html": "<div class=\"newsletter-html\">Walmart has spent a decade trying to automate about 200 US warehouses.</div>",
    "title": "Walmart's warehouse robots are running into trouble (7 minute read)",
    "url": "https://www.wsj.com/business/logistics/walmart-automation-robots-warehouses-65f016b2?st=ps9bCm&reflink=desktopwebshare_permalink"
+  },
+  {
+   "edition": "tech",
+   "id": "https://openai.com/index/devday-2026-recap",
+   "issue_date": "2026-09-30",
+   "position": 0,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI made more than 20 major announcements across ChatGPT, Codex, its models, and more at DevDay 2026. It introduced agents that can take on ongoing responsibilities and new ways for people and AI to work together. The company also expanded its commitment to an open ecosystem by opening up ChatGPT as a shared surface where humans and agents can collaborate and where developers can directly launch new native experiences. There is now a new Pro 500 plan that offers 25 times the ChatGPT Plus allowance and includes access to Ultrafast.</div>",
+   "title": "DevDay 2026 Recap (5 minute read)",
+   "url": "https://openai.com/index/devday-2026-recap/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.bloomberg.com/news/articles/2026-09-29/apple-s-new-ceo-moves-to-overhaul-company-to-run-faster-and-leaner?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc0MTYxOCwiZXhwIjoxNzkxMzQ2NDE4LCJhcnRpY2xlSWQiOiJUTTMzNUxLSzNOWTgwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.5lodcij15jLhJGnzcHMKP_C6gGbb9bzjQ0jUFovMGm0",
+   "issue_date": "2026-09-30",
+   "position": 1,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">Apple CEO John Ternus is moving to overhaul the company to accelerate product development, broaden its range of devices, and create a leaner organization with a greater focus on engineering. Early ideas under consideration include relying less on traditional spring and fall product release schedules and eliminating some middle-management positions. Ternus has indicated that the company should introduce products more quickly and become more experimental to remain competitive in the AI era. He is seeking new sources of revenue and ways to generate more money from existing products.</div>",
+   "title": "Apple's New CEO Seeks to Make Company Run Faster and Leaner (7 minute read)",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-29/apple-s-new-ceo-moves-to-overhaul-company-to-run-faster-and-leaner?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc0MTYxOCwiZXhwIjoxNzkxMzQ2NDE4LCJhcnRpY2xlSWQiOiJUTTMzNUxLSzNOWTgwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.5lodcij15jLhJGnzcHMKP_C6gGbb9bzjQ0jUFovMGm0"
+  },
+  {
+   "edition": "tech",
+   "id": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers",
+   "issue_date": "2026-09-30",
+   "position": 2,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">SpaceX has made it clear to NASA that it no longer wishes to fly its Crew Dragon spacecraft, or the Falcon 9 rocket, on missions to low-Earth orbit. The company has agreed to support the International Space Station until 2030, but it intends to retire the spacecraft after that. SpaceX has told companies developing private space stations for low-Earth orbit that they cannot order Crew Dragon missions for their habitats. The company has more than fulfilled its contract obligations to NASA, so it is unlikely that the agency can compel SpaceX to keep flying Dragon.</div>",
+   "title": "NASA has a Dragon dilemma, and there appear to be no good answers (7 minute read)",
+   "url": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.ksn.com/news/local/pilotless-plane-flies-over-wichita-putting-the-future-of-aviation-on-display",
+   "issue_date": "2026-09-30",
+   "position": 3,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Joby Aviation recently flew its autonomous aircraft over Wichita. The company has developed a base system that can function in any aircraft. The plane used in the demonstration was a Cessna 208 Caravan that had been retrofitted with Joby's technology. Joby plans to start using the autonomous plane in emergency and cargo transport operations over the next few years, but its end goal is to make it a safe, viable transportation option.</div>",
+   "title": "Pilotless plane flies over Wichita, putting the future of aviation on display (2 minute read)",
+   "url": "https://www.ksn.com/news/local/pilotless-plane-flies-over-wichita-putting-the-future-of-aviation-on-display/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://ma.ttias.be/data-is-the-application",
+   "issue_date": "2026-09-30",
+   "position": 4,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">AI makes it possible to build faster than ever. However, none of that speed applies to the data. Lose the data that users give you, and you have to start all over again. Let agents iterate over the code, but leave the data to humans.</div>",
+   "title": "Data is the application (6 minute read)",
+   "url": "https://ma.ttias.be/data-is-the-application/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://github.com/lemma-work/lemma-platform",
+   "issue_date": "2026-09-30",
+   "position": 5,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">Lemma is an open-source workspace where humans and AI agents work as one team. State is shared and permissioned, so many people and many agents work on the same records. It keeps running between sessions, on schedules, webhooks, and table events, and it improves as teams work with it. Lemma can be run locally or on Lemma Cloud.</div>",
+   "title": "Lemma (GitHub Repo)",
+   "url": "https://github.com/lemma-work/lemma-platform"
+  },
+  {
+   "edition": "tech",
+   "id": "https://weightythoughts.com/p/when-ai-models-hurt-people-the-labs",
+   "issue_date": "2026-09-30",
+   "position": 6,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Tech's red line has always been liability. As a technology matures, society sets more legal regimes, either through explicit regulation or case law. Previous technology waves have shown that industries can survive paying for the harms they cause. One would have to question the societal benefits of an industry if paying for the people it harms or kills is enough to kill the industry.</div>",
+   "title": "When AI Models Hurt People, the Labs Should Pay (18 minute read)",
+   "url": "https://weightythoughts.com/p/when-ai-models-hurt-people-the-labs"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.mbi-deepdives.com/meta-enterprise",
+   "issue_date": "2026-09-30",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Meta has committed tens of gigawatts against a demand forecast for a set of first-party products whose adoption curve likely has a high margin of error. Muse appears to have found at least initial product-market fit as a consumer agent, but it is still a first-party product, and being wrong can be expensive. While the best use of Meta's compute will be its first-party products, an enterprise platform as a 'second' customer makes sense. If Meta underbuilds and can't serve the product it just found product-market fit for, users will drift to competing AI agents/products.</div>",
+   "title": "The Case for Meta Enterprise Platform (11 minute read)",
+   "url": "https://www.mbi-deepdives.com/meta-enterprise/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice",
+   "issue_date": "2026-09-30",
+   "position": 8,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The Firefox 157 update will roll out a redesign of the web browser across desktop and mobile platforms.</div>",
+   "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome (26 minute read)",
+   "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://terrytao.wordpress.com/2026/09/29/how-ai-does-and-does-not-change-the-way-i-do-math",
+   "issue_date": "2026-09-30",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Math research is a tool for drawing people together, and while AI could weaken these social bonds, this is not a given.</div>",
+   "title": "How AI does, and does not, change the way I do math (6 minute read)",
+   "url": "https://terrytao.wordpress.com/2026/09/29/how-ai-does-and-does-not-change-the-way-i-do-math/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.petervijeh.com/projects/reddit-astroturf",
+   "issue_date": "2026-09-30",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Reddit is still mostly humans, but for a couple of brands, a quarter to a third of the buying advice comes from accounts that mostly recommend that brand.</div>",
+   "title": "Does Reddit have an astroturfing problem? What the data suggests (14 minute read)",
+   "url": "https://www.petervijeh.com/projects/reddit-astroturf"
+  },
+  {
+   "edition": "tech",
+   "id": "https://bloomberry.com/blog/whos-buying-chatgpt-ads-i-analyzed-15k-advertisers",
+   "issue_date": "2026-09-30",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI doesn't publish a list of advertisers, but advertisers use a small piece of tracking code that provides a strong signal that a company has set up ChatGPT Ads.</div>",
+   "title": "Who's buying ChatGPT ads? I analyzed 15K advertisers (13 minute read)",
+   "url": "https://bloomberry.com/blog/whos-buying-chatgpt-ads-i-analyzed-15k-advertisers/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html?unlocked_article_code=1.FFE.31LG.ZFHIfN3Ei6mG&smid=url-share",
+   "issue_date": "2026-09-30",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The world's most powerful technology executives signed a voluntary agreement to adopt safety policies that include risk reviews, auditing, and evaluations of systems by third parties, and also to rebrand AI to 'super intelligence'.</div>",
+   "title": "At White House, Trump Asks AI Titans to Police Themselves (10 minute read)",
+   "url": "https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html?unlocked_article_code=1.FFE.31LG.ZFHIfN3Ei6mG&smid=url-share"
+  },
+  {
+   "edition": "tech",
+   "id": "https://9to5google.com/2026/09/17/google-ai-contribution-pilot-tests-paying-websites-when-theyre-used-in-ai-results",
+   "issue_date": "2026-09-30",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Google is testing directly paying websites and publishers when their content is used for AI Overviews and other AI results.</div>",
+   "title": "Google \u2018AI contribution pilot' tests paying websites when they're used in AI results (3 minute read)",
+   "url": "https://9to5google.com/2026/09/17/google-ai-contribution-pilot-tests-paying-websites-when-theyre-used-in-ai-results/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://research.meta.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse",
+   "issue_date": "2026-09-30",
+   "position": 0,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Muse runs in a dedicated cloud VM where the agent operates inside an isolated runtime cell and never sees real credentials. A separate Sentinel controls connector actions and network egress, while host-side services enforce least privilege, approval scopes, and prompt injection defenses. The design assumes the agent can make mistakes or process hostile data, then limits the damage through layered boundaries and a public bug bounty.</div>",
+   "title": "How We Built Safety Into Muse (20 minute read)",
+   "url": "https://research.meta.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse"
+  },
+  {
+   "edition": "dev",
+   "id": "https://railcode.dev/blog/vibe-coded-website",
+   "issue_date": "2026-09-30",
+   "position": 1,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">A vibe-coded website became more distinctive when the work shifted from asking an agent for a polished result to building design taste and giving specific visual direction. The process shows how coding agents can make implementation cheap while increasing the value of references, critique, typography, and deliberate constraints.</div>",
+   "title": "How Our Vibe-Coded Website Looks Like a Designer Made It (10 minute read)",
+   "url": "https://railcode.dev/blog/vibe-coded-website"
+  },
+  {
+   "edition": "dev",
+   "id": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+   "issue_date": "2026-09-30",
+   "position": 2,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">This visual history traces text classification from bag-of-words and recurrent networks through transformers and Jev-style decision APIs. Jev is positioned between narrow specialist classifiers and general-purpose language models, offering broad zero-shot classification with lower latency and cost. The practical opportunity is to use calibrated decision models for routing, screening, evaluation, and other bounded choices inside agent systems.</div>",
+   "title": "Language Models for Text Classification: From Bag-of-Words to Jev (36 minute read)",
+   "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev"
+  },
+  {
+   "edition": "dev",
+   "id": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+   "issue_date": "2026-09-30",
+   "position": 3,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Give Opus 5.5 a complete task, define what done means, and state when it should stop for input. The model already reasons before every reply, so prompts such as \u201cthink carefully\u201d add delay without improving the result. For long coding runs, persistent task files and explicit rules about when to continue help the work survive context compaction and remain steerable.</div>",
+   "title": "Getting the Most Out of Opus 5.5 (9 minute read)",
+   "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://ma.ttias.be/data-is-the-application",
+   "issue_date": "2026-09-30",
+   "position": 4,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Agentic coding makes interfaces and features cheap to revise, but user data remains a one-way door that cannot be recreated after a destructive mistake. Schema design, migrations, backups, privacy, and retention therefore deserve slower decisions, explicit recovery plans, and careful validation even when an agent can generate the code in seconds.</div>",
+   "title": "Data Is the Application (6 minute read)",
+   "url": "https://ma.ttias.be/data-is-the-application/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://sujithjay.com/inventing-work",
+   "issue_date": "2026-09-30",
+   "position": 5,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Platform engineers often need to create their own roadmap by reading signals from systems, users, the organization, and the wider industry. Useful inputs include postmortem patterns, cost centers, user workarounds, migration holdouts, repeated leadership concerns, and ideas that have already matured elsewhere. The goal is to combine strong evidence with leading indicators instead of chasing only the loudest recent problem.</div>",
+   "title": "A Staff Engineer's Guide to Inventing Work (9 minute read)",
+   "url": "https://sujithjay.com/inventing-work"
+  },
+  {
+   "edition": "dev",
+   "id": "https://openai.com/index/introducing-gpt-6-1-sol",
+   "issue_date": "2026-09-30",
+   "position": 6,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">GPT-6.1 Sol targets near-Astra performance on coding, computer use, and professional work at one-fifth of Astra's standard token prices. It improves on GPT-6 Sol by 6.4 percentage points on DeepSWE 1.1 and is priced at $2 per million input tokens and $10 per million output tokens. The model is available in the API, ChatGPT Work, and Codex, with an Ultrafast tier planned.</div>",
+   "title": "GPT-6.1 Sol (Website)",
+   "url": "https://openai.com/index/introducing-gpt-6-1-sol/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://openai.com/index/devday-2026-recap",
+   "issue_date": "2026-09-30",
+   "position": 7,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">DevDay introduced dots, GPT-6.1 Sol, faster inference, cloud Codex environments, a refreshed CLI, code review, and Codex Security Cloud. The developer platform also gained a Decisions API for bounded classifications and an Agents API with computer use, multi-agent orchestration, tool search, and context compaction.</div>",
+   "title": "DevDay 2026 Recap (Website)",
+   "url": "https://openai.com/index/devday-2026-recap/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://dreasays.substack.com/p/claude-55-is-brilliant-confusing",
+   "issue_date": "2026-09-30",
+   "position": 8,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Opus 5.5 leads an independent intelligence index while costing less per token than its predecessor, but Sonnet 5.5 can consume far more output tokens at maximum effort. The practical takeaway is to choose the effort level before choosing the model because it often has a larger effect on speed and total cost, while new cyber safeguards may also redirect or block ordinary work.</div>",
+   "title": "Claude 5.5 Is Brilliant, Confusing, and Very Hungry (11 minute read)",
+   "url": "https://dreasays.substack.com/p/claude-55-is-brilliant-confusing"
+  },
+  {
+   "edition": "dev",
+   "id": "https://newsletter.pragmaticengineer.com/p/the-pulse-a-new-trend-of-cpu-shortages",
+   "issue_date": "2026-09-30",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">AI agents are increasing demand for general-purpose compute because builds, tests, linters, and other tool calls run continuously on cloud CPUs. Spot discounts have largely disappeared, some reservations now require months of lead time, and server delivery has stretched from weeks to roughly six months. Competition for fabrication capacity and memory supply is also pushing prices higher.</div>",
+   "title": "The Pulse: A New Trend of CPU Shortages (8 minute read)",
+   "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-a-new-trend-of-cpu-shortages"
+  },
+  {
+   "edition": "dev",
+   "id": "https://swapniltalekar.substack.com/p/jev-and-the-return-of-the-classifiers",
+   "issue_date": "2026-09-30",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Jev returns typed choices, scores, or yes-or-no probabilities instead of generating prose, making bounded decisions fast and inexpensive. Its \u201czero hallucination\u201d claim means outputs always fit the supplied schema, not that every decision is correct. The more important promise is calibrated confidence that can route uncertain cases to humans or slower reasoning models, though that calibration requires validation on real workloads.</div>",
+   "title": "Jev and the Return of the Classifiers (11 minute read)",
+   "url": "https://swapniltalekar.substack.com/p/jev-and-the-return-of-the-classifiers"
+  },
+  {
+   "edition": "dev",
+   "id": "https://earendil.com/posts/you-said-no-mcp",
+   "issue_date": "2026-09-30",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Pi now supports MCP in its core because codemode can discover and compose structured MCP tools inside a JavaScript sandbox without flooding the model context.</div>",
+   "title": "You Said No MCP! (7 minute read)",
+   "url": "https://earendil.com/posts/you-said-no-mcp/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.vincentschmalbach.com/how-to-make-a-database-migration-backward-compatible",
+   "issue_date": "2026-09-30",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Safe mixed-version deployments use an expand, migrate, contract sequence with dual-format support, restartable backfills, gradual read cutovers, and evidence that every consumer has stopped using the old schema before cleanup.</div>",
+   "title": "How to Make a Database Migration Backward Compatible (10 minute read)",
+   "url": "https://www.vincentschmalbach.com/how-to-make-a-database-migration-backward-compatible/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/ninjahawk/livenerf",
+   "issue_date": "2026-09-30",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">livenerf is a preregistered benchmark that runs a pinned Claude Code harness daily to detect post-launch model capability changes while controlling for harness updates and usage shifts.</div>",
+   "title": "livenerf (GitHub Repo)",
+   "url": "https://github.com/ninjahawk/livenerf"
+  },
+  {
+   "edition": "dev",
+   "id": "https://openai.com/index/introducing-dots",
+   "issue_date": "2026-09-30",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Dots are always-on GPT-6 Astra agents with their own cloud computers, connections to more than 4,000 apps, and access through ChatGPT, Slack, Teams, and voice.</div>",
+   "title": "Introducing Dots (Website)",
+   "url": "https://openai.com/index/introducing-dots/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://about.fb.com/news/2026/09/introducing-muse-small-business",
+   "issue_date": "2026-09-30",
+   "position": 0,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Meta introduced Muse for Small Business, an AI tool to automate tasks for entrepreneurs using Facebook and Instagram analytics, ad accounts, and other tools. The AI can streamline operations and integrates with platforms like Canva for seamless brand management. Muse aims to empower small businesses by saving time and boosting productivity, with free and subscription options available.</div>",
+   "title": "The Future Is for Everyone: Muse for Small Business (3 minute read)",
+   "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://openai.com/index/introducing-dots",
+   "issue_date": "2026-09-30",
+   "position": 1,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI introduces \"Dots,\" AI-driven agents powered by GPT-6 Astra, designed to handle tasks autonomously using their own cloud computer. Dots integrate with over 4,000 apps and platforms like ChatGPT, Slack, and Teams, enabling seamless workflow and personalized assistance. They ensure user control with built-in safety measures, allowing for proactive task management while adapting to user goals and feedback.</div>",
+   "title": "Introducing dots (10 minute read)",
+   "url": "https://openai.com/index/introducing-dots/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://openai.com/index/introducing-gpt-6-1-sol",
+   "issue_date": "2026-09-30",
+   "position": 2,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">GPT-6.1 Sol offers near-Astra intelligence at a fifth of the cost, delivering significant improvements for professional tasks and reducing costs for developers. It excels in coding benchmarks, matches Astra's performance on complex PDF queries, and improves business workflow automation while offering enhanced factual accuracy. Available via OpenAI API and multiple user tiers, it provides cost-effective solutions across tasks with substantial safety and transparency enhancements.</div>",
+   "title": "Introducing GPT-6.1 Sol (6 minute read)",
+   "url": "https://openai.com/index/introducing-gpt-6-1-sol/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.lesswrong.com/posts/jbttuCF4wFZmXakcj/the-world-s-best-gradual-disempowerment-model-organism",
+   "issue_date": "2026-09-30",
+   "position": 3,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">We now have slightly to moderately superhuman, legibly impressive general AIs across many domains. However, we have made relatively little progress on technical alignment or the moral dimensions of building superintelligence. Government regulation has been ad hoc and inconsistent. AI labs plan to use AIs to solve many facets of the alignment problem as there's too much work for humans to check, and the amount and share of unchecked work seems to be growing.</div>",
+   "title": "The world's best gradual disempowerment model organism: Frontier AI labs (32 minute read)",
+   "url": "https://www.lesswrong.com/posts/jbttuCF4wFZmXakcj/the-world-s-best-gradual-disempowerment-model-organism"
+  },
+  {
+   "edition": "ai",
+   "id": "https://tomtunguz.com/anthropic-repriced-the-enterprise",
+   "issue_date": "2026-09-30",
+   "position": 4,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic and OpenAI have boosted their revenue by implementing strategic customer segmentation and pricing changes. Anthropic introduced enterprise metered billing, while OpenAI slashed Luna's price by 80%, bringing its revenue run rate close to $70 billion. Both companies aim to hit $100 billion in revenue by year's end, with major clients like Amazon and Google still undecided on long-term commitments.</div>",
+   "title": "Segmentation Drives Market Share Wins in AI (2 minute read)",
+   "url": "https://tomtunguz.com/anthropic-repriced-the-enterprise/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://threadreaderapp.com/thread/2105003318917697873.html",
+   "issue_date": "2026-09-30",
+   "position": 5,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI's Decisions API, powered by GPT-6 Luna, is now available in limited preview. Users define questions and possible answers, and the model classifies content, routes requests, or chooses an agent's next action. Text and images can be used as context. Preview access is limited to selected API customers for testing. A broad release is planned in the coming days.</div>",
+   "title": "Decisions API (1 minute read)",
+   "url": "https://threadreaderapp.com/thread/2105003318917697873.html"
+  },
+  {
+   "edition": "ai",
+   "id": "https://help.openai.com/en/articles/20001410-sign-in-with-chatgpt",
+   "issue_date": "2026-09-30",
+   "position": 6,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Sign in with ChatGPT lets people use their ChatGPT identity to access supported external applications. It can be used to sign in on a participating partner site or when connecting an app from the ChatGPT plugin directory. Sign in with ChatGPT is available globally to authenticated ChatGPT users. Initial participating partners include Airtable, GitLab, HubSpot, Notion, Supabase, and Vercel.</div>",
+   "title": "Sign in with ChatGPT (6 minute read)",
+   "url": "https://help.openai.com/en/articles/20001410-sign-in-with-chatgpt"
+  },
+  {
+   "edition": "ai",
+   "id": "https://developers.openai.com/plugins/build/mcp-events",
+   "issue_date": "2026-09-30",
+   "position": 7,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">MCP Events lets ChatGPT subscribe to updates from an MCP server. Users choose what to monitor and what ChatGPT should do when an update arrives. ChatGPT supports webhook delivery and callback verification from the draft MCP Events specification. Polling, streaming, and the draft's `gap` and `terminated` control notifications are not supported.</div>",
+   "title": "MCP Events (14 minute read)",
+   "url": "https://developers.openai.com/plugins/build/mcp-events"
+  },
+  {
+   "edition": "ai",
+   "id": "https://threadreaderapp.com/thread/2105003472332693869.html",
+   "issue_date": "2026-09-30",
+   "position": 8,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">d1 is a decision model that outperforms Jev on Hugging Face's Decision Index. It is built for fast, structured decision-making in software environments. Decision models are a good fit when the answer is a structured decision, such as in classification, categorization, routing, scoring, or content moderation. d1 is available on the Liquid API and will be available on OpenRouter soon.</div>",
+   "title": "d1 (2 minute read)",
+   "url": "https://threadreaderapp.com/thread/2105003472332693869.html"
+  },
+  {
+   "edition": "ai",
+   "id": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+   "issue_date": "2026-09-30",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI is in talks with investors to raise at least $30 billion in a funding round at a valuation of roughly $1.4 trillion. The company previously raised $122 billion in March in what was supposed to be the last private raise before an IPO. OpenAI has now ruled out a public debut in 2026 due to AI safety issues. The new fundraising will serve as a bridge round to the IPO.</div>",
+   "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation (1 minute read)",
+   "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://x.com/zachlloydtweets/status/2104957956794057068",
+   "issue_date": "2026-09-30",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Software factories shift engineers from coding locally toward supervising cloud agents and improving the systems that produce software. Warp expects engineers to own product quality while reducing human touches per PR through measurement, automation, and factory optimization.</div>",
+   "title": "Adapting for a world of software factories (8 minute read)",
+   "url": "https://x.com/zachlloydtweets/status/2104957956794057068"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.baseten.co/blog/baseten-openai-partnership",
+   "issue_date": "2026-09-30",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Baseten is partnering with OpenAI to serve open models natively via Codex and the Responses API.</div>",
+   "title": "Announcing our partnership with OpenAI (4 minute read)",
+   "url": "https://www.baseten.co/blog/baseten-openai-partnership/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.fig.inc/blog/astra-opus-5-5-and-other-frontier-models-demonstrate-jagged-performance-across-sota-agentic-tasks-from-web-browsing-to-robotics",
+   "issue_date": "2026-09-30",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">There is no clear performance leader and high variance in model-task fit on web tasks.</div>",
+   "title": "Astra, Opus 5.5, and other Frontier Models Demonstrate Jagged Performance Across SoTA Agentic Tasks from Web Browsing to Robotics (32 minute read)",
+   "url": "https://www.fig.inc/blog/astra-opus-5-5-and-other-frontier-models-demonstrate-jagged-performance-across-sota-agentic-tasks-from-web-browsing-to-robotics/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://docs.cohere.com/changelog/embed-v5",
+   "issue_date": "2026-09-30",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Embed 5 has major gains over Embed 4 on visually rich documents, financial filings, parsed PDFs, code, and multilingual retrieval.</div>",
+   "title": "Announcing Cohere's Embed 5 Models (2 minute read)",
+   "url": "https://docs.cohere.com/changelog/embed-v5"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "issue_date": "2026-09-30",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic's testing found that attackers can bypass GLM-5.3's safeguards between 64% and 100% of the time with simple techniques.</div>",
+   "title": "GLM-5.3 and the spread of advanced cyber capabilities (14 minute read)",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"
+  },
+  {
+   "edition": "ai",
+   "id": "https://devin.ai/blog/more-efficient-devin",
+   "issue_date": "2026-09-30",
+   "position": 15,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Devin is now 30% to 40% cheaper in Fusion and Normal mode, 15% to 20% cheaper in Ultra, and up to 70% cheaper in Devin Review.</div>",
+   "title": "Devin is now up to 40% more cost-efficient (3 minute read)",
+   "url": "https://devin.ai/blog/more-efficient-devin"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.perplexity.ai/hub/blog/how-we-engineer-safer-agents",
+   "issue_date": "2026-09-30",
+   "position": 16,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">AI agents pose security risks as they may inadvertently cross security boundaries while pursuing legitimate goals.</div>",
+   "title": "How we engineer safer agents (14 minute read)",
+   "url": "https://www.perplexity.ai/hub/blog/how-we-engineer-safer-agents"
   }
  ]
 }
