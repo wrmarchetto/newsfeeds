@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/hardware.xml</id>
   <title>TLDR Hardware</title>
-  <updated>2026-10-12T11:00:00+00:00</updated>
+  <updated>2026-10-14T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,136 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://newsroom.amd.com/news/open-rack-blueprint-scale-agentic-ai</id>
+    <title>Introducing AMD Helion, Agentic AI Compute at Rack Scale (10 minute read)</title>
+    <updated>2026-10-14T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AMD's Helion agentic AI rack is designed for flexible AI infrastructure that caters to hyperscale deployments and enterprise needs. It supports a range of configurations, including CPU-only and GPU-integrated systems, aligning with diverse AI workloads. Helion, part of an upcoming open blueprint by AMD for OCP, is set for release in November.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-14"&gt;TLDR Hardware · 2026-10-14 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://newsroom.amd.com/news/open-rack-blueprint-scale-agentic-ai/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-14T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments</id>
+    <title>Microsoft takes Maia to multi-gigawatt scale, making it the default inference chip for its own products (4 minute read)</title>
+    <updated>2026-10-14T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Starting in 2027, Microsoft will deploy Maia at multi-gigawatt scale and make it the main inference system for its products. The next-generation Maia 300 uses compute chiplets on TSMC's N2P process and targets long-context, multi-step agent workloads. Digitimes reports that the supply chain is already preparing for a surge in server builds in 2027.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-14"&gt;TLDR Hardware · 2026-10-14 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-14T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://kernelspace.substack.com/p/building-a-gpu-compiler-from-scratch</id>
+    <title>Building a GPU compiler from scratch, from PyTorch to CUDA (10 minute read)</title>
+    <updated>2026-10-14T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This deep dive uses the Emmy compiler framework to follow PyTorch operations down to CUDA one lowering stage at a time: Tensor IR, Loop IR, Tile IR, Kernel IR, and finally emitted code. It uses RMSNorm and matrix multiplication as worked examples. It also covers operator fusion, schedule selection, and online attention rewrites, so readers can see what Triton-style stacks do under the hood.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-14"&gt;TLDR Hardware · 2026-10-14 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://kernelspace.substack.com/p/building-a-gpu-compiler-from-scratch"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-10-14T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.pi.website/blog/api-beta</id>
+    <title>Physical Intelligence opens a beta API to fine-tune and host π robot models (3 minute read)</title>
+    <updated>2026-10-14T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Physical Intelligence opened a beta API for its π robotics foundation models: upload demonstrations, fine-tune on Pi-managed compute, and run the result on your own robot through a hosted inference gateway. Early partners spanned hardware from Actor's autonomous wheel loader, running a commercial deployment with no operator onboard, to Almond's dual-arm Axol, which learned to deburr its own spacers in four days. Since most ran cloud-hosted inference, network connectivity was a pain point for some.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-14"&gt;TLDR Hardware · 2026-10-14 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.pi.website/blog/api-beta"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-10-14T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arxiv.org/abs/2610.12970</id>
+    <title>Apple's Minions pools idle Macs into a virtual GPU cloud (10 minute read)</title>
+    <updated>2026-10-14T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Apple Silicon Macs have powerful GPUs that sit mostly idle in normal use. Minions combines them across machines into a virtual GPU cloud for large ML inference jobs, with fault tolerance and flexible task scheduling. The pitch is that teams can use hardware they already own instead of waiting for expensive, centralized GPU capacity.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-14"&gt;TLDR Hardware · 2026-10-14 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arxiv.org/abs/2610.12970"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-10-14T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/research/self-replicating-ai</id>
+    <title>Anthropic runs a 26B model across 15 $55 TV boxes to test IoT self-replication (5 minute read)</title>
+    <updated>2026-10-14T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic's Frontier Red Team ran Gemma4-26B-A4B across 15 off-brand Android TV boxes with 4GB of RAM each, using pipeline parallelism at 0.39 tokens per second, to test whether small models could replicate across cheap IoT hardware. A 9B model got inference running on 8 of 9 hardware types tested, and a Kimwolf-sized botnet would total only about 40 H100s of compute. By their trend line, small models reach the needed capability in simplified tests by year-end.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-14"&gt;TLDR Hardware · 2026-10-14 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/research/self-replicating-ai"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-10-14T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/features/2026-ai-data-center-build-costs</id>
+    <title>What a 1GW AI data center costs: about $30B, and $17B of it is chips (10 minute read)</title>
+    <updated>2026-10-14T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;An Abilene-scale build requires roughly $17B for chips and servers, $3B for power, and only $2.4B for construction. Transformers, generators, and cooling equipment face long lead times and rising prices.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-14"&gt;TLDR Hardware · 2026-10-14 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/features/2026-ai-data-center-build-costs/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-14T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories</id>
+    <title>Apple Home Collection brings LG and Schneider cameras, a lock, and thermostats to Apple Home (3 minute read)</title>
+    <updated>2026-10-14T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Apple's Home Collection, built with LG and Schneider Electric, covers cameras, thermostats, sensors, a doorbell, and a deadbolt. LG's lock uses Ultra Wideband to unlock as you approach and works locally over Matter and Aliro, while its indoor cam physically tilts away when someone's home. Every device supports Thread, and cameras keep recording to built-in storage if Wi-Fi drops. Prices run $199.95 to $399.95, with availability starting in December.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-14"&gt;TLDR Hardware · 2026-10-14 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-14T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.servethehome.com/intels-crescent-island-ai-server-gpu-gets-a-name-and-specs-meet-the-intel-gpu-d-series</id>
+    <title>Intel names Crescent Island the GPU D-Series, with 1.3 PFLOPS of FP8 and up to 480GB of LPDDR5X (3 minute read)</title>
+    <updated>2026-10-14T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Crescent Island, Intel's data center inference GPU, will be sold as the GPU D-Series.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-14"&gt;TLDR Hardware · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.servethehome.com/intels-crescent-island-ai-server-gpu-gets-a-name-and-specs-meet-the-intel-gpu-d-series"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-14T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks</id>
+    <title>How Meta builds AI networks: IcePack, Tahan and open-source MetaRoCE (7 minute read)</title>
+    <updated>2026-10-14T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;At OCP, Meta showed IcePack, a 102.4T liquid-cooled network rack, along with its IceCube switch platform.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-14"&gt;TLDR Hardware · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-14T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.thelec.net/news/articleView.html?idxno=14536&amp;amp%3Butm_source=tldrhardware</id>
+    <title>SK Hynix's H-TPU spreads SSD controller work across more than 100 tiny in-house cores (3 minute read)</title>
+    <updated>2026-10-14T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Each core runs a 4-stage pipeline and replaces work done by general-purpose CPUs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-14"&gt;TLDR Hardware · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.thelec.net/news/articleView.html?idxno=14536&amp;amp%3Butm_source=tldrhardware"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-14T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://linuxiac.com/pebble-round-2-open-source-smartwatch-finally-starts-shipping</id>
+    <title>Pebble Round 2 starts shipping (2 minute read)</title>
+    <updated>2026-10-14T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The $199 watch has a color e-paper display, runs open-source PebbleOS, and lasts about 8 days per charge.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-14"&gt;TLDR Hardware · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://linuxiac.com/pebble-round-2-open-source-smartwatch-finally-starts-shipping"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-14T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wsj.com/business/logistics/walmart-automation-robots-warehouses-65f016b2?st=ps9bCm&amp;reflink=desktopwebshare_permalink</id>
+    <title>Walmart's warehouse robots are running into trouble (7 minute read)</title>
+    <updated>2026-10-14T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Walmart has spent a decade trying to automate about 200 US warehouses.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-14"&gt;TLDR Hardware · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/business/logistics/walmart-automation-robots-warehouses-65f016b2?st=ps9bCm&amp;reflink=desktopwebshare_permalink"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-14T10:59:48+00:00</published>
+  </entry>
   <entry>
     <id>https://oxide.computer/blog/our-445m-series-d</id>
     <title>Oxide Computer Company Secures $445M Series D Funding Round (3 minute read)</title>
@@ -559,5 +689,125 @@
     <category term="TLDR Hardware"/>
     <category term="Quick Links"/>
     <published>2026-10-02T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks</id>
+    <title>Starship Reaches Orbit for the First Time on Flight 14, Deploys 26 Next-Gen Starlink Satellites (4 minute read)</title>
+    <updated>2026-09-30T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Starship's 14th test flight reached orbit for the first time on Monday, despite one engine shutting down unexpectedly mid-flight, deploying 26 next-generation Starlink V3 satellites one by one from a Pez-dispenser-style mechanism at roughly 269km altitude before the mission ended early. Each Starship can now carry about 60 Starlink V3 satellites, roughly 20 times the capacity of a Falcon 9 launch, and the new satellites offer around 10x the downlink and 22x the uplink capacity of the previous V2 generation, capability SpaceX needs to support Musk's stated goal of Starlink eventually carrying a majority of the world's internet traffic.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-09-30"&gt;TLDR Hardware · 2026-09-30 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-09-30T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring</id>
+    <title>Nvidia Puts Agent Monitoring Directly on the BlueField-4 DPU, Off the Host an Agent Could Compromise (5 minute read)</title>
+    <updated>2026-09-30T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Nvidia's Open Agent Safety Platform pairs OpenShell, a sandboxed runtime running on its Vera CPU, with Sentry, a monitoring layer that runs in silicon on the BlueField-4 DPU rather than on the same host as the agent it's watching. The architectural bet is physical separation as a security property: in a Vera Rubin POD, each compute tray's BlueField-4 sits on the node's only path to the model, meaning every agent "thought" has to pass through that chip, giving it both the best observation point and a hardware kill switch, isolated from the host and beyond the agent's own reach even if the host itself gets compromised.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-09-30"&gt;TLDR Hardware · 2026-09-30 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-09-30T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.verdict.co.uk/vsmc-inaugurates300mm-fab-singapore</id>
+    <title>VSMC Opens First 300mm Fab in Singapore, VIS-NXP Joint Venture Hits 99%+ Yields (2 minute read)</title>
+    <updated>2026-09-30T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;VisionPower Semiconductor Manufacturing Company, a joint venture between Vanguard International Semiconductor and NXP, opened its first 300mm wafer fab in Tampines, Singapore, completed in just 22 months and now in risk production after its first sample lot cleared yields above 99%. The fab targets mature nodes between 130nm and 40nm for power management, mixed-signal, analog, and interposer chips serving automotive, industrial, consumer, mobile, and HPC customers, with volume manufacturing starting Q1 2027 and full capacity, roughly 44,000 wafers a month and 1,600 jobs, targeted by 2029.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-09-30"&gt;TLDR Hardware · 2026-09-30 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.verdict.co.uk/vsmc-inaugurates300mm-fab-singapore/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-09-30T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://futurism.com/advanced-transport/tesla-cant-get-hands-work-optimus-robot</id>
+    <title>Tesla's Optimus Hands Still Aren't Reliable Enough for Mass Production, Report Says (3 minute read)</title>
+    <updated>2026-09-30T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Tesla ramped Optimus production from a few dozen units in Q2 to several hundred a week last month, but the company is hitting real engineering roadblocks on the path to its 20,000-units-a-week target for year-end. Most units built so far aren't shipping to customers at all, instead staying in-house for testing and data collection, and are still confined to simple, repetitive tasks rather than functioning as general-purpose machines. The core problem is durability and reliable assembly of the hands, a struggle Tesla has reportedly wrestled with for over a year, and rather than relying on touch sensors built directly into the hand itself, the company is now developing a hot-swappable "sensing glove" as a workaround.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-09-30"&gt;TLDR Hardware · 2026-09-30 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://futurism.com/advanced-transport/tesla-cant-get-hands-work-optimus-robot"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-09-30T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://nodl.readthedocs.io/en/latest</id>
+    <title>New ROS 2 Node Definition Language Framework (1 minute read)</title>
+    <updated>2026-09-30T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Announced at ROSCon Global 2026 in Toronto, the NODL framework provides a metadata language to formally describe the ROS interface of a robotic node, including its topics, parameters, services, and actions. It allows developer tools to validate configuration layouts, auto-generate boilerplate code, and create automated testing setups directly from declarative node specifications. For anyone designing embedded control software or complex sensor integrations, this tool offers a standardized way to ensure subsystem nodes communicate reliably without manual, error-prone integration checks.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-09-30"&gt;TLDR Hardware · 2026-09-30 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://nodl.readthedocs.io/en/latest/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-09-30T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.worldlabs.ai/blog/amd-announcement</id>
+    <title>AMD Acquires World Labs (3 minute read)</title>
+    <updated>2026-09-30T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AMD has agreed to acquire World Labs, a startup specializing in spatial intelligence and deep learning models designed to understand the physical three-dimensional world. This merger aims to build an open, end-to-end AI ecosystem by combining frontier physical intelligence research directly with high-performance silicon development. This acquisition is exceptionally relevant to those building physical machines because it bridges the gap between hardware acceleration and the spatial awareness foundation models required for next-generation robotic manipulation and navigation.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-09-30"&gt;TLDR Hardware · 2026-09-30 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.worldlabs.ai/blog/amd-announcement"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-09-30T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vastdata.com/press-releases/vast-data-introduces-dataenclave-to-bring-leading-ai-models-and-enterprise-data-together-on-trusted-infrastructure</id>
+    <title>VAST Data's DataEnclave Uses Nvidia Confidential Computing to Run AI Models Directly Inside Locked-Down Data (5 minute read)</title>
+    <updated>2026-09-30T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;VAST Data unveiled DataEnclave, a confidential AI runtime built on NVIDIA Confidential Computing, aimed at industries like finance, healthcare, and government where sensitive data can't leave tightly controlled environments and outside AI models normally can't reach it. The system creates hardware-isolated secure enclaves using CPU and GPU trusted execution environments, requiring cryptographic attestation that verifies the environment and its enforced policy before any decryption key is released, so proprietary model weights and sensitive customer data get decrypted only inside a verified enclave and stay encrypted in both CPU and GPU memory while processing, invisible even to the infrastructure operator running the hardware.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-09-30"&gt;TLDR Hardware · 2026-09-30 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.vastdata.com/press-releases/vast-data-introduces-dataenclave-to-bring-leading-ai-models-and-enterprise-data-together-on-trusted-infrastructure"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-09-30T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://semiengineering.com/tsmc-oip-chip-industry-growth-blows-past-forecast</id>
+    <title>TSMC's 2024 $1T-by-2030 Forecast Was Already $700B Too Low (5 minute read)</title>
+    <updated>2026-09-30T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;At TSMC's OIP North America symposium, VP Sajiv Dalal now projects the semiconductor industry hitting roughly $1.7 trillion by year-end, with AI alone crossing $1 trillion, dwarfing TSMC's own "aggressive" 2024 forecast of $1 trillion for the whole industry by 2030. TSMC's revenue is up 53.3% year-over-year through August, and new tape-outs have quadrupled across the N5, N3, and N2 nodes, with N2 seeing an especially sharp acceleration in new chip designs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-09-30"&gt;TLDR Hardware · 2026-09-30 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://semiengineering.com/tsmc-oip-chip-industry-growth-blows-past-forecast"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-09-30T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/clearpathrobotics/roscon2026-mastering-the-jazzy-rmw</id>
+    <title>Mastering the ROS RMW Workshop (2 minute read)</title>
+    <updated>2026-09-30T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This repository contains the training materials, benchmarks, and hands-on exercises for a technical workshop focused on tuning ROS 2 middleware performance.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-09-30"&gt;TLDR Hardware · 2026-09-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/clearpathrobotics/roscon2026-mastering-the-jazzy-rmw"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-09-30T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.thelec.net/news/articleView.html?idxno=14230&amp;amp%3Butm_source=tldrhardware</id>
+    <title>Samsung Electro-Mechanics Invests 6.78 Trillion Won in AI Chip Package Substrates (3 minute read)</title>
+    <updated>2026-09-30T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Samsung Electro-Mechanics is investing a combined 6.78 trillion won ($4.9 billion) to expand FC-BGA substrate production, 4.27 trillion won for a new plant at its Sejong site, and 2.51 trillion won for its Vietnam subsidiary, marking the company's largest-ever investment in a single product.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-09-30"&gt;TLDR Hardware · 2026-09-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.thelec.net/news/articleView.html?idxno=14230&amp;amp%3Butm_source=tldrhardware"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-09-30T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.adafruit.com/2026/09/28/the-cern-vhdl-common-library-released-for-everyone-to-use</id>
+    <title>CERN Releases "colibri," a Vendor-Independent VHDL Common Library for FPGAs (3 minute read)</title>
+    <updated>2026-09-30T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;CERN's EP department released colibri, a VHDL common library built up over four years after gateware designers found themselves relying on homebrew tools scattered across FPGAs from multiple vendors.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-09-30"&gt;TLDR Hardware · 2026-09-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.adafruit.com/2026/09/28/the-cern-vhdl-common-library-released-for-everyone-to-use"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-09-30T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://osralliance.org/2026/09/osra-member-red-hats-red-hat-enterprise-linux-is-now-a-supported-platform-for-ros</id>
+    <title>Enterprise Red Hat Linux Support for ROS 2 (3 minute read)</title>
+    <updated>2026-09-30T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Red Hat Enterprise Linux has officially achieved Tier 1 support status in the Robot Operating System 2 development ecosystem, beginning with the Rolling Ridley release.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-09-30"&gt;TLDR Hardware · 2026-09-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://osralliance.org/2026/09/osra-member-red-hats-red-hat-enterprise-linux-is-now-a-supported-platform-for-ros/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-09-30T10:59:49+00:00</published>
   </entry>
 </feed>
