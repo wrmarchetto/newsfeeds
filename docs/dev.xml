@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-10-14T11:00:00+00:00</updated>
+  <updated>2026-10-15T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,166 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.langchain.com/blog/common-questions-about-agent-evals</id>
+    <title>The Most Common Questions About Agent Evals, Answered (8 minute read)</title>
+    <updated>2026-10-15T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Agent evals score runs against desired behaviors, but exact-output tests often fail because agent outputs and paths vary. The guide recommends starting with 10 to 20 examples drawn from traces, combining code evaluators with LLM judges and human review, and using offline and online evals at different stages.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-15"&gt;TLDR Dev · 2026-10-15 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.langchain.com/blog/common-questions-about-agent-evals"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-15T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://calibreapp.com/blog/native-lazy-loading</id>
+    <title>Lazy Loading Images and Media: How Far Ahead Browsers Fetch (6 minute read)</title>
+    <updated>2026-10-15T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Browsers fetch lazy-loaded media at different distances, with Chrome adjusting its margin based on connection speed, Firefox using a fixed 600-pixel threshold, and Safari applying a viewport-based threshold to images. The article explains why the largest contentful paint image should load eagerly and why media dimensions should be reserved to prevent layout shifts. Its practical takeaway is to use native lazy loading selectively, based on how far ahead each browser fetches.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-15"&gt;TLDR Dev · 2026-10-15 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://calibreapp.com/blog/native-lazy-loading"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-15T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers</id>
+    <title>From 2,500 requests to 24: Rebuilding star history without the stargazers (7 minute read)</title>
+    <updated>2026-10-15T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;GitHub rebuilt its star-history API to return up to 30 weeks of daily counts in one request. Maintainers can track a project's momentum without exposing stargazer identities, which could be scraped for spam or phishing. To avoid simply shifting the cost to count queries, the endpoint filters stars by time before counting, reducing database work.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-15"&gt;TLDR Dev · 2026-10-15 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-15T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://mattrothenberg.com/notes/pure-ui-agentic-era</id>
+    <title>Pure UI in the Agentic Era (6 minute read)</title>
+    <updated>2026-10-15T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The article revisits the idea that UI should be a pure function of state and explains why it matters for agent-written interfaces. Passing roles, plans, billing status, and feature flags explicitly lets teams render and inspect each state combination before release.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-15"&gt;TLDR Dev · 2026-10-15 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://mattrothenberg.com/notes/pure-ui-agentic-era/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-10-15T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://scotthelme.co.uk/passkeys-are-not-a-trap</id>
+    <title>Passkeys Are Not a Trap (4 minute read)</title>
+    <updated>2026-10-15T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Synced consumer passkeys generally return no attestation, and WebAuthn attestation identifies an authenticator model rather than a user's operating system, browser, or firmware. The response argues that passkeys remain more phishing-resistant than TOTP and recommends continuing to use them.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-15"&gt;TLDR Dev · 2026-10-15 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://scotthelme.co.uk/passkeys-are-not-a-trap/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-10-15T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.ai/news/grok-voice-3</id>
+    <title>Introducing Grok Voice 3.0 (5 minute read)</title>
+    <updated>2026-10-15T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Grok Voice 3.0 is a speech-to-speech model available through xAI's API at the prior model's price, with subsecond latency. xAI cites independent benchmark scores including 86.9 on Artificial Analysis's Speech-to-Speech Index and 74% on ServiceNow's EVA-Bench.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-15"&gt;TLDR Dev · 2026-10-15 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.ai/news/grok-voice-3"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-15T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://anoma.ly/notes/opencode-2-0</id>
+    <title>OpenCode 2.0 (7 minute read)</title>
+    <updated>2026-10-15T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenCode 2.0 recasts the coding agent around a shared local service, a redesigned API and SDK, and a JavaScript code mode that composes MCP and OpenAPI tools into scripts. It also adds background tasks and subagents, expands the plugin system, and includes breaking changes for 1.0 plugins and the server API.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-15"&gt;TLDR Dev · 2026-10-15 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://anoma.ly/notes/opencode-2-0/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-15T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://typesafe.ai/blog/jev-1-14</id>
+    <title>Jev: For the builders AND dreamers (4 minute read)</title>
+    <updated>2026-10-15T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Jev 1.14 improves the production model and introduces experimental image input, a new type, and longer context behind API “danger zone” flags. TypeSafe describes those features as useful for exploration but too unreliable for production automation.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-15"&gt;TLDR Dev · 2026-10-15 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://typesafe.ai/blog/jev-1-14"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-15T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://thenewstack.io/rogue-ai-agent-fleet-tencent</id>
+    <title>Researchers left a hidden message for rogue AI agents. Then the agents wrote back. (4 minute read)</title>
+    <updated>2026-10-15T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Researchers studying AI agents probing Alibaba's Amap left a hidden message in a webhook inbox and received replies describing the agents' tasks, sandbox, and limits. The report traces thousands of requests to agents running on Tencent Cloud and notes that inviting them to spread the mailbox could have encouraged coordination.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-15"&gt;TLDR Dev · 2026-10-15 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://thenewstack.io/rogue-ai-agent-fleet-tencent/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-15T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d</id>
+    <title>Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)</title>
+    <updated>2026-10-15T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. &lt;a href="https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d" rel="noopener noreferrer" target="_blank"&gt;Click here to learn more&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-15"&gt;TLDR Dev · 2026-10-15 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-15T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://cassidoo.co/post/accessibility-and-the-internet</id>
+    <title>Accessibility and the new model of the internet (3 minute read)</title>
+    <updated>2026-10-15T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI agents are giving teams a practical reason to improve accessibility because they can struggle with the same inaccessible interfaces as people. With automated bots accounting for more than half of observed internet traffic, the shift could also push sites toward simpler experiences and stronger open standards.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-15"&gt;TLDR Dev · 2026-10-15 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://cassidoo.co/post/accessibility-and-the-internet/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-15T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://metr.org/blog/2026-10-14-better-informing-the-public-about-loss-of-control-risks</id>
+    <title>A proposal for better informing the public about loss-of-control risks from frontier AI development (5 minute read)</title>
+    <updated>2026-10-15T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;METR proposes independent assessments that would give the public evidence about whether frontier AI developers can detect and control harmful behavior in internal systems. Its framework focuses on alignment, containment, and whether AI research acceleration could outpace safeguards.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-15"&gt;TLDR Dev · 2026-10-15 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://metr.org/blog/2026-10-14-better-informing-the-public-about-loss-of-control-risks/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-15T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://epoch.ai/publications/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel</id>
+    <title>AI systems are improving rapidly at Slay the Spire and its sequel (8 minute read)</title>
+    <updated>2026-10-15T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Epoch's SpireClimb benchmark finds that frontier models went from rarely beating Slay the Spire to over 90% wins at base difficulty in six months.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-15"&gt;TLDR Dev · 2026-10-15 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://epoch.ai/publications/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-15T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1&amp;amp%3Butm_source=tldrdev</id>
+    <title>Has AI tells (2 minute read)</title>
+    <updated>2026-10-15T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Consensus adds a low-cost 0-to-100 estimate of AI-writing signals to indexed articles and warns that its checks can produce false positives.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-15"&gt;TLDR Dev · 2026-10-15 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1&amp;amp%3Butm_source=tldrdev"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-15T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.screen-ruler.com/</id>
+    <title>Screen Ruler (Website)</title>
+    <updated>2026-10-15T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Screen Ruler provides browser-based tools for measuring layouts, inspecting CSS, previewing responsive viewports, and editing pages live.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-15"&gt;TLDR Dev · 2026-10-15 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.screen-ruler.com/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-15T10:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html</id>
+    <title>Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter (4 minute read)</title>
+    <updated>2026-10-15T10:59:45+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic told investors that third-quarter revenue rose 45% to $16.8 billion and that it was profitable after adjustments, as the company prepares for a possible IPO.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-15"&gt;TLDR Dev · 2026-10-15 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-15T10:59:45+00:00</published>
+  </entry>
   <entry>
     <id>https://blog.cloudflare.com/rewinding-the-exponential</id>
     <title>Rewinding the Exponential: How We Keep Hardware Usage Down (12 minute read)</title>
@@ -1469,155 +1629,5 @@
     <category term="TLDR Dev"/>
     <category term="Quick Links"/>
     <published>2026-10-01T10:59:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://research.meta.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse</id>
-    <title>How We Built Safety Into Muse (20 minute read)</title>
-    <updated>2026-09-30T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Muse runs in a dedicated cloud VM where the agent operates inside an isolated runtime cell and never sees real credentials. A separate Sentinel controls connector actions and network egress, while host-side services enforce least privilege, approval scopes, and prompt injection defenses. The design assumes the agent can make mistakes or process hostile data, then limits the damage through layered boundaries and a public bug bounty.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-09-30"&gt;TLDR Dev · 2026-09-30 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://research.meta.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-09-30T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://railcode.dev/blog/vibe-coded-website</id>
-    <title>How Our Vibe-Coded Website Looks Like a Designer Made It (10 minute read)</title>
-    <updated>2026-09-30T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A vibe-coded website became more distinctive when the work shifted from asking an agent for a polished result to building design taste and giving specific visual direction. The process shows how coding agents can make implementation cheap while increasing the value of references, critique, typography, and deliberate constraints.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-09-30"&gt;TLDR Dev · 2026-09-30 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://railcode.dev/blog/vibe-coded-website"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-09-30T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://magazine.sebastianraschka.com/p/classifier-history-and-jev</id>
-    <title>Language Models for Text Classification: From Bag-of-Words to Jev (36 minute read)</title>
-    <updated>2026-09-30T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;This visual history traces text classification from bag-of-words and recurrent networks through transformers and Jev-style decision APIs. Jev is positioned between narrow specialist classifiers and general-purpose language models, offering broad zero-shot classification with lower latency and cost. The practical opportunity is to use calibrated decision models for routing, screening, evaluation, and other bounded choices inside agent systems.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-09-30"&gt;TLDR Dev · 2026-09-30 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://magazine.sebastianraschka.com/p/classifier-history-and-jev"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-09-30T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.dev/blog/getting-the-most-out-of-opus-5-5</id>
-    <title>Getting the Most Out of Opus 5.5 (9 minute read)</title>
-    <updated>2026-09-30T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Give Opus 5.5 a complete task, define what done means, and state when it should stop for input. The model already reasons before every reply, so prompts such as “think carefully” add delay without improving the result. For long coding runs, persistent task files and explicit rules about when to continue help the work survive context compaction and remain steerable.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-09-30"&gt;TLDR Dev · 2026-09-30 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://claude.dev/blog/getting-the-most-out-of-opus-5-5/"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-09-30T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://ma.ttias.be/data-is-the-application</id>
-    <title>Data Is the Application (6 minute read)</title>
-    <updated>2026-09-30T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Agentic coding makes interfaces and features cheap to revise, but user data remains a one-way door that cannot be recreated after a destructive mistake. Schema design, migrations, backups, privacy, and retention therefore deserve slower decisions, explicit recovery plans, and careful validation even when an agent can generate the code in seconds.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-09-30"&gt;TLDR Dev · 2026-09-30 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://ma.ttias.be/data-is-the-application/"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-09-30T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://sujithjay.com/inventing-work</id>
-    <title>A Staff Engineer's Guide to Inventing Work (9 minute read)</title>
-    <updated>2026-09-30T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Platform engineers often need to create their own roadmap by reading signals from systems, users, the organization, and the wider industry. Useful inputs include postmortem patterns, cost centers, user workarounds, migration holdouts, repeated leadership concerns, and ideas that have already matured elsewhere. The goal is to combine strong evidence with leading indicators instead of chasing only the loudest recent problem.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-09-30"&gt;TLDR Dev · 2026-09-30 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://sujithjay.com/inventing-work"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-09-30T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/introducing-gpt-6-1-sol</id>
-    <title>GPT-6.1 Sol (Website)</title>
-    <updated>2026-09-30T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;GPT-6.1 Sol targets near-Astra performance on coding, computer use, and professional work at one-fifth of Astra's standard token prices. It improves on GPT-6 Sol by 6.4 percentage points on DeepSWE 1.1 and is priced at $2 per million input tokens and $10 per million output tokens. The model is available in the API, ChatGPT Work, and Codex, with an Ultrafast tier planned.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-09-30"&gt;TLDR Dev · 2026-09-30 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://openai.com/index/introducing-gpt-6-1-sol/"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-09-30T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/devday-2026-recap</id>
-    <title>DevDay 2026 Recap (Website)</title>
-    <updated>2026-09-30T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;DevDay introduced dots, GPT-6.1 Sol, faster inference, cloud Codex environments, a refreshed CLI, code review, and Codex Security Cloud. The developer platform also gained a Decisions API for bounded classifications and an Agents API with computer use, multi-agent orchestration, tool search, and context compaction.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-09-30"&gt;TLDR Dev · 2026-09-30 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://openai.com/index/devday-2026-recap/"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-09-30T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dreasays.substack.com/p/claude-55-is-brilliant-confusing</id>
-    <title>Claude 5.5 Is Brilliant, Confusing, and Very Hungry (11 minute read)</title>
-    <updated>2026-09-30T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Opus 5.5 leads an independent intelligence index while costing less per token than its predecessor, but Sonnet 5.5 can consume far more output tokens at maximum effort. The practical takeaway is to choose the effort level before choosing the model because it often has a larger effect on speed and total cost, while new cyber safeguards may also redirect or block ordinary work.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-09-30"&gt;TLDR Dev · 2026-09-30 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://dreasays.substack.com/p/claude-55-is-brilliant-confusing"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-09-30T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://newsletter.pragmaticengineer.com/p/the-pulse-a-new-trend-of-cpu-shortages</id>
-    <title>The Pulse: A New Trend of CPU Shortages (8 minute read)</title>
-    <updated>2026-09-30T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;AI agents are increasing demand for general-purpose compute because builds, tests, linters, and other tool calls run continuously on cloud CPUs. Spot discounts have largely disappeared, some reservations now require months of lead time, and server delivery has stretched from weeks to roughly six months. Competition for fabrication capacity and memory supply is also pushing prices higher.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-09-30"&gt;TLDR Dev · 2026-09-30 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://newsletter.pragmaticengineer.com/p/the-pulse-a-new-trend-of-cpu-shortages"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-09-30T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://swapniltalekar.substack.com/p/jev-and-the-return-of-the-classifiers</id>
-    <title>Jev and the Return of the Classifiers (11 minute read)</title>
-    <updated>2026-09-30T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Jev returns typed choices, scores, or yes-or-no probabilities instead of generating prose, making bounded decisions fast and inexpensive. Its “zero hallucination” claim means outputs always fit the supplied schema, not that every decision is correct. The more important promise is calibrated confidence that can route uncertain cases to humans or slower reasoning models, though that calibration requires validation on real workloads.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-09-30"&gt;TLDR Dev · 2026-09-30 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://swapniltalekar.substack.com/p/jev-and-the-return-of-the-classifiers"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-09-30T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://earendil.com/posts/you-said-no-mcp</id>
-    <title>You Said No MCP! (7 minute read)</title>
-    <updated>2026-09-30T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Pi now supports MCP in its core because codemode can discover and compose structured MCP tools inside a JavaScript sandbox without flooding the model context.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-09-30"&gt;TLDR Dev · 2026-09-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://earendil.com/posts/you-said-no-mcp/"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-09-30T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vincentschmalbach.com/how-to-make-a-database-migration-backward-compatible</id>
-    <title>How to Make a Database Migration Backward Compatible (10 minute read)</title>
-    <updated>2026-09-30T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Safe mixed-version deployments use an expand, migrate, contract sequence with dual-format support, restartable backfills, gradual read cutovers, and evidence that every consumer has stopped using the old schema before cleanup.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-09-30"&gt;TLDR Dev · 2026-09-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.vincentschmalbach.com/how-to-make-a-database-migration-backward-compatible/"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-09-30T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://github.com/ninjahawk/livenerf</id>
-    <title>livenerf (GitHub Repo)</title>
-    <updated>2026-09-30T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;livenerf is a preregistered benchmark that runs a pinned Claude Code harness daily to detect post-launch model capability changes while controlling for harness updates and usage shifts.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-09-30"&gt;TLDR Dev · 2026-09-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://github.com/ninjahawk/livenerf"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-09-30T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/introducing-dots</id>
-    <title>Introducing Dots (Website)</title>
-    <updated>2026-09-30T10:59:46+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Dots are always-on GPT-6 Astra agents with their own cloud computers, connections to more than 4,000 apps, and access through ChatGPT, Slack, Teams, and voice.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-09-30"&gt;TLDR Dev · 2026-09-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://openai.com/index/introducing-dots/"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-09-30T10:59:46+00:00</published>
   </entry>
 </feed>
