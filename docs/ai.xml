@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/ai.xml</id>
   <title>TLDR AI</title>
-  <updated>2026-10-15T11:00:00+00:00</updated>
+  <updated>2026-10-16T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://research.meta.ai/blog/muse-spark-open</id>
+    <title>Muse Spark Open (4 minute read)</title>
+    <updated>2026-10-16T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Muse Spark Open is an 816B-parameter multimodal open-weight model with 42B active parameters and a 1M-token context window. It was designed for coding and long-horizon agentic tasks and can run locally across two Apple M5 Ultra Mac Studios using MLX.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-16"&gt;TLDR AI · 2026-10-16 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://research.meta.ai/blog/muse-spark-open"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-10-16T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai</id>
+    <title>Inside Microsoft's Frontier Pre-Training Stack (18 minute read)</title>
+    <updated>2026-10-16T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Microsoft detailed the training of MAI-Base-2, a 2.8T-parameter mixture-of-experts model with 80B active parameters that it said surpassed every open-weight model in its held-out pre-training evaluations. The deep dive covers its data strategy, compute efficiency, full-stack infrastructure, and Microsoft's plans to turn internally trained frontier models into enterprise offerings through Foundry.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-16"&gt;TLDR AI · 2026-10-16 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-10-16T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.liquid.ai/blog/d1-ultra</id>
+    <title>d1-ultra: Introducing the World's Best Decision Model (3 minute read)</title>
+    <updated>2026-10-16T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Liquid AI's d1-ultra is a multimodal decision model designed for complex real-world tasks like detecting defects on circuit boards. The model processes text and images and provides better-calibrated answers and higher accuracy than previous models like Jev 1.14. Available on the Liquid API, d1-ultra is priced at $0.042 per million input tokens and will soon be accessible via Vercel and OpenRouter.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-16"&gt;TLDR AI · 2026-10-16 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.liquid.ai/blog/d1-ultra"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-10-16T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://already-clean.goodfire.com/</id>
+    <title>Neural Networks Are Already Clean (65 minute read)</title>
+    <updated>2026-10-16T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The cause of polysemanticity in early model organisms was thought to be superposition. This convinced much of the field that networks pack concepts arbitrarily, but what looked like arbitrary packing was mostly recursive generalization, which is less concerning. This means networks can be studied directly, instead of needing to be untangled first. The outlook for mechanistic interpretability may be far better than we thought.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-16"&gt;TLDR AI · 2026-10-16 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://already-clean.goodfire.com/"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-10-16T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://richardli.xyz/post/gradient-is-covariance</id>
+    <title>The Gradient Is a Covariance (8 minute read)</title>
+    <updated>2026-10-16T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Reinforcement learning, on-policy distillation, and supervised fine-tuning on near-policy data change only a small fraction of parameters. Small and sparse are different claims. The expected gradient is a covariance, the Fisher is a variance, and the Fisher caps the gradient for any reward. At one position, the Fisher is the variance of logit sensitivities: whatever moves every candidate together counts for nothing. None of this needs on-policy sampling - it needs a score centered under the sampling distribution.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-16"&gt;TLDR AI · 2026-10-16 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://richardli.xyz/post/gradient-is-covariance/"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-10-16T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ianbarber.blog/2026/10/15/mo-turns-mo-problems</id>
+    <title>Mo' turns, mo' problems (6 minute read)</title>
+    <updated>2026-10-16T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Doing reinforcement learning for agent use-cases is conceptually not at all that complicated. For each problem, you set up a VM with a harness and a fresh model context, send the prompt, let the model make tool calls, score the whole thing at the end, and update the weights. Agentic post-training means there's more than the model to consider. Even when the harness is consistent, you can still go off-policy with the trajectories themselves. Agents spawn subagents, make parallel tool calls, and compact large sessions, which adds complexity.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-16"&gt;TLDR AI · 2026-10-16 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://ianbarber.blog/2026/10/15/mo-turns-mo-problems/"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-10-16T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning</id>
+    <title>Nvidia released Nemotron 3.5 Super VL (5 minute read)</title>
+    <updated>2026-10-16T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Nvidia released Nemotron 3.5 Super VL, a multimodal reasoning model that scored 26.5 on Artificial Analysis' Intelligence Index while using substantially fewer output tokens than its predecessor. The company also introduced the smaller Nemotron 3.5 Bolt 74B-A9B and near-lossless NVFP4 quantized weights.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-16"&gt;TLDR AI · 2026-10-16 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-10-16T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.krea.ai/krea-3</id>
+    <title>Krea 3 (Website)</title>
+    <updated>2026-10-16T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Krea 3 is an image editing model built for production. It can finish an edit in under eight seconds, costing only $0.06 per image. The model was built for production and is four times faster than Nano Banana Pro. It can combine up to eight references into one picture.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-16"&gt;TLDR AI · 2026-10-16 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.krea.ai/krea-3"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-10-16T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://threadreaderapp.com/thread/2110797830361436604.html</id>
+    <title>GPT-Live-1.1 (1 minute read)</title>
+    <updated>2026-10-16T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;GPT-Live-1.1 features new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese. The voices have better accents, and there is less 'checking'. The model is available in ChatGPT, Codex, and dots. It is rolling out now to all users and coming soon to the API.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-16"&gt;TLDR AI · 2026-10-16 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://threadreaderapp.com/thread/2110797830361436604.html"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-10-16T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://vercel.com/blog/ai-gateway-production-index-october-2026</id>
+    <title>Open weight takes 71.5% of tokens and 23% of spend (7 minute read)</title>
+    <updated>2026-10-16T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Open-weight models now process more than seven in ten gateway tokens and account for nearly one in four dollars. Their share of spend has more than quadrupled since June. Almost one in three teams changed their most-used lab in September, an index record. Jev was the fastest-adopted model in AI Gateway history, but it only accounted for about 0.27% of gateway spend.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-16"&gt;TLDR AI · 2026-10-16 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://vercel.com/blog/ai-gateway-production-index-october-2026"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-16T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/an-update-on-independent-evaluators</id>
+    <title>Anthropic Expanded Independent Access to Its AI Safety Work (3 minute read)</title>
+    <updated>2026-10-16T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic began giving METR employee-like access to models, training information, safeguards, and other internal material so it could independently assess frontier-model risks and publish its conclusions.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-16"&gt;TLDR AI · 2026-10-16 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/an-update-on-independent-evaluators"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-16T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://bfl.ai/blog/flux-3-image-klein</id>
+    <title>FLUX 3 Image Klein (4 minute read)</title>
+    <updated>2026-10-16T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Black Forest Labs released FLUX 3 Image Klein, a 5.6B-parameter open-weight model that supports text-to-image generation, editing, native 4K output, and up to 10 reference images.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-16"&gt;TLDR AI · 2026-10-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://bfl.ai/blog/flux-3-image-klein"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-10-16T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://every.to/p/how-codex-happened</id>
+    <title>How Codex Happened (40 minute read)</title>
+    <updated>2026-10-16T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI's Codex evolved from a failed cloud launch to becoming the cornerstone of OpenAI's products, gaining over 40 million weekly users.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-16"&gt;TLDR AI · 2026-10-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://every.to/p/how-codex-happened"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-10-16T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.com/_chenglou/status/2110557373651931267</id>
+    <title>Introducing Handwired: JavaScript as Neural Networks (1 minute read)</title>
+    <updated>2026-10-16T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Handwired converts ordinary JavaScript code into neural networks that reproduce exact program outputs without training or GPUs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-16"&gt;TLDR AI · 2026-10-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/_chenglou/status/2110557373651931267"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-10-16T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.perplexity.ai/hub/blog/open-sourcing-space</id>
+    <title>Perplexity Open-Sourced Its Agent Sandbox (4 minute read)</title>
+    <updated>2026-10-16T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Perplexity has open-sourced SPACE, the sandbox infrastructure behind its Computer agent.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-16"&gt;TLDR AI · 2026-10-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.perplexity.ai/hub/blog/open-sourcing-space"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-10-16T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://x.ai/news/grok-voice-3</id>
     <title>Grok Voice 3.0 (3 minute read)</title>
@@ -1579,165 +1729,5 @@
     <category term="TLDR AI"/>
     <category term="Quick Links"/>
     <published>2026-10-02T10:59:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon</id>
-    <title>Gemini 4 Argon (9 minute read)</title>
-    <updated>2026-10-01T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Google announced Gemini 4 Argon, a frontier model built for sustained reasoning across software engineering, enterprise knowledge work, and cybersecurity. Access is initially limited to trusted cyber defenders, with broader availability planned after phased safety testing.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-01"&gt;TLDR AI · 2026-10-01 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"/>
-    <category term="TLDR AI"/>
-    <category term="Headlines &amp; Launches"/>
-    <published>2026-10-01T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://links.tldrnewsletter.com/VezRJB</id>
-    <title>Musk's SpaceXAI Considers Overhaul of Pricing for Grok, X Users (1 minute read)</title>
-    <updated>2026-10-01T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;SpaceX is considering an overhaul of its subscription pricing options for Grok and X. It plans to soon offer a unified subscription for the services with four pricing tiers. The options will range from a free offering with stricter usage limits for its Grok chatbot to a $100 per month Ultra tier that includes access to the Grok Bot AI agent. The $8 per month 'lite' plan will include access to Grok, a verified checkmark, and fewer ads on X.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-01"&gt;TLDR AI · 2026-10-01 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://links.tldrnewsletter.com/VezRJB"/>
-    <category term="TLDR AI"/>
-    <category term="Headlines &amp; Launches"/>
-    <published>2026-10-01T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/claude-for-government-is-now-generally-available</id>
-    <title>Claude for Government is now generally available (3 minute read)</title>
-    <updated>2026-10-01T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Claude for Government is now generally available, offering FedRAMP High authorized coding and agent capabilities to federal and state agencies. Agencies receive Anthropic commercial features with robust governance controls and customized administrative options. Early access is also available for Claude Code CLI and Claude for Microsoft 365.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-01"&gt;TLDR AI · 2026-10-01 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://claude.com/blog/claude-for-government-is-now-generally-available"/>
-    <category term="TLDR AI"/>
-    <category term="Headlines &amp; Launches"/>
-    <published>2026-10-01T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.goodfire.com/blog/we-can-and-must-solve-alignment</id>
-    <title>We can and must solve alignment (14 minute read)</title>
-    <updated>2026-10-01T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The Goodfire team identifies interpretability as the main challenge in AI alignment, highlighting its critical role in understanding and controlling AI behaviors. They stress the urgency of developing and deploying tools for detecting, debugging, and designing AI systems, focusing on controlling generalization and verifying what models learn. As AI models advance, they seek breakthroughs in interpretability to ensure safe and reliable AI alignment, advocating for a collective effort among the tech community.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-01"&gt;TLDR AI · 2026-10-01 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.goodfire.com/blog/we-can-and-must-solve-alignment"/>
-    <category term="TLDR AI"/>
-    <category term="Deep Dives &amp; Analysis"/>
-    <published>2026-10-01T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.alphaxiv.org/abs/2609.33150</id>
-    <title>Generalization Dynamics of LM Pre-training (4 minute read)</title>
-    <updated>2026-10-01T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;During pre-training, models can abruptly switch response patterns, a phenomenon termed MODE-HOPPING. Tests reveal this behavior in OLMo3-32B during arithmetic tasks, showing sudden shifts between pattern-following and correct task inference as training progresses. Controlled experiments suggest competing shallow and generalizable circuits within models, revealing that longer training doesn't always guarantee better generalization.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-01"&gt;TLDR AI · 2026-10-01 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.alphaxiv.org/abs/2609.33150"/>
-    <category term="TLDR AI"/>
-    <category term="Engineering &amp; Research"/>
-    <published>2026-10-01T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://runway.com/research/introducing-praxis-1</id>
-    <title>Praxis-1 (5 minute read)</title>
-    <updated>2026-10-01T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Praxis-1 is an open-weight world action model that turns Runway's video pretraining into control for real robots. The model is currently being tested with early partners, each running on their own hardware. It will be released publicly in the coming months. Clips of robots running the model are available in the post.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-01"&gt;TLDR AI · 2026-10-01 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://runway.com/research/introducing-praxis-1"/>
-    <category term="TLDR AI"/>
-    <category term="Engineering &amp; Research"/>
-    <published>2026-10-01T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://github.com/NVIDIA/OpenShell</id>
-    <title>NVIDIA OpenShell Secures Autonomous AI Agents (GitHub Repo)</title>
-    <updated>2026-10-01T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;NVIDIA's OpenShell provides a policy-controlled runtime for autonomous agents, enforcing file, system-call, network, and credential access at the kernel level. It also uses formal verification to identify risky permissions before policy changes are applied.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-01"&gt;TLDR AI · 2026-10-01 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://github.com/NVIDIA/OpenShell"/>
-    <category term="TLDR AI"/>
-    <category term="Engineering &amp; Research"/>
-    <published>2026-10-01T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://arxiv.org/abs/2609.38149</id>
-    <title>A new transformer passes its hidden state to the next token instead of recomputing it (25 minute read)</title>
-    <updated>2026-10-01T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Researchers built LIFT, a transformer that feeds its internal state back into the next generation step instead of squeezing everything through the single token it outputs. Training stays parallel because the states come precomputed from an off-the-shelf model's next-token predictions, while at inference the model feeds back its own. LIFT models from 135M to 1B parameters beat token-matched standard transformers on language modeling, reasoning, and procedural tasks, so the next question is whether the gains hold at frontier scale.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-01"&gt;TLDR AI · 2026-10-01 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://arxiv.org/abs/2609.38149"/>
-    <category term="TLDR AI"/>
-    <category term="Engineering &amp; Research"/>
-    <published>2026-10-01T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://links.tldrnewsletter.com/VmBjCJ</id>
-    <title>The AI Safety community is unfortunately doing more harm than good (7 minute read)</title>
-    <updated>2026-10-01T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Public AI-doom messaging may harden opposition to the industry rather than improve safety discourse. Repeated extinction warnings from lab employees and researchers can politicize AI, intensify public distrust, and increase pressure for restrictive regulation.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-01"&gt;TLDR AI · 2026-10-01 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://links.tldrnewsletter.com/VmBjCJ"/>
-    <category term="TLDR AI"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-01T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition</id>
-    <title>Factory CEO just accused his VC board adviser of spying for Cognition (6 minute read)</title>
-    <updated>2026-10-01T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Factory has fired VC Chris Degnan from his role as a board advisor due to allegations that Degnan shared confidential information with Cognition, Factory's biggest competitor. Degnan joined Cognition as its chief revenue officer two hours after the announcement. He refutes that he was fired and said that he resigned when he told Factory's CEO he was taking the job. There could be consequences for perceived board-level conflicts of interest.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-01"&gt;TLDR AI · 2026-10-01 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/"/>
-    <category term="TLDR AI"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-01T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai</id>
-    <title>The ugly economics of consumer AI (5 minute read)</title>
-    <updated>2026-10-01T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Consumer AI faces profitability challenges due to high operational costs and slow growth in consumer willingness to pay.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-01"&gt;TLDR AI · 2026-10-01 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-01T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/research/what-work-can-robots-do</id>
-    <title>Can we predict the jobs robots will do? (60 minute read)</title>
-    <updated>2026-10-01T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Robots currently can perform 74% of US physical job tasks, yet are cost-effective for only 0.3% due to high expenses.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-01"&gt;TLDR AI · 2026-10-01 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.anthropic.com/research/what-work-can-robots-do"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-01T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://e2b.dev/resources/introducing-e2b-embed</id>
-    <title>Introducing E2B Embed (2 minute read)</title>
-    <updated>2026-10-01T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;E2B Embed is a way to package E2B with products and run sandboxes within customer environments.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-01"&gt;TLDR AI · 2026-10-01 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://e2b.dev/resources/introducing-e2b-embed"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-01T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://ideogram.ai/models/4.5</id>
-    <title>Ideogram 4.5: The most precise edit model (2 minute read)</title>
-    <updated>2026-10-01T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Ideogram 4.5 is an exceptionally precise image editing model that can make targeted changes while preserving the rest of an image.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-01"&gt;TLDR AI · 2026-10-01 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://ideogram.ai/models/4.5"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-01T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://links.tldrnewsletter.com/VFHse4</id>
-    <title>How OpenAI Disrupted a Model-Distillation Campaign (5 minute read)</title>
-    <updated>2026-10-01T10:59:46+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI detailed a real-world investigation into a coordinated adversarial-distillation campaign that manipulated model interactions to extract protected reasoning at scale.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-01"&gt;TLDR AI · 2026-10-01 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://links.tldrnewsletter.com/VFHse4"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-01T10:59:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://deepmind.google/blog/introducing-synthid-bio</id>
-    <title>SynthID Bio: Watermarking methods for synthetic biology (7 minute read)</title>
-    <updated>2026-10-01T10:59:45+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;DeepMind introduced SynthID Bio, a watermarking tool for AI-generated proteins that embeds a signature into biological code while maintaining function.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-01"&gt;TLDR AI · 2026-10-01 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://deepmind.google/blog/introducing-synthid-bio/"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-01T10:59:45+00:00</published>
   </entry>
 </feed>

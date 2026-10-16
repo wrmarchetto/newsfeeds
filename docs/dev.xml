@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-10-15T11:00:00+00:00</updated>
+  <updated>2026-10-16T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,166 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.digitalocean.com/blog/microvm-architecture</id>
+    <title>Building a computer that can pause and resume in milliseconds: Inside the MicroVM architecture behind Managed Agents (20 minute read)</title>
+    <updated>2026-10-16T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;DigitalOcean's Firecracker platform separates agent sessions from their hosts using checkpointed disk, memory, and virtual-device state, with lazy loading to avoid downloading whole snapshots before resuming. Internal tests report under 200 milliseconds at p50 on the warm-template path, while external connections and API side effects remain outside the checkpoint.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-16"&gt;TLDR Dev · 2026-10-16 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.digitalocean.com/blog/microvm-architecture"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-16T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nibzard.com/agent-computer</id>
+    <title>Build the agent. Don't build its computer (20 minute read)</title>
+    <updated>2026-10-16T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Agent teams should specify their execution environment, test recovery on real workloads, and start with managed infrastructure unless ownership offers a concrete advantage. The evaluation checklist covers persistent files, expired logins, interrupted external actions, access boundaries, and cost per accepted result.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-16"&gt;TLDR Dev · 2026-10-16 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.nibzard.com/agent-computer"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-16T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering</id>
+    <title>How Meta Built Forum With AI-Native Engineering (8 minute read)</title>
+    <updated>2026-10-16T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Meta built Forum with agents participating in planning, implementation, testing, and verification while engineers retained architectural judgment and final sign-off. The team improved results through simpler code, tools that inspect live app state, repeatable UI stress tests, and a separate build that excludes prototype code from production.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-16"&gt;TLDR Dev · 2026-10-16 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-16T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://viceconsole.fyi/blog/2026/10/10/what-i-self-host</id>
+    <title>What I Self-Host (15 minute read)</title>
+    <updated>2026-10-16T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A home server runs 28 services, including Jellyfin, Immich, Home Assistant, and Vaultwarden, on a mini PC with 16 GB of RAM. The setup favors simple native services and systemd-managed Podman containers, keeps services behind a VPN, and rejects tools whose operational complexity outweighs their value.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-16"&gt;TLDR Dev · 2026-10-16 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-10-16T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://efp.asia/blog/2026/10/15/code-is-a-commodity-now</id>
+    <title>Code Is a Commodity Now (11 minute read)</title>
+    <updated>2026-10-16T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Cheaper code generation could push software agencies away from selling development hours and toward domain expertise, product judgment, and accountability for outcomes. The essay argues that smaller generalist teams and changing hiring signals follow from this shift, while acknowledging mixed productivity evidence and the cost of verifying changes in mature codebases.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-16"&gt;TLDR Dev · 2026-10-16 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://efp.asia/blog/2026/10/15/code-is-a-commodity-now/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-10-16T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://cutler.sg/blog/2026-10-measure-agent-review-time</id>
+    <title>How to Measure the Human Cost of Agent Work (8 minute read)</title>
+    <updated>2026-10-16T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Measure agent workflows by the human effort and agent spend required to reach an accepted result, including time spent briefing, supervising, reviewing, correcting, and verifying the work. Keep failed attempts and manual rescues in the totals so successful tasks do not hide the cost of unsuccessful ones. Track quality and later defects alongside time, and compare similar tasks under the same acceptance criteria before claiming productivity gains.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-16"&gt;TLDR Dev · 2026-10-16 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://cutler.sg/blog/2026-10-measure-agent-review-time"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-10-16T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.cloudflare.com/deploy-with-void</id>
+    <title>Deploy with Void (7 minute read)</title>
+    <updated>2026-10-16T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Void combines an open-source deployment platform, SDK, and CLI to bring full-stack development and Cloudflare deployment into a Vite workflow. It infers resource bindings and provisions infrastructure during deployment, while the shared platform lets administrators control team access, resource limits, and deployments.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-16"&gt;TLDR Dev · 2026-10-16 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.cloudflare.com/deploy-with-void"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-16T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://research.meta.ai/blog/muse-spark-open</id>
+    <title>Muse Spark Open (4 minute read)</title>
+    <updated>2026-10-16T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Meta has released Muse Spark Open, a multimodal model with 816 billion total parameters, 42 billion active parameters, and a one-million-token context window. It supports coding and agentic workflows through hosted APIs or local inference, including on two M5 Ultra Mac Studios, with weights available under a license that includes limited commercial terms.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-16"&gt;TLDR Dev · 2026-10-16 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://research.meta.ai/blog/muse-spark-open"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-16T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://devin.ai/blog/introducing-devin-oncall</id>
+    <title>Introducing Devin Oncall (11 minute read)</title>
+    <updated>2026-10-16T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Devin Oncall is generally available for investigating and remediating production issues, using company-specific skills and memory alongside a coding agent. Responders group related alerts and skip known issues, while an asynchronous review agent challenges unsupported diagnoses and premature conclusions.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-16"&gt;TLDR Dev · 2026-10-16 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://devin.ai/blog/introducing-devin-oncall"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-16T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://planetscale.com/blog/leaky-buckets-in-software-explained</id>
+    <title>What today's software owes to Bronze Age clocks (9 minute read)</title>
+    <updated>2026-10-16T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Leaky buckets provide cheap admission control by calculating available capacity from a stored level and timestamp whenever new work arrives. The article connects this approach to API rate limits and PlanetScale's Postgres Traffic Control, which uses resource budgets to admit or block queries before execution and recommends testing budgets in warning mode first.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-16"&gt;TLDR Dev · 2026-10-16 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://planetscale.com/blog/leaky-buckets-in-software-explained"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-16T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://semiengineering.com/how-close-are-we-to-fully-autonomous-chip-design</id>
+    <title>How Close Are We To Fully Autonomous Chip Design? (21 minute read)</title>
+    <updated>2026-10-16T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Synopsys describes using orchestrated task agents to turn specifications into verified RTL, while full autonomy through physical implementation and chip sign-off remains a goal. Human engineers still define architectures and approve manufacturing, with advanced packaging and physical AI adding demands for coordinated multiphysics analysis.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-16"&gt;TLDR Dev · 2026-10-16 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://semiengineering.com/how-close-are-we-to-fully-autonomous-chip-design/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-16T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://every.to/p/how-codex-happened</id>
+    <title>How Codex Happened (38 minute read)</title>
+    <updated>2026-10-16T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Codex emerged from parallel efforts in research automation and coding-product design, followed by a pivot after the initial cloud product struggled to find traction. The account traces the shift toward local workflows, a shared Rust agent core, and models trained for interactive work in messy codebases.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-16"&gt;TLDR Dev · 2026-10-16 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://every.to/p/how-codex-happened"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-16T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.dainemawer.com/shared-typescript-nextjs-expo-monorepo</id>
+    <title>Sharing a TypeScript Domain Layer Between Next.js and Expo (9 minute read)</title>
+    <updated>2026-10-16T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A shared TypeScript domain layer gives Next.js and Expo common types, validation schemas, and an API client while keeping platform-specific behavior inside each app.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-16"&gt;TLDR Dev · 2026-10-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.dainemawer.com/shared-typescript-nextjs-expo-monorepo"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-16T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://vercel.com/blog/ai-gateway-production-index-october-2026</id>
+    <title>Open weight takes 71.5% of tokens and 23% of spend (7 minute read)</title>
+    <updated>2026-10-16T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Vercel's October AI Gateway index reports that open-weight models handled 71.5% of September tokens and 23% of estimated spend, while average price per token fell 47% from December.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-16"&gt;TLDR Dev · 2026-10-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://vercel.com/blog/ai-gateway-production-index-october-2026"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-16T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://bra31k.dev/en/blog/same-bytes-17-percent-faster</id>
+    <title>How we made a 9 MB WebAssembly module feel faster without removing a single byte (11 minute read)</title>
+    <updated>2026-10-16T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Earlier loading, preload hints, and shared initialization promises made a 9.2 MB Skia WebAssembly module render its first canvas roughly 17% to 18% faster in the reported A/B test without meaningfully shrinking the download.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-16"&gt;TLDR Dev · 2026-10-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://bra31k.dev/en/blog/same-bytes-17-percent-faster/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-16T10:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ianbarber.blog/2026/10/15/mo-turns-mo-problems</id>
+    <title>Mo' turns, mo' problems (5 minute read)</title>
+    <updated>2026-10-16T10:59:45+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Long agentic reinforcement-learning rollouts make harness state, tool-call serialization, branching trajectories, and numerical differences between inference and training harder to keep consistent.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-16"&gt;TLDR Dev · 2026-10-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://ianbarber.blog/2026/10/15/mo-turns-mo-problems/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-16T10:59:45+00:00</published>
+  </entry>
   <entry>
     <id>https://www.langchain.com/blog/common-questions-about-agent-evals</id>
     <title>The Most Common Questions About Agent Evals, Answered (8 minute read)</title>
@@ -1479,155 +1639,5 @@
     <category term="TLDR Dev"/>
     <category term="Quick Links"/>
     <published>2026-10-02T10:59:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://buf.build/blog/grpc-vs-rest-is-the-wrong-question</id>
-    <title>gRPC vs REST Is the Wrong Question (7 minute read)</title>
-    <updated>2026-10-01T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Connect lets browsers and gRPC clients call the same service without a separate gateway, using HTTP and JSON or binary Protobuf on one port. It preserves schema-driven clients, streaming, ordinary HTTP status codes, and curl-friendly requests while keeping gRPC compatibility.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-01"&gt;TLDR Dev · 2026-10-01 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://buf.build/blog/grpc-vs-rest-is-the-wrong-question"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-01T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.curiosity.ai/blog/2026-09-design-language-in-three-days</id>
-    <title>How We Rebuilt Our Design Language in Three Days with AI (13 minute read)</title>
-    <updated>2026-10-01T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A small team used tightly specified briefs and coding agents to rebuild a 67-page site across 22 visual directions, then turned the strongest ideas into one design system. The process worked because content stayed fixed, rules were numerical, real pages were reviewed, automated checks were themselves verified, and losing experiments were deleted.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-01"&gt;TLDR Dev · 2026-10-01 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.curiosity.ai/blog/2026-09-design-language-in-three-days"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-01T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://x.com/yashhsm/status/2105380670688346335</id>
-    <title>Why Instinct Feels Magical (9 minute read)</title>
-    <updated>2026-10-01T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A reverse engineering tour attributes Instinct's appeal to a single conversational thread, delegated task agents, file-based memory, computer use, and quiet background automation. iMessage/WhatsApp distribution, Instinct's easy-to-understand personality, and proactive execution make the underlying agent harness feel accessible to nontechnical users.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-01"&gt;TLDR Dev · 2026-10-01 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://x.com/yashhsm/status/2105380670688346335"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-01T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://arrangeactassert.com/posts/convention-based-design-for-docs</id>
-    <title>Convention-Based Design for Docs (8 minute read)</title>
-    <updated>2026-10-01T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A shared folder path and GitHub topic can turn repository-local Markdown into a searchable documentation site without maintaining a central registry. Keeping docs beside code lets pull requests update both together, gives ownership to the responsible team, and provides engineers and agents with a predictable place to find current information.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-01"&gt;TLDR Dev · 2026-10-01 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://arrangeactassert.com/posts/convention-based-design-for-docs/"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-01T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://matthenry.fyi/posts/a-system-is-what-it-does</id>
-    <title>A Design System Is What It Does (6 minute read)</title>
-    <updated>2026-10-01T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Design system defaults shape which products get built and which users those products serve. Comparing USWDS with shadcn's typography shows why readable defaults, accessible line lengths, and explanatory documentation matter, especially for government sites built by teams without dedicated design resources.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-01"&gt;TLDR Dev · 2026-10-01 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://matthenry.fyi/posts/a-system-is-what-it-does/"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-01T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.jim-nielsen.com/2026/dear-software-makers</id>
-    <title>Dear Software Makers (3 minute read)</title>
-    <updated>2026-10-01T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;YouTube's proposed video variant testing prompts a broader warning about optimizing creative work around measurable performance. One should make finished things repeatedly, stand behind creative choices, and learn from each result instead of sanding away originality through endless tests.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-01"&gt;TLDR Dev · 2026-10-01 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.jim-nielsen.com/2026/dear-software-makers/"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-01T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tanstack.com/blog/intent-0.5-skills-you-can-maintain</id>
-    <title>Intent 0.5: Skills You Can Maintain (5 minute read)</title>
-    <updated>2026-10-01T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Intent 0.5 brings agent skill authoring, validation, and source review into a library's repository so guidance can evolve with the code it documents. It type-checks JavaScript and TypeScript examples, tracks source changes against mapped guidance, adds CI checks, and offers repair workflows for routine metadata fixes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-01"&gt;TLDR Dev · 2026-10-01 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://tanstack.com/blog/intent-0.5-skills-you-can-maintain"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-01T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://github.com/openai/mcp-extensions</id>
-    <title>OpenAI MCP Extensions (GitHub Repo)</title>
-    <updated>2026-10-01T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI MCP Extensions adds ChatGPT-specific capabilities for plugins, including sidebar entry points, file handlers, composer mentions, and richer forms. The repository provides TypeScript and Python SDKs, a specification, documentation, and a Bits &amp;amp; Bolts example under the Apache 2.0 license.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-01"&gt;TLDR Dev · 2026-10-01 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://github.com/openai/mcp-extensions"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-01T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon</id>
-    <title>Gemini 4 Argon: Our Next Era of Frontier Intelligence (8 minute read)</title>
-    <updated>2026-10-01T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Google introduced Gemini 4 Argon for long-horizon coding, enterprise knowledge work, and defensive cybersecurity, with a 1 million token output limit and phased access through trusted testers. Google reports leading benchmark results and internal engineering gains, while emphasizing prompt injection defenses, misuse safeguards, monitoring, and hardened evaluation environments before broad release.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-01"&gt;TLDR Dev · 2026-10-01 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-01T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records</id>
-    <title>How I Could've Accessed 17 Trillion Microsoft Records (9 minute read)</title>
-    <updated>2026-10-01T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;An internal Microsoft analytics service accepted unsigned JWTs, allowing a forged admin identity to run SQL across an environment estimated at 17.3 trillion stored rows. The bounded investigation exposed the consequences of skipping signature verification and showed how persistent agent exploration combined with a human insight to uncover the flaw.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-01"&gt;TLDR Dev · 2026-10-01 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-01T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents</id>
-    <title>Is Sandboxing Sufficient to Contain Rogue Agents? (14 minute read)</title>
-    <updated>2026-10-01T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Recent incidents involving agents probing network boundaries motivate a closer look at whether conventional sandboxes can contain increasingly capable systems. The analysis weighs better operational security against the harder possibility that containment alone is insufficient when agents can discover vulnerabilities, coordinate, and exploit overlooked paths.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-01"&gt;TLDR Dev · 2026-10-01 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-01T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theregister.com/security/2026/09/30/spectre-bug-is-back-this-time-to-haunt-jit-engines/5299937</id>
-    <title>Spectre Bug Returns to Haunt JIT Engines (4 minute read)</title>
-    <updated>2026-10-01T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Branch Target Reuse revives Spectre v2 against JIT engines by reusing stale branch predictions.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-01"&gt;TLDR Dev · 2026-10-01 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.theregister.com/security/2026/09/30/spectre-bug-is-back-this-time-to-haunt-jit-engines/5299937"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-01T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards</id>
-    <title>Before Pixels: Modular Industrial Dashboards (2 minute read)</title>
-    <updated>2026-10-01T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A photographic tour of modular industrial control panels highlights their reusable components, illuminated states, physical annotations, and tactile switches as both design systems and interaction systems.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-01"&gt;TLDR Dev · 2026-10-01 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-01T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://hraness.com/reading/you-said-no-mcp</id>
-    <title>You Said No MCP! (2 minute read)</title>
-    <updated>2026-10-01T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Pi adopted MCP after Codemode made tool composition practical inside a JavaScript sandbox, while arguing that structured data and smarter discovery are still needed for the protocol to reach its potential.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-01"&gt;TLDR Dev · 2026-10-01 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://hraness.com/reading/you-said-no-mcp"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-01T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.netlify.com/blog/edge-functions-firecracker-microvms</id>
-    <title>Edge Functions Move to Firecracker MicroVMs (9 minute read)</title>
-    <updated>2026-10-01T10:59:46+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Netlify moved Edge Functions from hosted V8 isolates to Firecracker MicroVMs inside its edge network, cutting median warm invocation time from 25 to 40 milliseconds down to roughly 5 to 6 milliseconds while improving isolation and reliability.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-01"&gt;TLDR Dev · 2026-10-01 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.netlify.com/blog/edge-functions-firecracker-microvms/"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-01T10:59:46+00:00</published>
   </entry>
 </feed>

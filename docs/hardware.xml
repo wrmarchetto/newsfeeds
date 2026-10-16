@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/hardware.xml</id>
   <title>TLDR Hardware</title>
-  <updated>2026-10-14T11:00:00+00:00</updated>
+  <updated>2026-10-16T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,126 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html</id>
+    <title>ASML says 2027 and 2028 tool supply won't meet demand as Q3 shipments hit 113 systems (3 minute read)</title>
+    <updated>2026-10-16T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;ASML sold 113 new lithography systems in Q3, up from 86, for record sales of €11.7 billion. It now expects planned 2027 and 2028 supply to fall short of demand, even after its planned 30% capacity boost on a 2026 base of about 65 low-NA EUV and 130 DUV immersion tools, and is investigating adding more for 2028. Some customers want to place orders for 2029 and 2030. Q4 sales are guided to €14.2 to €15.2 billion.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-16"&gt;TLDR Hardware · 2026-10-16 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-16T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing</id>
+    <title>Google's Willow chip cuts quantum magic-state errors 40x with cultivation (4 minute read)</title>
+    <updated>2026-10-16T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Google ran magic state cultivation on its Willow chip, cutting errors about 40x versus uncultivated states and reaching a record 99.99% logical fidelity for T-states. Magic states are a bottleneck because making them could consume up to 95% of a quantum computer's capacity. Cultivation injects a noisy state into a small chip region, then uses coordinated measurements to discard flawed attempts, and Google grafted a distance-3 color code onto a distance-5 surface code. Larger-scale demonstrations are still needed.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-16"&gt;TLDR Hardware · 2026-10-16 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-16T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.servethehome.com/inside-the-secretive-aws-networking-lab</id>
+    <title>Inside the Secretive AWS Networking Lab (7 minute read)</title>
+    <updated>2026-10-16T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;ServeTheHome toured AWS' in-house networking lab, covering switches from 3.2 Tbps to 102.4 Tbps (1.6T OSFP ports, not yet in volume), a 12.8 Tbps switch with 16 FPGAs encrypting every port, and a dedicated satellite-referenced timing network. It also saw 64-wavelength DWDM modules and hollow-core fiber with about 33% lower latency.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-16"&gt;TLDR Hardware · 2026-10-16 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.servethehome.com/inside-the-secretive-aws-networking-lab/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-10-16T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket</id>
+    <title>Rocket Lab delays Neutron to 2027 over voids in a carbon-composite tank dome (3 minute read)</title>
+    <updated>2026-10-16T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Rocket Lab moved Neutron's debut to 2027 after finding voids in the carbon-composite layers of the forward dome on its first-stage propellant tank. A replacement dome is being built, and Rocket Lab must still inspect it, assemble the first stage, and complete pressure and cryogenic tests before setting a firm date. It's the rocket's fourth slip since its 2021 unveiling, following a January tank rupture in testing, and shares fell about 10% after hours.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-16"&gt;TLDR Hardware · 2026-10-16 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-10-16T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://semiengineering.com/thermal-co-simulation-testing-of-co-packaged-optics</id>
+    <title>Ayar Labs and GUC simulate a 3 kW co-packaged optics package, and only liquid cooling holds spec (4 minute read)</title>
+    <updated>2026-10-16T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Ayar Labs and GUC simulated a 105mm by 140mm package with two XPUs, eight HBM4 stacks, and eight TeraPHY optical engines, offering over 100 Tbps of optical bandwidth at more than 3 kW. A standard air heatsink at 5 to 6 m/s failed spec, while an impingement liquid cold plate at 4.5 L/min kept the optical engines under 100°C. Results use static power assumptions, so dynamic workload simulation is next.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-16"&gt;TLDR Hardware · 2026-10-16 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://semiengineering.com/thermal-co-simulation-testing-of-co-packaged-optics/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-10-16T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://spectrum.ieee.org/monazite-rare-earth</id>
+    <title>Monazite ore could supply EV motor magnet metals, if the thorium waste can be handled (19 minute read)</title>
+    <updated>2026-10-16T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Monazite ore is 45 to 70 percent rare earths by weight and carries all four elements motor magnets need (neodymium, praseodymium, dysprosium, and terbium), making it a leading path around China's roughly 90 percent market share. The catch is thorium, whose waste must be stored indefinitely. Energy Fuels already produces neodymium-praseodymium oxide plus pilot dysprosium and terbium at its Utah mill, while Saskatchewan's government-backed plant has produced little after six years and over CA$100 million.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-16"&gt;TLDR Hardware · 2026-10-16 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://spectrum.ieee.org/monazite-rare-earth"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-10-16T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.reuters.com/legal/litigation/qualcomm-says-jury-found-arm-breached-license-agreement-2026-10-13</id>
+    <title>Jury finds Arm breached Qualcomm's chip license but awards just $2 (3 minute read)</title>
+    <updated>2026-10-16T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A Delaware jury found Arm breached its architectural license with Qualcomm by failing to provide software patches and tools for its designs, and intentionally interfered with Qualcomm's Meta chip talks, but awarded just $2 in damages. Arm won five other breach claims, and Qualcomm's license runs through 2033, so its Oryon CPU work continues. Both sides claimed vindication, with Qualcomm shares up about 2.5% and Arm down about 2.2%.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-16"&gt;TLDR Hardware · 2026-10-16 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.reuters.com/legal/litigation/qualcomm-says-jury-found-arm-breached-license-agreement-2026-10-13/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-16T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tomshardware.com/tech-industry/drones/spacex-limits-starlink-service-for-ukraines-high-speed-military-drones-without-prior-warning-ukrainian-officials-say-limitation-significantly-complicates-logistics-and-drone-operations</id>
+    <title>SpaceX reportedly speed-limits Starshield terminals on Ukrainian drones, cancelling missions (3 minute read)</title>
+    <updated>2026-10-16T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Ukrainian officials say SpaceX capped speeds on military Starshield terminals mounted on drones, with no warning and no stated reason. The cap is nominally 160 km/h, but the 7th Rapid Reaction Corps reports 10- to 20-second connection drops at just 110 to 120 km/h, and a volunteer says drops now start at 60 to 70 km/h. Multiple missions were cancelled. Officials suspect it's intentional, and Ukrainian firm Stetman is developing an alternative satellite system, UASAT-NANO.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-16"&gt;TLDR Hardware · 2026-10-16 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tomshardware.com/tech-industry/drones/spacex-limits-starlink-service-for-ukraines-high-speed-military-drones-without-prior-warning-ukrainian-officials-say-limitation-significantly-complicates-logistics-and-drone-operations"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-16T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.igorslab.de/en/nvidia-rtx-spark-ai-superchip-laptop-platform-dlss-push</id>
+    <title>NVIDIA RTX Spark: AI Platform, Laptop Chip and DLSS 5 (25 minute read)</title>
+    <updated>2026-10-16T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;NVIDIA's RTX Spark pairs a Blackwell GPU with a Grace CPU and up to 128 GB of shared LPDDR5X, with laptops due October 16 and compact desktops in November.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-16"&gt;TLDR Hardware · 2026-10-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.igorslab.de/en/nvidia-rtx-spark-ai-superchip-laptop-platform-dlss-push/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-16T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse</id>
+    <title>Amazon's Bee launches a $75 wrist-worn AI recorder and a magnetic phone attachment with 21-day battery (3 minute read)</title>
+    <updated>2026-10-16T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Amazon's Bee launched Bee Frontier, a wrist or clip-on AI recorder with dual noise-filtering microphones, IP67 water resistance, and seven days of battery, for $74.99.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-16"&gt;TLDR Hardware · 2026-10-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-16T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us</id>
+    <title>Solidigm reportedly ties a US NAND fab to more tool exports for SK Hynix's China plant (2 minute read)</title>
+    <updated>2026-10-16T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Reuters reports Solidigm wants US approval to ship more American chipmaking tools to SK Hynix's Dalian, China fab, as a condition of building a US NAND factory.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-16"&gt;TLDR Hardware · 2026-10-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-16T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.phoronix.com/news/AI-Reverse-Engineer-Linux-HW</id>
+    <title>Red Hat engineer uses Claude Code to reverse-engineer a scanner and fix a MIPI webcam on Linux (2 minute read)</title>
+    <updated>2026-10-16T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Red Hat's Christian Schaller used Claude Code to get a Pustek 8200i film scanner working on Linux, capturing USB traffic from the vendor's Windows driver in a VM to write a SANE driver.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-16"&gt;TLDR Hardware · 2026-10-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.phoronix.com/news/AI-Reverse-Engineer-Linux-HW"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-16T10:59:49+00:00</published>
+  </entry>
   <entry>
     <id>https://newsroom.amd.com/news/open-rack-blueprint-scale-agentic-ai</id>
     <title>Introducing AMD Helion, Agentic AI Compute at Rack Scale (10 minute read)</title>

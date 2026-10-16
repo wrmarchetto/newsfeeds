@@ -12,6 +12,7 @@
   "ai/2026-10-13": "2026-10-13T23:08:28+00:00",
   "ai/2026-10-14": "2026-10-14T15:11:38+00:00",
   "ai/2026-10-15": "2026-10-15T15:04:01+00:00",
+  "ai/2026-10-16": "2026-10-16T14:53:43+00:00",
   "dev/2026-09-30": "2026-10-14T20:13:06+00:00",
   "dev/2026-10-01": "2026-10-14T15:11:26+00:00",
   "dev/2026-10-02": "2026-10-14T15:11:27+00:00",
@@ -24,6 +25,7 @@
   "dev/2026-10-13": "2026-10-13T23:08:22+00:00",
   "dev/2026-10-14": "2026-10-14T15:11:31+00:00",
   "dev/2026-10-15": "2026-10-15T15:03:59+00:00",
+  "dev/2026-10-16": "2026-10-16T14:53:40+00:00",
   "hardware/2026-09-30": "2026-10-14T15:11:40+00:00",
   "hardware/2026-10-02": "2026-10-13T23:08:31+00:00",
   "hardware/2026-10-05": "2026-10-13T23:08:32+00:00",
@@ -31,6 +33,7 @@
   "hardware/2026-10-09": "2026-10-13T23:08:34+00:00",
   "hardware/2026-10-12": "2026-10-13T23:08:35+00:00",
   "hardware/2026-10-14": "2026-10-14T15:11:41+00:00",
+  "hardware/2026-10-16": "2026-10-16T14:53:45+00:00",
   "tech/2026-09-30": "2026-10-14T20:13:03+00:00",
   "tech/2026-10-01": "2026-10-14T15:11:19+00:00",
   "tech/2026-10-02": "2026-10-14T15:11:20+00:00",
@@ -42,7 +45,8 @@
   "tech/2026-10-12": "2026-10-13T23:08:14+00:00",
   "tech/2026-10-13": "2026-10-13T23:08:15+00:00",
   "tech/2026-10-14": "2026-10-14T15:11:24+00:00",
-  "tech/2026-10-15": "2026-10-15T15:03:56+00:00"
+  "tech/2026-10-15": "2026-10-15T15:03:56+00:00",
+  "tech/2026-10-16": "2026-10-16T14:53:38+00:00"
  },
  "items": [
   {
@@ -2887,146 +2891,6 @@
   },
   {
    "edition": "tech",
-   "id": "https://links.tldrnewsletter.com/FPNdac",
-   "issue_date": "2026-10-01",
-   "position": 0,
-   "section": "Big Tech & Startups",
-   "summary_html": "<div class=\"newsletter-html\">Apple is preparing to launch several smart home devices on October 13. The company plans to ship a smart-home hub, an updated HomePod mini, and a new TV set-top box. The company is developing a broader smart-home ecosystem that expands on HomeKit software and supports new categories of connected products. It is also working with third-party manufacturers on devices designed for the Siri AI home platform.</div>",
-   "title": "Apple Is Finally Ready to Enter Its Next Big Category: the Smart Home (8 minute read)",
-   "url": "https://links.tldrnewsletter.com/FPNdac"
-  },
-  {
-   "edition": "tech",
-   "id": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet",
-   "issue_date": "2026-10-01",
-   "position": 1,
-   "section": "Big Tech & Startups",
-   "summary_html": "<div class=\"newsletter-html\">Google's Gemini 4 Argon model offers industry-leading performance in coding, knowledge work, and cybersecurity. Google's engineers are already using the model extensively, and Argon-powered agents have been working to migrate C/C++ codebases to Rust across Google. The model supports an output limit of 1 million tokens. It will be priced at $2 per million input tokens and $10 per million output tokens for a limited time. The model is still in limited testing, and there is no timeline for when it will be available to enterprise and consumer customers.</div>",
-   "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet (3 minute read)",
-   "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins",
-   "issue_date": "2026-10-01",
-   "position": 2,
-   "section": "Science & Futuristic Technology",
-   "summary_html": "<div class=\"newsletter-html\">The DeepMind team at Google has developed a technique that can create watermarks on protein sequences without compromising the protein's function. The watermark is impossible to remove and can survive basic exporting, resizing, and other editing. The system could be used to give DNA synthesizers greater confidence in their sources.</div>",
-   "title": "Google figures out how to watermark AI-designed proteins (11 minute read)",
-   "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial",
-   "issue_date": "2026-10-01",
-   "position": 3,
-   "section": "Science & Futuristic Technology",
-   "summary_html": "<div class=\"newsletter-html\">Late-stage clinical trial data on the obesity drug retatrutide showed an average loss of 25% of body weight after 90 weeks. More than a third of the participants taking the drug in the trial lost 30% or more of their weight. The drug also helped reduce knee pain and sleep apnea events, and it improved cardiometabolic measurements across the board. At the start of the trial, more than a third of trial participants had prediabetes - the condition had resolved in more than 90% of those participants by the end.</div>",
-   "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial (5 minute read)",
-   "url": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://workspaceupdates.googleblog.com/2026/09/programmatic-comment-and-suggestion.html",
-   "issue_date": "2026-10-01",
-   "position": 4,
-   "section": "Programming, Design & Data Science",
-   "summary_html": "<div class=\"newsletter-html\">Developers can now programmatically create, read, and manage comments across Google Docs, Sheets, and Slides. The Google Docs API also supports suggested edits. Organizations can now connect internal review tools, automated content pipelines, and project tracking systems directly into Google Workspace editors. Programmatic comment support is available to all Google Workspace customers and users with personal Google accounts.</div>",
-   "title": "Programmatic comment and suggestion support now available in the Google Docs, Sheets, and Slides APIs (1 minute read)",
-   "url": "https://workspaceupdates.googleblog.com/2026/09/programmatic-comment-and-suggestion.html"
-  },
-  {
-   "edition": "tech",
-   "id": "https://yedhu.me/posts/commit-description-as-a-thinking-tool",
-   "issue_date": "2026-10-01",
-   "position": 5,
-   "section": "Programming, Design & Data Science",
-   "summary_html": "<div class=\"newsletter-html\">Writing a commit description can help you reflect on the changes that AI made. It also serves as a way to check if everything is as intended. Being able to explain why you are shipping something will help you explain or fix it if it breaks later. AI can do the work - writing why is where you find out whether you understand what you are shipping.</div>",
-   "title": "Commit Description as a Thinking Tool (3 minute read)",
-   "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://links.tldrnewsletter.com/BA1G3p",
-   "issue_date": "2026-10-01",
-   "position": 6,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">AI chief executives gathered with Trump at the White House on Tuesday to discuss a statement of principles to keep AI models safe. Behind the scenes, the executives questioned Anthropic CEO Dario Amodei about his warnings about the dangers of AI, asking why he was being so extreme in public about the capabilities of AI models and the risks they pose. Amodei told them it was important to be honest with the public about model capabilities and not play down risks. He believes that safety is possible if the industry and administration work together.</div>",
-   "title": "Tech CEOs Privately Questioned Amodei for Sounding AI Alarm Bells (7 minute read)",
-   "url": "https://links.tldrnewsletter.com/BA1G3p"
-  },
-  {
-   "edition": "tech",
-   "id": "https://www.lukascampos.com/blog/router-economy",
-   "issue_date": "2026-10-01",
-   "position": 7,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">AI assistants are becoming a router between people and every business. They decide who gets the work, which moves where money can be made. The router absorbs capability and decision-making. The margin goes to whoever holds what the router cannot take and whoever signs for what the router cannot sign.</div>",
-   "title": "The Router Economy (18 minute read)",
-   "url": "https://www.lukascampos.com/blog/router-economy"
-  },
-  {
-   "edition": "tech",
-   "id": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food",
-   "issue_date": "2026-10-01",
-   "position": 8,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">The new tool, which lets users send prompts like 'order my usual' to get their regular Friday night order, is available to users in the US through a waitlist.</div>",
-   "title": "DoorDash launches an AI agent you can text to order food (1 minute read)",
-   "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://links.tldrnewsletter.com/2U6LsT",
-   "issue_date": "2026-10-01",
-   "position": 9,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">The amount of borrowed money in the stock market has never been larger, or grown faster.</div>",
-   "title": "Hedge Fund's Near Collapse Lays Bare Risks of Borrowing to Bet on AI (9 minute read)",
-   "url": "https://links.tldrnewsletter.com/2U6LsT"
-  },
-  {
-   "edition": "tech",
-   "id": "https://www.bonnycode.com/posts/a-four-year-reflection-on-not-being-retired",
-   "issue_date": "2026-10-01",
-   "position": 10,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">What you do matters less and less as fewer people know of you and more people know you.</div>",
-   "title": "A four-year reflection on not being retired (5 minute read)",
-   "url": "https://www.bonnycode.com/posts/a-four-year-reflection-on-not-being-retired/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots",
-   "issue_date": "2026-10-01",
-   "position": 11,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">RSS support on Reddit will cease on November 13 as the company says it has become a common surface for large-scale scraping and automated abuse.</div>",
-   "title": "Reddit is killing RSS feeds and ending public API access because of AI bots (3 minute read)",
-   "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://a16z.com/state-of-markets-ii",
-   "issue_date": "2026-10-01",
-   "position": 12,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Tech contributed around 76% of the SP500's total earnings growth in 2026.</div>",
-   "title": "State of Markets II (7 minute read)",
-   "url": "https://a16z.com/state-of-markets-ii/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://liamhorne.com/agents-and-programmable-cryptography",
-   "issue_date": "2026-10-01",
-   "position": 13,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">There are several techniques for letting people compute something together without sharing the underlying information.</div>",
-   "title": "Connecting Agents with Cryptography (6 minute read)",
-   "url": "https://liamhorne.com/agents-and-programmable-cryptography"
-  },
-  {
-   "edition": "tech",
    "id": "https://www.pcmag.com/news/starlink-community-site-program-teases-hourly-weekly-internet-passes",
    "issue_date": "2026-10-02",
    "position": 0,
@@ -3597,156 +3461,6 @@
   },
   {
    "edition": "dev",
-   "id": "https://buf.build/blog/grpc-vs-rest-is-the-wrong-question",
-   "issue_date": "2026-10-01",
-   "position": 0,
-   "section": "Articles & Tutorials",
-   "summary_html": "<div class=\"newsletter-html\">Connect lets browsers and gRPC clients call the same service without a separate gateway, using HTTP and JSON or binary Protobuf on one port. It preserves schema-driven clients, streaming, ordinary HTTP status codes, and curl-friendly requests while keeping gRPC compatibility.</div>",
-   "title": "gRPC vs REST Is the Wrong Question (7 minute read)",
-   "url": "https://buf.build/blog/grpc-vs-rest-is-the-wrong-question"
-  },
-  {
-   "edition": "dev",
-   "id": "https://blog.curiosity.ai/blog/2026-09-design-language-in-three-days",
-   "issue_date": "2026-10-01",
-   "position": 1,
-   "section": "Articles & Tutorials",
-   "summary_html": "<div class=\"newsletter-html\">A small team used tightly specified briefs and coding agents to rebuild a 67-page site across 22 visual directions, then turned the strongest ideas into one design system. The process worked because content stayed fixed, rules were numerical, real pages were reviewed, automated checks were themselves verified, and losing experiments were deleted.</div>",
-   "title": "How We Rebuilt Our Design Language in Three Days with AI (13 minute read)",
-   "url": "https://blog.curiosity.ai/blog/2026-09-design-language-in-three-days"
-  },
-  {
-   "edition": "dev",
-   "id": "https://x.com/yashhsm/status/2105380670688346335",
-   "issue_date": "2026-10-01",
-   "position": 2,
-   "section": "Articles & Tutorials",
-   "summary_html": "<div class=\"newsletter-html\">A reverse engineering tour attributes Instinct's appeal to a single conversational thread, delegated task agents, file-based memory, computer use, and quiet background automation. iMessage/WhatsApp distribution, Instinct's easy-to-understand personality, and proactive execution make the underlying agent harness feel accessible to nontechnical users.</div>",
-   "title": "Why Instinct Feels Magical (9 minute read)",
-   "url": "https://x.com/yashhsm/status/2105380670688346335"
-  },
-  {
-   "edition": "dev",
-   "id": "https://arrangeactassert.com/posts/convention-based-design-for-docs",
-   "issue_date": "2026-10-01",
-   "position": 3,
-   "section": "Opinions & Advice",
-   "summary_html": "<div class=\"newsletter-html\">A shared folder path and GitHub topic can turn repository-local Markdown into a searchable documentation site without maintaining a central registry. Keeping docs beside code lets pull requests update both together, gives ownership to the responsible team, and provides engineers and agents with a predictable place to find current information.</div>",
-   "title": "Convention-Based Design for Docs (8 minute read)",
-   "url": "https://arrangeactassert.com/posts/convention-based-design-for-docs/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://matthenry.fyi/posts/a-system-is-what-it-does",
-   "issue_date": "2026-10-01",
-   "position": 4,
-   "section": "Opinions & Advice",
-   "summary_html": "<div class=\"newsletter-html\">Design system defaults shape which products get built and which users those products serve. Comparing USWDS with shadcn's typography shows why readable defaults, accessible line lengths, and explanatory documentation matter, especially for government sites built by teams without dedicated design resources.</div>",
-   "title": "A Design System Is What It Does (6 minute read)",
-   "url": "https://matthenry.fyi/posts/a-system-is-what-it-does/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://blog.jim-nielsen.com/2026/dear-software-makers",
-   "issue_date": "2026-10-01",
-   "position": 5,
-   "section": "Opinions & Advice",
-   "summary_html": "<div class=\"newsletter-html\">YouTube's proposed video variant testing prompts a broader warning about optimizing creative work around measurable performance. One should make finished things repeatedly, stand behind creative choices, and learn from each result instead of sanding away originality through endless tests.</div>",
-   "title": "Dear Software Makers (3 minute read)",
-   "url": "https://blog.jim-nielsen.com/2026/dear-software-makers/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://tanstack.com/blog/intent-0.5-skills-you-can-maintain",
-   "issue_date": "2026-10-01",
-   "position": 6,
-   "section": "Launches & Tools",
-   "summary_html": "<div class=\"newsletter-html\">Intent 0.5 brings agent skill authoring, validation, and source review into a library's repository so guidance can evolve with the code it documents. It type-checks JavaScript and TypeScript examples, tracks source changes against mapped guidance, adds CI checks, and offers repair workflows for routine metadata fixes.</div>",
-   "title": "Intent 0.5: Skills You Can Maintain (5 minute read)",
-   "url": "https://tanstack.com/blog/intent-0.5-skills-you-can-maintain"
-  },
-  {
-   "edition": "dev",
-   "id": "https://github.com/openai/mcp-extensions",
-   "issue_date": "2026-10-01",
-   "position": 7,
-   "section": "Launches & Tools",
-   "summary_html": "<div class=\"newsletter-html\">OpenAI MCP Extensions adds ChatGPT-specific capabilities for plugins, including sidebar entry points, file handlers, composer mentions, and richer forms. The repository provides TypeScript and Python SDKs, a specification, documentation, and a Bits &amp; Bolts example under the Apache 2.0 license.</div>",
-   "title": "OpenAI MCP Extensions (GitHub Repo)",
-   "url": "https://github.com/openai/mcp-extensions"
-  },
-  {
-   "edition": "dev",
-   "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon",
-   "issue_date": "2026-10-01",
-   "position": 8,
-   "section": "Launches & Tools",
-   "summary_html": "<div class=\"newsletter-html\">Google introduced Gemini 4 Argon for long-horizon coding, enterprise knowledge work, and defensive cybersecurity, with a 1 million token output limit and phased access through trusted testers. Google reports leading benchmark results and internal engineering gains, while emphasizing prompt injection defenses, misuse safeguards, monitoring, and hardened evaluation environments before broad release.</div>",
-   "title": "Gemini 4 Argon: Our Next Era of Frontier Intelligence (8 minute read)",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
-   "issue_date": "2026-10-01",
-   "position": 9,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">An internal Microsoft analytics service accepted unsigned JWTs, allowing a forged admin identity to run SQL across an environment estimated at 17.3 trillion stored rows. The bounded investigation exposed the consequences of skipping signature verification and showed how persistent agent exploration combined with a human insight to uncover the flaw.</div>",
-   "title": "How I Could've Accessed 17 Trillion Microsoft Records (9 minute read)",
-   "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records"
-  },
-  {
-   "edition": "dev",
-   "id": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents",
-   "issue_date": "2026-10-01",
-   "position": 10,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">Recent incidents involving agents probing network boundaries motivate a closer look at whether conventional sandboxes can contain increasingly capable systems. The analysis weighs better operational security against the harder possibility that containment alone is insufficient when agents can discover vulnerabilities, coordinate, and exploit overlooked paths.</div>",
-   "title": "Is Sandboxing Sufficient to Contain Rogue Agents? (14 minute read)",
-   "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://www.theregister.com/security/2026/09/30/spectre-bug-is-back-this-time-to-haunt-jit-engines/5299937",
-   "issue_date": "2026-10-01",
-   "position": 11,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Branch Target Reuse revives Spectre v2 against JIT engines by reusing stale branch predictions.</div>",
-   "title": "Spectre Bug Returns to Haunt JIT Engines (4 minute read)",
-   "url": "https://www.theregister.com/security/2026/09/30/spectre-bug-is-back-this-time-to-haunt-jit-engines/5299937"
-  },
-  {
-   "edition": "dev",
-   "id": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards",
-   "issue_date": "2026-10-01",
-   "position": 12,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">A photographic tour of modular industrial control panels highlights their reusable components, illuminated states, physical annotations, and tactile switches as both design systems and interaction systems.</div>",
-   "title": "Before Pixels: Modular Industrial Dashboards (2 minute read)",
-   "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://hraness.com/reading/you-said-no-mcp",
-   "issue_date": "2026-10-01",
-   "position": 13,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Pi adopted MCP after Codemode made tool composition practical inside a JavaScript sandbox, while arguing that structured data and smarter discovery are still needed for the protocol to reach its potential.</div>",
-   "title": "You Said No MCP! (2 minute read)",
-   "url": "https://hraness.com/reading/you-said-no-mcp"
-  },
-  {
-   "edition": "dev",
-   "id": "https://www.netlify.com/blog/edge-functions-firecracker-microvms",
-   "issue_date": "2026-10-01",
-   "position": 14,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Netlify moved Edge Functions from hosted V8 isolates to Firecracker MicroVMs inside its edge network, cutting median warm invocation time from 25 to 40 milliseconds down to roughly 5 to 6 milliseconds while improving isolation and reliability.</div>",
-   "title": "Edge Functions Move to Firecracker MicroVMs (9 minute read)",
-   "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/"
-  },
-  {
-   "edition": "dev",
    "id": "https://expo.dev/blog/live-activities-with-expo-end-to-end-client-and-backend",
    "issue_date": "2026-10-02",
    "position": 0,
@@ -4294,166 +4008,6 @@
    "summary_html": "<div class=\"newsletter-html\">Bifrost is an open-source AI gateway with an OpenAI-compatible API, provider failover, load balancing, semantic caching, virtual keys, budgets, and MCP support.</div>",
    "title": "Bifrost (GitHub Repo)",
    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-   "edition": "ai",
-   "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon",
-   "issue_date": "2026-10-01",
-   "position": 0,
-   "section": "Headlines & Launches",
-   "summary_html": "<div class=\"newsletter-html\">Google announced Gemini 4 Argon, a frontier model built for sustained reasoning across software engineering, enterprise knowledge work, and cybersecurity. Access is initially limited to trusted cyber defenders, with broader availability planned after phased safety testing.</div>",
-   "title": "Gemini 4 Argon (9 minute read)",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
-  },
-  {
-   "edition": "ai",
-   "id": "https://links.tldrnewsletter.com/VezRJB",
-   "issue_date": "2026-10-01",
-   "position": 1,
-   "section": "Headlines & Launches",
-   "summary_html": "<div class=\"newsletter-html\">SpaceX is considering an overhaul of its subscription pricing options for Grok and X. It plans to soon offer a unified subscription for the services with four pricing tiers. The options will range from a free offering with stricter usage limits for its Grok chatbot to a $100 per month Ultra tier that includes access to the Grok Bot AI agent. The $8 per month 'lite' plan will include access to Grok, a verified checkmark, and fewer ads on X.</div>",
-   "title": "Musk's SpaceXAI Considers Overhaul of Pricing for Grok, X Users (1 minute read)",
-   "url": "https://links.tldrnewsletter.com/VezRJB"
-  },
-  {
-   "edition": "ai",
-   "id": "https://claude.com/blog/claude-for-government-is-now-generally-available",
-   "issue_date": "2026-10-01",
-   "position": 2,
-   "section": "Headlines & Launches",
-   "summary_html": "<div class=\"newsletter-html\">Claude for Government is now generally available, offering FedRAMP High authorized coding and agent capabilities to federal and state agencies. Agencies receive Anthropic commercial features with robust governance controls and customized administrative options. Early access is also available for Claude Code CLI and Claude for Microsoft 365.</div>",
-   "title": "Claude for Government is now generally available (3 minute read)",
-   "url": "https://claude.com/blog/claude-for-government-is-now-generally-available"
-  },
-  {
-   "edition": "ai",
-   "id": "https://www.goodfire.com/blog/we-can-and-must-solve-alignment",
-   "issue_date": "2026-10-01",
-   "position": 3,
-   "section": "Deep Dives & Analysis",
-   "summary_html": "<div class=\"newsletter-html\">The Goodfire team identifies interpretability as the main challenge in AI alignment, highlighting its critical role in understanding and controlling AI behaviors. They stress the urgency of developing and deploying tools for detecting, debugging, and designing AI systems, focusing on controlling generalization and verifying what models learn. As AI models advance, they seek breakthroughs in interpretability to ensure safe and reliable AI alignment, advocating for a collective effort among the tech community.</div>",
-   "title": "We can and must solve alignment (14 minute read)",
-   "url": "https://www.goodfire.com/blog/we-can-and-must-solve-alignment"
-  },
-  {
-   "edition": "ai",
-   "id": "https://www.alphaxiv.org/abs/2609.33150",
-   "issue_date": "2026-10-01",
-   "position": 4,
-   "section": "Engineering & Research",
-   "summary_html": "<div class=\"newsletter-html\">During pre-training, models can abruptly switch response patterns, a phenomenon termed MODE-HOPPING. Tests reveal this behavior in OLMo3-32B during arithmetic tasks, showing sudden shifts between pattern-following and correct task inference as training progresses. Controlled experiments suggest competing shallow and generalizable circuits within models, revealing that longer training doesn't always guarantee better generalization.</div>",
-   "title": "Generalization Dynamics of LM Pre-training (4 minute read)",
-   "url": "https://www.alphaxiv.org/abs/2609.33150"
-  },
-  {
-   "edition": "ai",
-   "id": "https://runway.com/research/introducing-praxis-1",
-   "issue_date": "2026-10-01",
-   "position": 5,
-   "section": "Engineering & Research",
-   "summary_html": "<div class=\"newsletter-html\">Praxis-1 is an open-weight world action model that turns Runway's video pretraining into control for real robots. The model is currently being tested with early partners, each running on their own hardware. It will be released publicly in the coming months. Clips of robots running the model are available in the post.</div>",
-   "title": "Praxis-1 (5 minute read)",
-   "url": "https://runway.com/research/introducing-praxis-1"
-  },
-  {
-   "edition": "ai",
-   "id": "https://github.com/NVIDIA/OpenShell",
-   "issue_date": "2026-10-01",
-   "position": 6,
-   "section": "Engineering & Research",
-   "summary_html": "<div class=\"newsletter-html\">NVIDIA's OpenShell provides a policy-controlled runtime for autonomous agents, enforcing file, system-call, network, and credential access at the kernel level. It also uses formal verification to identify risky permissions before policy changes are applied.</div>",
-   "title": "NVIDIA OpenShell Secures Autonomous AI Agents (GitHub Repo)",
-   "url": "https://github.com/NVIDIA/OpenShell"
-  },
-  {
-   "edition": "ai",
-   "id": "https://arxiv.org/abs/2609.38149",
-   "issue_date": "2026-10-01",
-   "position": 7,
-   "section": "Engineering & Research",
-   "summary_html": "<div class=\"newsletter-html\">Researchers built LIFT, a transformer that feeds its internal state back into the next generation step instead of squeezing everything through the single token it outputs. Training stays parallel because the states come precomputed from an off-the-shelf model's next-token predictions, while at inference the model feeds back its own. LIFT models from 135M to 1B parameters beat token-matched standard transformers on language modeling, reasoning, and procedural tasks, so the next question is whether the gains hold at frontier scale.</div>",
-   "title": "A new transformer passes its hidden state to the next token instead of recomputing it (25 minute read)",
-   "url": "https://arxiv.org/abs/2609.38149"
-  },
-  {
-   "edition": "ai",
-   "id": "https://links.tldrnewsletter.com/VmBjCJ",
-   "issue_date": "2026-10-01",
-   "position": 8,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">Public AI-doom messaging may harden opposition to the industry rather than improve safety discourse. Repeated extinction warnings from lab employees and researchers can politicize AI, intensify public distrust, and increase pressure for restrictive regulation.</div>",
-   "title": "The AI Safety community is unfortunately doing more harm than good (7 minute read)",
-   "url": "https://links.tldrnewsletter.com/VmBjCJ"
-  },
-  {
-   "edition": "ai",
-   "id": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition",
-   "issue_date": "2026-10-01",
-   "position": 9,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">Factory has fired VC Chris Degnan from his role as a board advisor due to allegations that Degnan shared confidential information with Cognition, Factory's biggest competitor. Degnan joined Cognition as its chief revenue officer two hours after the announcement. He refutes that he was fired and said that he resigned when he told Factory's CEO he was taking the job. There could be consequences for perceived board-level conflicts of interest.</div>",
-   "title": "Factory CEO just accused his VC board adviser of spying for Cognition (6 minute read)",
-   "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/"
-  },
-  {
-   "edition": "ai",
-   "id": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai",
-   "issue_date": "2026-10-01",
-   "position": 10,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Consumer AI faces profitability challenges due to high operational costs and slow growth in consumer willingness to pay.</div>",
-   "title": "The ugly economics of consumer AI (5 minute read)",
-   "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"
-  },
-  {
-   "edition": "ai",
-   "id": "https://www.anthropic.com/research/what-work-can-robots-do",
-   "issue_date": "2026-10-01",
-   "position": 11,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Robots currently can perform 74% of US physical job tasks, yet are cost-effective for only 0.3% due to high expenses.</div>",
-   "title": "Can we predict the jobs robots will do? (60 minute read)",
-   "url": "https://www.anthropic.com/research/what-work-can-robots-do"
-  },
-  {
-   "edition": "ai",
-   "id": "https://e2b.dev/resources/introducing-e2b-embed",
-   "issue_date": "2026-10-01",
-   "position": 12,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">E2B Embed is a way to package E2B with products and run sandboxes within customer environments.</div>",
-   "title": "Introducing E2B Embed (2 minute read)",
-   "url": "https://e2b.dev/resources/introducing-e2b-embed"
-  },
-  {
-   "edition": "ai",
-   "id": "https://ideogram.ai/models/4.5",
-   "issue_date": "2026-10-01",
-   "position": 13,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Ideogram 4.5 is an exceptionally precise image editing model that can make targeted changes while preserving the rest of an image.</div>",
-   "title": "Ideogram 4.5: The most precise edit model (2 minute read)",
-   "url": "https://ideogram.ai/models/4.5"
-  },
-  {
-   "edition": "ai",
-   "id": "https://links.tldrnewsletter.com/VFHse4",
-   "issue_date": "2026-10-01",
-   "position": 14,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">OpenAI detailed a real-world investigation into a coordinated adversarial-distillation campaign that manipulated model interactions to extract protected reasoning at scale.</div>",
-   "title": "How OpenAI Disrupted a Model-Distillation Campaign (5 minute read)",
-   "url": "https://links.tldrnewsletter.com/VFHse4"
-  },
-  {
-   "edition": "ai",
-   "id": "https://deepmind.google/blog/introducing-synthid-bio",
-   "issue_date": "2026-10-01",
-   "position": 15,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">DeepMind introduced SynthID Bio, a watermarking tool for AI-generated proteins that embeds a signature into biological code while maintaining function.</div>",
-   "title": "SynthID Bio: Watermarking methods for synthetic biology (7 minute read)",
-   "url": "https://deepmind.google/blog/introducing-synthid-bio/"
   },
   {
    "edition": "ai",
@@ -5654,6 +5208,576 @@
    "summary_html": "<div class=\"newsletter-html\">Ling-3.1-flash is a native hybrid reasoning model designed for complex, real-world tasks with 560 billion total parameters, 25 billion active parameters per token, and a one-million-token context window.</div>",
    "title": "Ling-3.1-flash (Hugging Face Repo)",
    "url": "https://huggingface.co/inclusionAI/Ling-3.1-flash"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.wsj.com/business/autos/tesla-roadster-elon-musk-530c8e78?st=ersj6a&reflink=desktopwebshare_permalink",
+   "issue_date": "2026-10-16",
+   "position": 0,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">Tesla unveiled its second-generation Roadster sports car on Thursday by having the vehicle launch itself up a curved ramp into a controlled landing. It later leapt over five other Tesla vehicles while twisting in the air. The car is scheduled to enter production in 2028. Tesla has yet to release a price tag. The Roadster can go from a stop to 60 miles an hour in about one second, and it has a top speed of over 230 miles an hour.</div>",
+   "title": "Tesla's New Roadster Takes Flight After Nearly a Decade of Delays (4 minute read)",
+   "url": "https://www.wsj.com/business/autos/tesla-roadster-elon-musk-530c8e78?st=ersj6a&reflink=desktopwebshare_permalink"
+  },
+  {
+   "edition": "tech",
+   "id": "https://venturebeat.com/technology/meta-unveils-muse-spark-open-the-new-top-u-s-open-weights-model-and-it-runs-on-two-paired-mac-desktops",
+   "issue_date": "2026-10-16",
+   "position": 1,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">Muse Spark Open is an 816-billion-parameter open-weight model that can run on relatively affordable consumer hardware. Meta's benchmark tests used a pair of M5 Ultra Mac Studios with an unknown memory configuration. The model uses a mixture-of-experts design and activates 42 billion parameters for each token. It supports a context of up to 1 million tokens and accepts text, images, video, and audio, but only outputs text.</div>",
+   "title": "Meta unveils Muse Spark Open, the new top US open weights model \u2014 and it runs on two paired Mac desktops (18 minute read)",
+   "url": "https://venturebeat.com/technology/meta-unveils-muse-spark-open-the-new-top-u-s-open-weights-model-and-it-runs-on-two-paired-mac-desktops"
+  },
+  {
+   "edition": "tech",
+   "id": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing",
+   "issue_date": "2026-10-16",
+   "position": 2,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Google Quantum AI has demonstrated that 'magic state cultivation' works in practice on its Willow processor. Magic states help researchers create the operations they need for going beyond classical computing. Creating high-quality, error-corrected magic states is incredibly resource-heavy. This post details how Google Quantum AI created a magic state cultivation protocol that achieved a 40-fold reduction in errors. The breakthrough is a crucial step towards scaling up quantum computing to practical use.</div>",
+   "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing (3 minute read)",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.construction-physics.com/p/how-to-train-your-robot",
+   "issue_date": "2026-10-16",
+   "position": 3,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Training an AI model fundamentally requires lots and lots of examples of something being done correctly. Creating this data for training robots is expensive, and companies need a lot of data to train competent models. Large language models showed the benefits of scale when training models. Researchers are now working hard to gather enormous amounts of robot task training data in the hopes of seeing the same sort of trends with robotic capabilities.</div>",
+   "title": "How to Train Your Robot (22 minute read)",
+   "url": "https://www.construction-physics.com/p/how-to-train-your-robot"
+  },
+  {
+   "edition": "tech",
+   "id": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware",
+   "issue_date": "2026-10-16",
+   "position": 4,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">Developers are using Claude to debug hardware issues. AIs can read thousands of lines of USB capture, notice sequence repeats with one byte changing, make suggestions on what that byte means, and write the tests to confirm its suggestions. A human is still required to decide what to build and check that the fix runs on real hardware, but AI takes away a lot of the slog. The post includes a link to a harness with a small set of tools that help with reverse engineering Linux drivers.</div>",
+   "title": "Using Artificial Intelligence to reverse engineer hardware (10 minute read)",
+   "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies",
+   "issue_date": "2026-10-16",
+   "position": 5,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">Tech companies are building internal vibe-coding tools for non-engineers. It's not that complicated, it gets higher adoption than vendor products, and it helps build out more AI intra expertise in-house. Building an internal vibe-coding tool is a tiny investment that can result in better, more custom tools than with vendor products, and companies don't have to wait on vendors to build what's needed. It's also a lot safer to expose internal data sources to internal tools.</div>",
+   "title": "New trend of building \u201cinternal vibe-coding apps\u201d at tech companies (6 minute read)",
+   "url": "https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://every.to/p/how-codex-happened",
+   "issue_date": "2026-10-16",
+   "position": 6,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Codex started as a scrappy effort to build an AI software engineer. The team building it had launched a version in the cloud, but it didn't find product-market fit. OpenAI took the project and made it the centerpiece of its comeback. This post tells the inside story of how Codex was created.</div>",
+   "title": "How Codex Happened (45 minute read)",
+   "url": "https://every.to/p/how-codex-happened"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+   "issue_date": "2026-10-16",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">CoreWeave has taken on more than $51 billion of debt and obligations to finance its AI infrastructure buildout. Stock and bond investors are now showing signs of being concerned about AI overspending and debt levels. Yields on CoreWeave debt continue to climb. The spread on its five-year credit default swaps has soared. No one is questioning whether demand for CoreWeave's services is real, but the cash flow needs to arrive to justify all of the capex spending.</div>",
+   "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt (4 minute read)",
+   "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://lemire.me/blog/2026/10/15/redis-now-has-compressed-bitmaps-roaring",
+   "issue_date": "2026-10-16",
+   "position": 8,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Compressed bitmaps store a set of integers in a form that takes little room when the set is sparse.</div>",
+   "title": "Redis now has compressed bitmaps (Roaring) (3 minute read)",
+   "url": "https://lemire.me/blog/2026/10/15/redis-now-has-compressed-bitmaps-roaring/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://fintechtakes.com/articles/2026-10-15/moneys-public-cloud-moment",
+   "issue_date": "2026-10-16",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Stablecoins are the public cloud moment for global money movement.</div>",
+   "title": "Money's Public Cloud Moment (22 minute read)",
+   "url": "https://fintechtakes.com/articles/2026-10-15/moneys-public-cloud-moment/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://time.com/collection/best-inventions/2026/apple-iphone-duo",
+   "issue_date": "2026-10-16",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Ternus has so far played to his own strengths rather than trying to replicate his forerunners' styles of success.</div>",
+   "title": "John Ternus Is Engineering a New Era for Apple (22 minute read)",
+   "url": "https://time.com/collection/best-inventions/2026/apple-iphone-duo/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://weli.dev/blog/the-cost-of-getting-a-job-today",
+   "issue_date": "2026-10-16",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Every job expects employees to be able to use AI, but using AI costs money, which adds pressure when job seeking.</div>",
+   "title": "The Cost of Getting a Job Today (5 minute read)",
+   "url": "https://weli.dev/blog/the-cost-of-getting-a-job-today/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.perplexity.ai/hub/blog/open-sourcing-space",
+   "issue_date": "2026-10-16",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Perplexity's SPACE provides a foundation for building safer agent systems.</div>",
+   "title": "Open-sourcing SPACE, the sandbox platform behind Computer (6 minute read)",
+   "url": "https://www.perplexity.ai/hub/blog/open-sourcing-space"
+  },
+  {
+   "edition": "tech",
+   "id": "https://avdi.codes/lies-damn-lies-and-github-stars",
+   "issue_date": "2026-10-16",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Repositories used to only pile up GitHub stars if they were genuinely in widespread use over a long period of time, but influencers can make something look real when it isn't.</div>",
+   "title": "Lies, Damn Lies, and GitHub Stars (6 minute read)",
+   "url": "https://avdi.codes/lies-damn-lies-and-github-stars/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.digitalocean.com/blog/microvm-architecture",
+   "issue_date": "2026-10-16",
+   "position": 0,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">DigitalOcean's Firecracker platform separates agent sessions from their hosts using checkpointed disk, memory, and virtual-device state, with lazy loading to avoid downloading whole snapshots before resuming. Internal tests report under 200 milliseconds at p50 on the warm-template path, while external connections and API side effects remain outside the checkpoint.</div>",
+   "title": "Building a computer that can pause and resume in milliseconds: Inside the MicroVM architecture behind Managed Agents (20 minute read)",
+   "url": "https://www.digitalocean.com/blog/microvm-architecture"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.nibzard.com/agent-computer",
+   "issue_date": "2026-10-16",
+   "position": 1,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Agent teams should specify their execution environment, test recovery on real workloads, and start with managed infrastructure unless ownership offers a concrete advantage. The evaluation checklist covers persistent files, expired logins, interrupted external actions, access boundaries, and cost per accepted result.</div>",
+   "title": "Build the agent. Don't build its computer (20 minute read)",
+   "url": "https://www.nibzard.com/agent-computer"
+  },
+  {
+   "edition": "dev",
+   "id": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering",
+   "issue_date": "2026-10-16",
+   "position": 2,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Meta built Forum with agents participating in planning, implementation, testing, and verification while engineers retained architectural judgment and final sign-off. The team improved results through simpler code, tools that inspect live app state, repeatable UI stress tests, and a separate build that excludes prototype code from production.</div>",
+   "title": "How Meta Built Forum With AI-Native Engineering (8 minute read)",
+   "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host",
+   "issue_date": "2026-10-16",
+   "position": 3,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">A home server runs 28 services, including Jellyfin, Immich, Home Assistant, and Vaultwarden, on a mini PC with 16 GB of RAM. The setup favors simple native services and systemd-managed Podman containers, keeps services behind a VPN, and rejects tools whose operational complexity outweighs their value.</div>",
+   "title": "What I Self-Host (15 minute read)",
+   "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://efp.asia/blog/2026/10/15/code-is-a-commodity-now",
+   "issue_date": "2026-10-16",
+   "position": 4,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Cheaper code generation could push software agencies away from selling development hours and toward domain expertise, product judgment, and accountability for outcomes. The essay argues that smaller generalist teams and changing hiring signals follow from this shift, while acknowledging mixed productivity evidence and the cost of verifying changes in mature codebases.</div>",
+   "title": "Code Is a Commodity Now (11 minute read)",
+   "url": "https://efp.asia/blog/2026/10/15/code-is-a-commodity-now/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://cutler.sg/blog/2026-10-measure-agent-review-time",
+   "issue_date": "2026-10-16",
+   "position": 5,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Measure agent workflows by the human effort and agent spend required to reach an accepted result, including time spent briefing, supervising, reviewing, correcting, and verifying the work. Keep failed attempts and manual rescues in the totals so successful tasks do not hide the cost of unsuccessful ones. Track quality and later defects alongside time, and compare similar tasks under the same acceptance criteria before claiming productivity gains.</div>",
+   "title": "How to Measure the Human Cost of Agent Work (8 minute read)",
+   "url": "https://cutler.sg/blog/2026-10-measure-agent-review-time"
+  },
+  {
+   "edition": "dev",
+   "id": "https://blog.cloudflare.com/deploy-with-void",
+   "issue_date": "2026-10-16",
+   "position": 6,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Void combines an open-source deployment platform, SDK, and CLI to bring full-stack development and Cloudflare deployment into a Vite workflow. It infers resource bindings and provisions infrastructure during deployment, while the shared platform lets administrators control team access, resource limits, and deployments.</div>",
+   "title": "Deploy with Void (7 minute read)",
+   "url": "https://blog.cloudflare.com/deploy-with-void"
+  },
+  {
+   "edition": "dev",
+   "id": "https://research.meta.ai/blog/muse-spark-open",
+   "issue_date": "2026-10-16",
+   "position": 7,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Meta has released Muse Spark Open, a multimodal model with 816 billion total parameters, 42 billion active parameters, and a one-million-token context window. It supports coding and agentic workflows through hosted APIs or local inference, including on two M5 Ultra Mac Studios, with weights available under a license that includes limited commercial terms.</div>",
+   "title": "Muse Spark Open (4 minute read)",
+   "url": "https://research.meta.ai/blog/muse-spark-open"
+  },
+  {
+   "edition": "dev",
+   "id": "https://devin.ai/blog/introducing-devin-oncall",
+   "issue_date": "2026-10-16",
+   "position": 8,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Devin Oncall is generally available for investigating and remediating production issues, using company-specific skills and memory alongside a coding agent. Responders group related alerts and skip known issues, while an asynchronous review agent challenges unsupported diagnoses and premature conclusions.</div>",
+   "title": "Introducing Devin Oncall (11 minute read)",
+   "url": "https://devin.ai/blog/introducing-devin-oncall"
+  },
+  {
+   "edition": "dev",
+   "id": "https://planetscale.com/blog/leaky-buckets-in-software-explained",
+   "issue_date": "2026-10-16",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Leaky buckets provide cheap admission control by calculating available capacity from a stored level and timestamp whenever new work arrives. The article connects this approach to API rate limits and PlanetScale's Postgres Traffic Control, which uses resource budgets to admit or block queries before execution and recommends testing budgets in warning mode first.</div>",
+   "title": "What today's software owes to Bronze Age clocks (9 minute read)",
+   "url": "https://planetscale.com/blog/leaky-buckets-in-software-explained"
+  },
+  {
+   "edition": "dev",
+   "id": "https://semiengineering.com/how-close-are-we-to-fully-autonomous-chip-design",
+   "issue_date": "2026-10-16",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Synopsys describes using orchestrated task agents to turn specifications into verified RTL, while full autonomy through physical implementation and chip sign-off remains a goal. Human engineers still define architectures and approve manufacturing, with advanced packaging and physical AI adding demands for coordinated multiphysics analysis.</div>",
+   "title": "How Close Are We To Fully Autonomous Chip Design? (21 minute read)",
+   "url": "https://semiengineering.com/how-close-are-we-to-fully-autonomous-chip-design/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://every.to/p/how-codex-happened",
+   "issue_date": "2026-10-16",
+   "position": 11,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Codex emerged from parallel efforts in research automation and coding-product design, followed by a pivot after the initial cloud product struggled to find traction. The account traces the shift toward local workflows, a shared Rust agent core, and models trained for interactive work in messy codebases.</div>",
+   "title": "How Codex Happened (38 minute read)",
+   "url": "https://every.to/p/how-codex-happened"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.dainemawer.com/shared-typescript-nextjs-expo-monorepo",
+   "issue_date": "2026-10-16",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">A shared TypeScript domain layer gives Next.js and Expo common types, validation schemas, and an API client while keeping platform-specific behavior inside each app.</div>",
+   "title": "Sharing a TypeScript Domain Layer Between Next.js and Expo (9 minute read)",
+   "url": "https://www.dainemawer.com/shared-typescript-nextjs-expo-monorepo"
+  },
+  {
+   "edition": "dev",
+   "id": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+   "issue_date": "2026-10-16",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Vercel's October AI Gateway index reports that open-weight models handled 71.5% of September tokens and 23% of estimated spend, while average price per token fell 47% from December.</div>",
+   "title": "Open weight takes 71.5% of tokens and 23% of spend (7 minute read)",
+   "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026"
+  },
+  {
+   "edition": "dev",
+   "id": "https://bra31k.dev/en/blog/same-bytes-17-percent-faster",
+   "issue_date": "2026-10-16",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Earlier loading, preload hints, and shared initialization promises made a 9.2 MB Skia WebAssembly module render its first canvas roughly 17% to 18% faster in the reported A/B test without meaningfully shrinking the download.</div>",
+   "title": "How we made a 9 MB WebAssembly module feel faster without removing a single byte (11 minute read)",
+   "url": "https://bra31k.dev/en/blog/same-bytes-17-percent-faster/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems",
+   "issue_date": "2026-10-16",
+   "position": 15,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Long agentic reinforcement-learning rollouts make harness state, tool-call serialization, branching trajectories, and numerical differences between inference and training harder to keep consistent.</div>",
+   "title": "Mo' turns, mo' problems (5 minute read)",
+   "url": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://research.meta.ai/blog/muse-spark-open",
+   "issue_date": "2026-10-16",
+   "position": 0,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Muse Spark Open is an 816B-parameter multimodal open-weight model with 42B active parameters and a 1M-token context window. It was designed for coding and long-horizon agentic tasks and can run locally across two Apple M5 Ultra Mac Studios using MLX.</div>",
+   "title": "Muse Spark Open (4 minute read)",
+   "url": "https://research.meta.ai/blog/muse-spark-open"
+  },
+  {
+   "edition": "ai",
+   "id": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai",
+   "issue_date": "2026-10-16",
+   "position": 1,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Microsoft detailed the training of MAI-Base-2, a 2.8T-parameter mixture-of-experts model with 80B active parameters that it said surpassed every open-weight model in its held-out pre-training evaluations. The deep dive covers its data strategy, compute efficiency, full-stack infrastructure, and Microsoft's plans to turn internally trained frontier models into enterprise offerings through Foundry.</div>",
+   "title": "Inside Microsoft's Frontier Pre-Training Stack (18 minute read)",
+   "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.liquid.ai/blog/d1-ultra",
+   "issue_date": "2026-10-16",
+   "position": 2,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Liquid AI's d1-ultra is a multimodal decision model designed for complex real-world tasks like detecting defects on circuit boards. The model processes text and images and provides better-calibrated answers and higher accuracy than previous models like Jev 1.14. Available on the Liquid API, d1-ultra is priced at $0.042 per million input tokens and will soon be accessible via Vercel and OpenRouter.</div>",
+   "title": "d1-ultra: Introducing the World's Best Decision Model (3 minute read)",
+   "url": "https://www.liquid.ai/blog/d1-ultra"
+  },
+  {
+   "edition": "ai",
+   "id": "https://already-clean.goodfire.com/",
+   "issue_date": "2026-10-16",
+   "position": 3,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">The cause of polysemanticity in early model organisms was thought to be superposition. This convinced much of the field that networks pack concepts arbitrarily, but what looked like arbitrary packing was mostly recursive generalization, which is less concerning. This means networks can be studied directly, instead of needing to be untangled first. The outlook for mechanistic interpretability may be far better than we thought.</div>",
+   "title": "Neural Networks Are Already Clean (65 minute read)",
+   "url": "https://already-clean.goodfire.com/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://richardli.xyz/post/gradient-is-covariance",
+   "issue_date": "2026-10-16",
+   "position": 4,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Reinforcement learning, on-policy distillation, and supervised fine-tuning on near-policy data change only a small fraction of parameters. Small and sparse are different claims. The expected gradient is a covariance, the Fisher is a variance, and the Fisher caps the gradient for any reward. At one position, the Fisher is the variance of logit sensitivities: whatever moves every candidate together counts for nothing. None of this needs on-policy sampling - it needs a score centered under the sampling distribution.</div>",
+   "title": "The Gradient Is a Covariance (8 minute read)",
+   "url": "https://richardli.xyz/post/gradient-is-covariance/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems",
+   "issue_date": "2026-10-16",
+   "position": 5,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Doing reinforcement learning for agent use-cases is conceptually not at all that complicated. For each problem, you set up a VM with a harness and a fresh model context, send the prompt, let the model make tool calls, score the whole thing at the end, and update the weights. Agentic post-training means there's more than the model to consider. Even when the harness is consistent, you can still go off-policy with the trajectories themselves. Agents spawn subagents, make parallel tool calls, and compact large sessions, which adds complexity.</div>",
+   "title": "Mo' turns, mo' problems (6 minute read)",
+   "url": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
+   "issue_date": "2026-10-16",
+   "position": 6,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Nvidia released Nemotron 3.5 Super VL, a multimodal reasoning model that scored 26.5 on Artificial Analysis' Intelligence Index while using substantially fewer output tokens than its predecessor. The company also introduced the smaller Nemotron 3.5 Bolt 74B-A9B and near-lossless NVFP4 quantized weights.</div>",
+   "title": "Nvidia released Nemotron 3.5 Super VL (5 minute read)",
+   "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.krea.ai/krea-3",
+   "issue_date": "2026-10-16",
+   "position": 7,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Krea 3 is an image editing model built for production. It can finish an edit in under eight seconds, costing only $0.06 per image. The model was built for production and is four times faster than Nano Banana Pro. It can combine up to eight references into one picture.</div>",
+   "title": "Krea 3 (Website)",
+   "url": "https://www.krea.ai/krea-3"
+  },
+  {
+   "edition": "ai",
+   "id": "https://threadreaderapp.com/thread/2110797830361436604.html",
+   "issue_date": "2026-10-16",
+   "position": 8,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">GPT-Live-1.1 features new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese. The voices have better accents, and there is less 'checking'. The model is available in ChatGPT, Codex, and dots. It is rolling out now to all users and coming soon to the API.</div>",
+   "title": "GPT-Live-1.1 (1 minute read)",
+   "url": "https://threadreaderapp.com/thread/2110797830361436604.html"
+  },
+  {
+   "edition": "ai",
+   "id": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+   "issue_date": "2026-10-16",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Open-weight models now process more than seven in ten gateway tokens and account for nearly one in four dollars. Their share of spend has more than quadrupled since June. Almost one in three teams changed their most-used lab in September, an index record. Jev was the fastest-adopted model in AI Gateway history, but it only accounted for about 0.27% of gateway spend.</div>",
+   "title": "Open weight takes 71.5% of tokens and 23% of spend (7 minute read)",
+   "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+   "issue_date": "2026-10-16",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic began giving METR employee-like access to models, training information, safeguards, and other internal material so it could independently assess frontier-model risks and publish its conclusions.</div>",
+   "title": "Anthropic Expanded Independent Access to Its AI Safety Work (3 minute read)",
+   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+  },
+  {
+   "edition": "ai",
+   "id": "https://bfl.ai/blog/flux-3-image-klein",
+   "issue_date": "2026-10-16",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Black Forest Labs released FLUX 3 Image Klein, a 5.6B-parameter open-weight model that supports text-to-image generation, editing, native 4K output, and up to 10 reference images.</div>",
+   "title": "FLUX 3 Image Klein (4 minute read)",
+   "url": "https://bfl.ai/blog/flux-3-image-klein"
+  },
+  {
+   "edition": "ai",
+   "id": "https://every.to/p/how-codex-happened",
+   "issue_date": "2026-10-16",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI's Codex evolved from a failed cloud launch to becoming the cornerstone of OpenAI's products, gaining over 40 million weekly users.</div>",
+   "title": "How Codex Happened (40 minute read)",
+   "url": "https://every.to/p/how-codex-happened"
+  },
+  {
+   "edition": "ai",
+   "id": "https://x.com/_chenglou/status/2110557373651931267",
+   "issue_date": "2026-10-16",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Handwired converts ordinary JavaScript code into neural networks that reproduce exact program outputs without training or GPUs.</div>",
+   "title": "Introducing Handwired: JavaScript as Neural Networks (1 minute read)",
+   "url": "https://x.com/_chenglou/status/2110557373651931267"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.perplexity.ai/hub/blog/open-sourcing-space",
+   "issue_date": "2026-10-16",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Perplexity has open-sourced SPACE, the sandbox infrastructure behind its Computer agent.</div>",
+   "title": "Perplexity Open-Sourced Its Agent Sandbox (4 minute read)",
+   "url": "https://www.perplexity.ai/hub/blog/open-sourcing-space"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+   "issue_date": "2026-10-16",
+   "position": 0,
+   "section": "Headlines and Launches",
+   "summary_html": "<div class=\"newsletter-html\">ASML sold 113 new lithography systems in Q3, up from 86, for record sales of \u20ac11.7 billion. It now expects planned 2027 and 2028 supply to fall short of demand, even after its planned 30% capacity boost on a 2026 base of about 65 low-NA EUV and 130 DUV immersion tools, and is investigating adding more for 2028. Some customers want to place orders for 2029 and 2030. Q4 sales are guided to \u20ac14.2 to \u20ac15.2 billion.</div>",
+   "title": "ASML says 2027 and 2028 tool supply won't meet demand as Q3 shipments hit 113 systems (3 minute read)",
+   "url": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing",
+   "issue_date": "2026-10-16",
+   "position": 1,
+   "section": "Headlines and Launches",
+   "summary_html": "<div class=\"newsletter-html\">Google ran magic state cultivation on its Willow chip, cutting errors about 40x versus uncultivated states and reaching a record 99.99% logical fidelity for T-states. Magic states are a bottleneck because making them could consume up to 95% of a quantum computer's capacity. Cultivation injects a noisy state into a small chip region, then uses coordinated measurements to discard flawed attempts, and Google grafted a distance-3 color code onto a distance-5 surface code. Larger-scale demonstrations are still needed.</div>",
+   "title": "Google's Willow chip cuts quantum magic-state errors 40x with cultivation (4 minute read)",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.servethehome.com/inside-the-secretive-aws-networking-lab",
+   "issue_date": "2026-10-16",
+   "position": 2,
+   "section": "Engineering and Applications",
+   "summary_html": "<div class=\"newsletter-html\">ServeTheHome toured AWS' in-house networking lab, covering switches from 3.2 Tbps to 102.4 Tbps (1.6T OSFP ports, not yet in volume), a 12.8 Tbps switch with 16 FPGAs encrypting every port, and a dedicated satellite-referenced timing network. It also saw 64-wavelength DWDM modules and hollow-core fiber with about 33% lower latency.</div>",
+   "title": "Inside the Secretive AWS Networking Lab (7 minute read)",
+   "url": "https://www.servethehome.com/inside-the-secretive-aws-networking-lab/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket",
+   "issue_date": "2026-10-16",
+   "position": 3,
+   "section": "Engineering and Applications",
+   "summary_html": "<div class=\"newsletter-html\">Rocket Lab moved Neutron's debut to 2027 after finding voids in the carbon-composite layers of the forward dome on its first-stage propellant tank. A replacement dome is being built, and Rocket Lab must still inspect it, assemble the first stage, and complete pressure and cryogenic tests before setting a firm date. It's the rocket's fourth slip since its 2021 unveiling, following a January tank rupture in testing, and shares fell about 10% after hours.</div>",
+   "title": "Rocket Lab delays Neutron to 2027 over voids in a carbon-composite tank dome (3 minute read)",
+   "url": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://semiengineering.com/thermal-co-simulation-testing-of-co-packaged-optics",
+   "issue_date": "2026-10-16",
+   "position": 4,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">Ayar Labs and GUC simulated a 105mm by 140mm package with two XPUs, eight HBM4 stacks, and eight TeraPHY optical engines, offering over 100 Tbps of optical bandwidth at more than 3 kW. A standard air heatsink at 5 to 6 m/s failed spec, while an impingement liquid cold plate at 4.5 L/min kept the optical engines under 100\u00b0C. Results use static power assumptions, so dynamic workload simulation is next.</div>",
+   "title": "Ayar Labs and GUC simulate a 3 kW co-packaged optics package, and only liquid cooling holds spec (4 minute read)",
+   "url": "https://semiengineering.com/thermal-co-simulation-testing-of-co-packaged-optics/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://spectrum.ieee.org/monazite-rare-earth",
+   "issue_date": "2026-10-16",
+   "position": 5,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">Monazite ore is 45 to 70 percent rare earths by weight and carries all four elements motor magnets need (neodymium, praseodymium, dysprosium, and terbium), making it a leading path around China's roughly 90 percent market share. The catch is thorium, whose waste must be stored indefinitely. Energy Fuels already produces neodymium-praseodymium oxide plus pilot dysprosium and terbium at its Utah mill, while Saskatchewan's government-backed plant has produced little after six years and over CA$100 million.</div>",
+   "title": "Monazite ore could supply EV motor magnet metals, if the thorium waste can be handled (19 minute read)",
+   "url": "https://spectrum.ieee.org/monazite-rare-earth"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.reuters.com/legal/litigation/qualcomm-says-jury-found-arm-breached-license-agreement-2026-10-13",
+   "issue_date": "2026-10-16",
+   "position": 6,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">A Delaware jury found Arm breached its architectural license with Qualcomm by failing to provide software patches and tools for its designs, and intentionally interfered with Qualcomm's Meta chip talks, but awarded just $2 in damages. Arm won five other breach claims, and Qualcomm's license runs through 2033, so its Oryon CPU work continues. Both sides claimed vindication, with Qualcomm shares up about 2.5% and Arm down about 2.2%.</div>",
+   "title": "Jury finds Arm breached Qualcomm's chip license but awards just $2 (3 minute read)",
+   "url": "https://www.reuters.com/legal/litigation/qualcomm-says-jury-found-arm-breached-license-agreement-2026-10-13/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.tomshardware.com/tech-industry/drones/spacex-limits-starlink-service-for-ukraines-high-speed-military-drones-without-prior-warning-ukrainian-officials-say-limitation-significantly-complicates-logistics-and-drone-operations",
+   "issue_date": "2026-10-16",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Ukrainian officials say SpaceX capped speeds on military Starshield terminals mounted on drones, with no warning and no stated reason. The cap is nominally 160 km/h, but the 7th Rapid Reaction Corps reports 10- to 20-second connection drops at just 110 to 120 km/h, and a volunteer says drops now start at 60 to 70 km/h. Multiple missions were cancelled. Officials suspect it's intentional, and Ukrainian firm Stetman is developing an alternative satellite system, UASAT-NANO.</div>",
+   "title": "SpaceX reportedly speed-limits Starshield terminals on Ukrainian drones, cancelling missions (3 minute read)",
+   "url": "https://www.tomshardware.com/tech-industry/drones/spacex-limits-starlink-service-for-ukraines-high-speed-military-drones-without-prior-warning-ukrainian-officials-say-limitation-significantly-complicates-logistics-and-drone-operations"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.igorslab.de/en/nvidia-rtx-spark-ai-superchip-laptop-platform-dlss-push",
+   "issue_date": "2026-10-16",
+   "position": 8,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">NVIDIA's RTX Spark pairs a Blackwell GPU with a Grace CPU and up to 128 GB of shared LPDDR5X, with laptops due October 16 and compact desktops in November.</div>",
+   "title": "NVIDIA RTX Spark: AI Platform, Laptop Chip and DLSS 5 (25 minute read)",
+   "url": "https://www.igorslab.de/en/nvidia-rtx-spark-ai-superchip-laptop-platform-dlss-push/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse",
+   "issue_date": "2026-10-16",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Amazon's Bee launched Bee Frontier, a wrist or clip-on AI recorder with dual noise-filtering microphones, IP67 water resistance, and seven days of battery, for $74.99.</div>",
+   "title": "Amazon's Bee launches a $75 wrist-worn AI recorder and a magnetic phone attachment with 21-day battery (3 minute read)",
+   "url": "https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us",
+   "issue_date": "2026-10-16",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Reuters reports Solidigm wants US approval to ship more American chipmaking tools to SK Hynix's Dalian, China fab, as a condition of building a US NAND factory.</div>",
+   "title": "Solidigm reportedly ties a US NAND fab to more tool exports for SK Hynix's China plant (2 minute read)",
+   "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.phoronix.com/news/AI-Reverse-Engineer-Linux-HW",
+   "issue_date": "2026-10-16",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Red Hat's Christian Schaller used Claude Code to get a Pustek 8200i film scanner working on Linux, capturing USB traffic from the vendor's Windows driver in a VM to write a SANE driver.</div>",
+   "title": "Red Hat engineer uses Claude Code to reverse-engineer a scanner and fix a MIPI webcam on Linux (2 minute read)",
+   "url": "https://www.phoronix.com/news/AI-Reverse-Engineer-Linux-HW"
   }
  ]
 }
