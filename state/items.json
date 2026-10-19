@@ -13,6 +13,7 @@
   "ai/2026-10-14": "2026-10-14T15:11:38+00:00",
   "ai/2026-10-15": "2026-10-15T15:04:01+00:00",
   "ai/2026-10-16": "2026-10-16T14:53:43+00:00",
+  "ai/2026-10-19": "2026-10-19T17:00:00+00:00",
   "dev/2026-09-30": "2026-10-14T20:13:06+00:00",
   "dev/2026-10-01": "2026-10-14T15:11:26+00:00",
   "dev/2026-10-02": "2026-10-14T15:11:27+00:00",
@@ -26,6 +27,7 @@
   "dev/2026-10-14": "2026-10-14T15:11:31+00:00",
   "dev/2026-10-15": "2026-10-15T15:03:59+00:00",
   "dev/2026-10-16": "2026-10-16T14:53:40+00:00",
+  "dev/2026-10-19": "2026-10-19T16:59:58+00:00",
   "hardware/2026-09-30": "2026-10-14T15:11:40+00:00",
   "hardware/2026-10-02": "2026-10-13T23:08:31+00:00",
   "hardware/2026-10-05": "2026-10-13T23:08:32+00:00",
@@ -34,6 +36,7 @@
   "hardware/2026-10-12": "2026-10-13T23:08:35+00:00",
   "hardware/2026-10-14": "2026-10-14T15:11:41+00:00",
   "hardware/2026-10-16": "2026-10-16T14:53:45+00:00",
+  "hardware/2026-10-19": "2026-10-19T17:00:03+00:00",
   "tech/2026-09-30": "2026-10-14T20:13:03+00:00",
   "tech/2026-10-01": "2026-10-14T15:11:19+00:00",
   "tech/2026-10-02": "2026-10-14T15:11:20+00:00",
@@ -46,7 +49,8 @@
   "tech/2026-10-13": "2026-10-13T23:08:15+00:00",
   "tech/2026-10-14": "2026-10-14T15:11:24+00:00",
   "tech/2026-10-15": "2026-10-15T15:03:56+00:00",
-  "tech/2026-10-16": "2026-10-16T14:53:38+00:00"
+  "tech/2026-10-16": "2026-10-16T14:53:38+00:00",
+  "tech/2026-10-19": "2026-10-19T16:59:55+00:00"
  },
  "items": [
   {
@@ -2341,126 +2345,6 @@
   },
   {
    "edition": "hardware",
-   "id": "https://frame.work/blog/192gb-framework-desktop-open-for-pre-order",
-   "issue_date": "2026-10-02",
-   "position": 0,
-   "section": "Headlines and Launches",
-   "summary_html": "<div class=\"newsletter-html\">The new Framework Desktop pairs AMD's Ryzen AI Max PRO 495+ with 192GB of LPDDR5X and 273GB/s of memory bandwidth, and it ships in November as a DIY kit, a Fedora prebuilt, or a bare Mini-ITX board. Its PCIe x4 slot is now open-ended, so full-size x8 or x16 cards fit without a riser, letting owners add 50Gbps networking to cluster several machines for faster inference. Framework expects memory prices to keep rising for six months and tells buyers to pick their capacity now.</div>",
-   "title": "Framework is selling one batch of its 192GB desktop, built from memory it already has (3 minute read)",
-   "url": "https://frame.work/blog/192gb-framework-desktop-open-for-pre-order"
-  },
-  {
-   "edition": "hardware",
-   "id": "https://www.dyna.co/dyna-2.1",
-   "issue_date": "2026-10-02",
-   "position": 1,
-   "section": "Headlines and Launches",
-   "summary_html": "<div class=\"newsletter-html\">Dyna-2.1 introduces a semi-humanoid robot named Taku that is designed to autonomously complete long-horizon, complex physical workflows. The system utilizes a dual-model software architecture where a vision-language model monitors the environment while a separate model coordinates whole-body manipulation, allowing the robot to dynamically switch tasks. It highlights a major shift toward utilizing integrated foundation models and highly flexible physical platforms to automate complex, multi-step commercial and industrial service roles.</div>",
-   "title": "Dyna-2.1: A Robot/Model for Unsupervised Long-Horizon Workflows (5 minute read)",
-   "url": "https://www.dyna.co/dyna-2.1"
-  },
-  {
-   "edition": "hardware",
-   "id": "https://www.automate.org/ai/industry-insights/ikea-is-about-to-take-the-driver-out-of-a-219-mile-freight-run",
-   "issue_date": "2026-10-02",
-   "position": 2,
-   "section": "Headlines and Launches",
-   "summary_html": "<div class=\"newsletter-html\">Kodiak AI is preparing to launch a driverless commercial shipping route for IKEA Supply along a 219-mile section of Interstate 45 in Texas. The milestone follows four years of collaborative testing during which they successfully completed over 1,300 runs to resolve operational complexities like scheduling, predictive maintenance, and dock assignment. It serves as a prime case study of how custom autonomous technology can successfully transition from controlled, simulated environments into the real-world logistics and shipping infrastructure.</div>",
-   "title": "IKEA and Kodiak Prepare for Autonomous Freight Operations (4 minute read)",
-   "url": "https://www.automate.org/ai/industry-insights/ikea-is-about-to-take-the-driver-out-of-a-219-mile-freight-run"
-  },
-  {
-   "edition": "hardware",
-   "id": "https://payloadspace.com/transporter-18-tests-the-building-blocks-of-orbital-data-centers",
-   "issue_date": "2026-10-02",
-   "position": 3,
-   "section": "Headlines and Launches",
-   "summary_html": "<div class=\"newsletter-html\">SpaceX's Transporter-18 launched three payloads testing technologies for orbital data centers. Cowboy Space's Reason-1 tests beaming solar power via laser, Google's Project Suncatcher runs AI chips on solar in orbit to evaluate durability, and Star Catcher's Protostar aims to validate power-beaming to satellites. These tests are crucial for building infrastructure to support future AI computing and data centers in space.</div>",
-   "title": "Transporter-18 Tests the Building Blocks of Orbital Data Centers (5 minute read)",
-   "url": "https://payloadspace.com/transporter-18-tests-the-building-blocks-of-orbital-data-centers/"
-  },
-  {
-   "edition": "hardware",
-   "id": "https://semiengineering.com/crossing-chiplet-boundaries-with-pcie-over-ucie",
-   "issue_date": "2026-10-02",
-   "position": 4,
-   "section": "Engineering and Applications",
-   "summary_html": "<div class=\"newsletter-html\">PCIe 8.0 traffic can cross chiplet boundaries through UCIe 3.0, but engineers must coordinate both protocols' power, reset, and recovery states. Timing mismatches can cause completion timeouts, dropped traffic, and deadlocks. Siemens' verification tools trace transactions across both layers and inject faults before silicon bring-up.</div>",
-   "title": "Crossing Chiplet Boundaries With PCIe Over UCIe (5 minute read)",
-   "url": "https://semiengineering.com/crossing-chiplet-boundaries-with-pcie-over-ucie/"
-  },
-  {
-   "edition": "hardware",
-   "id": "https://semiengineering.com/memory-at-the-edge-non-volatile-memory-challenges-and-requirements-for-humanoid-robots",
-   "issue_date": "2026-10-02",
-   "position": 5,
-   "section": "Engineering and Applications",
-   "summary_html": "<div class=\"newsletter-html\">Humanoid robots need different memory architectures for centralized AI compute and distributed joint control. Flash and EEPROM can delay writes by 5-10 milliseconds, which risks lost position data during power failures. The article maps F-RAM to continuous telemetry, safety-capable NOR Flash to boot storage, and high-speed NOR Flash to time-sensitive networking.</div>",
-   "title": "Memory At The Edge: Non-Volatile Memory Challenges And Requirements For Humanoid Robots (8 minute read)",
-   "url": "https://semiengineering.com/memory-at-the-edge-non-volatile-memory-challenges-and-requirements-for-humanoid-robots/"
-  },
-  {
-   "edition": "hardware",
-   "id": "https://www.cnx-software.com/2026/09/30/openarm-2-0-an-open-source-7-dof-robot-arm-with-qdd-joints-bilateral-force-feedback-in-hand-camera",
-   "issue_date": "2026-10-02",
-   "position": 6,
-   "section": "Research and Prototypes",
-   "summary_html": "<div class=\"newsletter-html\">OpenArm 2.0 is an open-source, 7-degree-of-freedom robotic arm engineered by Tokyo-based Enactic for contact-rich manipulation and physical artificial intelligence research. The arm features backdrivable, quasi-direct drive joints for highly compliant physical interactions, a gripper with an integrated camera, and a motorless replica arm for bilateral force-feedback teleoperation. It delivers a highly customizable, low-cost platform that facilitates the training of robust manipulation models using modern imitation learning and simulation-to-reality pipelines.</div>",
-   "title": "OpenArm 2.0: An Open-Source Compliant Robotic Arm (4 minute read)",
-   "url": "https://www.cnx-software.com/2026/09/30/openarm-2-0-an-open-source-7-dof-robot-arm-with-qdd-joints-bilateral-force-feedback-in-hand-camera/"
-  },
-  {
-   "edition": "hardware",
-   "id": "https://github.com/AshishA26/Orion-Quadruped",
-   "issue_date": "2026-10-02",
-   "position": 7,
-   "section": "Research and Prototypes",
-   "summary_html": "<div class=\"newsletter-html\">Orion is a custom-built, 12-degree-of-freedom quadruped robot designed and programmed entirely from scratch. The system combines an NVIDIA Jetson Orin Nano for advanced stereo vision depth perception and LiDAR-based SLAM with an STM32-based microcontroller running FreeRTOS for low-level kinematic gaits and real-time stabilization. It provides a complete, open-source blueprint for constructing complex, dynamically stable legged systems using advanced embedded processors and modern spatial computing toolchains.</div>",
-   "title": "Orion: Designing and Programming a Custom Quadruped from Scratch (3 minute read)",
-   "url": "https://github.com/AshishA26/Orion-Quadruped"
-  },
-  {
-   "edition": "hardware",
-   "id": "https://github.com/jfrancis71/ros2_buildhat_differential_drive",
-   "issue_date": "2026-10-02",
-   "position": 8,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">This open-source repository provides a ROS 2 hardware interface and differential drive controller designed specifically for the Raspberry Pi Build HAT. The package enables direct control of Lego Spike Prime motors and sensors, allowing developers to run modern robot communication middleware on lightweight educational hardware. It offers an accessible entry point for testing and prototyping mobile bases using popular, modular consumer components.</div>",
-   "title": "Building a Lego-Compatible ROS 2 Drive Controller (2 minute read)",
-   "url": "https://github.com/jfrancis71/ros2_buildhat_differential_drive"
-  },
-  {
-   "edition": "hardware",
-   "id": "https://thenextweb.com/news/fedex-harbinger-trucks-europe-grid",
-   "issue_date": "2026-10-02",
-   "position": 9,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">FedEx ordered 2,000 Harbinger electric delivery trucks for $300 million, with delivery due before the end of 2027. FedEx also led the startup's $160 million Series C last year. Harbinger projects $20,000 in annual savings per truck against diesel, but those figures are estimates rather than measured fleet results.</div>",
-   "title": "FedEx is buying 2,000 electric trucks for $300M, and investing in the company building them (3 minute read)",
-   "url": "https://thenextweb.com/news/fedex-harbinger-trucks-europe-grid"
-  },
-  {
-   "edition": "hardware",
-   "id": "https://thenextweb.com/news/deepseek-huawei-ascend-tilelang-open-source-cuda",
-   "issue_date": "2026-10-02",
-   "position": 10,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">DeepSeek released six software modules for Huawei Ascend chips, including compute and communication libraries and TileLang support.</div>",
-   "title": "DeepSeek open-sources Huawei chip tools as a simpler alternative to CUDA (2 minute read)",
-   "url": "https://thenextweb.com/news/deepseek-huawei-ascend-tilelang-open-source-cuda"
-  },
-  {
-   "edition": "hardware",
-   "id": "https://www.tomshardware.com/desktops/mini-pcs/first-intel-panther-lake-mini-pc-cooled-with-solid-state-airjet-tech-operates-at-less-than-21-dba-aaeon-claims-its-fanless-up-xtreme-ptl-edge-air-is-also-slimmer-lighter-than-actively-cooled-rivals",
-   "issue_date": "2026-10-02",
-   "position": 11,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Aaeon launched the Up Xtreme PTL Edge Air mini PC with Intel Panther Lake processors and Frore's AirJet cooling.</div>",
-   "title": "First Intel Panther Lake mini PC cooled with solid-state AirJet tech operates at less than 21 dBA (3 minute read)",
-   "url": "https://www.tomshardware.com/desktops/mini-pcs/first-intel-panther-lake-mini-pc-cooled-with-solid-state-airjet-tech-operates-at-less-than-21-dba-aaeon-claims-its-fanless-up-xtreme-ptl-edge-air-is-also-slimmer-lighter-than-actively-cooled-rivals"
-  },
-  {
-   "edition": "hardware",
    "id": "https://gadgets.muse.ai/",
    "issue_date": "2026-10-05",
    "position": 0,
@@ -2891,156 +2775,6 @@
   },
   {
    "edition": "tech",
-   "id": "https://www.pcmag.com/news/starlink-community-site-program-teases-hourly-weekly-internet-passes",
-   "issue_date": "2026-10-02",
-   "position": 0,
-   "section": "Big Tech & Startups",
-   "summary_html": "<div class=\"newsletter-html\">Starlink plans to offer hourly, daily, and weekly passes for its satellite internet service. The company is recruiting 'hosts' to sell passes to interested consumers. Pricing details have yet to be released. Starlink will take care of payments, user access, and connectivity while the hosts focus on setting up their sites and earning from connections.</div>",
-   "title": "Starlink 'Community Site' Program Teases Hourly, Weekly Internet Passes (2 minute read)",
-   "url": "https://www.pcmag.com/news/starlink-community-site-program-teases-hourly-weekly-internet-passes"
-  },
-  {
-   "edition": "tech",
-   "id": "https://www.mbi-deepdives.com/no-ads-muse",
-   "issue_date": "2026-10-02",
-   "position": 1,
-   "section": "Big Tech & Startups",
-   "summary_html": "<div class=\"newsletter-html\">Meta is one of the very few companies that can monetize a personal agent through advertising without ever showing an ad inside the agent itself. The company can keep ads out of the Muse app and still get paid for it on Facebook and Instagram. Every Muse errand can be an incremental signal. Meta can indirectly monetize Muse until enough demand has been aggregated for it to start with direct monetization.</div>",
-   "title": "Why Muse May Never Need Ads (13 minute read)",
-   "url": "https://www.mbi-deepdives.com/no-ads-muse/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months",
-   "issue_date": "2026-10-02",
-   "position": 2,
-   "section": "Science & Futuristic Technology",
-   "summary_html": "<div class=\"newsletter-html\">Fervo Energy has started selling electricity from its Cape Station geothermal power plant. It is the first enhanced geothermal company to reach a key commercial milestone. The entire site has the potential to generate as much as 4 gigawatts of electricity. The first block at the site took 23 months to complete - Fervo aims to complete future blocks in as little as 18 months.</div>",
-   "title": "World's first enhanced geothermal power plant completed in just 23 months (2 minute read)",
-   "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s",
-   "issue_date": "2026-10-02",
-   "position": 3,
-   "section": "Science & Futuristic Technology",
-   "summary_html": "<div class=\"newsletter-html\">NASA's Probe Explorers are a new line of observatories intended to do more science for less money. The project aims to seek a better balance between the smaller Explorer missions and multibillion-dollar flagships. NASA announced on Wednesday it was moving forward with the first of the Explorers, PRIMA (Probe far-Infrared Mission for Astrophysics). PRIMA will observe the universe in faint, far-infrared light in a range of wavelengths between 24 and 235 micrometers. NASA intends to launch the telescope in 2033.</div>",
-   "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time (6 minute read)",
-   "url": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://earendil.com/posts/pi-durable",
-   "issue_date": "2026-10-02",
-   "position": 4,
-   "section": "Programming, Design & Data Science",
-   "summary_html": "<div class=\"newsletter-html\">Pi Durable is an experimental package built specifically for long-running, durable, and malleable agents that can run anywhere. It can run anywhere, can be reached from different surfaces, supports infinitely long conversations, survives catastrophic internal and external failures, and lets multiple humans steer the same agents. It is a framework for building any agentic application, including coding agents.</div>",
-   "title": "Pi Durable (33 minute read)",
-   "url": "https://earendil.com/posts/pi-durable/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate",
-   "issue_date": "2026-10-02",
-   "position": 5,
-   "section": "Programming, Design & Data Science",
-   "summary_html": "<div class=\"newsletter-html\">David Heinemeier Hansson, the creator of Ruby on Rails, recently announced that 37signals, a company known for its software craft, was done with writing code by hand. The maturation of AI tools has made it possible for the company to embrace a future where coding by hand is almost entirely absent. AI creates new business models and revenue streams and disrupts traditional software. Companies are now investing in innovation and are willing to pay top-of-market for software engineers who can help them build AI products or become AI-native.</div>",
-   "title": "RoR creator sparks new \u201cdeath of coding by hand\u201d debate (15 minute read)",
-   "url": "https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://www.nytimes.com/2026/09/30/arts/xbox-microsoft-asha-sharma.html?unlocked_article_code=1.FFE.3j4o.dae9CYU4odK1&smid=url-share",
-   "issue_date": "2026-10-02",
-   "position": 6,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">Asha Sharma, the 38-year-old chief executive of Microsoft's Xbox division, wants Xbox properties to entertain a billion people. This means opening untapped markets in Africa, Latin America, and South Asia by using cloud computing technology to run games on computers and smartphones. Another pillar of her strategy is to reinvest in Minecraft as a competitor to Roblox. Leaders at the company describe the future of its consoles as embodying that idea.</div>",
-   "title": "Xbox's Millennial CEO Isn't Playing Around (13 minute read)",
-   "url": "https://www.nytimes.com/2026/09/30/arts/xbox-microsoft-asha-sharma.html?unlocked_article_code=1.FFE.3j4o.dae9CYU4odK1&smid=url-share"
-  },
-  {
-   "edition": "tech",
-   "id": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d",
-   "issue_date": "2026-10-02",
-   "position": 7,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products/systems with LLMs. <a href=\"https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d\" rel=\"noopener noreferrer\" target=\"_blank\">Click here to learn more</a>.</div>",
-   "title": "Product Manager, Applied AI at TLDR ($225k base + $60k bonus, Fully Remote)",
-   "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d"
-  },
-  {
-   "edition": "tech",
-   "id": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-   "issue_date": "2026-10-02",
-   "position": 8,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">AI is still too limited to substitute for large amounts of human work. However, organizing agents is no longer the hard part. Agents may be easier to integrate into firms than expected, as long as humans are guiding them in the right direction. This could mean more work for people, not less.</div>",
-   "title": "The Dot and the Swarm (11 minute read)",
-   "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm"
-  },
-  {
-   "edition": "tech",
-   "id": "https://blog.cloudflare.com/clef-decision-models",
-   "issue_date": "2026-10-02",
-   "position": 9,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Clef and Clef-flash are fully Jev-API compatible decision models that help agents programmatically gather context, make decisions, and take actions on tasks.</div>",
-   "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform (10 minute read)",
-   "url": "https://blog.cloudflare.com/clef-decision-models/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://quesma.com/blog/agent-session-transcripts-are-precious",
-   "issue_date": "2026-10-02",
-   "position": 10,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Transcripts record what agents were asked and what they did, so watch them for early warning signs.</div>",
-   "title": "Your agent session transcripts are precious, keep them (9 minute read)",
-   "url": "https://quesma.com/blog/agent-session-transcripts-are-precious/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://lombardnotes.xyz/2026/10/01/the-inevitability-of-local-stablecoins",
-   "issue_date": "2026-10-02",
-   "position": 11,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">For stablecoins to become the new backbone of the financial system, the mix of volumes passing through them will have to converge to those of traditional finance.</div>",
-   "title": "The inevitability of local stablecoins (9 minute read)",
-   "url": "https://lombardnotes.xyz/2026/10/01/the-inevitability-of-local-stablecoins/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://www.bloomberg.com/news/articles/2026-10-02/broadcom-starts-amassing-60-billion-to-fund-chips-for-anthropic?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDkyMjQzOCwiZXhwIjoxNzkxNTI3MjM4LCJhcnRpY2xlSWQiOiJUTTkwWUVLSzNOWUQwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.ou2DaP8DyjOKlNzvvF7qkpSHPum6rWuWYguG_k-KLHo",
-   "issue_date": "2026-10-02",
-   "position": 12,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">The potential deal will help Anthropic and other companies access chips and other key infrastructure.</div>",
-   "title": "Broadcom Starts Amassing $60 Billion to Fund Chips for Anthropic (2 minute read)",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-02/broadcom-starts-amassing-60-billion-to-fund-chips-for-anthropic?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDkyMjQzOCwiZXhwIjoxNzkxNTI3MjM4LCJhcnRpY2xlSWQiOiJUTTkwWUVLSzNOWUQwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.ou2DaP8DyjOKlNzvvF7qkpSHPum6rWuWYguG_k-KLHo"
-  },
-  {
-   "edition": "tech",
-   "id": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy",
-   "issue_date": "2026-10-02",
-   "position": 13,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">arXiv now limits submitters to up to two submissions per calendar month, with a limit of three total active submissions at any given time.</div>",
-   "title": "Fair Moderation, Equitable Access, and AI: arXiv's Updated Rate Limit Policy (8 minute read)",
-   "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake",
-   "issue_date": "2026-10-02",
-   "position": 14,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Amazon Aurora PostgreSQL users can now directly query operational data together with data stored in their data lakes in Apache Iceberg and Apache Parquet formats using existing PostgreSQL applications and tools.</div>",
-   "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake (8 minute read)",
-   "url": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/"
-  },
-  {
-   "edition": "tech",
    "id": "https://neuralink.com/updates/pretraining-on-50000-hours",
    "issue_date": "2026-10-05",
    "position": 0,
@@ -3461,156 +3195,6 @@
   },
   {
    "edition": "dev",
-   "id": "https://expo.dev/blog/live-activities-with-expo-end-to-end-client-and-backend",
-   "issue_date": "2026-10-02",
-   "position": 0,
-   "section": "Articles & Tutorials",
-   "summary_html": "<div class=\"newsletter-html\">Expo shows how to build iOS Live Activities in TypeScript, compile their interfaces to SwiftUI, and update them from a backend through APNs. The walkthrough covers push-to-start and per-activity tokens, database mappings, JWT authentication, payload structure, and activity lifecycle handling.</div>",
-   "title": "Live Activities with Expo, End to End (8 minute read)",
-   "url": "https://expo.dev/blog/live-activities-with-expo-end-to-end-client-and-backend"
-  },
-  {
-   "edition": "dev",
-   "id": "https://blog.janestreet.com/linux-engineering-depot-fuse-index",
-   "issue_date": "2026-10-02",
-   "position": 1,
-   "section": "Articles & Tutorials",
-   "summary_html": "<div class=\"newsletter-html\">Jane Street built an OCaml-native, read-only FUSE server that exposes its Depot object store through a POSIX filesystem interface. Parallel reads and zero-copy buffer handling raised large-file throughput from about 30 MiB/s to 1.3 GiB/s.</div>",
-   "title": "A FUSE Server for an In-House Storage Backend (7 minute read)",
-   "url": "https://blog.janestreet.com/linux-engineering-depot-fuse-index/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://blog.sterlingfreeman.net/posts/folder-structure-two-jobs",
-   "issue_date": "2026-10-02",
-   "position": 2,
-   "section": "Articles & Tutorials",
-   "summary_html": "<div class=\"newsletter-html\">Folder structures must support two different tasks: helping people find existing files and giving them a consistent rule for placing new ones. Role-based taxonomies improve navigation but create fuzzy boundaries, while layer-based structures make classification deterministic and prevent placement mistakes from compounding as a codebase grows.</div>",
-   "title": "Your Folder Structure Has Two Jobs, but Only Does One (6 minute read)",
-   "url": "https://blog.sterlingfreeman.net/posts/folder-structure-two-jobs/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://x.com/hunterrice/status/2105311793631633565",
-   "issue_date": "2026-10-02",
-   "position": 3,
-   "section": "Opinions & Advice",
-   "summary_html": "<div class=\"newsletter-html\">Personal agents face a cold-start problem because they need context to be useful before users have a reason to provide it. The winning products may combine behavioral context with deeper identity context, distinguishing lasting preferences from temporary interests so personalization compounds without constructing the wrong version of a person.</div>",
-   "title": "Predicting the Winner of Personal Agents (5 minute read)",
-   "url": "https://x.com/hunterrice/status/2105311793631633565"
-  },
-  {
-   "edition": "dev",
-   "id": "https://x.com/divya_venn/status/2105578860733739375",
-   "issue_date": "2026-10-02",
-   "position": 4,
-   "section": "Opinions & Advice",
-   "summary_html": "<div class=\"newsletter-html\">Coding agents are strong prototypers, but experienced engineers still decide which tradeoffs, risks, customer needs, and long-term maintenance costs matter. Engineers become more valuable by deeply understanding their systems and organizations, then directing agents with judgment rather than outsourcing decisions to them.</div>",
-   "title": "Why I Changed My Mind About the Death of Software Engineering (6 minute read)",
-   "url": "https://x.com/divya_venn/status/2105578860733739375"
-  },
-  {
-   "edition": "dev",
-   "id": "https://vitonsky.net/blog/2026/09/18/design-system",
-   "issue_date": "2026-10-02",
-   "position": 5,
-   "section": "Opinions & Advice",
-   "summary_html": "<div class=\"newsletter-html\">Call-site styling through props, utility classes, or inline styles turns every component instance into a separate design decision. Semantic variants should define a component's complete appearance, while limited modifiers handle intentional variation without eroding consistency.</div>",
-   "title": "Props Are Not a Design System (5 minute read)",
-   "url": "https://vitonsky.net/blog/2026/09/18/design-system/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://blog.cloudflare.com/clef-decision-models",
-   "issue_date": "2026-10-02",
-   "position": 6,
-   "section": "Launches & Tools",
-   "summary_html": "<div class=\"newsletter-html\">Cloudflare released Clef and Clef-flash, open-source models that return bounded, typed decisions with probabilities for routing and classification workflows. The models run on Workers AI, support the Jev API, and pair with a reinforcement learning platform for fine-tuning on customer use cases.</div>",
-   "title": "Introducing Clef Decision Models (10 minute read)",
-   "url": "https://blog.cloudflare.com/clef-decision-models/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://github.com/weave-os/router",
-   "issue_date": "2026-10-02",
-   "position": 7,
-   "section": "Launches & Tools",
-   "summary_html": "<div class=\"newsletter-html\">Weave Router is an open-source model router for agentic systems that sends each prompt to a suitable model behind an OpenAI-compatible endpoint. It targets sub-50 ms routing overhead and lower inference costs, with a quick-start path for proxying existing applications.</div>",
-   "title": "Weave Router (GitHub Repo)",
-   "url": "https://github.com/weave-os/router"
-  },
-  {
-   "edition": "dev",
-   "id": "https://earendil.com/posts/pi-1-0",
-   "issue_date": "2026-10-02",
-   "position": 8,
-   "section": "Launches & Tools",
-   "summary_html": "<div class=\"newsletter-html\">Pi 1.0 hardens the minimal agent harness with Codemode, virtual models, deferred tool loading, cache warming, transcript-aware system changes, and a refreshed terminal interface. The release also introduces the experimental Pi Durable package for long-running agentic applications, with both projects available under the MIT license.</div>",
-   "title": "Pi 1.0 (4 minute read)",
-   "url": "https://earendil.com/posts/pi-1-0/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://www.stacksweep.dev/ai-coding-tools-shift-mental-load",
-   "issue_date": "2026-10-02",
-   "position": 9,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">A four-day field study of 21 SAP developers found that tasks using generative AI scored about one point higher on a seven-point cognitive-load scale after controlling for task type and duration. The result suggests that AI shifts effort from typing toward prompting, reviewing, validating, and integrating generated work, even when developers feel more productive overall.</div>",
-   "title": "AI Coding Tools Shift Mental Load (5 minute read)",
-   "url": "https://www.stacksweep.dev/ai-coding-tools-shift-mental-load/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://nordicapis.com/how-ai-agents-are-changing-api-architecture",
-   "issue_date": "2026-10-02",
-   "position": 10,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">Autonomous agents push API architecture toward least privilege, just-in-time authorization, predictable schemas, machine-readable documentation, and stronger controls against prompt injection and excessive agency. Observability also needs agent identity, delegated authority, workflow context, conversation IDs, and token usage beyond traditional latency and error metrics.</div>",
-   "title": "How AI Agents Are Changing API Architecture (6 minute read)",
-   "url": "https://nordicapis.com/how-ai-agents-are-changing-api-architecture/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://molily.de/web-dev-education",
-   "issue_date": "2026-10-02",
-   "position": 11,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Independent web educators are losing income and audiences to AI systems trained on their work, threatening the human communities and durable knowledge that make the open web learnable.</div>",
-   "title": "The Death of Web Development Education (10 minute read)",
-   "url": "https://molily.de/web-dev-education/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://turbopuffer.com/blog/rip-vector-database",
-   "issue_date": "2026-10-02",
-   "position": 12,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Turbopuffer v3 makes approximate nearest-neighbor search a secondary index so storage layouts can reduce amplification and use block sizes suited to full-text search, filtering, aggregation, and other query plans.</div>",
-   "title": "RIP, Vector Database (12 minute read)",
-   "url": "https://turbopuffer.com/blog/rip-vector-database"
-  },
-  {
-   "edition": "dev",
-   "id": "https://help.openai.com/en/articles/20001542-using-your-chatgpt-plan-in-other-apps-and-sites",
-   "issue_date": "2026-10-02",
-   "position": 13,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Plus and Pro users can let participating apps use ChatGPT Work and Codex usage without sharing an API key, while managing per-app limits, credit fallback, permissions, and disconnection in ChatGPT settings.</div>",
-   "title": "Using Your ChatGPT Plan in Other Apps and Sites (6 minute read)",
-   "url": "https://help.openai.com/en/articles/20001542-using-your-chatgpt-plan-in-other-apps-and-sites"
-  },
-  {
-   "edition": "dev",
-   "id": "https://svelte.dev/blog/sveltekit-3-is-here",
-   "issue_date": "2026-10-02",
-   "position": 14,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">SvelteKit 3 removes deprecated APIs, adopts native subpath imports and Vite 8 with Rolldown, improves service workers and environment variables, and includes a migration command for existing projects.</div>",
-   "title": "SvelteKit 3 Is Here (6 minute read)",
-   "url": "https://svelte.dev/blog/sveltekit-3-is-here"
-  },
-  {
-   "edition": "dev",
    "id": "https://www.jmeiners.com/lc3-vm",
    "issue_date": "2026-10-05",
    "position": 0,
@@ -4008,156 +3592,6 @@
    "summary_html": "<div class=\"newsletter-html\">Bifrost is an open-source AI gateway with an OpenAI-compatible API, provider failover, load balancing, semantic caching, virtual keys, budgets, and MCP support.</div>",
    "title": "Bifrost (GitHub Repo)",
    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-   "edition": "ai",
-   "id": "https://www.anthropic.com/research/claude-shaped-science",
-   "issue_date": "2026-10-02",
-   "position": 0,
-   "section": "Headlines & Launches",
-   "summary_html": "<div class=\"newsletter-html\">Matthew Schwartz describes using AI, notably Claude, to tackle \"Claude-shaped\" scientific problems where LLM capabilities like coding and data parsing excel. This led to BootLoops, a toolkit facilitating quantitative science calculations across diverse fields from ecology to population genetics. Despite initial technical correctness, results required domain experts to refine relevance, illustrating that AI collaborations can rapidly produce technical solutions but still depend on human insight for impactful scientific advances.</div>",
-   "title": "Claude-shaped science (24 minute read)",
-   "url": "https://www.anthropic.com/research/claude-shaped-science"
-  },
-  {
-   "edition": "ai",
-   "id": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports",
-   "issue_date": "2026-10-02",
-   "position": 1,
-   "section": "Headlines & Launches",
-   "summary_html": "<div class=\"newsletter-html\">OpenAI dismissed three safety researchers for sharing confidential information with a third-party AI safety group, according to the WSJ. This follows reports of OpenAI executives ignoring safety warnings and coincides with security issues involving AI agents. Additionally, OpenAI shelved the GPT-6.1 Astra launch due to safety concerns.</div>",
-   "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports (2 minute read)",
-   "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
-  },
-  {
-   "edition": "ai",
-   "id": "https://openai.com/index/the-eternal-complement",
-   "issue_date": "2026-10-02",
-   "position": 2,
-   "section": "Deep Dives & Analysis",
-   "summary_html": "<div class=\"newsletter-html\">OpenAI explored the possibility that humanity's main constraint is no longer generating ideas but executing increasingly complex ones. Advanced AI could complement human intelligence by taking on the enormous coordination, engineering, and repetitive work required to turn ambitious scientific ideas into reality.</div>",
-   "title": "Why Superintelligent Machines May Be Most Valuable Doing Routine Work (19 minute read)",
-   "url": "https://openai.com/index/the-eternal-complement/"
-  },
-  {
-   "edition": "ai",
-   "id": "https://www.mbi-deepdives.com/no-ads-muse",
-   "issue_date": "2026-10-02",
-   "position": 3,
-   "section": "Deep Dives & Analysis",
-   "summary_html": "<div class=\"newsletter-html\">Meta's Muse may avoid advertisements by focusing on trust, offering a transaction-based model where merchants pay fees, not users. Companies like DoorDash and Airbnb are developing proprietary AI agents but face limitations due to their inherent platform bias. Muse's ad-free model leverages user trust and could indirectly influence ad targeting on platforms like Instagram and Facebook, providing Meta with a competitive edge without direct ads within the app.</div>",
-   "title": "Why Muse May Never Need Ads (10 minute read)",
-   "url": "https://www.mbi-deepdives.com/no-ads-muse/"
-  },
-  {
-   "edition": "ai",
-   "id": "https://blog.cloudflare.com/clef-decision-models",
-   "issue_date": "2026-10-02",
-   "position": 4,
-   "section": "Engineering & Research",
-   "summary_html": "<div class=\"newsletter-html\">Clef and Clef-flash are fully Jev-API compatible decision models that help agents programmatically gather context, make decisions, and take actions on tasks. The models are fully open-sourced on Hugging Face under an Apache 2.0 license and can be run locally. Decision models make classifications to help agents decide how to act. They return typed answers with probabilities, allowing agents to programmatically gather context, make decisions, and take actions on tasks, or defer to a human when needed.</div>",
-   "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform (10 minute read)",
-   "url": "https://blog.cloudflare.com/clef-decision-models/"
-  },
-  {
-   "edition": "ai",
-   "id": "https://imhgchoi.github.io/agentic-idea-manager",
-   "issue_date": "2026-10-02",
-   "position": 5,
-   "section": "Engineering & Research",
-   "summary_html": "<div class=\"newsletter-html\">AIM is an autonomous system that organizes research ideas, selects promising directions, audits whether implementations match those ideas, and allocates experimental resources across search branches.</div>",
-   "title": "Google Researchers Built an Agent for Automated Research (9 minute read)",
-   "url": "https://imhgchoi.github.io/agentic-idea-manager/"
-  },
-  {
-   "edition": "ai",
-   "id": "https://microsoft.ai/news/our-first-streaming-transcription-model",
-   "issue_date": "2026-10-02",
-   "position": 6,
-   "section": "Engineering & Research",
-   "summary_html": "<div class=\"newsletter-html\">Microsoft's MAI-Transcribe and MAI-Voice models provide accurate, fast, low-cost, and chart-topping audio understanding and generation. The company has launched MAI-Transcribe-2-Streaming along with MAI\u2011Voice\u20112.1 and MAI\u2011Voice\u20112.1-Flash, giving users fast and fluid building blocks to create conversational experiences with no compromise on accuracy or voice quality. MAI-Transcribe-2-Streaming delivers low-latency, real-time transcripts in 60 languages, all while supporting automatic, continuous language detection. MAI-Voice-2.1 supports 23 languages and 26 locales, allowing users to keep a single voice everywhere.</div>",
-   "title": "Microsoft's first streaming transcription model debuts at No. 1 on Artificial Analysis (4 minute read)",
-   "url": "https://microsoft.ai/news/our-first-streaming-transcription-model/"
-  },
-  {
-   "edition": "ai",
-   "id": "https://jaredpalmer.com/blog/introducing-kev",
-   "issue_date": "2026-10-02",
-   "position": 7,
-   "section": "Engineering & Research",
-   "summary_html": "<div class=\"newsletter-html\">Kev is a family of four open-source decision models ranging from 0.8B to 27B parameters. It uses the same API as TypeSafe's Jev, so applications built with TypeSafe's SDK can switch just by changing the endpoint and model name. The model only scores supplied options and doesn't generate explanations or retrieve missing facts. The code, weights, and evaluation reports are available, but the full 27B training corpus and some evaluation data are private.</div>",
-   "title": "Kev (15 minute read)",
-   "url": "https://jaredpalmer.com/blog/introducing-kev"
-  },
-  {
-   "edition": "ai",
-   "id": "https://huggingface.co/perplexity-ai/pplx-decider-v1-27b",
-   "issue_date": "2026-10-02",
-   "position": 8,
-   "section": "Engineering & Research",
-   "summary_html": "<div class=\"newsletter-html\">pplx-decider-v1-27b is a decision model fine-tuned from Qwen3.8-27B. Its benchmark results are competitive with Jev, beating it in several tests.</div>",
-   "title": "pplx-decider-v1-27b (Hugging Face Repo)",
-   "url": "https://huggingface.co/perplexity-ai/pplx-decider-v1-27b"
-  },
-  {
-   "edition": "ai",
-   "id": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-   "issue_date": "2026-10-02",
-   "position": 9,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">Waymo and LLMs exemplify how frictionless technologies make research less collaborative by removing necessary human interactions. The convenience of using AI reduces serendipity and critical discourse, which are crucial for innovation and diverse ideas. Funding structures and evaluation systems exacerbate this shift by rewarding speed and output over collaborative effort, risking the degradation of rich, human-driven research culture.</div>",
-   "title": "The Waymo effect: how AI is quietly making research less collaborative (13 minute read)",
-   "url": "https://www.researchagenda.news/articles/the-waymo-effect.html"
-  },
-  {
-   "edition": "ai",
-   "id": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-   "issue_date": "2026-10-02",
-   "position": 10,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">AI systems have surpassed the need for human-devised structures, like intricate management processes, as they self-organize and execute complex tasks efficiently. Tools like Meta's Muse and OpenAI's Dots demonstrate this by acting autonomously and correcting human errors without extensive input. OpenAI's swarm model, used to attempt solving the Navier-Stokes problem, highlights AI's capacity to manage vast, self-directed agents, minimizing traditional management hurdles.</div>",
-   "title": "The Dot and the Swarm (10 minute read)",
-   "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm"
-  },
-  {
-   "edition": "ai",
-   "id": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d",
-   "issue_date": "2026-10-02",
-   "position": 11,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products/systems with LLMs. <a href=\"https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d\" rel=\"noopener noreferrer\" target=\"_blank\">Click here to learn more</a>.</div>",
-   "title": "Product Manager, Applied AI at TLDR ($225k base + $60k bonus, Fully Remote)",
-   "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d"
-  },
-  {
-   "edition": "ai",
-   "id": "https://allenai.org/blog/olmocore3",
-   "issue_date": "2026-10-02",
-   "position": 12,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Olmo-core 3 is an open training framework designed to scale mixture-of-experts models into the trillion-parameter range.</div>",
-   "title": "Olmo-core 3 for MoE Training (8 minute read)",
-   "url": "https://allenai.org/blog/olmocore3"
-  },
-  {
-   "edition": "ai",
-   "id": "https://strandsagents.com/blog/introducing-strands-decider",
-   "issue_date": "2026-10-02",
-   "position": 13,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Decider 2B is an open-source model for fast classification, routing, and scoring tasks.</div>",
-   "title": "Amazon Enters the Decision Model Race With Strands Decider 2B (7 minute read)",
-   "url": "https://strandsagents.com/blog/introducing-strands-decider/"
-  },
-  {
-   "edition": "ai",
-   "id": "https://ideas.imbue.com/p/personal-computing-20",
-   "issue_date": "2026-10-02",
-   "position": 14,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Personal Computing 2.0 envisions a future where users regain control over their data, fostering privacy and customization in computing environments.</div>",
-   "title": "Personal Computing 2.0 (9 minute read)",
-   "url": "https://ideas.imbue.com/p/personal-computing-20"
   },
   {
    "edition": "ai",
@@ -5778,6 +5212,586 @@
    "summary_html": "<div class=\"newsletter-html\">Red Hat's Christian Schaller used Claude Code to get a Pustek 8200i film scanner working on Linux, capturing USB traffic from the vendor's Windows driver in a VM to write a SANE driver.</div>",
    "title": "Red Hat engineer uses Claude Code to reverse-engineer a scanner and fix a MIPI webcam on Linux (2 minute read)",
    "url": "https://www.phoronix.com/news/AI-Reverse-Engineer-Linux-HW"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjM4MTY4MiwiZXhwIjoxNzkyOTg2NDgyLCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.CT5XmN3IjQHLmH2_x0Q1qKkxSIyd4MmzLK_zFlRKYbs",
+   "issue_date": "2026-10-19",
+   "position": 0,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">Apple is already working on developing a higher-end version of its HomeView display with a robotic limb that can automatically swivel the screen toward whoever is speaking. The company's own advertising for the $299 HomeView makes a compelling case for why a motorized version is needed. The device was designed to be controlled primarily by voice. While the HomeView is a pretty nice offering for $299, its design clearly shows it was a product conceived years ago.</div>",
+   "title": "Apple's HomeView Offers Tantalizing Preview of a Future Robotic Version (14 minute read)",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjM4MTY4MiwiZXhwIjoxNzkyOTg2NDgyLCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.CT5XmN3IjQHLmH2_x0Q1qKkxSIyd4MmzLK_zFlRKYbs"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html?unlocked_article_code=1.JlE.Xgxf.QuEWFgfl8zJB&smid=url-share",
+   "issue_date": "2026-10-19",
+   "position": 1,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">Virtually every major mutual fund company, insurer, and private equity firm, as well as scores of individual investors, has been buying up AI debt. Hyperscalers, which continue to borrow heavily, have been forced by investors to pay modestly more in interest in recent debt deals. The market is realising there may be a mismatch between the money committed and borrowed today and the ability to generate revenues down the road. An increasing number of data centers are being delayed by permitting issues, and in some instances falling through.</div>",
+   "title": "Weak Links Start to Show in AI Borrowing (9 minute read)",
+   "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html?unlocked_article_code=1.JlE.Xgxf.QuEWFgfl8zJB&smid=url-share"
+  },
+  {
+   "edition": "tech",
+   "id": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics",
+   "issue_date": "2026-10-19",
+   "position": 2,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">It would be a terrible waste of resources to spend millions of dollars to formalize mathematics results in libraries nobody uses. Doing so could also disincentivize good research and productive use of AI, disrupt the social norms and practices research depends on, and set the field back decades. Several projects are now working to ensure formal libraries fulfill the community's mathematical goals. Within the next few years, most of mathematics will be able to be formalized in such a way that mathematicians can explore, build on, and make use of formal libraries. This will significantly extend their ability to develop and discover new mathematics.</div>",
+   "title": "How to Formalize All of Mathematics (16 minute read)",
+   "url": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://threadreaderapp.com/thread/2111316522098733078.html",
+   "issue_date": "2026-10-19",
+   "position": 3,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Researchers have discovered a signal deep in the brain that richly represents a stimulus people are unaware of. This finding makes it possible to understand how a pattern of neural activity accesses consciousness. There are clear signals that correspond to both what is and isn't conscious. This makes it possible to follow both sets of footprints and track down the full machine for generating conscious percepts.</div>",
+   "title": "We discovered something totally unexpected about the neural structure of consciousness (4 minute read)",
+   "url": "https://threadreaderapp.com/thread/2111316522098733078.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://karrisaarinen.com/posts/someone-behind-the-software",
+   "issue_date": "2026-10-19",
+   "position": 4,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">Good products carry something of the people who make them. The industry often talks about software as if it comes out of a factory, but two teams can talk to similar customers and have access to the same technology and still make very different things. The difference is how each team understands what they see and the style they go about building it. The founder background or company DNA shapes this a lot.</div>",
+   "title": "Someone behind the software (3 minute read)",
+   "url": "https://karrisaarinen.com/posts/someone-behind-the-software/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://maevyn.codes/decoherence",
+   "issue_date": "2026-10-19",
+   "position": 5,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">Decoherence is the accumulation of locally valid but mutually incompatible or redundant models within a system. It causes the cost of change to be dominated by translating among those models and preventing unintended side-effects. Decoherence grows relative to the rate of change of a system, and it increases faster the more decoherent a system is, resulting in runaway exponential growth. It rules out the specter of runaway recursive self-improvement, as decoherence both prevents AI from improving in a bubble and limits the rate at which it can improve outside of it. However, it also introduces a new kind of disaster called Decoherence Collapse.</div>",
+   "title": "Decoherence (48 minute read)",
+   "url": "https://maevyn.codes/decoherence"
+  },
+  {
+   "edition": "tech",
+   "id": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science",
+   "issue_date": "2026-10-19",
+   "position": 6,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Large language models have demonstrated remarkable abilities in generating mathematical proofs. This could lead to a golden age where a new generation of scientists is empowered, new STEM expertise is developed, and an open, collaborative, and intellectually independent scientific enterprise is preserved. However, it could also lead to independent human scientific activity progressively weakening, the production of new knowledge becoming increasingly concentrated in a small number of hands, and knowledge becoming alien to human understanding. The future will likely be a combination of these scenarios.</div>",
+   "title": "Will it be a golden age or a dark age for mathematics (and science)? (23 minute read)",
+   "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html?unlocked_article_code=1.J1E.lFEf.7a8U0qPZWYF3&smid=url-share",
+   "issue_date": "2026-10-19",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Terence Tao, one of the world's greatest living mathematicians, is currently doing very little math. OpenAI's recent finding in the mathematical field has left him feeling used, as he previously had a good relationship with many employees at the company. Now, he sees them as only using math to evaluate their models, and can't see a way to constructively engage. Despite OpenAI's releases, most problems at the frontiers of math are unsolved, and as math remains infinite, the difficulty of problems is boundless.</div>",
+   "title": "Why One of the World's Greatest Mathematicians Is on a \u2018War Footing' (20 minute read)",
+   "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html?unlocked_article_code=1.J1E.lFEf.7a8U0qPZWYF3&smid=url-share"
+  },
+  {
+   "edition": "tech",
+   "id": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d",
+   "issue_date": "2026-10-19",
+   "position": 8,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. <a href=\"https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d\" rel=\"noopener noreferrer\" target=\"_blank\">Click here to learn more</a>.</div>",
+   "title": "Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)",
+   "url": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d"
+  },
+  {
+   "edition": "tech",
+   "id": "https://api-docs.deepseek.com/guides/search",
+   "issue_date": "2026-10-19",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">DeepSeek's Search API finds web pages for a query and returns structured results, and the Fetch API retrieves a single web page and returns its content as Markdown.</div>",
+   "title": "Search & Fetch (8 minute read)",
+   "url": "https://api-docs.deepseek.com/guides/search/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.anthropic.com/research/ecdsa-curve-origins",
+   "issue_date": "2026-10-19",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">ECDSA, the most widely used elliptic curve cryptography standard, uses a \"seed\" parameter, provided without explanation or justification, to define the coefficient b of the curve.</div>",
+   "title": "Claude reveals ECDSA curve origins (18 minute read)",
+   "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.polygon.com/apple-indie-games-week-interview",
+   "issue_date": "2026-10-19",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Apple hasn't slowed its gaming efforts seven years after launching Apple Arcade, and it is clear the company still has its sights set on being a major player.</div>",
+   "title": "7 years later, Apple's gaming push has proven surprisingly resilient (13 minute read)",
+   "url": "https://www.polygon.com/apple-indie-games-week-interview/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete",
+   "issue_date": "2026-10-19",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">BioPykrete, ice with added plant-based crystals and a bespoke protein, is 10 times stronger than regular ice and can absorb 70 times more energy before breaking.</div>",
+   "title": "A New 'Super Ice' Is 10 Times Stronger, Bringing It Close to The Strength of Concrete (5 minute read)",
+   "url": "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering",
+   "issue_date": "2026-10-19",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Software rendering pushes DOS games to resolutions that nobody could use back in the 90s.</div>",
+   "title": "I Love Software Rendering (5 minute read)",
+   "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.pinecoder.dev/blog/2026-10-15/my-old-job-is-distant",
+   "issue_date": "2026-10-19",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">AI has changed everything, but people continue to adapt to new ways of working.</div>",
+   "title": "My old job feels very distant now (12 minute read)",
+   "url": "https://www.pinecoder.dev/blog/2026-10-15/my-old-job-is-distant/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://jovidecroock.com/blog/gittifacts",
+   "issue_date": "2026-10-19",
+   "position": 0,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Gittifacts routes agent-written changes to auto-merge, quick review, or full review based on test evidence and repository policy, after a human approves the plan. Missing signals can only increase scrutiny, and feature flags make merged changes reversible. Auto-merge still relies on the submitting agent's test environment for some evidence, while evidence generation took 13 to 17 minutes per change on the project's own repository.</div>",
+   "title": "Humans approve intent, machines prove conformance (8 minute read)",
+   "url": "https://jovidecroock.com/blog/gittifacts"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.stacksweep.dev/hybridagent-latent-reasoning-text-tool-use",
+   "issue_date": "2026-10-19",
+   "position": 1,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">HybridAgent is a research approach for training AI agents to reason internally using numerical representations instead of writing out every intermediate thought, while still producing text to call tools such as Python or web search and deliver answers. In tests, a 14B Qwen3 model trained this way scored 52.4 on GAIA versus 43.7 for a matched text-only agent, with estimated decoding costs falling from $470 to $176 per million questions.</div>",
+   "title": "HybridAgent Thinks in Latent Space and Acts in Text (6 minute read)",
+   "url": "https://www.stacksweep.dev/hybridagent-latent-reasoning-text-tool-use/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://aws.amazon.com/blogs/compute/exploring-aws-lambda-web-functions-for-building-web-applications",
+   "issue_date": "2026-10-19",
+   "position": 2,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">AWS Lambda Web Functions run standard Node.js HTTP servers without adapters, with each execution environment handling concurrent requests and streaming responses. In a sample run of 300 streaming requests with up to 200 open at once, five environments consumed 4.75 seconds of CPU. Billing covers active CPU, memory, and requests, so waiting on a database or API uses little CPU but still incurs other charges.</div>",
+   "title": "Exploring AWS Lambda Web Functions for building web applications (9 minute read)",
+   "url": "https://aws.amazon.com/blogs/compute/exploring-aws-lambda-web-functions-for-building-web-applications/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://karrisaarinen.com/posts/someone-behind-the-software",
+   "issue_date": "2026-10-19",
+   "position": 3,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Good products reflect a shared point of view shaped by experience, customer conversations, and judgment. When teams use agents to add features independently, individually useful changes can weaken the product's coherence unless someone keeps shaping the whole.</div>",
+   "title": "Someone Behind the Software (3 minute read)",
+   "url": "https://karrisaarinen.com/posts/someone-behind-the-software/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.seangoedecke.com/what-requirements-dont-you-have",
+   "issue_date": "2026-10-19",
+   "position": 4,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Elegant systems often gain simplicity and scale by accepting limits on freshness, coordination, or flexibility. Coding agents tend to invent extra requirements, so explicitly stating which compromises are acceptable can prevent unnecessary locks, checks, and layers of abstraction.</div>",
+   "title": "What Requirements Don't You Have? (7 minute read)",
+   "url": "https://www.seangoedecke.com/what-requirements-dont-you-have/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense",
+   "issue_date": "2026-10-19",
+   "position": 5,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Frameworks remain useful when agents write the code because they supply structure, shared maintenance, and familiar abstractions. Rewriting an application in a faster language can change behavior that users rely on, making targeted optimization and dependency updates a more practical starting point. Familiar code also makes it easier to review the decisions an agent makes.</div>",
+   "title": "Does Ruby on Rails Still Make Sense? (8 minute read)",
+   "url": "https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://api-docs.deepseek.com/guides/search",
+   "issue_date": "2026-10-19",
+   "position": 6,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">DeepSeek's Search and Fetch APIs give agents and RAG applications live search results and web pages converted to Markdown. Both use standard DeepSeek API keys and cost $0.75 per 1,000 successful requests, with empty results, failures, and timeouts excluded from billing.</div>",
+   "title": "DeepSeek Search & Fetch (Website)",
+   "url": "https://api-docs.deepseek.com/guides/search/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://sphinx-six-theta.vercel.app/",
+   "issue_date": "2026-10-19",
+   "position": 7,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Sphinx pauses pushes to protected branches and quizzes developers on what agent-written code does, including failure scenarios. A separate reviewer reads the diff without seeing the development chat, explains incorrect answers, and asks a new scenario before allowing the push. It supports existing coding agents and configurable model endpoints, with a logged bypass for skipped checks.</div>",
+   "title": "Sphinx (Website)",
+   "url": "https://sphinx-six-theta.vercel.app/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/elie222/rakazo",
+   "issue_date": "2026-10-19",
+   "position": 8,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Rakazo is an open-source, self-hosted AI assistant for running persistent bots with their own memory, routines, and conversations. Bots can use browsers, terminals, files, and desktop interfaces, with your choice of model and local or hosted computer environments. The project is in beta and offers web, desktop, and mobile clients.</div>",
+   "title": "Rakazo (GitHub Repo)",
+   "url": "https://github.com/elie222/rakazo"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.anthropic.com/research/ecdsa-curve-origins",
+   "issue_date": "2026-10-19",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">An internal Claude research model traced the seeds of five NIST prime curves to the lrand48 random-number generator initialized with Unix timestamps, explaining a decades-old provenance mystery. Anthropic says the findings strengthen confidence in the curves and do not reveal a cryptographic break. Some base-point origins, skipped candidates, and one binary-curve seed remain unexplained.</div>",
+   "title": "Claude Reveals ECDSA Curve Origins (9 minute read)",
+   "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
+  },
+  {
+   "edition": "dev",
+   "id": "https://thenewstack.io/gemini-argon-claude-opus",
+   "issue_date": "2026-10-19",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">In a comparison run once per model, Gemini 4 Argon matched Claude Opus 5.5 on finding and fixing 14 planted bugs at lower cost, but performed worse on billing and long-context dependency tasks. One incorrect API call caused most billing failures, and a manual one-line fix brought Argon to full marks. Its long-context answers still missed or invented dependencies, showing why the results need to be read beyond the headline scores.</div>",
+   "title": "Gemini 4 Argon vs. Claude Opus 5.5 (7 minute read)",
+   "url": "https://thenewstack.io/gemini-argon-claude-opus/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d",
+   "issue_date": "2026-10-19",
+   "position": 11,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. <a href=\"https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d\" rel=\"noopener noreferrer\" target=\"_blank\">Click here to learn more</a>.</div>",
+   "title": "Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)",
+   "url": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d"
+  },
+  {
+   "edition": "dev",
+   "id": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal-aeb",
+   "issue_date": "2026-10-19",
+   "position": 12,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Ramp and Stripe built internal AI coding platforms that let non-engineers create tools using company data and design systems. Stripe's Harbor was built by one engineer in around six weeks, while creating a tool in Ramp's Glass is now part of new-hire onboarding. The appeal includes easier access to internal data, fewer vendor negotiations, and hands-on experience building AI infrastructure.</div>",
+   "title": "New trend of building \"internal vibe-coding apps\" at tech companies (5 minute read)",
+   "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal-aeb"
+  },
+  {
+   "edition": "dev",
+   "id": "https://research.macpaw.com/projects/neural-engine",
+   "issue_date": "2026-10-19",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">MacPaw's tests of LFM2.5-2.6B across three Macs found Neural Engine inference used 2.6 to 3.4 times less energy than MLX 8-bit with speculative decoding on typical requests, while long contexts benefited from splitting work with the GPU.</div>",
+   "title": "LLM Inference on the Apple Neural Engine (Website)",
+   "url": "https://research.macpaw.com/projects/neural-engine"
+  },
+  {
+   "edition": "dev",
+   "id": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
+   "issue_date": "2026-10-19",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">macOS 27 adds /pkg/env/global/bin to PATH, but the directory's purpose remains unexplained, and a possible Apple package manager is still speculation.</div>",
+   "title": "What the Heck Is /pkg? (3 minute read)",
+   "url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg"
+  },
+  {
+   "edition": "dev",
+   "id": "https://blog.picheta.me/post/killswitch-lang",
+   "issue_date": "2026-10-19",
+   "position": 15,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">KillSwitch tests coding models with an adversarial language built around character counts, misleading specifications, and prompt-like syntax.</div>",
+   "title": "I Built a Programming Language That LLMs Can't Use (4 minute read)",
+   "url": "https://blog.picheta.me/post/killswitch-lang/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
+   "issue_date": "2026-10-19",
+   "position": 16,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">A self-hosted LLM proxy gives developers detailed usage logs, virtual API keys, and a single endpoint for multiple models and providers, making it easier to investigate cache misses and switch services.</div>",
+   "title": "If You Don't Run Your Own LLM Proxy, How the Fuck Do You Even Know What's Going On? (3 minute read)",
+   "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.anthropic.com/news/public-benefit-fund",
+   "issue_date": "2026-10-19",
+   "position": 0,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic announced plans to allocate an initial 5% of its equity to a new Public Benefit Fund, with additional contributions tied to valuation growth. The fund will support initiatives such as addressing AI's economic and labor impacts.</div>",
+   "title": "Anthropic Commits Equity to Public Benefit (1 minute read)",
+   "url": "https://www.anthropic.com/news/public-benefit-fund"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.testingcatalog.com/openai-possibly-testing-gpt-image-3",
+   "issue_date": "2026-10-19",
+   "position": 1,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Three new model references briefly appeared in OpenAI's API and in blind arena tests this weekend. aurora-red-alpha, aurora-green-alpha, and aurora-blue-alpha appear to be image models and could possibly be GPT Image 3. In tests, red ran faster than green but was lower quality, while green was slower but looked better. Examples of images generated by the models are available in the article.</div>",
+   "title": "OpenAI testing new \"Aurora\" GPT-Image model on Arena (3 minute read)",
+   "url": "https://www.testingcatalog.com/openai-possibly-testing-gpt-image-3/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.anthropic.com/research/employment-at-anthropic",
+   "issue_date": "2026-10-19",
+   "position": 2,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic reported a decline in junior technical hiring, with entry-level workers falling from 27% to 9% of technical hires since early 2025. Employees reported productivity gains from Claude, but increased AI output also shifted work toward supervising agents and made human attention a growing bottleneck.</div>",
+   "title": "How AI Is Reshaping Anthropic's Workforce (17 minute read)",
+   "url": "https://www.anthropic.com/research/employment-at-anthropic"
+  },
+  {
+   "edition": "ai",
+   "id": "https://x.com/poteto/status/2111133080526495985",
+   "issue_date": "2026-10-19",
+   "position": 3,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Reliable coding agents require better code architecture, strong invariants, and automated verification rather than extensive prompting or human review. Analyze past agent mistakes and code reviews to redesign systems that prevent recurring failures by default.</div>",
+   "title": "How to Trust Your Coding Agents More (2 minute read)",
+   "url": "https://x.com/poteto/status/2111133080526495985"
+  },
+  {
+   "edition": "ai",
+   "id": "https://api-docs.deepseek.com/guides/search",
+   "issue_date": "2026-10-19",
+   "position": 4,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">DeepSeek's Search and Fetch APIs give agents and RAG applications access to live web content. The Search API finds web pages for a query and returns structured results. The Fetch API retrieves a single web page and returns its content as Markdown. Both are raw JSON APIs. They use the same bearer authentication as the DeepSeek API.</div>",
+   "title": "Search & Fetch (8 minute read)",
+   "url": "https://api-docs.deepseek.com/guides/search/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "issue_date": "2026-10-19",
+   "position": 5,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">DeepSeek-V4.1-Flash-1017 delivers substantial improvements across reasoning, coding, agentic tasks, and visual benchmarks. It also reduces task execution time and output length, advancing the performance-cost Pareto frontier across multiple agent harnesses. DeepSeek-V4.1-Flash combines cross-layer KV cache reuse in Compressed Sparse Attention 2 with FP4 KV caching, reducing its global KV cache footprint to 890 bytes per token. Its persistent KV cache footprint is roughly 1/8 of that of DeepSeek-V4-Flash. The model delivers substantially better performance than the baseline despite its much smaller KV cache footprint.</div>",
+   "title": "DeepSeek-V4.1-Flash-1017 (Hugging Face Repo)",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+  },
+  {
+   "edition": "ai",
+   "id": "https://claude.dev/blog/solving-code-review-at-anthropic",
+   "issue_date": "2026-10-19",
+   "position": 6,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">The Claude Code team has restructured its code review process to handle increased volume efficiently by automating most review stages. Key changes include continuous review, automated verifications, multi-layer checks before human intervention, and a tiered risk system for approvals.</div>",
+   "title": "How the Claude Code team does code review (18 minute read)",
+   "url": "https://claude.dev/blog/solving-code-review-at-anthropic/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
+   "issue_date": "2026-10-19",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Replit replaced Anthropic with OpenAI as its preferred provider for Replit Agent, citing cost, performance, and partnership considerations. CEO Amjad Masad clarified that users could still select Claude and other supported models.</div>",
+   "title": "Replit Switches Its Default AI Provider to OpenAI (3 minute read)",
+   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d",
+   "issue_date": "2026-10-19",
+   "position": 8,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. <a href=\"https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d\" rel=\"noopener noreferrer\" target=\"_blank\">Click here to learn more</a>.</div>",
+   "title": "Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)",
+   "url": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.mercor.com/research/labor-index/benchmark-map",
+   "issue_date": "2026-10-19",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">The Benchmark Map is a project aimed at building a comprehensive, continuously updated resource for understanding AI capabilities across the economy. Initial findings suggest that 90% of American working hours are spent on tasks with little or no coverage from existing benchmarks. This makes it very hard to know how good AI models are at the work Americans actually do.</div>",
+   "title": "A benchmark map of the US economy (16 minute read)",
+   "url": "https://www.mercor.com/research/labor-index/benchmark-map/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.anthropic.com/research/ecdsa-curve-origins",
+   "issue_date": "2026-10-19",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Claude revealed the origins of ECDSA curve seeds, showing they were derived using a C library's lrand48 random number generator seeded with Unix timestamps, rather than hash algorithms or backdoors.</div>",
+   "title": "Claude reveals ECDSA curve origins (9 minute read)",
+   "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
+  },
+  {
+   "edition": "ai",
+   "id": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "issue_date": "2026-10-19",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Stack Overflow for Agents saw a 3x increase in signups overnight after integrating a ChatGPT plugin.</div>",
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin (4 minute read)",
+   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+  },
+  {
+   "edition": "ai",
+   "id": "https://thenextweb.com/news/qualcomm-cristiano-amon-ai-companies-phones-2028",
+   "issue_date": "2026-10-19",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">AI companies want phones that run 100B-plus-parameter models continuously by 2028, and some are already starting to build their own phones.</div>",
+   "title": "Qualcomm says AI labs want 100B-parameter models running on phones by 2028 (2 minute read)",
+   "url": "https://thenextweb.com/news/qualcomm-cristiano-amon-ai-companies-phones-2028"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://theinference.org/article/intel-and-qualcomm-are-reported-in-talks-for-tenstorrent-worth-up-to-10-billion",
+   "issue_date": "2026-10-19",
+   "position": 0,
+   "section": "Headlines and Launches",
+   "summary_html": "<div class=\"newsletter-html\">Intel and Qualcomm are reportedly bidding up to $10 billion for Tenstorrent, whose roughly $1,000 Blackhole chips run the BlockFloat8 number format natively, where GPUs with native support list near $40,000. Smallest.ai says its text-to-speech model, with over 80% running in 8-bit, costs about a quarter as much to run as on Nvidia's L40S. The figures are vendor-published and unverified, and no deal has closed.</div>",
+   "title": "Intel and Qualcomm reportedly bid up to $10B for Tenstorrent on an unverified cost claim (3 minute read)",
+   "url": "https://theinference.org/article/intel-and-qualcomm-are-reported-in-talks-for-tenstorrent-worth-up-to-10-billion"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.bloomberg.com/news/articles/2026-10-16/china-s-cxmt-swings-to-profit-after-memory-chip-prices-surge",
+   "issue_date": "2026-10-19",
+   "position": 1,
+   "section": "Headlines and Launches",
+   "summary_html": "<div class=\"newsletter-html\">CXMT expects nine-month net profit of 131 to 132.5 billion yuan ($19.6 to $19.8 billion), versus a 5.3 billion yuan loss a year earlier, on revenue of 265 to 270 billion yuan, up from 32.1 billion. It credits AI-driven DRAM shortages, expanded capacity, and more output per wafer. Its claim of fifth-generation DRAM in mass production hasn't been independently verified, and memory booms typically fund new capacity that eventually pulls prices back down.</div>",
+   "title": "CXMT swings to a nearly $20B nine-month profit as AI demand drives up DRAM prices (2 minute read)",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-16/china-s-cxmt-swings-to-profit-after-memory-chip-prices-surge"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
+   "issue_date": "2026-10-19",
+   "position": 2,
+   "section": "Engineering and Applications",
+   "summary_html": "<div class=\"newsletter-html\">After moving Roman's secondary mirror by about one-sixteenth the width of a human hair, engineers measured 63 nanometers RMS of optical error in the Wide Field Instrument, nearly 30% better than the 90-nanometer requirement. The camera has 18 detectors, and the same adjustment fixed slight defocus in the Coronagraph Instrument, which still needs testing of its ability to block unwanted light. Roman launched August 30, and both instruments now match or beat predictions.</div>",
+   "title": "NASA's Roman telescope beats its image-quality spec by nearly 30% after a hair-width mirror nudge (3 minute read)",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.caranddriver.com/news/a74165059/tesla-roadster-thrusters-fan-system-explained",
+   "issue_date": "2026-10-19",
+   "position": 3,
+   "section": "Engineering and Applications",
+   "summary_html": "<div class=\"newsletter-html\">The Roadster's floor uses fans and perimeter seals to pull air out from under the car, creating up to 2 g of suction, enough to hold it upside down while stationary, and at speed, front and rear passages open for more flow. Cold-gas thrusters add a second system: ten nozzles fed by compressed air, with all-electric actuators for fast micro-adjustments, which Tesla says push with four to five times the force tires can deliver.</div>",
+   "title": "Tesla Roadster pairs underbody suction fans with cold-gas thrusters for grip beyond what tires allow (3 minute read)",
+   "url": "https://www.caranddriver.com/news/a74165059/tesla-roadster-thrusters-fan-system-explained/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://spectrum.ieee.org/variable-frequency-drives",
+   "issue_date": "2026-10-19",
+   "position": 4,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">Variable frequency drives adjust motor speed to match demand, cutting a motor's energy use by about 40 to 60 percent. Toyota saved over $700,000 a year after putting them on 200-plus HVAC motors at its Kentucky plant, in a $1.25 million pilot. Cheaper sensors, machine-learning control, and power chips borrowed from EVs and solar inverters have cut costs. ABB claims drives on every motor could cover up to five years of data center load growth.</div>",
+   "title": "Variable frequency drives could free up grid power by cutting motor energy use 40 to 60 percent (5 minute read)",
+   "url": "https://spectrum.ieee.org/variable-frequency-drives"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.nanowerk.com/nanotechnology-news3/newsid=70437.php",
+   "issue_date": "2026-10-19",
+   "position": 5,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">Argonne and UIUC researchers coupled spin waves in a thin yttrium iron garnet film to a superconducting resonator built directly on top, creating a hybrid mode that propagates one way and could keep return noise from leaking back into qubits. The key materials fix was swapping the usual rare-earth-containing substrate, which absorbs microwaves at low temperatures, for one without rare-earth metals. It's still a proof of concept.</div>",
+   "title": "Spin waves coupled to a superconducting circuit create a one-way street for microwave signals (3 minute read)",
+   "url": "https://www.nanowerk.com/nanotechnology-news3/newsid=70437.php"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.kornia.org/slam",
+   "issue_date": "2026-10-19",
+   "position": 6,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Kornia-SLAM is an open-source visual-inertial odometry and spatial mapping library implemented entirely in Rust. It supports monocular, stereo, and RGB-D cameras coupled with inertial measurement units, utilizing factor graph optimization to maintain real-time performance and strict memory safety. This framework gives embedded software teams a reliable, crash-resilient foundation for real-time spatial estimation on compute-limited physical devices.</div>",
+   "title": "Kornia-SLAM: Visual-Inertial Odometry and SLAM in Rust (3 minute read)",
+   "url": "https://www.kornia.org/slam/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://developers.googleblog.com/gemini-4-argon-for-robotics",
+   "issue_date": "2026-10-19",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Google DeepMind has released Gemini 4 Argon, a multimodal foundation model engineered specifically for embodied physical systems. Featuring native spatio-temporal reasoning and low-latency action generation, it links high-level semantic understanding directly to robot execution through native bridges for ROS 2 and physics simulators like MuJoCo. The architecture allows creators of intelligent physical machines to translate natural language goals into dexterous, real-world manipulation and navigation.</div>",
+   "title": "Gemini 4 Argon: Multimodal Foundation Models for Embodied Intelligence (4 minute read)",
+   "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://rocm.blogs.amd.com/software-tools-optimization/rdna-fp16-gemm/README.html",
+   "issue_date": "2026-10-19",
+   "position": 8,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">AMD walks through eight steps to build an FP16 GEMM kernel on RDNA 3 and RDNA 4, taking the RX 9070 XT from 150 ms to 8.71 ms on an 8192-cubed multiply, versus 8.05 ms for hipBLASLt.</div>",
+   "title": "AMD shows how to hand-tune an FP16 GEMM kernel on RDNA 3 and RDNA 4 to match hipBLASLt (25 minute read)",
+   "url": "https://rocm.blogs.amd.com/software-tools-optimization/rdna-fp16-gemm/README.html"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://github.com/nathanshankar/terminal_rviz",
+   "issue_date": "2026-10-19",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Terminal RViz renders 3D ROS 2 sensor data, point clouds, and robot states directly inside a terminal window using Braille Unicode characters and a software-based renderer.</div>",
+   "title": "Terminal RViz: Terminal-Based 3D Visualizer for ROS 2 (2 minute read)",
+   "url": "https://github.com/nathanshankar/terminal_rviz"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://research.nvidia.com/labs/gear/aspire",
+   "issue_date": "2026-10-19",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">ASPIRE is an autonomous framework from NVIDIA Research that enables robots to discover, practice, and catalog manipulation skills in simulation without human supervision.</div>",
+   "title": "ASPIRE: Agentic Skill Discovery and Policy Synthesis (3 minute read)",
+   "url": "https://research.nvidia.com/labs/gear/aspire/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
+   "issue_date": "2026-10-19",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Meta's 816-billion-parameter Muse Spark Open model, a mixture-of-experts design with 42 billion active per token, is tuned to run locally on clustered M5 Ultra Mac Studios using Apple's MLX framework.</div>",
+   "title": "Apple and Meta tune an 816B-parameter open model to run on two M5 Ultra Mac Studios (3 minute read)",
+   "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+   "issue_date": "2026-10-19",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">HUMXN, a Minneapolis AI data company, will pay for qualifying plumbing, electrical, HVAC, air-duct, and carpet-cleaning jobs in Minneapolis, Chicago, and Miami in exchange for letting technicians work in homes wearing capture gear that records their jobs.</div>",
+   "title": "HUMXN pays for home repairs in three cities to record wearable-sensor data for robot training (3 minute read)",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning"
   }
  ]
 }
