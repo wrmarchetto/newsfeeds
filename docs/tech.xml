@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/tech.xml</id>
   <title>TLDR</title>
-  <updated>2026-10-19T11:00:00+00:00</updated>
+  <updated>2026-10-20T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,146 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.semafor.com/article/10/19/2026/waymo-plans-to-quintuple-its-fleet</id>
+    <title>Waymo plans to quintuple its fleet (1 minute read)</title>
+    <updated>2026-10-20T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Waymo plans to grow its fleet to 20,000 by the end of next year. It recently raised $5 billion from private credit lenders to achieve this goal. The company has already ordered thousands of cars from China to help expand its fleet. Waymo currently operates 4,000 vehicles in 15 cities in the US.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.semafor.com/article/10/19/2026/waymo-plans-to-quintuple-its-fleet"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-10-20T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2026-10-19/apple-announces-oct-28-event-for-touch-screen-macbook-pro?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjQ2NTcwOCwiZXhwIjoxNzkzMDcwNTA4LCJhcnRpY2xlSWQiOiJUTjVXTFRLSUpIOE4wMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.9-rQbdYBHovzTZePj_kDnZSnkRnXix9kn06X9f70Kxs</id>
+    <title>Apple Announces Oct. 28 Event for Touch-Screen MacBook Pro (2 minute read)</title>
+    <updated>2026-10-20T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Apple will be holding a product launch event on October 28 to debut its first touch-screen MacBook. The company will also introduce a new low-end MacBook Pro with an M6 chip, a refreshed iMac, and a revamped iPad mini with a sharper screen. Apple retail stores are preparing to begin selling new products on November 6. The new touch MacBooks, which will run on M5 Pro and M5 Max chips, will have a Dynamic Island interface, as well as a sharper OLED display.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-19/apple-announces-oct-28-event-for-touch-screen-macbook-pro?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjQ2NTcwOCwiZXhwIjoxNzkzMDcwNTA4LCJhcnRpY2xlSWQiOiJUTjVXTFRLSUpIOE4wMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.9-rQbdYBHovzTZePj_kDnZSnkRnXix9kn06X9f70Kxs"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-10-20T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019</id>
+    <title>AI Proved the Quasi-Riemann Hypothesis. What Happens Now? (6 minute read)</title>
+    <updated>2026-10-20T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The quasi-Riemann hypothesis is a weaker version of the Riemann hypothesis, arguably the biggest open question in math. Resolving the Riemann hypothesis would enable mathematicians to better understand the nature of prime numbers. OpenAI's recently released proof for the quasi-Riemann hypothesis is the most significant AI-for-math achievement so far, by quite a margin. The vast majority of the consequences of resolving it already follow from solving the quasi-Riemann hypothesis.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-10-20T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test</id>
+    <title>Startup taps underwater volcano as energy source in “proof point” test (11 minute read)</title>
+    <updated>2026-10-20T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Endurance Energy, a Seattle-based startup, recently demonstrated the technical feasibility of using an active underwater volcano to generate electricity. The startup deployed a 3-ton prototype power plant at the Axial Seamount in the northeast Pacific Ocean in September and generated less than 10 seconds of net-positive electricity. The company's next trial run, planned for the winter of 2026 to 2027, will aim to sustain higher power generation. It is currently developing a 2-megawatt commercial generator for its first planned commercial deployment with the Kingdom of Tonga in 2027.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-10-20T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.cloudflare.com/clairic-extraction-model</id>
+    <title>Introducing Clairic, a new System One class of extraction models (16 minute read)</title>
+    <updated>2026-10-20T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Clairic is an extraction model. Extraction models are a new class of System One-style models that can extract, compute, estimate, and forecast values from unstructured inputs, all at significantly higher accuracy, faster latency, and lower cost than traditional LLMs. It answers with values directly extracted from the input, computed from it, or predicted beyond it. The model can't produce a mistyped answer or hallucinate in the same way an LLM can, but it can still make mistakes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.cloudflare.com/clairic-extraction-model/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-10-20T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.cloudflare.com/obsessive-inference-optimization</id>
+    <title>Cutting our inference bill by 68% by being obsessive about optimization (15 minute read)</title>
+    <updated>2026-10-20T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Cloudflare lowered its average review cost from $2.43 to $0.77. The biggest single saving came from checking what actually reached the provider on each session's first request, and finding a way to order those messages in a way that was as consistent as possible across commits, merge requests, and repositories. Check whether each session's first request actually reads from the cache and whether reviewers still find real problems at the effort level being paid for.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.cloudflare.com/obsessive-inference-optimization"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-10-20T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.jasonwei.net/blog/ai-will-not-automate-radiologists-like-you-think</id>
+    <title>AI will not automate radiologists like you think (6 minute read)</title>
+    <updated>2026-10-20T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Some worry about radiology being totally automated, but the more likely outcome is a future where there is more demand for services as predictive power increases. This is similar to how programming is thriving despite drastic change in the field. It may be possible one day to use radiology images to predict disease probabilities far into the future. Any domain where demand can be elastic and quality can scale with increased intelligence will similarly flourish with the development of AI.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.jasonwei.net/blog/ai-will-not-automate-radiologists-like-you-think"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-20T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html?unlocked_article_code=1.KFE.Mdoj.9aCl6JAb1idL&amp;smid=url-share</id>
+    <title>Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say (6 minute read)</title>
+    <updated>2026-10-20T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Former OpenAI engineer Abdulrahman Alfozan was recently arrested and charged after a hidden recording device in one of OpenAI's offices was traced back to him. The engineer was in frequent contact with a member of the Saudi royal family, who was trying to recruit him to work in Saudi Arabia, but Alfozan had refused, saying he wanted to collect the company stock he had been promised. The Saudi government has offered to pay his bail, and a member of the Saudi military paid for his wife and infant son to fly out of the US the day after his arrest.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html?unlocked_article_code=1.KFE.Mdoj.9aCl6JAb1idL&amp;smid=url-share"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-20T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wsj.com/business/media/netflix-americas-dominant-streaming-service-has-hit-a-wall-13660401?st=4VCGkt&amp;reflink=desktopwebshare_permalink</id>
+    <title>Netflix, America's Dominant Streaming Service, Has Hit a Wall (8 minute read)</title>
+    <updated>2026-10-20T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Netflix is overhauling its creative leadership as it struggles to get domestic audiences to watch more.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/business/media/netflix-americas-dominant-streaming-service-has-hit-a-wall-13660401?st=4VCGkt&amp;reflink=desktopwebshare_permalink"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-20T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://hugovk.dev/blog/2026/releasing-python-3-15-0</id>
+    <title>Releasing Python 3.15.0 (6 minute read)</title>
+    <updated>2026-10-20T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Python 3.15.0 features lazy imports, built-in frozendict and sentinel, more color, faster JIT, package startup config files, and much more.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://hugovk.dev/blog/2026/releasing-python-3-15-0/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-20T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c?st=4Qa1Yp&amp;reflink=desktopwebshare_permalink</id>
+    <title>Musk Vows to Give Each US Child a SpaceX Share (3 minute read)</title>
+    <updated>2026-10-20T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;With approximately 73 million children under the age of 18 living in the US, that could mean giving away nearly $11 billion in stock.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c?st=4Qa1Yp&amp;reflink=desktopwebshare_permalink"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-20T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming</id>
+    <title>It's still OK to enjoy programming (2 minute read)</title>
+    <updated>2026-10-20T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;It's okay to enjoy things without any economic justification.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-20T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bbc.com/news/articles/cjkgeq0k1wevo</id>
+    <title>US bans DeepSeek AI from government use as tech tension with China continues (3 minute read)</title>
+    <updated>2026-10-20T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The order is specific to civilian agencies - agencies within the Department of Defense are excluded.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bbc.com/news/articles/cjkgeq0k1wevo"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-20T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again</id>
+    <title>People are using AI to make their smart TVs dumb again (5 minute read)</title>
+    <updated>2026-10-20T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;They're getting rid of sponsored ads, speeding up app launchers, redesigning home screens, disabling tracking features, and more.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-20T10:59:47+00:00</published>
+  </entry>
   <entry>
     <id>https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjM4MTY4MiwiZXhwIjoxNzkyOTg2NDgyLCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.CT5XmN3IjQHLmH2_x0Q1qKkxSIyd4MmzLK_zFlRKYbs</id>
     <title>Apple's HomeView Offers Tantalizing Preview of a Future Robotic Version (14 minute read)</title>
@@ -1449,145 +1589,5 @@
     <category term="TLDR"/>
     <category term="Quick Links"/>
     <published>2026-10-06T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://neuralink.com/updates/pretraining-on-50000-hours</id>
-    <title>Pretraining on 50,000 Hours of Unlabeled Brain Data (10 minute read)</title>
-    <updated>2026-10-05T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Neuralink's decoders are machine learning models trained to convert neural activity into intended action. These decoders are unique to each user - all users have to perform calibration prior to using a Neuralink device. Neuralink has collected over 50,000 hours of unlabeled, freeform neural data since its clinical trials began. This post details how the company used this data to improve its models, making its decoders more accurate and long-lived.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-05"&gt;TLDR · 2026-10-05 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://neuralink.com/updates/pretraining-on-50000-hours/"/>
-    <category term="TLDR"/>
-    <category term="Big Tech &amp; Startups"/>
-    <published>2026-10-05T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bloomberg.com/news/newsletters/2026-10-04/apple-s-john-ternus-leads-design-touch-screen-oled-macbook-pro-gets-lighter?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTE3MzMyNSwiZXhwIjoxNzkxNzc4MTI1LCJhcnRpY2xlSWQiOiJUTURZVzFWVFRDWkwwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.88q58p2LUcPDbaTrqvWp7jlXBdX_yTJ-72TQE75fUII</id>
-    <title>Apple's John Ternus Has Found a New Design Chief: Himself (11 minute read)</title>
-    <updated>2026-10-05T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Apple CEO John Ternus is spending a lot of time overseeing the company's hardware and software design work. He is largely leaving the company's financial operations to CFO Kevan Parekh and the supply chain to COO Sabih Khan. Ternus is deeply involved in product engineering and design. One of his first priorities was to restore the company's design studio standing. The company is not looking to recruit an outside chief design officer to oversee the entire organization.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-05"&gt;TLDR · 2026-10-05 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.bloomberg.com/news/newsletters/2026-10-04/apple-s-john-ternus-leads-design-touch-screen-oled-macbook-pro-gets-lighter?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTE3MzMyNSwiZXhwIjoxNzkxNzc4MTI1LCJhcnRpY2xlSWQiOiJUTURZVzFWVFRDWkwwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.88q58p2LUcPDbaTrqvWp7jlXBdX_yTJ-72TQE75fUII"/>
-    <category term="TLDR"/>
-    <category term="Big Tech &amp; Startups"/>
-    <published>2026-10-05T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer</id>
-    <title>Things that Apparently Cause Cancer (12 minute read)</title>
-    <updated>2026-10-05T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The series of Harvard studies that showed that nuclear power plants were associated with higher rates of cancer and cancer mortality are nonsense. The methodology used in the studies will always show an increased cancer risk and mortality no matter what landmark is used. The studies simply do not prove anything about cancer incidence. Sophisticated statistics can produce extremely precise nonsense when the design fails to identify the causal mechanism.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-05"&gt;TLDR · 2026-10-05 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer"/>
-    <category term="TLDR"/>
-    <category term="Science &amp; Futuristic Technology"/>
-    <published>2026-10-05T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html?unlocked_article_code=1.GVE.qRZX.psKv79OvBAKk&amp;smid=url-share</id>
-    <title>Superpowers Race to Put Nuclear Reactors on the Moon (14 minute read)</title>
-    <updated>2026-10-05T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;NASA wants contractors to prepare to build a nuclear reactor that could survive a space voyage and run without maintenance near the south pole by December 2030. The agency is racing for the future of space exploration. The US and China are both racing to establish a moon base to search for resources and to launch missions deeper into the solar system. Controlling access to the Moon's assets is vital to this mission. Both superpowers believe a nuclear reactor is the centerpiece of this ambition.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-05"&gt;TLDR · 2026-10-05 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html?unlocked_article_code=1.GVE.qRZX.psKv79OvBAKk&amp;smid=url-share"/>
-    <category term="TLDR"/>
-    <category term="Science &amp; Futuristic Technology"/>
-    <published>2026-10-05T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tester.army/e2e</id>
-    <title>e2e (Website)</title>
-    <updated>2026-10-05T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;e2e is an open-source AI testing framework. It provides customizable testing for web, mobile apps, and more. e2e remembers agents' actions and replays them when possible without calling the model again. Less repeated reasoning results in fewer tokens and lower costs. Developers can choose their preferred AI model and customize the testing agent.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-05"&gt;TLDR · 2026-10-05 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://tester.army/e2e"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-05T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform</id>
-    <title>Why don't more developers “use the platform”? (11 minute read)</title>
-    <updated>2026-10-05T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Advocates for web standards, performance, and accessibility have implored web developers for years to 'use the platform', but despite how obvious the advice seems to be, many people seem to still need convincing. One reason for this is that, for the longest time, browsers were playing catch-up with the ecosystem on top of them. Another is due to the familiarity with tools they've used in the past. Often, even with a robust standard, libraries fill a useful gap between framework ergonomics and the platform underneath it.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-05"&gt;TLDR · 2026-10-05 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-05T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881?gift=1ga2TvL-DbuHDQIcYF7oR4o908Fsjxr4NFLlsptkfP8&amp;amp%3Butm_source=tldrnewsletter</id>
-    <title>I Quit OpenAI Because Its Culture Is Broken (7 minute read)</title>
-    <updated>2026-10-05T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;David Robinson resigned from OpenAI this week, joining a parade of former colleagues who have decided that the company's current path is unacceptable. Robinson headed the writing of the safety reports that OpenAI publishes with each major launch. OpenAI has thrived by trial and error, but this approach guarantees periodic failures, and the scale of those failures is growing. Achieving something much closer to perfect the first time is becoming more essential because iteration after a mistake may not be possible.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-05"&gt;TLDR · 2026-10-05 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=1ga2TvL-DbuHDQIcYF7oR4o908Fsjxr4NFLlsptkfP8&amp;amp%3Butm_source=tldrnewsletter"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-05T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659?st=2c1SNo&amp;reflink=desktopwebshare_permalink</id>
-    <title>The Mulleted, Meme-Loving Billionaire Behind Meta's Hit AI App (10 minute read)</title>
-    <updated>2026-10-05T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Alexandr Wang, 29, was hand-picked by Mark Zuckerberg last year to oversee Meta's AI efforts. Wang, the company's first Gen Z senior executive, brings an internet-flavored communication style that could help the company connect with younger customers. He is a native of the social-media ecosystem his boss built. Wang has succeeded in building hype for Muse, in part with an unconventional internet campaign. The challenge is now to keep the momentum going as rival companies press ahead with their own offerings.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-05"&gt;TLDR · 2026-10-05 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659?st=2c1SNo&amp;reflink=desktopwebshare_permalink"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-05T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://sjg.io/writing/could-this-finally-be-microsofts-moment</id>
-    <title>Could this finally be Microsoft's moment? (31 minute read)</title>
-    <updated>2026-10-05T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Microsoft could win the enterprise harness with Copilot while labs compete to supply its intelligence.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-05"&gt;TLDR · 2026-10-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://sjg.io/writing/could-this-finally-be-microsofts-moment/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-05T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f?st=S8tw35&amp;reflink=desktopwebshare_permalink</id>
-    <title>The Sleuths Who Expose When AI Goes Rogue (12 minute read)</title>
-    <updated>2026-10-05T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The swarm chasers are a loose crew of online sleuths that work together to piece together interconnected AI swarm incidents.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-05"&gt;TLDR · 2026-10-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f?st=S8tw35&amp;reflink=desktopwebshare_permalink"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-05T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician</id>
-    <title>So You Think You Could Be An Electrician? (17 minute read)</title>
-    <updated>2026-10-05T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Trades involve physical demands and uncertain rewards that people outside the industry just don't understand.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-05"&gt;TLDR · 2026-10-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-05T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://simonwillison.net/2026/Oct/3/default-hard-budget-caps</id>
-    <title>We're going to need default hard budget caps on pretty much everything (3 minute read)</title>
-    <updated>2026-10-05T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;People who want to live dangerously should be able to do that, but it needs to be on an opt-in basis.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-05"&gt;TLDR · 2026-10-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-05T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://metedata.substack.com/p/what-meta-got-right-with-muse</id>
-    <title>What Meta Got Right With Muse (7 minute read)</title>
-    <updated>2026-10-05T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;None of Muse's capabilities are new, Meta just put the pieces together in the right way.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-05"&gt;TLDR · 2026-10-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://metedata.substack.com/p/what-meta-got-right-with-muse"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-05T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america</id>
-    <title>Spotify billionaire's body scan startup has come to America (2 minute read)</title>
-    <updated>2026-10-05T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Neko Health uses 'advanced technology' to screen for issues in the blood, skin, and metabolism.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-05"&gt;TLDR · 2026-10-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-05T10:59:47+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/ai.xml</id>
   <title>TLDR AI</title>
-  <updated>2026-10-19T11:00:00+00:00</updated>
+  <updated>2026-10-20T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.minimax.io/blog/minimax-m31f</id>
+    <title>MiniMax M3.1 Flash: Redefining Agent Performance and Cost (4 minute read)</title>
+    <updated>2026-10-20T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;MiniMax M3.1 Flash delivers a generational leap in agentic tasks, coding, Computer Use, and cybersecurity. It makes online inference nearly three times faster and reduces usage costs by 70%. The model is now available through the MiniMax API, M Plan, and MiniMax Code. MiniMax plans to release the model weights at a later date.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-20"&gt;TLDR AI · 2026-10-20 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.minimax.io/blog/minimax-m31f"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-10-20T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.inceptionlabs.ai/blog/introducing-mercury-3</id>
+    <title>Mercury 3 (4 minute read)</title>
+    <updated>2026-10-20T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Inception Labs' Mercury 3 is a diffusion-based language model that reportedly outperformed GPT-6 Luna and Claude Haiku 5.5 on multiple benchmarks while generating over 1,000 tokens per second.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-20"&gt;TLDR AI · 2026-10-20 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.inceptionlabs.ai/blog/introducing-mercury-3"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-10-20T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.cloudflare.com/clairic-extraction-model</id>
+    <title>Introducing Clairic, a new System One class of extraction models (16 minute read)</title>
+    <updated>2026-10-20T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Clairic can extract, compute, estimate, and forecast values from unstructured inputs. It is an 'extraction model', a new class of System One-style model that returns values directly extracted from the input, computed from it, or predicted beyond it. The model doesn't generate any tokens, so it can't produce a mistyped answer or hallucinate in the same way LLMs can. It can still make mistakes, but its outputs come with confidence scores to help users evaluate whether it is appropriate to trust the model or to take a second look.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-20"&gt;TLDR AI · 2026-10-20 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.cloudflare.com/clairic-extraction-model"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-10-20T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://importai.substack.com/p/import-ai-477-in-which-i-tell-the</id>
+    <title>Import AI 477: In which I tell the IMF the Singularity has begun (22 minute read)</title>
+    <updated>2026-10-20T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI's impact on national security and economic trajectories marks the onset of the singularity, accelerating scientific and technological progress. AI systems like Claude, ChatGPT, and Gemini are already solving complex problems in disciplines like mathematics, biology, and robotics, indicating potential for widespread innovation. To capitalize on these advancements, there needs to be significant infrastructure development and careful governance to navigate the associated risks and ensure equitable benefits.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-20"&gt;TLDR AI · 2026-10-20 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://importai.substack.com/p/import-ai-477-in-which-i-tell-the"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-10-20T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://research.contrary.com/report/ai-benchmarks-climbing-the-wrong-hills</id>
+    <title>AI Benchmarks: Climbing the Wrong Hills (24 minute read)</title>
+    <updated>2026-10-20T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI benchmarks are now shaping how models are evaluated in training and the capabilities they are designed to have. Poorly constructed benchmarks could push the industry in the wrong direction. Creating benchmarks impervious to benchmaxxing requires expertise in measuring what we actually want from AI systems. As benchmaxxing continues, researchers must decide which hills they want to climb and whether today's benchmarks actually reward progress in that direction.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-20"&gt;TLDR AI · 2026-10-20 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://research.contrary.com/report/ai-benchmarks-climbing-the-wrong-hills"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-10-20T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster</id>
+    <title>Inside Meta's Gigawatt-Scale AI Supercluster (14 minute read)</title>
+    <updated>2026-10-20T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Meta details the engineering behind Prometheus, its gigawatt-scale AI supercluster supporting the Muse model family. It explores its infrastructure design, plans to scale toward roughly one million GPUs, and closed-loop liquid cooling technology.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-20"&gt;TLDR AI · 2026-10-20 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-10-20T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium</id>
+    <title>Introducing TorchNeuron: Native PyTorch backend for AWS Trainium (27 minute read)</title>
+    <updated>2026-10-20T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TorchNeuron is an open-source native PyTorch backend for Trainium. It uses the model code, the libraries, and the tools developers already use on Trainium. TorchNeuron supports eager execution for research and debugging. It has been released in public Beta under the Apache 2.0 open source licence.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-20"&gt;TLDR AI · 2026-10-20 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-10-20T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://exa.ai/blog/exa-3</id>
+    <title>Introducing Exa 3.0 (3 minute read)</title>
+    <updated>2026-10-20T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Exa 3.0 leads on evaluations spanning coding, finance, deep research, and company intelligence. The release includes Exa Lite, a new search type priced at $4 per 1,000 requests. Exa runs its own crawler and an independent index, tracking over 2 trillion URLs, serving 100 billion pages, and growing around what its customers search for. The index includes 1.27B ecommerce listings with prices and availability, over 211 million local businesses with hours and ratings, real-time news, sports, weather, and market data, and information on flights, local events, transit, and podcasts.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-20"&gt;TLDR AI · 2026-10-20 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://exa.ai/blog/exa-3"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-10-20T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://officeintelligence.github.io/</id>
+    <title>Office Intelligence for Long-Running AI Work (3 minute read)</title>
+    <updated>2026-10-20T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Office Intelligence explores how AI agents can use evidence, create useful work artifacts, and carry knowledge across tasks. The project focuses on environments, datasets, and learning methods for sustained knowledge work.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-20"&gt;TLDR AI · 2026-10-20 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://officeintelligence.github.io/"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-10-20T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal</id>
+    <title>Nscale and Anthropic are reportedly in talks for yet another $45B compute deal (1 minute read)</title>
+    <updated>2026-10-20T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic and Nscale may be on the verge of announcing another $45 billion compute deal. The two companies announced a $45 billion compute deal only a little over a month ago. Both companies are currently pursuing IPOs. Anthropic is still expected to go public this year. Nscale is experiencing investor pushback over its proposed valuation of $30 billion.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-20"&gt;TLDR AI · 2026-10-20 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-20T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning</id>
+    <title>AI lab offers free plumbing and HVAC repairs across three cities to train AI robots (2 minute read)</title>
+    <updated>2026-10-20T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI lab HUMXN is subsidizing plumbing, electrical, HVAC, air-duct cleaning, and carpet cleaning in Minneapolis, Chicago, and Miami so it can gather real-world data to train AI robots. The laborers doing the jobs will wear cameras to record their work inside real homes. People living in the three cities the program is running in can check whether they qualify on the HUMXN Free Home Service webpage.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-20"&gt;TLDR AI · 2026-10-20 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-20T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/low-resource-programming-languages</id>
+    <title>Improving AI Coding in Older Programming Languages (6 minute read)</title>
+    <updated>2026-10-20T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI reported major improvements in coding and software migration across languages such as COBOL, Fortran, and Visual Basic.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-20"&gt;TLDR AI · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openai.com/index/low-resource-programming-languages/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-10-20T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture</id>
+    <title>The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do (11 minute read)</title>
+    <updated>2026-10-20T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Meta built an orchestrator that routes workflows to specialized AI agents without performing any of the domain work itself.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-20"&gt;TLDR AI · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-10-20T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos</id>
+    <title>How to shape your slides and videos with Gemini Notebook (1 minute read)</title>
+    <updated>2026-10-20T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Gemini Notebook offers tools to create slides and videos with AI-driven design suggestions.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-20"&gt;TLDR AI · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-10-20T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm</id>
+    <title>Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM (11 minute read)</title>
+    <updated>2026-10-20T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The vLLM engine introduced a push-based KV transfer to minimize time-to-first-token (TTFT) and time-per-output-token (TPOT) in disaggregated inference setups.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-20"&gt;TLDR AI · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-10-20T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://www.anthropic.com/news/public-benefit-fund</id>
     <title>Anthropic Commits Equity to Public Benefit (1 minute read)</title>
@@ -1569,145 +1719,5 @@
     <category term="TLDR AI"/>
     <category term="Quick Links"/>
     <published>2026-10-06T10:59:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.primeintellect.ai/blog/prime-inference</id>
-    <title>Prime Inference: Fast, Reliable Serving for Frontier Open Models (18 minute read)</title>
-    <updated>2026-10-05T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Prime Inference covers both serverless endpoints and reserved capacity. It offers resilient serving of frontier open-source models on Prime Intellect's GPU infrastructure across multiple data centers. The serving platform has powered large-scale RL rollouts, synthetic data generation, evaluations, and long-running coding agents at Prime, processing nearly a trillion tokens internally every day. Prime's mission is to build frontier open models and the open superintelligence stack for continuously improving agents.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-05"&gt;TLDR AI · 2026-10-05 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.primeintellect.ai/blog/prime-inference"/>
-    <category term="TLDR AI"/>
-    <category term="Headlines &amp; Launches"/>
-    <published>2026-10-05T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.testingcatalog.com/aleph-alpha-releases-open-weight-kolibri-with-1m-context</id>
-    <title>Aleph Alpha releases open-weight Kolibri with 1M context (3 minute read)</title>
-    <updated>2026-10-05T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Kolibri is an open-weight English-German Mixture-of-Experts model with 78.1 billion parameters. It supports tool calling and contexts up to one million tokens. The model is available on Hugging Face under the Apache 2.0 license. It is designed for sovereign, mission-critical work in government and regulated industries.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-05"&gt;TLDR AI · 2026-10-05 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.testingcatalog.com/aleph-alpha-releases-open-weight-kolibri-with-1m-context/"/>
-    <category term="TLDR AI"/>
-    <category term="Headlines &amp; Launches"/>
-    <published>2026-10-05T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html</id>
-    <title>Anthropic to invest $100 million to train AI engineer talent (3 minute read)</title>
-    <updated>2026-10-05T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic is investing $100 million in the Claude Frontier Academy to train 10,000 AI engineers by 2027. The program partners with firms like Accenture and Morgan Stanley to enhance AI fluency and enterprise tech integration. The initiative addresses increasing demand for AI expertise in various industries.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-05"&gt;TLDR AI · 2026-10-05 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html"/>
-    <category term="TLDR AI"/>
-    <category term="Headlines &amp; Launches"/>
-    <published>2026-10-05T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://epoch.ai/publications/estimating-the-agent-population</id>
-    <title>How many AI agents could run on the AI chips shipped through 2027? (34 minute read)</title>
-    <updated>2026-10-05T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;AI chips shipped through 2027 could run tens to hundreds of millions of concurrent frontier-model agents. These agents could supply as many weekly working hours as about 140-720 million full-time employees. Even a modest use of this capacity would require a massive increase in global demand for AI. Using 20% of the estimated central capacity would imply $2.6 trillion to $5.3 trillion a year in API-equivalent spending.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-05"&gt;TLDR AI · 2026-10-05 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://epoch.ai/publications/estimating-the-agent-population"/>
-    <category term="TLDR AI"/>
-    <category term="Deep Dives &amp; Analysis"/>
-    <published>2026-10-05T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue</id>
-    <title>AI21 uses Kueue to manage a 10,000-GPU fleet (15 minute read)</title>
-    <updated>2026-10-05T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;AI21 describes replacing ad hoc GPU-capacity negotiations with queueing and fair scheduling across a shared Google Cloud cluster. A Google Cloud case study says high-priority workloads began 83% sooner under the new setup.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-05"&gt;TLDR AI · 2026-10-05 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue"/>
-    <category term="TLDR AI"/>
-    <category term="Deep Dives &amp; Analysis"/>
-    <published>2026-10-05T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://katecarruthers.com/smaller-models-are-the-future-of-ai-sovereignty-2</id>
-    <title>Smaller models are the future of AI sovereignty (10 minute read)</title>
-    <updated>2026-10-05T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Australia needs AI sovereignty by retaining control and choice, not relying on external companies for critical capabilities. Smaller, specialized AI models offer practical benefits such as adaptability, cost-efficiency, and easier governance compared to larger, frontier models. Embracing a portfolio approach with open-weight models increases options, fostering managed interdependence without becoming dependent on a single provider.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-05"&gt;TLDR AI · 2026-10-05 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://katecarruthers.com/smaller-models-are-the-future-of-ai-sovereignty-2/"/>
-    <category term="TLDR AI"/>
-    <category term="Deep Dives &amp; Analysis"/>
-    <published>2026-10-05T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://cactuscompute.com/blog/whistle</id>
-    <title>Whistle: Speech to Text in 16.9 MB (6 minute read)</title>
-    <updated>2026-10-05T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Whistle is an open speech recognition model that runs on the same CPU engine as Needle. It can transcribe English, German, French, Spanish, Italian, Dutch, and Polish. At 16.8 MB, the model can run on mobiles, wearables, robots, smart home devices, automobiles, and microcontrollers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-05"&gt;TLDR AI · 2026-10-05 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://cactuscompute.com/blog/whistle"/>
-    <category term="TLDR AI"/>
-    <category term="Engineering &amp; Research"/>
-    <published>2026-10-05T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://vxlang.org/</id>
-    <title>Vx (Website)</title>
-    <updated>2026-10-05T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Vx is a systems programming language for heterogeneous computing. It puts hardware topology, memory placement, and reachability directly into the type system. Vx front-loads into type checking a class of bug that normally surfaces as a runtime crash, silent corruption, or an out-of-memory error at training step 1,200. Vx is the right language for things that must be correct and fast across ten kinds of silicon.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-05"&gt;TLDR AI · 2026-10-05 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://vxlang.org/"/>
-    <category term="TLDR AI"/>
-    <category term="Engineering &amp; Research"/>
-    <published>2026-10-05T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://x.com/worldnetwork/status/2105989118287134752</id>
-    <title>Muse, dots, Instinct, and the question every agent will be asked (5 minute read)</title>
-    <updated>2026-10-05T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Agentic services will increasingly need to prove both which agent is acting and whether a real person authorized it. World ID lets users delegate privacy-preserving Proof of Human credentials to agents for access, limits, and approvals.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-05"&gt;TLDR AI · 2026-10-05 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://x.com/worldnetwork/status/2105989118287134752"/>
-    <category term="TLDR AI"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-05T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://x.com/RayanKrishnan/status/2106053382448484796</id>
-    <title>Human Intelligence is Surprising (7 minute read)</title>
-    <updated>2026-10-05T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Human intelligence is a recent evolutionary accident, while AI can optimize directly against explicit objectives and rapidly surpass people on measurable tasks. The harder human problem is defining worthwhile objectives without steering models toward the wrong capabilities.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-05"&gt;TLDR AI · 2026-10-05 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://x.com/RayanKrishnan/status/2106053382448484796"/>
-    <category term="TLDR AI"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-05T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://research.google/blog/toward-provably-private-learning-from-federated-data</id>
-    <title>Toward provably private learning from federated data (12 minute read)</title>
-    <updated>2026-10-05T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Google's new Federated Learning system provides externally verifiable privacy guarantees while shifting computation to the server to improve training speed, accuracy, and device coverage.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-05"&gt;TLDR AI · 2026-10-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://research.google/blog/toward-provably-private-learning-from-federated-data/"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-05T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://arxiv.org/abs/2609.38721</id>
-    <title>Multimodal Models Learn From Their Own Critiques (22 minute read)</title>
-    <updated>2026-10-05T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;UniEvo-VL lets a single multimodal model act as both teacher and student, using its own critiques as privileged information during test-time self-improvement.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-05"&gt;TLDR AI · 2026-10-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://arxiv.org/abs/2609.38721"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-05T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link</id>
-    <title>Meta open sources code to let you make Muse AI gadgets (2 minute read)</title>
-    <updated>2026-10-05T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Meta has open-sourced code to allow integration of its Muse AI agent into custom gadgets.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-05"&gt;TLDR AI · 2026-10-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-05T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://research.meta.ai/blog/solving-open-research-problems-together</id>
-    <title>Solving Open Research Problems Together (9 minute read)</title>
-    <updated>2026-10-05T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Meta partnered with mathematicians to solve open mathematical research problems using its Muse Spark AI models.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-05"&gt;TLDR AI · 2026-10-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://research.meta.ai/blog/solving-open-research-problems-together"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-05T10:59:47+00:00</published>
   </entry>
 </feed>
