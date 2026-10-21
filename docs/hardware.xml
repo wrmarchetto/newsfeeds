@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/hardware.xml</id>
   <title>TLDR Hardware</title>
-  <updated>2026-10-19T11:00:00+00:00</updated>
+  <updated>2026-10-21T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,136 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal</id>
+    <title>Anthropic and Nscale reportedly near a second $45B compute deal (2 minute read)</title>
+    <updated>2026-10-21T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic and AI infrastructure provider Nscale are reportedly close to announcing a second $45 billion compute deal, just over a month after their first in August, though talks are ongoing and details could change. This would add to Anthropic's string of massive capacity commitments, even as some investors worry about spending outpacing profit. Nscale is also pursuing an IPO, but investors are pushing back on its proposed $30 billion valuation.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-21"&gt;TLDR Hardware · 2026-10-21 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-21T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2026-10-19/apple-announces-oct-28-event-for-touch-screen-macbook-pro</id>
+    <title>Apple confirms Oct 28 event for its first touch-screen OLED MacBook Pro (2 minute read)</title>
+    <updated>2026-10-21T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Apple confirmed an October 28 event in Los Angeles where it is expected to debut its first touch-screen Macs: 14- and 16-inch MacBook Pros with tandem OLED panels, a Dynamic Island in place of the notch, a lighter build, and M5 Pro and M5 Max chips. Apple is also expected to launch an entry-level 14-inch MacBook Pro and iMac on the M6, its first 2nm chip, in unchanged designs, plus an OLED iPad mini. Retail availability is expected November 6.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-21"&gt;TLDR Hardware · 2026-10-21 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-19/apple-announces-oct-28-event-for-touch-screen-macbook-pro"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-21T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.phoronix.com/news/SpacemiT-V100</id>
+    <title>SpacemiT Announces The V100 Server-Class RISC-V Processor (2 minute read)</title>
+    <updated>2026-10-21T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;SpacemiT claims its V100 chip is the first chip fully compliant with the RISC-V server specification. The chip packs 46 cores (6 XiangShan Kunminghu V2R2 plus 40 SpacemiT X100) at 2.2-2.4GHz on 12nm with a 120W TDP, supports eight-channel DDR5-4800 and 52 PCIe 5.0 lanes, and scales to two sockets and 92 cores. The specs trail Intel Xeon, AMD EPYC, and Arm server chips, and performance is untested.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-21"&gt;TLDR Hardware · 2026-10-21 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.phoronix.com/news/SpacemiT-V100"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-10-21T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://chipsandcheese.com/p/nvidia-veras-system-architecture</id>
+    <title>Nvidia Vera's memory system delivers 1.2 TB/s with flat latency, but cross-socket links lag (5 minute read)</title>
+    <updated>2026-10-21T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Chips and Cheese's teardown of Vera's fabric found a 1024-bit LPDDR5X-9600 interface delivering 1.228 TB/s, with latency staying under 200 ns even as bandwidth load climbs, plus a 164 MB shared L3 and field-serviceable SOCAMM2 modules. NVLink C2C moves up to 780 GB/s between sockets, but cross-socket core-to-core latency is around 660 ns. Vera trails Graviton 5 on socket-level throughput but leads by nearly 20% in DRAM-bound SPEC tests.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-21"&gt;TLDR Hardware · 2026-10-21 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://chipsandcheese.com/p/nvidia-veras-system-architecture"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-10-21T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.servethehome.com/hpe-spaceborne-computer-4-will-bring-ai-and-hpc-to-the-moon-on-astrolab-flip</id>
+    <title>HPE Spaceborne Computer-4 Will Bring AI and HPC to the Moon on Astrolab FLIP (4 minute read)</title>
+    <updated>2026-10-21T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;HPE's Spaceborne Computer-4 will be the first HPC benchmark on the lunar surface, launching in late 2026 aboard Astrolab's FLIP rover under NASA's CLPS initiative. It will manage AI workloads such as vision inference and LiDAR data processing in the Moon's high-radiation, atmosphere-free environment. NASA and Deloitte are joining this mission to enhance AI capabilities, including Federated Learning and predictive cyber-analytics.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-21"&gt;TLDR Hardware · 2026-10-21 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.servethehome.com/hpe-spaceborne-computer-4-will-bring-ai-and-hpc-to-the-moon-on-astrolab-flip/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-10-21T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission</id>
+    <title>SpaceX flies its Starfall return capsule for the second time on a 32-payload rideshare (3 minute read)</title>
+    <updated>2026-10-21T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;SpaceX launched its Starfall return capsule for the second time on the Bandwagon-5 rideshare, one of 32 payloads on a Falcon 9 booster flying for the 19th time. Per an FAA assessment, the disk-shaped capsule is about 10 feet wide and weighs 4,600 pounds, and can bring 2,200 pounds of payload home, aimed at microgravity research and in-space manufacturing. It deployed last, 2 hours 48 minutes after liftoff, alongside Varda's W-Series 7 capsule.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-21"&gt;TLDR Hardware · 2026-10-21 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-10-21T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://semiengineering.com/why-physical-ai-is-so-hard-to-engineer</id>
+    <title>Why Physical AI Is So Hard To Engineer (13 minute read)</title>
+    <updated>2026-10-21T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This article presents views from Synopsys, Keysight, Renesas, Arteris, Cadence, and Mixel on how physical AI changes chip design. Engineers must handle unpredictable environments, safety and serviceability, and split designs between devices that can rely on the cloud and those that must run fully locally, such as vehicles. Several speakers frame it as a sensing and imaging problem as much as a compute one.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-21"&gt;TLDR Hardware · 2026-10-21 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://semiengineering.com/why-physical-ai-is-so-hard-to-engineer/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-21T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://a16z.com/superhuman-hardware-design-is-the-easy-part</id>
+    <title>AI hardware design is the easy part, the lossy physical interface is the bottleneck (15 minute read)</title>
+    <updated>2026-10-21T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI will soon be superhuman at hardware design, but the digital-to-physical interface is lossy. Building real parts means navigating CNC/CAM translation, tolerance stacking, vendors, and scale, while measuring reality is sparse, slow, expensive, and sometimes qualitative. Demand is expected to shift toward suppliers of machined parts, harnesses, and components, plus better simulation and process-knowledge data.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-21"&gt;TLDR Hardware · 2026-10-21 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://a16z.com/superhuman-hardware-design-is-the-easy-part/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-21T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.thelec.net/news/articleView.html?idxno=14713&amp;amp%3Butm_source=tldrhardware</id>
+    <title>Infineon Targets Semiconductor Market for Humanoid Robotic Hands (3 minute read)</title>
+    <updated>2026-10-21T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Infineon pitched MCUs, power semiconductors, and tactile sensors for humanoid hands at SEDEX 2026 in Seoul on October 16.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-21"&gt;TLDR Hardware · 2026-10-21 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.thelec.net/news/articleView.html?idxno=14713&amp;amp%3Butm_source=tldrhardware"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-21T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://thequantuminsider.com/2026/10/20/monarch-quantum-photonics-hardware-nasa-gravity-sensor</id>
+    <title>Monarch Quantum supplies photonics for NASA's planned space-based quantum gravity gradiometer (3 minute read)</title>
+    <updated>2026-10-21T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Monarch Quantum is supplying the integrated photonics, compact engines combining lasers, micro-optics, fibers, and control electronics for Infleqtion's work on NASA JPL's Quantum Gravity Gradiometer Pathfinder, which is moving into hardware development and testing under a $20 million follow-on contract.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-21"&gt;TLDR Hardware · 2026-10-21 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://thequantuminsider.com/2026/10/20/monarch-quantum-photonics-hardware-nasa-gravity-sensor/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-21T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html</id>
+    <title>SpaceX's AI business is now its largest segment, and AI took $16.4B of $19.6B in Q3 capex (3 minute read)</title>
+    <updated>2026-10-21T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;SpaceX posted $14.6 billion in Q3 revenue, up 161%, and its first quarterly profit as a public company at $4.4 billion.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-21"&gt;TLDR Hardware · 2026-10-21 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-21T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c</id>
+    <title>Musk pledges one SpaceX share to every US child, a roughly $10.5B gift (2 minute read)</title>
+    <updated>2026-10-21T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Elon Musk has pledged to give one SpaceX share to every child in America next year.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-21"&gt;TLDR Hardware · 2026-10-21 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-21T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tomshardware.com/tech-industry/semiconductors/intel-asks-fcc-for-waiver-to-buy-foreign-robots-chipmakers-automated-guided-vehicles-could-run-afoul-of-agencys-sweeping-robot-ban</id>
+    <title>Intel seeks an FCC waiver for foreign-made fab robots that move wafers between tools (3 minute read)</title>
+    <updated>2026-10-21T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Intel asked the FCC for a conditional waiver for the automated guided vehicles that shuttle wafers and supplies between tools in its fabs, fearing they fall under the new foreign-robot ban.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-21"&gt;TLDR Hardware · 2026-10-21 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tomshardware.com/tech-industry/semiconductors/intel-asks-fcc-for-waiver-to-buy-foreign-robots-chipmakers-automated-guided-vehicles-could-run-afoul-of-agencys-sweeping-robot-ban"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-21T10:59:48+00:00</published>
+  </entry>
   <entry>
     <id>https://theinference.org/article/intel-and-qualcomm-are-reported-in-talks-for-tenstorrent-worth-up-to-10-billion</id>
     <title>Intel and Qualcomm reportedly bid up to $10B for Tenstorrent on an unverified cost claim (3 minute read)</title>

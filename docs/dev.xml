@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-10-20T11:00:00+00:00</updated>
+  <updated>2026-10-21T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,166 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.fratepietro.com/2026/how-to-build-a-decision-model-like-jev</id>
+    <title>How to Build a Decision Model Like Jev (17 minute read)</title>
+    <updated>2026-10-21T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Decision models return probabilities over known outcomes in a single forward pass, avoiding the text generation and JSON parsing overhead of chat completions. This walkthrough starts with Hugging Face's /v1/systemone endpoint, then covers reserved option tokens, calibration, soft training targets, and tree batching for multiple questions over shared context.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-21"&gt;TLDR Dev · 2026-10-21 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.fratepietro.com/2026/how-to-build-a-decision-model-like-jev/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-21T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://builders.ramp.com/post/building-laminar</id>
+    <title>Building Laminar: Ramp's Managed Agents Platform (10 minute read)</title>
+    <updated>2026-10-21T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Ramp consolidated its agentic products onto an in-house, model-agnostic harness built on Postgres, Temporal, and S3. Session state lives independently of disposable sandboxes, while asynchronous steering, subagents, and shared tracing support everything from support chat to long-running knowledge work. The first version took six weeks to build, with experienced engineers steering and reviewing agent-generated code.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-21"&gt;TLDR Dev · 2026-10-21 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://builders.ramp.com/post/building-laminar"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-21T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://karlkoch.me/writing/on-alignment-that-looks-wrong</id>
+    <title>On Alignment That Looks Wrong (7 minute read)</title>
+    <updated>2026-10-21T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Flexbox can center an SVG perfectly while the drawing inside still looks misplaced. Inspecting the viewport, correcting uneven viewBox space, and adjusting visual weight at the asset or component level produces better results than scattering pixel nudges across consumers. Play buttons, circle sizing, and hanging punctuation show why mathematical alignment and optical balance differ.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-21"&gt;TLDR Dev · 2026-10-21 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://karlkoch.me/writing/on-alignment-that-looks-wrong/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-21T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.joshwcomeau.com/css/interop-2027</id>
+    <title>The Future of CSS: My Top 10 Picks for Interop 2027 (17 minute read)</title>
+    <updated>2026-10-21T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Ten proposed Interop priorities include CSS functions, shaped borders, anchored container queries, visual reading order, and transitions to auto dimensions. Interactive examples show what each feature enables and where progressive enhancement can make it useful today. The case for staying current is practical: developers need enough CSS knowledge to guide coding agents beyond older patterns in their training data.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-21"&gt;TLDR Dev · 2026-10-21 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.joshwcomeau.com/css/interop-2027/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-10-21T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://jgunnink.substack.com/p/gemini-4-argon-early-access-review</id>
+    <title>Gemini 4: Argon, Early Access Review (9 minute read)</title>
+    <updated>2026-10-21T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Gemini 4 Argon handled an Android game, a UI redesign, and a distributed backend review well, with strong architectural planning and rapid changes across multiple files. Passing tests still hid cluttered layouts, accessibility regressions, and concurrency bugs, making browser checks, runtime logs, and adversarial self-review essential to getting reliable results.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-21"&gt;TLDR Dev · 2026-10-21 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://jgunnink.substack.com/p/gemini-4-argon-early-access-review"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-10-21T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/google-pytorch/torch_tpu</id>
+    <title>TorchTPU (GitHub Repo)</title>
+    <updated>2026-10-21T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TorchTPU provides a PyTorch backend for Google's TPUs, with custom ATen kernels, an XLA compilation cache, and torch.compile integration. The repository includes distributed training support, debugging utilities, and examples for models including Llama, Qwen, and ResNet.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-21"&gt;TLDR Dev · 2026-10-21 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/google-pytorch/torch_tpu"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-21T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://mistral.ai/news/voxtral-3</id>
+    <title>Voxtral 3 (8 minute read)</title>
+    <updated>2026-10-21T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Mistral's Voxtral 3 combines transcription, expressive speech generation, and a voice agent SDK for streaming conversations with tool calls. Transcription supports more than 50 languages, while speech synthesis covers more than 35 languages and 50 dialects. The models are available through an EU-hosted API or self-deployment.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-21"&gt;TLDR Dev · 2026-10-21 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://mistral.ai/news/voxtral-3/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-21T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.cloudflare.com/typescript-rust-port</id>
+    <title>Introducing tsrs: A Port of TypeScript to Rust (6 minute read)</title>
+    <updated>2026-10-21T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Cloudflare and VoidZero, in collaboration with the TypeScript team, are developing tsrs as a faithful Rust port of TypeScript within the Oxc toolchain. Early matched-configuration benchmarks report up to 8x faster checking and about 70% less memory than TypeScript 7.0. An experimental npm release is available, though compatibility differences remain before a stable release.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-21"&gt;TLDR Dev · 2026-10-21 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.cloudflare.com/typescript-rust-port/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-21T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them</id>
+    <title>Do web components have a future if nobody is writing them? (11 minute read)</title>
+    <updated>2026-10-21T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Agentic coding challenges the case for web components as a way to make scarce, handwritten code reusable. Google's Modern Web Guidance offers little encouragement for new custom elements, and the argument extends to JavaScript frameworks as code generation becomes cheaper. Sandboxing and reuse remain possible defenses, but each has limitations.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-21"&gt;TLDR Dev · 2026-10-21 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-21T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d</id>
+    <title>Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)</title>
+    <updated>2026-10-21T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. &lt;a href="https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d" rel="noopener noreferrer" target="_blank"&gt;Click here to learn more&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-21"&gt;TLDR Dev · 2026-10-21 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-21T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://kiro.dev/blog/how-kiro-fixes-itself</id>
+    <title>How Kiro Fixes Itself, and How We Keep the Fixes Honest (12 minute read)</title>
+    <updated>2026-10-21T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Kiro mines its own execution traces to find wasted effort and propose prompt or tool changes, while deterministic gates test improvements against fresh controls and a permanent regression suite. Seven fixes merged in the first week, and a compaction change raised internal retention scores from 0.82 to 0.92. The reported gains come from internal experiments, and every accepted change still requires human code review.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-21"&gt;TLDR Dev · 2026-10-21 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://kiro.dev/blog/how-kiro-fixes-itself/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-21T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://magiroux.com/posts/from-use-case-to-graphql-operation</id>
+    <title>From Use Case to GraphQL Operation: A Layered Approach for Agents (9 minute read)</title>
+    <updated>2026-10-21T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A layered GraphQL approach lets agents start with local persisted operations, search an operation index, and reach for schema-driven query building or schema evolution only when needed. Persisting useful operations back into the index reduces repeated work, while fit evaluation determines when an existing query is sufficient and when the agent needs a more dynamic approach.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-21"&gt;TLDR Dev · 2026-10-21 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://magiroux.com/posts/from-use-case-to-graphql-operation"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-21T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta</id>
+    <title>Announcing TypeScript 7.1 Beta (20 minute read)</title>
+    <updated>2026-10-21T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TypeScript 7.1 Beta adds import attributes in ambient module declarations, source phase imports, an ES2026 target, and a new API for building developer tools.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-21"&gt;TLDR Dev · 2026-10-21 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-21T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://rombo.co/tailwind</id>
+    <title>Rombo for Tailwind CSS (Website)</title>
+    <updated>2026-10-21T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Rombo's open-source Tailwind CSS animation library provides configurable motion presets and a visual editor for creating animations and copying their utility classes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-21"&gt;TLDR Dev · 2026-10-21 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://rombo.co/tailwind/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-21T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://eze.page/</id>
+    <title>eze: Private Websites for Your Team (Website)</title>
+    <updated>2026-10-21T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;eze turns an HTML folder into a self-hosted company website with shared sign-in, a database, live updates, file uploads, and AI access.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-21"&gt;TLDR Dev · 2026-10-21 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://eze.page/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-21T10:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers</id>
+    <title>What's the ROI of Software Engineers' Spending on AI? (11 minute read)</title>
+    <updated>2026-10-21T10:59:45+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Data from 27 companies shows widely varying AI spending and PR output, with higher spend often failing to translate into faster shipping.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-21"&gt;TLDR Dev · 2026-10-21 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-21T10:59:45+00:00</published>
+  </entry>
   <entry>
     <id>https://wendelladriel.com/blog/when-retries-make-things-worse-protecting-your-system-from-overload</id>
     <title>When Retries Make Things Worse: Protecting Your System From Overload (16 minute read)</title>
@@ -1569,125 +1729,5 @@
     <category term="TLDR Dev"/>
     <category term="Quick Links"/>
     <published>2026-10-07T10:59:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.builder.io/blog/build-an-agent-loop-a-small-model-can-finish</id>
-    <title>Build an agent loop a small model can finish (11 minute read)</title>
-    <updated>2026-10-06T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A reliable agent loop depends less on model size than on a trustworthy check that turns progress into a score or pass condition. In two visual tasks, small models improved dramatically when they received repeatable feedback across varied examples and holdout cases, while weak checks encouraged overfitting or shortcuts.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-06"&gt;TLDR Dev · 2026-10-06 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.builder.io/blog/build-an-agent-loop-a-small-model-can-finish"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-06T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://ironbee.ai/blog/how-we-built-the-fastest-cheapest-browser-agent-with-jev</id>
-    <title>How we built the fastest, cheapest browser agent with Jev (23 minute read)</title>
-    <updated>2026-10-06T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;IronBee Express uses Jev as a fast classifier for bounded browser decisions, calling an LLM only for writing, recovery, or failure explanations. Explored runs cost about $0.0042 for 20 actions, recordings can replay with no step decisions, and narrow verification questions helped a 130-run replay test reach 130 correct outcomes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-06"&gt;TLDR Dev · 2026-10-06 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://ironbee.ai/blog/how-we-built-the-fastest-cheapest-browser-agent-with-jev"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-06T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://wattenberger.com/thoughts/ai-is-still-in-its-terminal-era</id>
-    <title>Chat is AI's command line (5 minute read)</title>
-    <updated>2026-10-06T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Chat is useful for rough direction, but it becomes awkward when people need to make precise edits or understand the state of ongoing work. The piece argues for AI interfaces built around direct manipulation, visible state, and reversible experimentation, much like spreadsheets and graphical desktops expanded computing beyond the command line.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-06"&gt;TLDR Dev · 2026-10-06 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://wattenberger.com/thoughts/ai-is-still-in-its-terminal-era/"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-06T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://lemire.me/blog/2026/10/05/ephemeral-testing</id>
-    <title>Ephemeral testing (2 minute read)</title>
-    <updated>2026-10-06T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Ephemeral testing evaluates a software component by asking an AI agent to build disposable applications or layers on top of it, then judging how well those downstream projects work. Repeating the exercise with different agents and tasks can expose hidden state, unstable invariants, surprising defaults, and weak documentation.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-06"&gt;TLDR Dev · 2026-10-06 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://lemire.me/blog/2026/10/05/ephemeral-testing/"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-06T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tanstack.com/blog/tanstack-charts-1-0</id>
-    <title>TanStack Charts 1.0 (6 minute read)</title>
-    <updated>2026-10-06T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;TanStack Charts 1.0 offers a composable, type-safe charting system built from marks, scales, axes, and interactions instead of rigid chart types. It supports custom marks and renderers, optional SVG or Canvas output, modular animation and scale packages, and a stable API intended to evolve without forcing applications to rebuild their visualizations.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-06"&gt;TLDR Dev · 2026-10-06 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://tanstack.com/blog/tanstack-charts-1-0"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-06T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://reflection.ai/blog/introducing-beam</id>
-    <title>Introducing Beam: Reflection's 501B open-weight model (1 minute read)</title>
-    <updated>2026-10-06T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Beam is a sparse Mixture-of-Experts model with 501 billion total parameters and 23 billion active parameters aimed at coding, reasoning, and agentic workloads. Reflection trained it on 23.8 trillion tokens and more than 100 million reinforcement learning rollouts, with Apache 2.0 weights and developer artifacts planned for release later this month.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-06"&gt;TLDR Dev · 2026-10-06 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://reflection.ai/blog/introducing-beam"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-06T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://adventures.nodeland.dev/archive/how-bookingcom-cut-nodejs-costs-by-38-with-watt</id>
-    <title>How Booking.com cut Node.js costs by 38% with Watt (4 minute read)</title>
-    <updated>2026-10-06T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Booking.com moved a major Node.js rendering service from pm2 clustering to Watt worker threads, cutting compute costs by 38% with 30% fewer pods, 20% less memory per pod, and up to 10% lower tail latency. The migration required no service code changes, and production tests showed 40% to 50% more throughput within the same latency target.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-06"&gt;TLDR Dev · 2026-10-06 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://adventures.nodeland.dev/archive/how-bookingcom-cut-nodejs-costs-by-38-with-watt"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-06T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://armstr.ng/writing/worth-building</id>
-    <title>Worth building (3 minute read)</title>
-    <updated>2026-10-06T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Cheaper software development makes small tools worthwhile even when they solve one person's annoyance and never become a business. As more people can ship, the story behind a project and the choices that shaped it become increasingly important reasons for others to care.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-06"&gt;TLDR Dev · 2026-10-06 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://armstr.ng/writing/worth-building"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-06T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://allthingssmitty.com/2026/10/05/css-does-your-tooltip-positioning-now</id>
-    <title>CSS does your tooltip positioning now (3 minute read)</title>
-    <updated>2026-10-06T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;CSS anchor positioning, position fallbacks, popovers, and anchor-size() can now handle responsive tooltip and dropdown placement with little or no JavaScript, though component-scoped anchor names and accessible DOM order still matter.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-06"&gt;TLDR Dev · 2026-10-06 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://allthingssmitty.com/2026/10/05/css-does-your-tooltip-positioning-now/"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-06T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://pranitha.dev/posts/rwlock-vs-lockfree</id>
-    <title>The performance cost of RwLock in a read-heavy workload (6 minute read)</title>
-    <updated>2026-10-06T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A Rust benchmark found that replacing 16,384 per-item RwLock acquisitions with one Crossbeam epoch guard and atomic pointer loads raised read throughput from 15.93k to 229.07k operations per second, while a simple lock still worked well around an infrequently changed collection.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-06"&gt;TLDR Dev · 2026-10-06 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://pranitha.dev/posts/rwlock-vs-lockfree/"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-06T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</id>
-    <title>Two Room-Temperature Antiferromagnetic Semiconductor Candidates (6 minute read)</title>
-    <updated>2026-10-06T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;AI agents identified two candidate room-temperature Luttinger-compensated semiconductors for spintronic memory, but one may be difficult to synthesize, and the other still needs direct measurement of its band gap and spin sorting.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-06"&gt;TLDR Dev · 2026-10-06 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-06T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api</id>
-    <title>Introducing Web Search API (1 minute read)</title>
-    <updated>2026-10-06T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Cloudflare's beta Web Search API lets agents search through Ceramic.ai, Exa, or Linkup via AI Gateway with Zero Data Retention, gateway logging, and provider list pricing without added markup.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-06"&gt;TLDR Dev · 2026-10-06 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-06T10:59:49+00:00</published>
   </entry>
 </feed>
