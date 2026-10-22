@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/tech.xml</id>
   <title>TLDR</title>
-  <updated>2026-10-21T11:00:00+00:00</updated>
+  <updated>2026-10-22T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,146 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html?unlocked_article_code=1.KlE.QAgO.72jJWCZG7Z62&amp;smid=url-share</id>
+    <title>Anthropic Joins the AI Agent Race With Claude Duet (3 minute read)</title>
+    <updated>2026-10-22T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic's Claude Duet joins a fast-growing field of AI assistants that take actions and perform tasks on their own. Unlike OpenAI's dots and Meta's Muse, Anthropic's agent was built for work and is less capable at personal errands. It can connect to more than 6,000 outside apps and make purchases through Link, Stripe's digital wallet, and Shopify's Shop Pay. The agent shows users exactly what it plans to do before performing actions, and some actions, like trading stocks or moving money between accounts, are blocked even with user approval. The wait list to use the agent is now open to Anthropic's Pro and Max plan subscribers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-22"&gt;TLDR · 2026-10-22 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html?unlocked_article_code=1.KlE.QAgO.72jJWCZG7Z62&amp;smid=url-share"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-10-22T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/features/2026-10-22/tesla-spacex-merger-why-musk-wants-a-deal-before-trump-leaves-office?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYzNTU2MywiZXhwIjoxNzkzMjQwMzYzLCJhcnRpY2xlSWQiOiJUTkE4SERLR1pBSkQwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.d68zeuF7ErOwhw0McTs2vQCc-w5gFsYLKhtweLq1Kmc</id>
+    <title>Musk Tries to Lock In His Tesla-SpaceX Dream Before Trump's Exit (11 minute read)</title>
+    <updated>2026-10-22T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Elon Musk is fully behind a combination of SpaceX and Tesla, his two most valuable companies. He is pushing to announce a deal by the first half of 2027 so it closes during the Trump administration. The timing will depend on when Tesla's board gets comfortable with the details - SpaceX shareholder approval is less of an obstacle, as Musk controls more than 80% of the voting power. Combining the companies before the end of this administration would consolidate Musk's corporate power before a potentially less accommodating political and financial environment takes hold.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-22"&gt;TLDR · 2026-10-22 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/features/2026-10-22/tesla-spacex-merger-why-musk-wants-a-deal-before-trump-leaves-office?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYzNTU2MywiZXhwIjoxNzkzMjQwMzYzLCJhcnRpY2xlSWQiOiJUTkE4SERLR1pBSkQwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.d68zeuF7ErOwhw0McTs2vQCc-w5gFsYLKhtweLq1Kmc"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-10-22T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43</id>
+    <title>Tesla starts Optimus robot production in California as profit falls 43% (3 minute read)</title>
+    <updated>2026-10-22T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Tesla has started production of its Optimus humanoid robot at its factory in Fremont, California. While the company admits there is still more work to be done before the robot is fully safe and reliable, it says it has proven that the current manufacturing process for Optimus is suitable for a commercial product. Elon Musk says Tesla will be able to make 20,000 units per week by the end of 2027. Tesla's profits fell 43% in the third quarter due to heavy investments in its Optimus robots, AI, and autonomous driving.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-22"&gt;TLDR · 2026-10-22 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-10-22T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://phys.org/news/2026-10-physicists-particle-antimatter-months.html</id>
+    <title>Physicists trap and tame single particle of antimatter for months (12 minute read)</title>
+    <updated>2026-10-22T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Physicists at Northwestern University have coaxed a single positron (the antimatter counterpart of an electron) into an exquisitely controlled quantum state for the first time. The scientists cooled the fast-moving particle to nearly absolute zero after capturing it from radioactive decay, and then suspended it in a near-perfect vacuum, resulting in a state where the positron behaved much like an artificial atom with quantum energy levels scientists can precisely control and observe. The technique could enable the most precise test yet of a fundamental symmetry between electrons and their antimatter counterparts.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-22"&gt;TLDR · 2026-10-22 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://phys.org/news/2026-10-physicists-particle-antimatter-months.html"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-10-22T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure</id>
+    <title>The bridge to agent-scale Git infrastructure (11 minute read)</title>
+    <updated>2026-10-22T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Git traffic grew exponentially over the past year. During that time, GitHub started moving almost all of its repositories to Azure. This post discusses how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-22"&gt;TLDR · 2026-10-22 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-10-22T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.exe.dev/topology</id>
+    <title>The Topology of an LLM Agent Loop With Tool Use (7 minute read)</title>
+    <updated>2026-10-22T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;An agent is three things: a model, an agentic loop, and a set of tools. Where these run has implications for cost, capability, effectiveness, and security. If you focus on topology, you can break down any agentic product and reason about what a product can and cannot do. There isn't one perfect loop - good UX for a general-purpose chatbot is not the same as good UX for a coding agent.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-22"&gt;TLDR · 2026-10-22 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.exe.dev/topology"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-10-22T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day</id>
+    <title>The internet is having a very bad cybersecurity day (2 minute read)</title>
+    <updated>2026-10-22T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI has discovered critical security vulnerabilities in PHP, prompting the US National Security Agency to advise organizations using PHP to either update immediately or take their systems offline until they can. Node.js has released an update that fixes four high-severity vulnerabilities. LiteLLM was compromised by an attacker who injected malicious code. eMudhra, an Indian certificate authority, had its private keys compromised, potentially allowing attackers to issue fraudulent certificates and impersonate legitimate websites. These unrelated issues highlight the challenges cybersecurity teams now face.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-22"&gt;TLDR · 2026-10-22 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-22T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html?unlocked_article_code=1.KlE.nrh3.m2Uy2OLbBIlz&amp;smid=url-share</id>
+    <title>How Mark Zuckerberg Pushed Meta to Shield Him From California's Proposed Wealth Tax (6 minute read)</title>
+    <updated>2026-10-22T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;California's proposed tax on billionaires prompted Mark Zuckerberg to leverage the board at Meta to get the company to protect him from it. He issued an ultimatum to the board on September 9 that he would sell his home in Palo Alto, and the listing would be public, if a deal wasn't struck by September 13.  The board decided to issue a new class of stock to shareholders that Zuckerberg could sell to pay the potential wealth tax without cutting into his 60.6% voting power. California's proposal would assess a one-time 5% tax on all holdings of billionaires who lived in California as of January 1, 2026.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-22"&gt;TLDR · 2026-10-22 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html?unlocked_article_code=1.KlE.nrh3.m2Uy2OLbBIlz&amp;smid=url-share"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-22T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://hrih.si/articles/the-compiler-was-supposed-to-end-programming</id>
+    <title>The compiler was supposed to end programming too (15 minute read)</title>
+    <updated>2026-10-22T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;IBM claimed FORTRAN would virtually eliminate coding and debugging back in 1954.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-22"&gt;TLDR · 2026-10-22 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-22T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity</id>
+    <title>Meta says Muse has over 10M users, with shopping a top activity (3 minute read)</title>
+    <updated>2026-10-22T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Over a quarter of Muse's engaged users were shopping via the AI agent, with an average purchase size of over $200.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-22"&gt;TLDR · 2026-10-22 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-22T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security</id>
+    <title>Today's PHP Security Release, and How We're Strengthening PHP Security (12 minute read)</title>
+    <updated>2026-10-22T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;PHP's recent release fixes two critical vulnerabilities that allow unauthenticated attackers to execute code on servers running PHP.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-22"&gt;TLDR · 2026-10-22 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-22T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://terrytao.wordpress.com/2026/10/21/mathematics-is-a-subject-for-the-young</id>
+    <title>Mathematics is a subject for the young (13 minute read)</title>
+    <updated>2026-10-22T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Mathematics is changing faster than at any point in its history, and today's graduate students and postdocs will shape its future.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-22"&gt;TLDR · 2026-10-22 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://terrytao.wordpress.com/2026/10/21/mathematics-is-a-subject-for-the-young/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-22T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.agentready.org/</id>
+    <title>The open standard for agent readiness (14 minute read)</title>
+    <updated>2026-10-22T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AgentReady is an open specification for what a product should implement to be usable by AI agents.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-22"&gt;TLDR · 2026-10-22 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.agentready.org/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-22T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153</id>
+    <title>Why AI's Deepest Mind Believes the World Is About to Change Radically (19 minute read)</title>
+    <updated>2026-10-22T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Demis Hassabis believes that AI can lead to an amazing future, but we have to intentionally build toward it.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-22"&gt;TLDR · 2026-10-22 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-22T10:59:47+00:00</published>
+  </entry>
   <entry>
     <id>https://www.wsj.com/business/earnings/spacex-spcx-q3-earnings-report-2026-stock-4138193d?st=sDgpKx&amp;reflink=desktopwebshare_permalink</id>
     <title>Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says (6 minute read)</title>
@@ -1449,155 +1589,5 @@
     <category term="TLDR"/>
     <category term="Quick Links"/>
     <published>2026-10-08T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/10/06/science/openai-math-problems.html?unlocked_article_code=1.G1E.ZtV-._3l-Xarh37IT&amp;smid=url-share</id>
-    <title>OpenAI Releases Findings on 377 Math Problems, Further Roiling Field (5 minute read)</title>
-    <updated>2026-10-07T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI released hundreds of new findings spanning a wide range of topics including algebra, number theory, theoretical computer science, mathematical logic, and topology. These were solved with an internal model that has not been released publicly. There is debate on whether OpenAI's systems were employing creative thinking or simply completing the final steps of a proof after borrowing ideas from human mathematicians' work. OpenAI has provided summaries of how its models came up with the solution for 10 of the problems.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-07"&gt;TLDR · 2026-10-07 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.nytimes.com/2026/10/06/science/openai-math-problems.html?unlocked_article_code=1.G1E.ZtV-._3l-Xarh37IT&amp;smid=url-share"/>
-    <category term="TLDR"/>
-    <category term="Big Tech &amp; Startups"/>
-    <published>2026-10-07T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTM0MDUyNSwiZXhwIjoxNzkxOTQ1MzI1LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.p5C0LmMpeaR0RutnTheHAawT8APIRiBf5yBSNNpnwcU</id>
-    <title>Apple to Launch Doorbell, Lock, Thermostat Developed With LG (5 minute read)</title>
-    <updated>2026-10-07T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Apple plans to launch several devices developed through a partnership with LG as part of an ecosystem of devices that work with its new smart home hub. These include a doorbell, thermostat, an upgraded HomePod mini, and a fresh TV set-top box. The products, set to launch on October 13, will carry the LG brand. Most of the devices will include support for Wi-Fi, Bluetooth, Thread, and Matter.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-07"&gt;TLDR · 2026-10-07 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTM0MDUyNSwiZXhwIjoxNzkxOTQ1MzI1LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.p5C0LmMpeaR0RutnTheHAawT8APIRiBf5yBSNNpnwcU"/>
-    <category term="TLDR"/>
-    <category term="Big Tech &amp; Startups"/>
-    <published>2026-10-07T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tectonicdefense.com/andurils-big-week-arsenal-2-ngc2-and-a-6-6b-bet-on-the-future-of-american-shipbuilding</id>
-    <title>Anduril's Big Week: Arsenal-2, NGC2, and a $6.6B Bet on the Future of American Shipbuilding (3 minute read)</title>
-    <updated>2026-10-07T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Anduril recently announced that it was awarded a contract worth up to $1.8 billion over five years to scale Lattice across the Army's Next-Generation Command and Control effort. The company plans to build the second of its Arsenal mega-factories in Baltimore. The mega-factory will be shipbuilding-focused and will, when operations begin in 2030, span over 2 million square feet of manufacturing space. The facility will be backed by $6.6 billion across both private investment and up to $2.9 billion through a submarine production contract with the US Navy.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-07"&gt;TLDR · 2026-10-07 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.tectonicdefense.com/andurils-big-week-arsenal-2-ngc2-and-a-6-6b-bet-on-the-future-of-american-shipbuilding/"/>
-    <category term="TLDR"/>
-    <category term="Science &amp; Futuristic Technology"/>
-    <published>2026-10-07T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html?unlocked_article_code=1.G1E.6Viw.7hEh6hhvzhML&amp;smid=url-share</id>
-    <title>A New Trend in Nuclear Energy: Squeezing More Power Out of Old Plants (7 minute read)</title>
-    <updated>2026-10-07T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Building nuclear power plants takes a long time, so some companies are looking to upgrade older reactors to squeeze even more power out of them instead. These types of upgrades can cost billions and require approval by regulators, but they can often be completed in five years or less at a fraction of the cost of building a new plant from scratch. Many tech giants are eager to pay for these upgrades to power AI. Increasing production from existing nuclear plants will add an estimated 6,000 to 8,000 megawatts of electric capacity to US grids.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-07"&gt;TLDR · 2026-10-07 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html?unlocked_article_code=1.G1E.6Viw.7hEh6hhvzhML&amp;smid=url-share"/>
-    <category term="TLDR"/>
-    <category term="Science &amp; Futuristic Technology"/>
-    <published>2026-10-07T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?amp%3Bsp=Azpxuhac1UTjxgboaD0qUokw</id>
-    <title>Product Manager, Applied AI at TLDR ($225k base + $60k bonus, Fully Remote)</title>
-    <updated>2026-10-07T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products/systems with LLMs. &lt;a href="https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?sp=Azpxuhac1UTjxgboaD0qUokw" rel="noopener noreferrer" target="_blank"&gt;Click here to learn more&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-07"&gt;TLDR · 2026-10-07 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?amp%3Bsp=Azpxuhac1UTjxgboaD0qUokw"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-07T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in</id>
-    <title>The state of the tech industry in 2026 (28 minute read)</title>
-    <updated>2026-10-07T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The speed of change in the tech industry has never been this large-scale or fast. Practically nobody writes code by hand anymore. Assumptions about code output have broken, code reviews have become theatrical, and quality and reliability are down. Teams are still important, as is planning. Engineers will likely stop reading code altogether as companies start building a new type of AI infrastructure.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-07"&gt;TLDR · 2026-10-07 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-07T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://developers.openai.com/api/docs/guides/decisions</id>
-    <title>Decisions (8 minute read)</title>
-    <updated>2026-10-07T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI's Decisions API turns text and images into decisions that applications can use. It evaluates text, images, or both and returns typed answers 10 times faster than the Responses API. The Decisions API returns a probability that a condition is true, a choice from a fixed set, or a score against a rubric. These answers can be used to classify content, route requests, and prioritize work in an application.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-07"&gt;TLDR · 2026-10-07 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://developers.openai.com/api/docs/guides/decisions"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-07T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://ogzhanolguncu.com/blog/how-to-keep-learning-in-the-age-of-llms</id>
-    <title>How to keep learning in the age of LLMs (9 minute read)</title>
-    <updated>2026-10-07T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;We used to learn things by doing something wrong first and then taking a lesson out of it. LLMs make everything so fast that we don't want to spend time doing the wrong things, even though it's more beneficial in the long run. The struggle is how the brain actually learns new things. Use AI to help you think through problems rather than just giving you the answer.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-07"&gt;TLDR · 2026-10-07 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://ogzhanolguncu.com/blog/how-to-keep-learning-in-the-age-of-llms/"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-07T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://swapniltalekar.substack.com/p/the-decision-model-gold-rush</id>
-    <title>The Decision Model Gold Rush (9 minute read)</title>
-    <updated>2026-10-07T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Decision models return a choice, a score, or a yes-or-no with a confidence number stapled on. Within a day of launch, TypeSafe's Jev decision model had been wired into 13% of Vercel's paid AI Gateway customer workflows, and within three days, Cloudflare, LangChain, and Langfuse had shipped integrations for it. It took competitors about two weeks to show up. The field is evolving quickly - this post looks at the criteria and nuances of using decision models in production to help readers decide which model to use.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-07"&gt;TLDR · 2026-10-07 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://swapniltalekar.substack.com/p/the-decision-model-gold-rush"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-07T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://survey.stackoverflow.co/2026</id>
-    <title>Stack Overflow Developer Survey 2026 (15 minute read)</title>
-    <updated>2026-10-07T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The Stack Overflow Developer Survey 2026 asked developers and technologists about everything from how they're using AI to how happy they are at work to where they're learning new skills.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-07"&gt;TLDR · 2026-10-07 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://survey.stackoverflow.co/2026"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-07T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://developer.chrome.com/blog/jpeg-xl-in-chrome</id>
-    <title>Shipping JPEG XL in Chrome (3 minute read)</title>
-    <updated>2026-10-07T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;JPEG XL offers 30% to 50% better compression than JPEG, lossless compression, built-in HDR support, lossless JPEG transcoding, and more.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-07"&gt;TLDR · 2026-10-07 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://developer.chrome.com/blog/jpeg-xl-in-chrome"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-07T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.cloudflare.com/root-ksk-2024-rollover</id>
-    <title>The keys to the Internet change on October 11. Are you ready? (9 minute read)</title>
-    <updated>2026-10-07T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The DNS root is scheduled to change its key-signing key for the second time ever on October 11.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-07"&gt;TLDR · 2026-10-07 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.cloudflare.com/root-ksk-2024-rollover/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-07T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://lucumr.pocoo.org/2026/10/6/codemode</id>
-    <title>What is Codemode (18 minute read)</title>
-    <updated>2026-10-07T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Codemode is a way for LLMs to express and orchestrate complex operations on the harness side, but not the execution environment side.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-07"&gt;TLDR · 2026-10-07 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://lucumr.pocoo.org/2026/10/6/codemode/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-07T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://mitchellh.com/writing/program-status-osc7501</id>
-    <title>A Terminal Protocol for Program Status (OSC 7501) (7 minute read)</title>
-    <updated>2026-10-07T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;OSC 7501 is a specification for a terminal escape sequence that lets any program tell the terminal whether it's idling, working, waiting on the user, finished, or failed, and why.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-07"&gt;TLDR · 2026-10-07 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://mitchellh.com/writing/program-status-osc7501"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-07T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://ghuntley.com/lisp</id>
-    <title>An application in Lisp you grow by talking to it (6 minute read)</title>
-    <updated>2026-10-07T10:59:46+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Jiti is a small kernel for growing a running Lisp application through conversation with an LLM - users ask for a capability, the model writes Lisp, and the application permanently acquires that capability until the user asks for that capability to be removed.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-07"&gt;TLDR · 2026-10-07 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://ghuntley.com/lisp/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-07T10:59:46+00:00</published>
   </entry>
 </feed>
