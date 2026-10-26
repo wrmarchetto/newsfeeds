@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/hardware.xml</id>
   <title>TLDR Hardware</title>
-  <updated>2026-10-23T11:00:00+00:00</updated>
+  <updated>2026-10-26T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,126 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html</id>
+    <title>GTC Berlin: Vera Rubin in a shipping container, while neocloud financing worries dominate the floor (6 minute read)</title>
+    <updated>2026-10-26T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Nvidia's GTC Berlin centered on the DSX POD, a factory-built Vera Rubin NVL72 system in a shipping container that cuts delivery to deployment from months to days, plus OpenShell agent sandboxing and the Agile ONE SN humanoid on Jetson Thor. Nvidia said it has invested nearly $10 billion in Europe.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-26"&gt;TLDR Hardware · 2026-10-26 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-26T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.reuters.com/business/media-telecom/musk-says-spacex-raised-40-billion-debt-gpus-2026-10-25</id>
+    <title>Musk says SpaceX closed $40B of GPU debt for chips arriving in Q1 and Q2 (2 minute read)</title>
+    <updated>2026-10-26T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Elon Musk says SpaceX closed its $40 billion of callable debt for GPUs, with the chips arriving in Q1 and Q2 and "not a major factor this quarter." He credits investment-grade status and Starlink and launch revenue for keeping credit open. SpaceX guided Q4 capex to $35 to $40 billion. It is bringing roughly 200,000 GB300s online monthly through year-end before shifting to Vera Rubin. The company reported 1.7 GW of installed GPU nameplate capacity at September 30.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-26"&gt;TLDR Hardware · 2026-10-26 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.reuters.com/business/media-telecom/musk-says-spacex-raised-40-billion-debt-gpus-2026-10-25/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-26T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear</id>
+    <title>Warhound raises $200M at a $1.2B valuation to engineer military dogs and outfit them with Anduril sensor gear (4 minute read)</title>
+    <updated>2026-10-26T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Warhound is a startup founded by Colossal's Ben Lamm and Anduril's Palmer Luckey that plans to gene-edit Belgian Malinois and German Shepherd cell lines into working dogs with better health, speed, and smell. Anduril will supply the hardware: protective vests with data sensors that feed handlers, plus goggles. Viagen will clone the first batch, with births expected early next year and service within two years. The dogs don't exist yet, and sale prices are undecided.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-26"&gt;TLDR Hardware · 2026-10-26 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-10-26T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue</id>
+    <title>NASA reworks Artemis around Orion's limited propulsion, with Starship pushing it toward the Moon (4 minute read)</title>
+    <updated>2026-10-26T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;NASA turned Artemis III into a roughly two-week Earth-orbit test in summer 2027, where Orion docks with test versions of Blue Moon and Starship. For the 2028 landing on Artemis IV, Starship would dock with Orion in high Earth orbit and perform the trans-lunar injection burn, while Blue Moon meets Orion in low lunar orbit, which cuts its propellant needs. NASA will pick the Artemis IV lander based on Artemis III results.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-26"&gt;TLDR Hardware · 2026-10-26 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-10-26T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://semiengineering.com/pt-w-alloy-shows-potential-for-thinner-high-na-euv-mask-absorbers-chinese-academy-of-sciences-et-al</id>
+    <title>Pt-W alloy tested as a thinner low-n absorber for High-NA EUV photomasks (1 minute read)</title>
+    <updated>2026-10-26T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Researchers at the Chinese Academy of Sciences, Jilin University, and partner labs evaluated a platinum-tungsten alloy as a low-n absorber for EUV photomasks, studying its film properties and imaging performance. Thinner absorbers matter for High-NA EUV because mask 3D effects degrade imaging as features shrink. Thickness and contrast figures are in the iScience paper published in August.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-26"&gt;TLDR Hardware · 2026-10-26 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://semiengineering.com/pt-w-alloy-shows-potential-for-thinner-high-na-euv-mask-absorbers-chinese-academy-of-sciences-et-al"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-10-26T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.sciencedaily.com/releases/2026/10/261022081308.htm</id>
+    <title>MIT's light-steered swimming robot runs on a hair-thin layer of living muscle (3 minute read)</title>
+    <updated>2026-10-26T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;MIT built a swimming robot from a gum-stick-sized gel frame with two fins, each coated in a muscle layer thinner than a hair and engineered to contract under light. Lighting one fin or both steers it through a maze at about four body lengths per minute. The key fixes were stiff GelMA gel about half a millimeter thick with square-bottomed grooves that align the cells, and light-pulse training to strengthen the muscle. It's the first thin 2D biohybrid swimmer.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-26"&gt;TLDR Hardware · 2026-10-26 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261022081308.htm"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-10-26T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.ifixit.com/News/119895/iphone-duo-teardown</id>
+    <title>iFixit's iPhone Duo teardown gives the best foldable repair score so far, but the inner screen is the catch (8 minute read)</title>
+    <updated>2026-10-26T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;iFixit gives the iPhone Duo a provisional 5/10, the best score for a foldable. Both batteries (19.1 Wh total) release with electrically debonded adhesive inside metal shells, the outer display comes off intact, and the logic board is a single layer. The weak spot is the inner screen: a $999 out-of-warranty replacement and a hinge that still crunches with dust.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-26"&gt;TLDR Hardware · 2026-10-26 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.ifixit.com/News/119895/iphone-duo-teardown"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-26T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend</id>
+    <title>Tesla's $10B Texas solar factory could get 35 years of tax breaks (7 minute read)</title>
+    <updated>2026-10-26T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Fort Bend County approved four deals that could give Tesla's proposed $10 billion "Project Crystal Sun" solar plant up to 35 years of tax breaks, though Tesla hasn't committed to building in Texas. The plant would be vertically integrated, making silicon ingots through finished modules near Richmond, with $8.6 billion of the spend in equipment, which gets 10 years of full abatement and 20 years of 90% rebates. Commercial cell production is due by the end of 2030.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-26"&gt;TLDR Hardware · 2026-10-26 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-26T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform</id>
+    <title>Nvidia floats a $2,000-per-GPU annual software fee for running agents (3 minute read)</title>
+    <updated>2026-10-26T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;At GTC Berlin, Jensen Huang said Nvidia's software for running agents on AI factories would cost about $2,000 per GPU per year, less than half the $4,500 per GPU list price of AI Enterprise.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-26"&gt;TLDR Hardware · 2026-10-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-26T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.reuters.com/business/retail-consumer/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-2026-10-19</id>
+    <title>Amazon's TorchNeuron runs PyTorch on Trainium chips with a single config change (2 minute read)</title>
+    <updated>2026-10-26T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Amazon's TorchNeuron runs unmodified PyTorch code on its Trainium chips with a single configuration change, aiming at the CUDA lock-in Nvidia built over more than a decade.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-26"&gt;TLDR Hardware · 2026-10-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.reuters.com/business/retail-consumer/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-2026-10-19/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-26T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem</id>
+    <title>Nvidia says Kazakhstan gets 45,000 Grace Blackwell GPUs, with Vera Rubin planned next year (7 minute read)</title>
+    <updated>2026-10-26T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Firebird secured a US export license for 45,000 Grace Blackwell GPUs for Kazakhstan.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-26"&gt;TLDR Hardware · 2026-10-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-26T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://defence-industry.eu/u-s-army-darpa-tests-autonomous-vehicles-at-fort-knox-with-human-controlled-strikes</id>
+    <title>DARPA's RACER-driven robot vehicles find a target at Fort Knox with a human approving the strike (2 minute read)</title>
+    <updated>2026-10-26T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;DARPA ran four autonomous ground vehicles at Fort Knox on October 15, using its RACER off-road autonomy software on sensor-equipped, drive-by-wire platforms.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-26"&gt;TLDR Hardware · 2026-10-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://defence-industry.eu/u-s-army-darpa-tests-autonomous-vehicles-at-fort-knox-with-human-controlled-strikes/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-26T10:59:49+00:00</published>
+  </entry>
   <entry>
     <id>https://www.dwarkesh.com/p/intel-tour</id>
     <title>Intel's CTO says tools can only roughly double leading-edge chip output, while AI demand grows 3x a year (50 minute read)</title>
@@ -749,105 +869,5 @@
     <category term="TLDR Hardware"/>
     <category term="Quick Links"/>
     <published>2026-10-12T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html</id>
-    <title>TSMC's September sales surge year-over-year as AI drives chip demand (1 minute read)</title>
-    <updated>2026-10-09T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;TSMC reported revenue of $511.86 billion New Taiwan dollars for September, a 54.6% year-over-year increase. Demand for advanced AI chips, driven by customers like Nvidia and Apple, boosted sales. TSMC has also committed to using ASML's advanced lithography machines to enhance chip production.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html"/>
-    <category term="TLDR Hardware"/>
-    <category term="Headlines and Launches"/>
-    <published>2026-10-09T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout</id>
-    <title>Amazon builds its 1,000th Leo satellite at 27 a week, but only 396 are in orbit (3 minute read)</title>
-    <updated>2026-10-09T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Amazon built its 1,000th Leo broadband satellite at its Kirkland, Washington plant, which took six months to produce its first 27 and now turns out 27 a week. It builds propulsion in-house and borrowed consumer electronics methods to cut tests that took weeks down to hours. The bottleneck is launch: only 396 are in orbit against 3,232 needed, and the Vulcan grounding and a New Glenn pad explosion cost Amazon FCC spectrum priority.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout"/>
-    <category term="TLDR Hardware"/>
-    <category term="Headlines and Launches"/>
-    <published>2026-10-09T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://spectrum.ieee.org/anderon-quantum-fab</id>
-    <title>Anderon aims to industrialize quantum chip fabrication (5 minute read)</title>
-    <updated>2026-10-09T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;IEEE Spectrum examines the up-to-$1B CHIPS R&amp;amp;D award finalized for IBM spinoff Anderon in September. IBM is matching that funding with $1B, while Anderon uses a 300mm Albany line and plans foundry services and process design kits for outside developers. The challenge is repeatable fabrication, including tighter control of Josephson junctions, rather than simply adding wafer capacity.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://spectrum.ieee.org/anderon-quantum-fab"/>
-    <category term="TLDR Hardware"/>
-    <category term="Engineering and Applications"/>
-    <published>2026-10-09T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge</id>
-    <title>Google open-sources ML Drift, a GPU engine that runs one shader set across OpenCL, Metal, WebGPU, and OpenGL ES (4 minute read)</title>
-    <updated>2026-10-09T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Tensor virtualization decouples a tensor's logical layout from its physical GPU allocation, so one shader template replaces separate backend-specific codebases. For edge LLMs, ML Drift switches kernels between compute-bound prefill and memory-bound decode, using a convolution-aligned KV cache layout and in-kernel activation quantization to skip memory roundtrips. It cut YouTube Shorts frame latency by up to 40%, and Google co-optimized it with Arm, Intel, and Qualcomm GPUs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge"/>
-    <category term="TLDR Hardware"/>
-    <category term="Engineering and Applications"/>
-    <published>2026-10-09T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://newatlas.com/energy/cement-based-supercapacitor</id>
-    <title>Supercapacitor cement is key to buildings that store their own power (3 minute read)</title>
-    <updated>2026-10-09T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Scientists from the Harbin Institute of Technology developed a cement-based supercapacitor capable of powering small devices like LEDs. The device uses a 3D-printed electrode ink made from carbon nanotubes and cement, enabling fast energy discharge. Future research will enhance cold-weather performance, potentially allowing buildings to store energy and support smart environments.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://newatlas.com/energy/cement-based-supercapacitor/"/>
-    <category term="TLDR Hardware"/>
-    <category term="Research and Prototypes"/>
-    <published>2026-10-09T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theregister.com/systems/2026/10/08/too-many-quantum-startups-too-little-money-to-keep-them-alive/5302025</id>
-    <title>Too many quantum startups, too little money to keep them alive (3 minute read)</title>
-    <updated>2026-10-09T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Gartner predicts that over half of quantum startups will fail by 2030 due to a market unable to generate sufficient revenue. Despite this, companies are investing in quantum technologies for their potential business advantages, focusing on building expertise rather than waiting for technological maturity. The public sector and financial industries are expected to lead quantum computing investments, with spending reaching $245 million and $289 million by 2027 and 2028, respectively.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.theregister.com/systems/2026/10/08/too-many-quantum-startups-too-little-money-to-keep-them-alive/5302025"/>
-    <category term="TLDR Hardware"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-09T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://appleinsider.com/articles/26/10/08/theres-a-hidden-upside-to-the-rampocalypse-for-apple</id>
-    <title>There's a hidden upside to the rampocalypse for Apple (1 minute read)</title>
-    <updated>2026-10-09T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Apple gained a full percentage point in market share year-over-year as RAM price increases led to a 20% decrease in overall PC shipments. Despite this downturn, Apple was less affected than most competitors. With prices expected to worsen, Apple's resilience highlights its strong customer base willing to invest in new devices.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://appleinsider.com/articles/26/10/08/theres-a-hidden-upside-to-the-rampocalypse-for-apple"/>
-    <category term="TLDR Hardware"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-09T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots</id>
-    <title>NVIDIA's Safety Stack for Physical AI (5 minute read)</title>
-    <updated>2026-10-09T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;NVIDIA expanded its Halos safety system from self-driving cars to robots with Halos for Robotics in June.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"/>
-    <category term="TLDR Hardware"/>
-    <category term="Quick Links"/>
-    <published>2026-10-09T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics</id>
-    <title>AWS Launches an Open-Source Physical AI Toolchain for Robotics (5 minute read)</title>
-    <updated>2026-10-09T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The toolchain covers synthetic data generation, training, simulation and validation, edge deployment, and continuous improvement.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/"/>
-    <category term="TLDR Hardware"/>
-    <category term="Quick Links"/>
-    <published>2026-10-09T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.microsoft.com/en-us/surface/devices/surface-laptop-ultra</id>
-    <title>Microsoft's Surface Laptop Ultra brings Nvidia's RTX Spark to a 15-inch, $2,600 laptop (3 minute read)</title>
-    <updated>2026-10-09T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Microsoft's 15-inch Surface Laptop Ultra runs Nvidia's RTX Spark superchip, pairing up to a 20-core Grace CPU and Blackwell graphics with up to 128GB of unified memory, enough for local agents on models up to 120B parameters.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-09"&gt;TLDR Hardware · 2026-10-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.microsoft.com/en-us/surface/devices/surface-laptop-ultra"/>
-    <category term="TLDR Hardware"/>
-    <category term="Quick Links"/>
-    <published>2026-10-09T10:59:51+00:00</published>
   </entry>
 </feed>

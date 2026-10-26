@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/tech.xml</id>
   <title>TLDR</title>
-  <updated>2026-10-23T11:00:00+00:00</updated>
+  <updated>2026-10-26T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,146 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.bloomberg.com/news/features/2026-10-22/jane-street-hrt-are-spending-billions-to-win-in-ai-era?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mjg5ODcyMSwiZXhwIjoxNzkzNTAzNTIxLCJhcnRpY2xlSWQiOiJUTkJVQ0RLSUpIOTIwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.aZUQTESNPxDFkB9tAjev0zQuyASx2W5Ed0a-yabw_WY</id>
+    <title>Jane Street and Rivals Are Now Fighting for AI Power as Well as Pace (17 minute read)</title>
+    <updated>2026-10-26T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;High-frequency traders are now racing for compute. They are investing in the sector as it secures them access to greater processing capacity and faster chips. These firms primarily profit from tiny price differences as they move rapidly in and out of positions. As they increasingly rely on machine learning, their success is directly tied to their computing power. While the risks are significant, most high-speed traders see few options if they want to avoid becoming obsolete.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-26"&gt;TLDR · 2026-10-26 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/features/2026-10-22/jane-street-hrt-are-spending-billions-to-win-in-ai-era?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mjg5ODcyMSwiZXhwIjoxNzkzNTAzNTIxLCJhcnRpY2xlSWQiOiJUTkJVQ0RLSUpIOTIwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.aZUQTESNPxDFkB9tAjev0zQuyASx2W5Ed0a-yabw_WY"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-10-26T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html?unlocked_article_code=1.LlE.6tcx.7t5N9nZ5J6K3&amp;smid=url-share</id>
+    <title>Review of iPhone Duo: A New Chapter That Redefines a Smartphone's Purpose (8 minute read)</title>
+    <updated>2026-10-26T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Apple's iPhone Duo is a miniature tablet that can be folded up into a phone. Its main target audience is people who want to have a tablet everywhere they go. Commuters and business travelers who spend a lot of time on trains, buses, and planes will probably like the device. Everyone else may feel frustrated with what is otherwise an average smartphone.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-26"&gt;TLDR · 2026-10-26 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html?unlocked_article_code=1.LlE.6tcx.7t5N9nZ5J6K3&amp;smid=url-share"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-10-26T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2</id>
+    <title>Neural chip decodes interactions between brain regions (7 minute read)</title>
+    <updated>2026-10-26T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Researchers have developed an implantable neural chip that tracks communication across brain regions. It can record brain activity and extract biomarkers that describe the strength of brain waves and synchrony between signals from different brain regions. These signals can be decoded using a machine-learning algorithm to distinguish between cognitive and emotional states. The capability to extract brain-network biomarkers to trigger precisely timed stimulation has many applications across next-generation neurotechnology.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-26"&gt;TLDR · 2026-10-26 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-10-26T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data</id>
+    <title>US military gives Elon Musk's SpaceX access to sensitive tracking data (7 minute read)</title>
+    <updated>2026-10-26T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;SpaceX has been granted access to restricted space tracking data by the US military. The access raises new national security questions as well as questions about whether the Trump administration is attempting to hand over traffic control in Earth's orbit to a donor. Elon Musk's Doge program fired many of the federal government's space traffic control staff in 2025, and the administration has twice attempted to financially gut the Traffic Coordination System for Space department. The moves have been widely viewed in the industry as an attempt by Musk to privatize space traffic control.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-26"&gt;TLDR · 2026-10-26 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-10-26T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html</id>
+    <title>The State of Context Engineering (21 minute read)</title>
+    <updated>2026-10-26T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Context engineering is hard in unique ways because AI models aren't people. It helps to understand how models are built, optimized, and trained. Their unique attributes and construction create a unique set of failure modes to be reckoned with. This means context engineering will forever be a challenge with AI, no matter how good it gets.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-26"&gt;TLDR · 2026-10-26 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-10-26T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danluu.com/ambitious</id>
+    <title>We should be more ambitious with the software we build (37 minute read)</title>
+    <updated>2026-10-26T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI can now one-shot many projects, allowing almost anyone to create software. However, it still struggles with many harder tasks. People who say that everything just works or that software is solved aren't working on the hard problems. They need to be more ambitious about the software they're building as AI models become more capable.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-26"&gt;TLDR · 2026-10-26 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danluu.com/ambitious/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-10-26T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://buildingslack.com/salesforce-part-two</id>
+    <title>Salesforce – Part Two (11 minute read)</title>
+    <updated>2026-10-26T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This post tells the story of what it was like at Salesforce after it acquired Slack. The cultural gaps between the two companies were evident. Slack had a tight-knit culture where humans would help each other, whereas Salesforce was a much larger company with systems and processes for things to get done. Slack's cognitive overhead was nothing compared to the overbearing weight of the Salesforce monolith.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-26"&gt;TLDR · 2026-10-26 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://buildingslack.com/salesforce-part-two/"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-26T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html?unlocked_article_code=1.LlE.WF_9.v3wv2LgB2VSi&amp;smid=url-share</id>
+    <title>The Factory in Phoenix That Could Save American Manufacturing (28 minute read)</title>
+    <updated>2026-10-26T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TSMC Arizona's first plant has been producing chips for two years. Its rate of output in Phoenix is comparable to that in Taiwan. TSMC sends engineers to Arizona on contracts of up to three years, with families moving from Taiwan to the site. Some of the families that moved in the first wave now want to build lives in the US, as they want to give their children a chance to integrate, for their kids' education, or because they prefer the American lifestyle, and there are legal pathways for doing so. This article looks at the impact the factory had on Phoenix, the employees who moved to America to work there, and the chip manufacturing industry in the US.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-26"&gt;TLDR · 2026-10-26 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html?unlocked_article_code=1.LlE.WF_9.v3wv2LgB2VSi&amp;smid=url-share"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-26T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://cap.so/blog/rebuilding-cap-in-gpui</id>
+    <title>A technical deep dive into Cap's migration to GPUI (18 minute read)</title>
+    <updated>2026-10-26T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Cap 0.6.1 is the first version that doesn't have a web browser inside it.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-26"&gt;TLDR · 2026-10-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://cap.so/blog/rebuilding-cap-in-gpui"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-26T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm</id>
+    <title>The rise and fall of Jev hype (20 minute read)</title>
+    <updated>2026-10-26T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Jev hype cycle is a prime example of the manipulative marketing that we are all too familiar with at this point.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-26"&gt;TLDR · 2026-10-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-26T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://maggieappleton.com/planning-agents</id>
+    <title>Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces (22 minute read)</title>
+    <updated>2026-10-26T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;We are trying really hard to make agents productive while we're not around, but that requires excellent planning.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-26"&gt;TLDR · 2026-10-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://maggieappleton.com/planning-agents"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-26T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://contraptions.venkateshrao.com/p/cognitive-mercantilism</id>
+    <title>Cognitive Mercantilism (23 minute read)</title>
+    <updated>2026-10-26T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Most people will no longer need to be significant producers of intelligence in order to become significant consumers of it.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-26"&gt;TLDR · 2026-10-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://contraptions.venkateshrao.com/p/cognitive-mercantilism"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-26T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://minimaxir.com/2026/10/cheap-llms</id>
+    <title>OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why? (12 minute read)</title>
+    <updated>2026-10-26T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;It's strange that OpenAI and Anthropic cut their primary revenue sources at a time when they are losing billions and are planning to IPO soon.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-26"&gt;TLDR · 2026-10-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://minimaxir.com/2026/10/cheap-llms/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-26T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://longnow.org/ideas/attention-ai-pace-layers</id>
+    <title>Attention is All You Need (26 minute read)</title>
+    <updated>2026-10-26T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;We have to direct our attention more consciously as the future hinges on the choices we make now.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-26"&gt;TLDR · 2026-10-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://longnow.org/ideas/attention-ai-pace-layers/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-26T10:59:47+00:00</published>
+  </entry>
   <entry>
     <id>https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853?st=XN3MfC&amp;reflink=desktopwebshare_permalink</id>
     <title>The Signal Chats That Cost OpenAI Researchers Their Jobs (13 minute read)</title>
@@ -1439,155 +1579,5 @@
     <category term="TLDR"/>
     <category term="Quick Links"/>
     <published>2026-10-12T10:59:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTUxNTk4OSwiZXhwIjoxNzkyMTIwNzg5LCJhcnRpY2xlSWQiOiJUTUtNUllLSVVQU1cwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.CEWGhV2fQozYdZYJ8pr7ny3YmkLOw3vjyZGM3FSYgf0</id>
-    <title>Apple Set to Debut Touch-Screen MacBook and New iPad Mini in Late October (2 minute read)</title>
-    <updated>2026-10-09T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Apple plans to introduce a touch-screen MacBook and a new iPad mini on or around October 27. The launch will include an online video presentation and an in-person component for the press. Apple will also hold an event next week to introduce its first smart home hub with a display, a new HomePod mini, and an updated Apple TV set-top box. It plans to introduce a home ecosystem that will include accessories from LG and Schneider Electric.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-09"&gt;TLDR · 2026-10-09 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTUxNTk4OSwiZXhwIjoxNzkyMTIwNzg5LCJhcnRpY2xlSWQiOiJUTUtNUllLSVVQU1cwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.CEWGhV2fQozYdZYJ8pr7ny3YmkLOw3vjyZGM3FSYgf0"/>
-    <category term="TLDR"/>
-    <category term="Big Tech &amp; Startups"/>
-    <published>2026-10-09T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.wsj.com/business/telecom/spacex-makes-big-play-to-become-a-wireless-carrier-a90b2a1b?st=JfGrmW&amp;reflink=desktopwebshare_permalink</id>
-    <title>SpaceX Makes Big Play to Become a Wireless Carrier (3 minute read)</title>
-    <updated>2026-10-09T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;SpaceX will pay investment firm Grain Management about $8 billion in cash for US cellular spectrum licenses. The licenses will be for the 800-megahertz band, which is tailored for wireless service from cellphone towers rather than satellites. SpaceX says the new spectrum will help cover places satellite links can't reach. SpaceX still needs some terrestrial infrastructure to use the spectrum for mobile coverage.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-09"&gt;TLDR · 2026-10-09 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.wsj.com/business/telecom/spacex-makes-big-play-to-become-a-wireless-carrier-a90b2a1b?st=JfGrmW&amp;reflink=desktopwebshare_permalink"/>
-    <category term="TLDR"/>
-    <category term="Big Tech &amp; Startups"/>
-    <published>2026-10-09T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html?unlocked_article_code=1.HVE.gmzw.NJlFbZU8R7je&amp;smid=url-share</id>
-    <title>The Start-Up That Wants to Build ‘Microrobots' With AI (8 minute read)</title>
-    <updated>2026-10-09T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Atomic Machines is building AI technology that can discover new ways of designing extremely small devices. It is building an automated manufacturing system that turns computer code into a physical device. The company aims to revamp the field of microelectromechanical systems (MEMS), tiny devices made of both electrical and mechanical components. These devices are traditionally manufactured like computer chips, but this limits the possibilities of the technology to the physical properties of a semiconductor.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-09"&gt;TLDR · 2026-10-09 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html?unlocked_article_code=1.HVE.gmzw.NJlFbZU8R7je&amp;smid=url-share"/>
-    <category term="TLDR"/>
-    <category term="Science &amp; Futuristic Technology"/>
-    <published>2026-10-09T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout</id>
-    <title>Amazon builds 1,000th satellite, will launch space internet service by end of year (19 minute read)</title>
-    <updated>2026-10-09T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Amazon's Leo project is nearing several critical milestones. The company recently manufactured its 1,000th satellite and has reached the point where it can build a handful of satellites every day. The Vulcan's upcoming return-to-flight mission will carry Amazon Leo satellites, and another Vulcan rocket is currently being prepared to launch this year with more Amazon satellites. The company is just weeks away from offering a commercial space broadband service for the first time.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-09"&gt;TLDR · 2026-10-09 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/"/>
-    <category term="TLDR"/>
-    <category term="Science &amp; Futuristic Technology"/>
-    <published>2026-10-09T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.ivokund.com/first-look-at-claude-code-mods-spoiler-yes-use-one-now</id>
-    <title>First look at Claude Code mods (spoiler: yes, use one now!) (3 minute read)</title>
-    <updated>2026-10-09T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;You can now add panes, commands, and tool call rules to Claude Code with Mods. A mod is a plugin that changes how Claude Code looks and behaves. They can be used to add custom features to Claude Code. Mods run inside Claude Code, so they can do things that hooks, skills, status lines, and MCP servers can't, like redraw Claude Code's own interface, step into a tool call or request, and share data between hooks.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-09"&gt;TLDR · 2026-10-09 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.ivokund.com/first-look-at-claude-code-mods-spoiler-yes-use-one-now/"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-09T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.getbootstrap.com/2026/10/08/bootstrap-6-alpha</id>
-    <title>Bootstrap 6 Alpha (16 minute read)</title>
-    <updated>2026-10-09T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Bootstrap 6 features a major overhaul to the project that modernizes it from the ground up with the Sass module system, support for more native browser APIs and elements, ESM-only JavaScript plugins, and a slew of new CSS standards. Alpha 1 is on npm and jsDelivr right now. Bootstrap 6 requires Chrome and Edge 130, Firefox 132, and Safari 18. Bootstrap 5 remains available and supported.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-09"&gt;TLDR · 2026-10-09 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.getbootstrap.com/2026/10/08/bootstrap-6-alpha/"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-09T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?amp%3Bsp=yrg9v5ND66fpmjSlDWUDRPCh</id>
-    <title>Product Manager, Applied AI at TLDR ($225k base + $60k bonus, Fully Remote)</title>
-    <updated>2026-10-09T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We’re looking for a builder who has shipped real products/systems with LLMs. &lt;a href="https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?sp=yrg9v5ND66fpmjSlDWUDRPCh" rel="noopener noreferrer" target="_blank"&gt;Click here to learn more&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-09"&gt;TLDR · 2026-10-09 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?amp%3Bsp=yrg9v5ND66fpmjSlDWUDRPCh"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-09T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://nathanbenaich.substack.com/p/state-of-ai-2026</id>
-    <title>The State of AI Report 2026 (17 minute read)</title>
-    <updated>2026-10-09T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Agents are now doing valuable work in software and science. Physical AI is learning how to act in the world, and access and control are becoming more essential. The frontier is now a three-lab race between Anthropic, OpenAI, and Google. Anthropic leads on Artificial Analysis' Intelligence Index, while Google leads on Arena's ranking of the answers people prefer.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-09"&gt;TLDR · 2026-10-09 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://nathanbenaich.substack.com/p/state-of-ai-2026"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-09T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://kwokchain.com/2026/10/09/abstract-warfare-how-tsmc-made-its-own-market</id>
-    <title>Abstract Warfare: How TSMC Made Its Own Market (17 minute read)</title>
-    <updated>2026-10-09T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The most important tech companies are much larger than their original markets. They not only expand their market, but make their own markets as well. These companies achieve this by attacking the abstractions their industry is built on. They change what it takes to participate in the industry and create shared infrastructure out of their competitors' businesses. This allows an ecosystem of new companies to form that both win in the market and are dependent on them.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-09"&gt;TLDR · 2026-10-09 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://kwokchain.com/2026/10/09/abstract-warfare-how-tsmc-made-its-own-market/"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-09T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://thenextweb.com/news/perm-suspension-capgemini-europe</id>
-    <title>US suspending permanent residency programme for Microsoft and Capgemini, officials say (2 minute read)</title>
-    <updated>2026-10-09T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Microsoft, Adobe, Cognizant, Infosys, Tata, Wipro, HCL, and Capgemini are being suspended from PERM, the labour certification employers need before sponsoring a worker for permanent residency.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-09"&gt;TLDR · 2026-10-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://thenextweb.com/news/perm-suspension-capgemini-europe"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-09T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://github.com/zerobrewhq/zerobrew</id>
-    <title>zerobrew (GitHub Repo)</title>
-    <updated>2026-10-09T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;zerobrew brings uv-style architecture to Homebrew packages on macOS and Linux.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-09"&gt;TLDR · 2026-10-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://github.com/zerobrewhq/zerobrew"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-09T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theregister.com/networks/2026/10/08/icann-reveals-bids-for-new-top-level-domains/5301857</id>
-    <title>ICANN reveals bids for new top-level domains (2 minute read)</title>
-    <updated>2026-10-09T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;String Confirmation Day will be on November 17.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-09"&gt;TLDR · 2026-10-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.theregister.com/networks/2026/10/08/icann-reveals-bids-for-new-top-level-domains/5301857"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-09T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.stripeeconomics.com/p/an-empirical-agenda-for-ai</id>
-    <title>An empirical agenda for AI (11 minute read)</title>
-    <updated>2026-10-09T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;How AI will transform society will depend on how businesses reorganize, markets adjust, and workers respond.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-09"&gt;TLDR · 2026-10-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.stripeeconomics.com/p/an-empirical-agenda-for-ai"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-09T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-10-08/microsoft-expands-xbox-s-movie-tv-ambitions-with-new-division?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTUxNjAxOCwiZXhwIjoxNzkyMTIwODE4LCJhcnRpY2xlSWQiOiJUTUs5RlJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.ogVQuJkIBbQ8EXEKbIj_F1zzKhITDNFShNMOe0xMndc</id>
-    <title>Xbox Expands Movie, TV Ambitions With New Division (2 minute read)</title>
-    <updated>2026-10-09T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Xbox's entertainment division will grow Xbox's footprint in film, TV, products, events, and theme parks.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-09"&gt;TLDR · 2026-10-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-08/microsoft-expands-xbox-s-movie-tv-ambitions-with-new-division?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTUxNjAxOCwiZXhwIjoxNzkyMTIwODE4LCJhcnRpY2xlSWQiOiJUTUs5RlJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.ogVQuJkIBbQ8EXEKbIj_F1zzKhITDNFShNMOe0xMndc"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-09T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions</id>
-    <title>100+ reactions to 100+ solutions (63 minute read)</title>
-    <updated>2026-10-09T10:59:46+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;This post presents a snapshot of the mathematical community's gut feelings regarding OpenAI's announcement on October 6.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-09"&gt;TLDR · 2026-10-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-09T10:59:46+00:00</published>
   </entry>
 </feed>

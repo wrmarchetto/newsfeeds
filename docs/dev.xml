@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-10-23T11:00:00+00:00</updated>
+  <updated>2026-10-26T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://dropbox.tech/machine-learning/evolving-calendar-assistant-reclaim-to-be-ai-native</id>
+    <title>Reclaim goes AI-native without starting over (7 minute read)</title>
+    <updated>2026-10-26T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Dropbox routes user edits, automated scheduling, and agent actions through one shared Schedule Action type so they use the same validation logic. Preview Mode makes proposed changes reviewable, backed by a scheduler refactored into a pure function and accelerated with Redis.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-26"&gt;TLDR Dev · 2026-10-26 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://dropbox.tech/machine-learning/evolving-calendar-assistant-reclaim-to-be-ai-native"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-26T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.databricks.com/blog/how-our-ai-research-team-uses-ai-runtime</id>
+    <title>How Databricks uses AI Runtime for research (6 minute read)</title>
+    <updated>2026-10-26T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Databricks uses GPU health checks, fast container launches, and automatic MLflow tracking to support experiments that can span hundreds of GPUs. Agent-led research has increased training jobs eightfold, making startup time and reliable infrastructure central to the research loop.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-26"&gt;TLDR Dev · 2026-10-26 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.databricks.com/blog/how-our-ai-research-team-uses-ai-runtime"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-26T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://layers.engineering/shipping-103-802-dots-in-82-kb-b4f7d3a89779</id>
+    <title>Shipping 103,802 Dots in 82 KB (11 minute read)</title>
+    <updated>2026-10-26T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Layers compressed 13 hand-drawn dot illustrations into an 82 KB payload by quantizing coordinates and separating them into streams that expose repeated rows to Brotli. The result is 63% smaller than compressing the original floats, while typed arrays and an animation loop that sleeps when idle reduce rendering work.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-26"&gt;TLDR Dev · 2026-10-26 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://layers.engineering/shipping-103-802-dots-in-82-kb-b4f7d3a89779"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-26T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://mattrothenberg.com/notes/pure-ui-agentic-era</id>
+    <title>Pure UI in the Agentic Era (4 minute read)</title>
+    <updated>2026-10-26T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A UI can pass an agent's spot check while still showing viewers a Delete button because role, plan, and billing state are scattered across components. Making display-relevant state explicit at a page boundary lets teams render combinations in a visual grid and turn them into stories or tests.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-26"&gt;TLDR Dev · 2026-10-26 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://mattrothenberg.com/notes/pure-ui-agentic-era/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-10-26T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tkdodo.eu/blog/dead-code-shouldnt-exist</id>
+    <title>Dead code shouldn't exist (8 minute read)</title>
+    <updated>2026-10-26T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A conference talk shows how Sentry removed 28,000 lines of code with Knip. The page collects the slides, transcript, and recordings, with a practical look at finding unused code and making deletion part of maintenance.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-26"&gt;TLDR Dev · 2026-10-26 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://tkdodo.eu/blog/dead-code-shouldnt-exist"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-10-26T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/jackskip22/rapier-jxl</id>
+    <title>Rapier JXL (GitHub Repo)</title>
+    <updated>2026-10-26T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Rapier JXL encodes JPEG XL in JavaScript with a roughly 30 KB gzipped core and WebGPU-accelerated quality search. It runs in browsers, workers, Node, and Deno, with no dependencies and support for lossless encoding, HDR, and JPEG transcoding.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-26"&gt;TLDR Dev · 2026-10-26 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/jackskip22/rapier-jxl"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-26T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tamagui.dev/blog/version-three</id>
+    <title>Tamagui 3 (25 minute read)</title>
+    <updated>2026-10-26T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Tamagui 3 adds a C++ native style runtime, more native compilation, flat style props, React Strict DOM, and a Tailwind frontend. Eligible theme updates can reach native views without re-rendering their React components, but the runtime is an opt-in beta and the breaking release requires migration work.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-26"&gt;TLDR Dev · 2026-10-26 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://tamagui.dev/blog/version-three"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-26T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/stencil-hq/dquickts</id>
+    <title>dquickts (GitHub Repo)</title>
+    <updated>2026-10-26T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This QuickJS fork can pause a JavaScript program mid-loop, serialize its heap, and resume execution in another process. It also runs TypeScript by erasing types during parsing and includes Rust bindings plus a REPL whose state survives restarts.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-26"&gt;TLDR Dev · 2026-10-26 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/stencil-hq/dquickts"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-26T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.simone.computer/reverse-beyblade-launch-tracker</id>
+    <title>Reverse engineering a Beyblade launch tracker (10 minute read)</title>
+    <updated>2026-10-26T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A Bluetooth teardown works out how a Beyblade accessory reports launches without relying on its official app. It follows the process from inspecting the hardware to capturing payloads with LightBlue and PacketLogger, then identifying patterns in the transmitted data.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-26"&gt;TLDR Dev · 2026-10-26 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.simone.computer/reverse-beyblade-launch-tracker"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-26T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.builder.io/blog/grokbot-review</id>
+    <title>GrokBot is amazing. Here's why I stopped using it (11 minute read)</title>
+    <updated>2026-10-26T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A week with 16 always-on bots produced 78 merged pull requests, followed by $100 spent over a weekend largely on wakeups that yielded no useful messages. Missed notifications and unreliable follow-ups lead to an architectural argument for keeping routing, queues, and durable state in ordinary code, alongside a pitch for Builder's own framework.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-26"&gt;TLDR Dev · 2026-10-26 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.builder.io/blog/grokbot-review"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-26T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://adrs.systems/</id>
+    <title>ADRs4AI (Website)</title>
+    <updated>2026-10-26T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;ADRs4AI keeps human and AI decisions in Git with templates that record options, rationale, open questions, and the final decision.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-26"&gt;TLDR Dev · 2026-10-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://adrs.systems/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-26T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://unicode.org/reports/tr39</id>
+    <title>Unicode Security Mechanisms (Website)</title>
+    <updated>2026-10-26T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Unicode's security standard documents identifier restrictions, confusable detection, and mixed-script checks for software that accepts international text.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-26"&gt;TLDR Dev · 2026-10-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://unicode.org/reports/tr39/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-26T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danluu.com/ambitious</id>
+    <title>We should be more ambitious with the software we build (25 minute read)</title>
+    <updated>2026-10-26T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Better coding tools make projects such as database rewrites, regex engines, and compiler improvements feasible for smaller teams.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-26"&gt;TLDR Dev · 2026-10-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danluu.com/ambitious/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-26T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tempertemper.net/blog/fully-customise-your-select-elements</id>
+    <title>Fully customise your select elements (4 minute read)</title>
+    <updated>2026-10-26T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Native select elements can use appearance: base-select and picker pseudo-elements for custom styling while retaining a usable default in unsupported browsers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-26"&gt;TLDR Dev · 2026-10-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tempertemper.net/blog/fully-customise-your-select-elements"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-26T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.discourse.org/2026/10/markdown-endpoints-your-community-in-a-format-that-ai-agents-can-read</id>
+    <title>Discourse adds Markdown endpoints (3 minute read)</title>
+    <updated>2026-10-26T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Discourse can serve topics and topic lists as processed Markdown through a .md URL suffix or an Accept: text/markdown header.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-26"&gt;TLDR Dev · 2026-10-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.discourse.org/2026/10/markdown-endpoints-your-community-in-a-format-that-ai-agents-can-read/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-26T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop</id>
     <title>Building agents: When to fold subagents into your main agent loop (18 minute read)</title>
@@ -1589,145 +1739,5 @@
     <category term="TLDR Dev"/>
     <category term="Quick Links"/>
     <published>2026-10-12T10:59:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://posthog.com/blog/cloud-agents-runtime</id>
-    <title>We built our own cloud agents runtime. Here's what we learned (11 minute read)</title>
-    <updated>2026-10-09T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;PostHog describes the shared runtime behind its Desktop, Slack, self-driving, and web agents, built around Temporal workflows, VM sandboxes, snapshots, fresh credentials, and resumable run logs. The hard-won lessons cover queued follow-ups, deterministic network controls, Docker-capable custom images, and designing every run to survive the loss of its sandbox.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-09"&gt;TLDR Dev · 2026-10-09 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://posthog.com/blog/cloud-agents-runtime"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-09T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.openui.com/blog/how-chatgpt-intelligent-ui-works</id>
-    <title>How ChatGPT Intelligent UI works (20 minute read)</title>
-    <updated>2026-10-09T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A reverse-engineering tour traces ChatGPT's interactive responses from a model-written DIL format through server-side compilation, sandboxed client execution, and native rendering. It also explains how streaming recompiles partial output, preserves keyed state, and sends server-resolved data such as images separately from model text.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-09"&gt;TLDR Dev · 2026-10-09 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.openui.com/blog/how-chatgpt-intelligent-ui-works"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-09T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dejan.ai/blog/chrome-decisions-api-decisionmodel</id>
-    <title>Chrome Decisions API: the prompts, limits, engines and code reviews behind DecisionModel (10 minute read)</title>
-    <updated>2026-10-09T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;An investigation of Chrome's experimental Decisions API compares the explainer with implementation code and review comments. It surfaces slow Gemma 4 timings, position bias, context limits, probability semantics, and differences between Chrome's prototype and MediaPipe's DecisionMaker.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-09"&gt;TLDR Dev · 2026-10-09 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://dejan.ai/blog/chrome-decisions-api-decisionmodel/"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-09T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://swizec.com/blog/when-code-is-cheap-judgement-becomes-the-job</id>
-    <title>When code is cheap, judgement becomes the job (11 minute read)</title>
-    <updated>2026-10-09T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;As AI makes code production cheap, the scarce work shifts to choosing priorities, reviewing product behavior, maintaining architecture, and owning outcomes in production. Senior engineers create leverage by turning repeated review feedback into guidance and deterministic lint rules while keeping human judgment for business context.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-09"&gt;TLDR Dev · 2026-10-09 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://swizec.com/blog/when-code-is-cheap-judgement-becomes-the-job"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-09T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://withruntime.com/blog/test-gate-for-agent-written-code</id>
-    <title>Don't merge what you didn't run: a test gate for agent-written code (10 minute read)</title>
-    <updated>2026-10-09T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A practical test gate checks agent-written changes on a clean machine before review by reinstalling from scratch, running the full suite three times, rejecting removed or skipped tests, and restoring the base branch's tests against the new code. Running the same gate inside the agent loop turns failures into immediate repair instructions while an independent CI run keeps the verdict outside the agent's control.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-09"&gt;TLDR Dev · 2026-10-09 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://withruntime.com/blog/test-gate-for-agent-written-code"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-09T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://github.com/superdesigndev/treg</id>
-    <title>Treg (GitHub Repo)</title>
-    <updated>2026-10-09T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Treg acts as an OpenRouter for agent tools, giving agents one base URL and token for a catalog of metered provider endpoints plus team-owned APIs, CLIs, and skills. It can inject credentials server-side, expose tools through MCP and agent skills, and let teams share capabilities without placing provider keys in callers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-09"&gt;TLDR Dev · 2026-10-09 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://github.com/superdesigndev/treg"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-09T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://github.com/backnotprop/plannotator</id>
-    <title>Plannotator (GitHub Repo)</title>
-    <updated>2026-10-09T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Plannotator provides a local browser-based review surface for plans, Markdown, HTML artifacts, diffs, and pull requests produced by coding agents. Hooks and commands route annotations back to agents, with support for multiple agent harnesses and local-first storage by default.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-09"&gt;TLDR Dev · 2026-10-09 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://github.com/backnotprop/plannotator"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-09T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://simonkoeck.com/writeups/react-rsc-formdata-event-loop-dos</id>
-    <title>A Single POST Freezes Any Next.js Server (3 minute read)</title>
-    <updated>2026-10-09T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A React Server Components flaw let an attacker force quadratic work while React rebuilt FormData for a server action, allowing a roughly 900 KB request to trigger 100 million string checks and block a Node.js event loop. The issue affects vulnerable React 19.0 to 19.2 releases and is fixed in 19.0.6, 19.1.7, and 19.2.6.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-09"&gt;TLDR Dev · 2026-10-09 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://simonkoeck.com/writeups/react-rsc-formdata-event-loop-dos"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-09T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://expo.dev/blog/your-skills-need-an-evaluation-mechanism</id>
-    <title>Your skills need an evaluation mechanism (11 minute read)</title>
-    <updated>2026-10-09T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Expo built a CI evaluation harness that measures whether coding agents discover relevant skills, follow their guidance, and produce working apps. Adding an overview skill raised sessions loading at least one downstream Expo skill from 9% to 55%, while catalog crowding tests showed why names and opening descriptions must survive truncation.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-09"&gt;TLDR Dev · 2026-10-09 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://expo.dev/blog/your-skills-need-an-evaluation-mechanism"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-09T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software</id>
-    <title>The Slow Formation of Durable Software (16 minute read)</title>
-    <updated>2026-10-09T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The origin story of Zotero shows how years of conversation, prototypes, and collaboration helped a team of historians discover what durable research software should become. Its path from Web Scrapbook and Scribe to a browser-aware tool used by millions argues that clear product vision can require slow communal formation, even when implementation itself becomes cheap.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-09"&gt;TLDR Dev · 2026-10-09 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-09T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bram.us/2026/10/08/calc-input-a-custom-input-element-that-accepts-mathematical-formulas</id>
-    <title>calc-input, a custom input element that accepts mathematical formulas (4 minute read)</title>
-    <updated>2026-10-09T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;calc-input lets forms accept arithmetic expressions, shows formulas on focus and results on blur, and uses a safe parser plus native form validation instead of eval().&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-09"&gt;TLDR Dev · 2026-10-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.bram.us/2026/10/08/calc-input-a-custom-input-element-that-accepts-mathematical-formulas/"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-09T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://opensource.googleblog.com/2026/10/how-much-does-it-cost-to-use-open-source-software.html</id>
-    <title>How much does it cost to use open source software? (3 minute read)</title>
-    <updated>2026-10-09T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A Google study found most internal open source package updates take four hours or less, while local patches, dependencies, and upstream contributor counts better predicted difficult updates than package age or internal adoption.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-09"&gt;TLDR Dev · 2026-10-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://opensource.googleblog.com/2026/10/how-much-does-it-cost-to-use-open-source-software.html"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-09T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://raminmousavi.dev/blog/the-bug-only-my-screen-could-see</id>
-    <title>The Bug Only My Screen Could See (10 minute read)</title>
-    <updated>2026-10-09T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A display-only flicker that browser captures could not reproduce was traced to full-width tile repaints, then reduced from 267 page-tile repaints to 9 by promoting only the changing timeline elements to their own composited layers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-09"&gt;TLDR Dev · 2026-10-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://raminmousavi.dev/blog/the-bug-only-my-screen-could-see"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-09T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://github.com/Vincentwei1021/video-shotcraft</id>
-    <title>video-shotcraft (GitHub Repo)</title>
-    <updated>2026-10-09T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;video-shotcraft turns coding agents into a Remotion-based motion studio with 157 shot recipes, 214 motion previews, editable templates, sound design guidance, and a browser workbench.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-09"&gt;TLDR Dev · 2026-10-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://github.com/Vincentwei1021/video-shotcraft"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-09T10:59:47+00:00</published>
   </entry>
 </feed>
