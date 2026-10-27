@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-10-26T11:00:00+00:00</updated>
+  <updated>2026-10-27T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://mergify.com/blog/python-postgres-disagree-on-cet</id>
+    <title>Python and Postgres Don't Agree on What “CET” Means (9 minute read)</title>
+    <updated>2026-10-27T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A timezone accepted by Python broke Mergify's merge-freeze queries because Postgres rejected it, and the investigation uncovered four names that silently differ by an hour in summer. The fix uses one curated timezone list and integration tests that compare both systems, rather than validating against either runtime alone.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-27"&gt;TLDR Dev · 2026-10-27 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://mergify.com/blog/python-postgres-disagree-on-cet"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-27T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.com/addyosmani/status/2114604912520921136</id>
+    <title>How the Claude Code Team Does Code Review (16 minute read)</title>
+    <updated>2026-10-27T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Claude Code team reported more than twice as many merged PRs from June to September while the share requiring reverts fell by over 40%. Its process combines automated review before and after PR creation, security checks, human approval scaled by risk, and fast rollback. It also caps review cycles after one PR bounced between agents more than fifty times overnight.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-27"&gt;TLDR Dev · 2026-10-27 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/addyosmani/status/2114604912520921136"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-27T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</id>
+    <title>Fixing Tool-Call Accuracy in vLLM (8 minute read)</title>
+    <updated>2026-10-27T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Ubicloud found that Kimi K2.6 served through vLLM produced schema-valid tool calls only 92% of the time. Constrained decoding raised schema accuracy to 100% for its supported Kimi and DeepSeek models by blocking invalid tokens during generation, though that guarantee does not establish whether a tool call is useful or correct.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-27"&gt;TLDR Dev · 2026-10-27 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-27T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://denodell.com/blog/design-systems-should-be-fast-by-default</id>
+    <title>Design Systems Should Be Fast by Default (18 minute read)</title>
+    <updated>2026-10-27T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Tests across ten design systems show that bundle size alone misses expensive interactions such as opening a 249-option selector or selecting 100 checkboxes. The investigation traces slow paths to repeated slot scans, layout thrashing, and animations, then supplies Playwright performance budgets that teams can run on each pull request.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-27"&gt;TLDR Dev · 2026-10-27 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://denodell.com/blog/design-systems-should-be-fast-by-default"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-10-27T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ben.balter.com/2026/10/26/documentation-quality-is-ai-quality</id>
+    <title>Your Documentation Quality Is Your AI Quality Now (9 minute read)</title>
+    <updated>2026-10-27T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI tools need explicit document structure and a clear source of truth to retrieve useful context. Real headings, native lists, and one maintained copy help more than visual formatting, while conversion tools need care because Word comments and tracked changes can disappear during a Markdown round trip.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-27"&gt;TLDR Dev · 2026-10-27 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://ben.balter.com/2026/10/26/documentation-quality-is-ai-quality/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-10-27T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://brennenputh.me/blog/printable-websites</id>
+    <title>Websites Should Be Printable (4 minute read)</title>
+    <updated>2026-10-27T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Print styles let readers annotate and use text-heavy websites away from the screen. This small CSS walkthrough covers hiding navigation, adjusting type, and making links legible in grayscale, with an update acknowledging fixes prompted by reader feedback.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-27"&gt;TLDR Dev · 2026-10-27 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://brennenputh.me/blog/printable-websites/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-10-27T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/JetBrains/thinkrail</id>
+    <title>ThinkRail (GitHub Repo)</title>
+    <updated>2026-10-27T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;ThinkRail wraps the pi coding agent in an IDE with editors, terminals, and isolated Git worktrees for parallel tasks. Living SPEC.md files and reusable skills preserve project context across sessions, while built-in GitHub controls expose PR status, CI checks, and review decisions.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-27"&gt;TLDR Dev · 2026-10-27 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/JetBrains/thinkrail"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-27T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/introducing-gpt-6-1-terra</id>
+    <title>Introducing GPT-6.1 Terra (4 minute read)</title>
+    <updated>2026-10-27T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;GPT-6.1 Terra combines visual reasoning, computer use, and coding with standard API prices of $1 per million input tokens and $5 per million output tokens. OpenAI reports 50.3% on Terminal-Bench 4.0 at maximum reasoning effort, while recommending GPT-6.1 Sol or GPT-6 Astra for the most complex coding tasks.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-27"&gt;TLDR Dev · 2026-10-27 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openai.com/index/introducing-gpt-6-1-terra/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-27T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/nightly-labs/openbot</id>
+    <title>OpenBot (GitHub Repo)</title>
+    <updated>2026-10-27T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenBot runs persistent AI teammates in a desktop workspace, giving each agent its own conversation, files, task queue, and access to an embedded browser. It supports Codex, Claude Code, and other agent runtimes. The development preview runs agents with broad access and no per-action approvals.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-27"&gt;TLDR Dev · 2026-10-27 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/nightly-labs/openbot"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-27T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://shraiwi.com/blog/simd-fast-esp32s3</id>
+    <title>SIMD-Accelerated Computer Vision on a $2 Microcontroller (6 minute read)</title>
+    <updated>2026-10-27T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;An ESP32-S3 FAST feature detector uses 128-bit SIMD instructions to process sixteen pixels at a time, reaching about 6 milliseconds per 320-by-240 frame. The implementation works around unaligned loads and signed-only comparisons, including an XOR trick that makes unsigned pixel values comparable.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-27"&gt;TLDR Dev · 2026-10-27 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://shraiwi.com/blog/simd-fast-esp32s3/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-27T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.cloudflare.com/kv-cache-exposure-remediation</id>
+    <title>Cross-Request KV Cache Exposure in Workers AI (16 minute read)</title>
+    <updated>2026-10-27T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Cloudflare reports that 155 GLM-5.3 responses exposed data from other customers after oversized prompts encountered a KV cache capacity mismatch and an SGLang error-handling bug. The model was restored in September after remediation, and the October disclosure explains how a rejected request could still decode against stale cache pages.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-27"&gt;TLDR Dev · 2026-10-27 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.cloudflare.com/kv-cache-exposure-remediation/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-27T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tempertemper.net/blog/fully-customise-your-select-elements</id>
+    <title>Fully Customise Your Select Elements (2 minute read)</title>
+    <updated>2026-10-27T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Native select controls can use appearance: base-select and picker pseudo-elements for custom styling while falling back to ordinary controls in unsupported browsers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-27"&gt;TLDR Dev · 2026-10-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tempertemper.net/blog/fully-customise-your-select-elements"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-27T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11</id>
+    <title>Oldest GUI Application That Still Runs on Windows 11 (2 minute read)</title>
+    <updated>2026-10-27T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A November 1992 CD player still launches on Windows 11 using the system C runtime, while running 1985 Reversi requires the separate otvdm compatibility layer.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-27"&gt;TLDR Dev · 2026-10-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-27T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md</id>
+    <title>Type Server Protocol (Website)</title>
+    <updated>2026-10-27T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Microsoft's JSON-RPC protocol exposes Python type queries, import resolution, and snapshot-based analysis state using LSP conventions.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-27"&gt;TLDR Dev · 2026-10-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-27T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tanstack.com/blog/introducing-tanstack-redact</id>
+    <title>Introducing TanStack Redact (3 minute read)</title>
+    <updated>2026-10-27T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Redact swaps React's browser runtime for a smaller compatible implementation, with synchronous rendering that trades away interruptible scheduling.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-27"&gt;TLDR Dev · 2026-10-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://tanstack.com/blog/introducing-tanstack-redact"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-27T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://dropbox.tech/machine-learning/evolving-calendar-assistant-reclaim-to-be-ai-native</id>
     <title>Reclaim goes AI-native without starting over (7 minute read)</title>
@@ -1579,165 +1729,5 @@
     <category term="TLDR Dev"/>
     <category term="Quick Links"/>
     <published>2026-10-13T10:59:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://nishtahir.com/build-your-own-decision-model</id>
-    <title>Build Your Own Decision Model (5 minute read)</title>
-    <updated>2026-10-12T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A Qwen3-1.7B walkthrough turns multiple-choice questions into single-pass predictions by scoring only the allowed answer tokens. Fine-tuning improves accuracy on a 1,221-question CommonsenseQA sample from 59.4% to 62.4%, while temperature scaling makes the model's confidence better reflect its actual accuracy.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-12"&gt;TLDR Dev · 2026-10-12 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://nishtahir.com/build-your-own-decision-model/"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-12T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b</id>
-    <title>How to Effectively Debug When You No Longer Understand the Code (63 minute read)</title>
-    <updated>2026-10-12T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Three production investigations, a latency regression, a memory leak, and a kernel-level hang, show how to steer coding agents through unfamiliar systems using runtime evidence. The framework separates facts from hypotheses, compares failures with a control, and requires every proposed cause to satisfy all known constraints. Adversarial reviews should seek contradictions, and reproductions must match the real failure's signals before they can be trusted.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-12"&gt;TLDR Dev · 2026-10-12 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-12T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cockroachlabs.com/blog/experiment-running-hospital-code</id>
-    <title>Five Months Treating Bugs Like Patients and Coding Agents Like a Medical Team (20 minute read)</title>
-    <updated>2026-10-12T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Cockroach Labs structures coding agents around a teaching hospital, with reviewed plans, separate implementation and review roles, structured handoffs, and an audit before merge. The pipeline landed over a million lines of code in five months with seven reverts, and human approval became mandatory after the first autonomous week before the team used it to build customer-facing migration tooling.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-12"&gt;TLDR Dev · 2026-10-12 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.cockroachlabs.com/blog/experiment-running-hospital-code/"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-12T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think</id>
-    <title>I'm Sorry, but You Still Have to Think (8 minute read)</title>
-    <updated>2026-10-12T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The AI-generated Campfire app rewrites make different choices about compatibility, queues, and concurrency, so throughput alone cannot establish which language performs better. Constant-arrival-rate tests expose tradeoffs between dropped notifications, timeouts, memory use, and delivery latency, showing why engineers still need to inspect code and specify failure behavior.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-12"&gt;TLDR Dev · 2026-10-12 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-12T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://purplesyringa.moe/blog/grieving-the-loss-of-details</id>
-    <title>Grieving the Loss of Details (5 minute read)</title>
-    <updated>2026-10-12T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A personal reflection explores the loss of professional identity when AI shifts attention from low-level knowledge and performance details toward architecture and delegation.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-12"&gt;TLDR Dev · 2026-10-12 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://purplesyringa.moe/blog/grieving-the-loss-of-details/"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-12T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.dgt.is/blog/2026-10-07-deepseek-freek-out</id>
-    <title>Why Isn't the Industry Freaking Out About DeepSeek 4.1 Flash? (4 minute read)</title>
-    <updated>2026-10-12T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;An account of using DeepSeek 4.1 Flash across a dozen projects argues that inexpensive models can handle much of the work typically assigned to premium frontier models. Lower session costs encourage unattended chores, exploratory testing, and long planning sessions, with a more expensive model sometimes brought in for a final review.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-12"&gt;TLDR Dev · 2026-10-12 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-12T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://github.com/franzenzenhofer/big-arrow-on-the-screen</id>
-    <title>Big Arrow on the Screen (GitHub Repo)</title>
-    <updated>2026-10-12T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A macOS command-line tool lets coding agents draw temporary arrows, boxes, and text over the screen to show users where to click. Its transparent overlays allow clicks through to the underlying application and disappear automatically, with skills provided for Claude Code and Codex.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-12"&gt;TLDR Dev · 2026-10-12 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://github.com/franzenzenhofer/big-arrow-on-the-screen"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-12T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://rea.tools/</id>
-    <title>REA (Website)</title>
-    <updated>2026-10-12T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;REA gives coding agents tools to reverse engineer native binaries, JavaScript and Electron applications, and browser behavior. Its examples recover Windows Calculator's percentage rules and a browser game's acceleration logic, then use those findings to explain or rebuild the features.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-12"&gt;TLDR Dev · 2026-10-12 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://rea.tools/"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-12T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://github.com/rociiu/talorys</id>
-    <title>Talorys (GitHub Repo)</title>
-    <updated>2026-10-12T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Talorys is a single-user personal AI assistant that runs in your own Cloudflare account and deploys with one command. It combines chat, editable memory, tasks, notes, projects, and scheduled reminders, with core organizational features continuing to work when AI is unavailable.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-12"&gt;TLDR Dev · 2026-10-12 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://github.com/rociiu/talorys"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-12T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://swingbit.github.io/dirty_pages</id>
-    <title>The Dirty Pages Surprise: When a Read-Only Query Writes Terabytes (10 minute read)</title>
-    <updated>2026-10-12T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A MonetDB count-distinct query saturates an NVMe drive with writes because Linux flushes dirty pages from temporary memory-mapped scratch files. Moving the scratch files to tmpfs cuts runtime from 73 minutes to 97 seconds, while workload-specific writeback tuning reaches about 100 seconds without moving them off disk.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-12"&gt;TLDR Dev · 2026-10-12 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://swingbit.github.io/dirty_pages/"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-12T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://astralord.github.io/posts/speculative-decoding-the-art-of-guessing-well</id>
-    <title>Speculative Decoding: The Art of Guessing Well (70 minute read)</title>
-    <updated>2026-10-12T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Speculative decoding accelerates generation by drafting several tokens cheaply and verifying them in one target-model pass while preserving the target's output distribution. This detailed walkthrough derives acceptance and speedup formulas, covers EAGLE-3, multi-token prediction, and diffusion drafters, and explains why training for acceptance is different from simply minimizing KL divergence.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-12"&gt;TLDR Dev · 2026-10-12 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://astralord.github.io/posts/speculative-decoding-the-art-of-guessing-well/"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-12T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://deno.com/blog/cloudflare</id>
-    <title>Deno Is Joining Cloudflare (3 minute read)</title>
-    <updated>2026-10-12T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The Deno team is joining Cloudflare to focus on a shared platform built around Workers, Durable Objects, and celld. Deno runtime development will end after one year of bug fixes and security updates, Deno Deploy will shut down in six months, and JSR will continue operating on Cloudflare infrastructure.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-12"&gt;TLDR Dev · 2026-10-12 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://deno.com/blog/cloudflare"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-12T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://importstatic.com/databases/postgres-uuidv7-vs-uuidv4-bigint</id>
-    <title>PostgreSQL uuidv7 Keys Load Like bigint, UUIDv4 Took Twice as Long (9 minute read)</title>
-    <updated>2026-10-12T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;In a PostgreSQL 18 laptop benchmark loading 10 million rows, UUIDv7 took 32.3 seconds versus 29.7 for bigint and 60.7 for UUIDv4.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-12"&gt;TLDR Dev · 2026-10-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://importstatic.com/databases/postgres-uuidv7-vs-uuidv4-bigint"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-12T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://ratfactor.com/cards/git-commit-size</id>
-    <title>How Big Is a Git Commit? (5 minute read)</title>
-    <updated>2026-10-12T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Git commit storage depends on directory structure, filesystem overhead, and compression.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-12"&gt;TLDR Dev · 2026-10-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://ratfactor.com/cards/git-commit-size"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-12T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://commandline.microsoft.com/microsoft-decision-1-model-foundry</id>
-    <title>Introducing Microsoft-Decision-1, Our Model for Fast Decision-Making (6 minute read)</title>
-    <updated>2026-10-12T10:59:46+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Microsoft-Decision-1 scores fixed answer options in a single pass for routing, classification, and workflow control.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-12"&gt;TLDR Dev · 2026-10-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://commandline.microsoft.com/microsoft-decision-1-model-foundry/"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-12T10:59:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.seangoedecke.com/softwares-centaur-age-may-last-decades</id>
-    <title>Software's Centaur Age May Last Decades (6 minute read)</title>
-    <updated>2026-10-12T10:59:45+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Human and AI teams may remain the strongest software builders for another decade or two.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-12"&gt;TLDR Dev · 2026-10-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.seangoedecke.com/softwares-centaur-age-may-last-decades/"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-12T10:59:45+00:00</published>
   </entry>
 </feed>

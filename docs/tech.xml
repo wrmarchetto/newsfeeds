@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/tech.xml</id>
   <title>TLDR</title>
-  <updated>2026-10-26T11:00:00+00:00</updated>
+  <updated>2026-10-27T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,146 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.wsj.com/business/hospitality/doordash-is-in-advanced-talks-to-acquire-delivery-rival-instacart-2b3d3d18?st=vzXBtZ&amp;reflink=desktopwebshare_permalink</id>
+    <title>DoorDash Is in Advanced Talks to Acquire Delivery Rival Instacart (2 minute read)</title>
+    <updated>2026-10-27T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;DoorDash is looking to acquire rival Instacart in a deal that would value Instacart at around $17 billion. The deal could be finalized as soon as this week, but there is no guarantee it will come together. Instacart's core business involves online grocery shopping and convenience home delivery from retailers. The acquisition will add to DoorDash's food delivery services from retailers such as Kroger, Safeway, and Aldi.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-27"&gt;TLDR · 2026-10-27 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/business/hospitality/doordash-is-in-advanced-talks-to-acquire-delivery-rival-instacart-2b3d3d18?st=vzXBtZ&amp;reflink=desktopwebshare_permalink"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-10-27T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wsj.com/tech/ai/anthropic-ipo-s1-report-takeaways-6eebd721?st=UXMUpV&amp;reflink=desktopwebshare_permalink</id>
+    <title>The Biggest Takeaways From Anthropic's IPO Prospectus (8 minute read)</title>
+    <updated>2026-10-27T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic unveiled its IPO paperwork yesterday, putting it on track to go public as soon as the week before Thanksgiving. The 400-page prospectus tells a story of how the company could usher in a new era of progress that will transform how people code, conduct research, build financial models, and automate routine tasks. It also warned that AI could lead to the development of new bioweapons, destabilize the geopolitical order, and evolve beyond the ability of humans to understand and control. Anthropic plans to trade on the NASDAQ under the ticker 'ANT', with a valuation expected to land between $1.5 trillion and $2 trillion.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-27"&gt;TLDR · 2026-10-27 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/tech/ai/anthropic-ipo-s1-report-takeaways-6eebd721?st=UXMUpV&amp;reflink=desktopwebshare_permalink"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-10-27T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear</id>
+    <title>'It's offensively cheap': How solar power is quietly becoming bigger than nuclear (9 minute read)</title>
+    <updated>2026-10-27T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Solar power will likely provide 10% of the world's power by the end of the year. Solar electricity is the fastest-growing source of new electricity in history as it has become unbelievably cheap. China is still the world's biggest solar power producer by far, but the installations in the US are skyrocketing. Even with tariffs, solar is still one of the cheapest sources of new power in the US, and it is getting built regardless of political lines.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-27"&gt;TLDR · 2026-10-27 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-10-27T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/building-scientific-understanding-with-academic-communities</id>
+    <title>Working with academic communities to build scientific understanding (12 minute read)</title>
+    <updated>2026-10-27T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI has announced three new discoveries in mathematics, computer science, and physics. For the math result, which is about harmonic analysis, the AI lab will release the AI output, so researchers are free to organize their own efforts to explain the result. OpenAI will form an external group of collaborators to explain the computer science result, which is about complexity theory, and will make the AI output publicly available. The lab will also form an external group of collaborators for the physics result, which is about quantum field theory, but defer to them on the release of the materials.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-27"&gt;TLDR · 2026-10-27 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openai.com/index/building-scientific-understanding-with-academic-communities/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-10-27T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.dev/blog/solving-code-review-at-anthropic</id>
+    <title>How the Claude Code team does code review (18 minute read)</title>
+    <updated>2026-10-27T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Claude writes about 90% of the code in Claude Code. This post explains how the team reviews the code at the volume its agents produce. The team moved most of the reading in the review stage to machines, optimized for human time and attention, and invested heavily in making it fast and easy to undo mistakes. This resulted in merged pull requests to Claude Code's codebase more than doubling while the share that had to be reverted fell by more than 40% between June and September.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-27"&gt;TLDR · 2026-10-27 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://claude.dev/blog/solving-code-review-at-anthropic/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-10-27T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://yegge.ai/essays/the-counting-house</id>
+    <title>The Counting House (49 minute read)</title>
+    <updated>2026-10-27T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Counting House pattern adds AI to systems that handle large volumes of human work, notably customer service departments. It can be used to control and improve costs, quality, and human ramp-up time using comparatively cheap AI models. A Counting House uses classic data science and engineering to put lower-tier models on hardened rails to support human workflows. It allows teams to measure and report how well models do against their human counterparts.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-27"&gt;TLDR · 2026-10-27 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://yegge.ai/essays/the-counting-house/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-10-27T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://stratechery.com/2026/the-end-of-the-internet</id>
+    <title>The End of the Internet (18 minute read)</title>
+    <updated>2026-10-27T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Blogging began to die when Google started aggregating the internet. Social media made it much easier to create and share content, but this caused the amount of content to increase by orders of magnitude. Algorithms started to matter, and then these sites started becoming personal entertainment sites, tuned for engagement. The latest series of security vulnerabilities unveiled by AI will further shrink the public internet.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-27"&gt;TLDR · 2026-10-27 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://stratechery.com/2026/the-end-of-the-internet/"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-27T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wsj.com/tech/microsoft-will-offer-buyouts-to-60-000-employees-4c32945f?mod=tech_trendingnow_article_pos1</id>
+    <title>Microsoft Will Offer Buyouts to 60,000 Employees (3 minute read)</title>
+    <updated>2026-10-27T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Microsoft is extending voluntary buyout offers to 60,000 employees in Canada, India, the UK, and the US. The program is time-limited. It provides eligible employees with financial support and career planning services. Microsoft expects less than 30% of employees will accept the latest buyouts. The voluntary retirement program is part of a broader shift by Microsoft to alter its performance system and how it awards bonuses and stock options.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-27"&gt;TLDR · 2026-10-27 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/tech/microsoft-will-offer-buyouts-to-60-000-employees-4c32945f?mod=tech_trendingnow_article_pos1"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-27T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://kiro.dev/blog/software-factory-stability</id>
+    <title>Keeping a software factory stable at 1,000 PRs a week (17 minute read)</title>
+    <updated>2026-10-27T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Keeping a high-quality bar at 1,000 PRs a week is hard because developers must know that each change is correct, safe, and worth merging without a human reading every line.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-27"&gt;TLDR · 2026-10-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://kiro.dev/blog/software-factory-stability/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-27T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://lwn.net/SubscriberLink/1102102/489e41d80e4966aa</id>
+    <title>Python's experimental JIT to be removed (3 minute read)</title>
+    <updated>2026-10-27T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Work on JIT has stopped, but there might be time for an alternative PEP to be submitted before the council's deadline.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-27"&gt;TLDR · 2026-10-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://lwn.net/SubscriberLink/1102102/489e41d80e4966aa/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-27T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tomtunguz.com/anthropics-s1-grew-eleven-fold</id>
+    <title>Anthropic S-1 Analysis: How 7 Key Metrics Stack Up (4 minute read)</title>
+    <updated>2026-10-27T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic's S-1 describes an AI company with an enviable business model, explosive growth, and increasing efficiency.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-27"&gt;TLDR · 2026-10-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://tomtunguz.com/anthropics-s1-grew-eleven-fold"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-27T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://turbopuffer.com/blog/fully-vectorized-search-engine</id>
+    <title>The first search engine with fully vectorized query execution (32 minute read)</title>
+    <updated>2026-10-27T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;turbopuffer v3 will be the first and only search engine to adopt fully vectorized execution, an architecture more commonly associated with analytical databases, when it goes to production later this year.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-27"&gt;TLDR · 2026-10-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://turbopuffer.com/blog/fully-vectorized-search-engine"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-27T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos</id>
+    <title>Watch out, YouTube — Instagram goes from short-form to 90-minute videos (6 minute read)</title>
+    <updated>2026-10-27T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Instagram would rather keep fans on its own platform than lose them to YouTube.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-27"&gt;TLDR · 2026-10-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-27T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform</id>
+    <title>Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories' (3 minute read)</title>
+    <updated>2026-10-27T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Nvidia already charges $4,500 per GPU for a one-year subscription to its AI enterprise platform - it is unclear whether the two prices cover the same products or licensing terms.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-27"&gt;TLDR · 2026-10-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-27T10:59:47+00:00</published>
+  </entry>
   <entry>
     <id>https://www.bloomberg.com/news/features/2026-10-22/jane-street-hrt-are-spending-billions-to-win-in-ai-era?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mjg5ODcyMSwiZXhwIjoxNzkzNTAzNTIxLCJhcnRpY2xlSWQiOiJUTkJVQ0RLSUpIOTIwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.aZUQTESNPxDFkB9tAjev0zQuyASx2W5Ed0a-yabw_WY</id>
     <title>Jane Street and Rivals Are Now Fighting for AI Power as Well as Pace (17 minute read)</title>
@@ -1429,155 +1569,5 @@
     <category term="TLDR"/>
     <category term="Quick Links"/>
     <published>2026-10-13T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html?unlocked_article_code=1.IFE.3m8j.FbOfjIqvdFLM&amp;smid=url-share</id>
-    <title>Inside Mark Zuckerberg's Decision to Pull the Trigger on Meta's AI Agent (8 minute read)</title>
-    <updated>2026-10-12T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Meta had delayed the release of Muse for months due to safety concerns. However, the success of an AI agent created by a startup called Instinct led Mark Zuckerberg to push for a launch due to fear of losing a competitive edge. The launch was successful and has given Meta an early lead with agents. The agent has only had a few safety hiccups, like when it gave out a user's address to a seller on Facebook Marketplace without permission.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-12"&gt;TLDR · 2026-10-12 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html?unlocked_article_code=1.IFE.3m8j.FbOfjIqvdFLM&amp;smid=url-share"/>
-    <category term="TLDR"/>
-    <category term="Big Tech &amp; Startups"/>
-    <published>2026-10-12T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bloomberg.com/news/newsletters/2026-10-11/apple-smart-home-launch-oct-13-plans-homeview-has-mid-november-release?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTc3NDc4NCwiZXhwIjoxNzkyMzc5NTg0LCJhcnRpY2xlSWQiOiJUTVFYSzJOM04wOFowMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.VpLYB31tmlC9YKzhenXXqPdvFv297p02RZ_WTDk3s8g</id>
-    <title>Apple Is About to Close the Biggest Hole In Its Ecosystem With HomeView (17 minute read)</title>
-    <updated>2026-10-12T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Apple is set to unveil new smart home products tomorrow. The centerpiece will be a smart home hub called the HomeView that essentially serves as the Siri command center for an Apple-powered household. There will be a countertop model with a metal base and a wall-mounted version with a flat, square base that sits against the wall beneath the display. The HomeView will only support a limited selection of Apple applications, and there will be no App Store for downloading additional software.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-12"&gt;TLDR · 2026-10-12 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.bloomberg.com/news/newsletters/2026-10-11/apple-smart-home-launch-oct-13-plans-homeview-has-mid-november-release?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTc3NDc4NCwiZXhwIjoxNzkyMzc5NTg0LCJhcnRpY2xlSWQiOiJUTVFYSzJOM04wOFowMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.VpLYB31tmlC9YKzhenXXqPdvFv297p02RZ_WTDk3s8g"/>
-    <category term="TLDR"/>
-    <category term="Big Tech &amp; Startups"/>
-    <published>2026-10-12T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTc3NDgzNywiZXhwIjoxNzkyMzc5NjM3LCJhcnRpY2xlSWQiOiJUTU0yS0ZWVFRDWlYwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.qKwaxiQA41bCTyhO89iik9g1DsGnuCz_-BYe0uX0X2o</id>
-    <title>China's Delivery Robots Are Learning to Tackle the Night Shift (11 minute read)</title>
-    <updated>2026-10-12T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Shenzhen opened access for nighttime deliveries by driverless vehicles in March. Night operations make otherwise idle vehicles and infrastructure productive. It also means quieter roads, reduced pedestrian traffic, and lower congestion. Driverless vehicles eliminate the cost of a human: they don't need night shift wages, they don't get tired, and they don't need to be paid extra for driving in the rain.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-12"&gt;TLDR · 2026-10-12 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTc3NDgzNywiZXhwIjoxNzkyMzc5NjM3LCJhcnRpY2xlSWQiOiJUTU0yS0ZWVFRDWlYwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.qKwaxiQA41bCTyhO89iik9g1DsGnuCz_-BYe0uX0X2o"/>
-    <category term="TLDR"/>
-    <category term="Science &amp; Futuristic Technology"/>
-    <published>2026-10-12T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them</id>
-    <title>Problems in 22 scientific fields had solutions hiding in plain sight. An AI has found them (7 minute read)</title>
-    <updated>2026-10-12T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Borrowing an idea from one research discipline to solve a problem in another is an age-old scientific trick. However, such clever leaps are rare because researchers don't tend to spend their time researching fields outside of their expertise. AI can easily hop between fields. BootLoops is a harness that can spot and solve problems in seemingly unrelated fields that share the same mathematical structures at massive scale. Researchers recently released 36 preprints produced with BootLoops covering a wide range of topics, including figuring out the age of sunspots, analyzing government health policies, and attempting to decipher a mysterious medieval manuscript.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-12"&gt;TLDR · 2026-10-12 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them"/>
-    <category term="TLDR"/>
-    <category term="Science &amp; Futuristic Technology"/>
-    <published>2026-10-12T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://ghuntley.com/replaced</id>
-    <title>If your team is too busy doing their 'normal job' to experiment with AI, you're preparing them to be replaced (15 minute read)</title>
-    <updated>2026-10-12T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Not learning to use AI at this point is detrimental to your career. The tastes and desires in the employment market have changed. Teams that aren't working with AI will be replaced with workers who use AI. The job market might look tough, but it's much easier for workers who have been investing in themselves.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-12"&gt;TLDR · 2026-10-12 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://ghuntley.com/replaced/"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-12T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theregister.com/devops/2026/10/09/so-long-spokes-github-rewrites-storage-to-restore-reliability-just-in-time-for-agentic-hordes/5302148</id>
-    <title>So long, Spokes: GitHub rewrites storage to restore reliability, just in time for agentic hordes (5 minute read)</title>
-    <updated>2026-10-12T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;GitHub is rebuilding its Git storage architecture from scratch. Early internal testing shows a promising 35x write improvement. The plan involves decoupling writes from reads, offloading maintenance, and letting object storage manage redundancy. The change won't alter developer workflows, review processes, or security controls.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-12"&gt;TLDR · 2026-10-12 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.theregister.com/devops/2026/10/09/so-long-spokes-github-rewrites-storage-to-restore-reliability-just-in-time-for-agentic-hordes/5302148"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-12T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.wsj.com/articles/the-ai-computing-crunch-is-making-rivals-into-partners-09431721?st=vsq7AV&amp;reflink=desktopwebshare_permalink</id>
-    <title>The AI Computing Crunch Is Making Rivals Into Partners (8 minute read)</title>
-    <updated>2026-10-12T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic entered into a deal worth up to $45 billion earlier this year to lease computing power from SpaceX. The unlikely alliance illustrates the industry's increasingly desperate scramble for compute. Demand is outstripping supply, and prices are rising, causing tech companies to strike deals with rivals. Venture-capital firms are helping startups obtain computing capacity.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-12"&gt;TLDR · 2026-10-12 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.wsj.com/articles/the-ai-computing-crunch-is-making-rivals-into-partners-09431721?st=vsq7AV&amp;reflink=desktopwebshare_permalink"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-12T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person</id>
-    <title>How to Build Wealth as a Career Person (22 minute read)</title>
-    <updated>2026-10-12T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Ownership is not the only credible path to prosperity. It's possible to build substantial wealth through a career. A career provides income, training, relationships, credibility, and exposure. In some cases, it can also provide pensions, bonuses, equity, and other benefits. This can be used to build wealth that remains under your ownership and continues to serve you after the salary has been paid.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-12"&gt;TLDR · 2026-10-12 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-12T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.cloudflare.com/deno-joins-cloudflare</id>
-    <title>Deno is joining Cloudflare (1 minute read)</title>
-    <updated>2026-10-12T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The Deno team is joining Cloudflare to radically simplify self-hosting Workers and Durable Objects.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-12"&gt;TLDR · 2026-10-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.cloudflare.com/deno-joins-cloudflare/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-12T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods</id>
-    <title>Speeding up the Unreal editor by… not using unnecessarily secure hash methods (4 minute read)</title>
-    <updated>2026-10-12T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;There's no reason to use cryptographically secure hashes when there's no sensitive data.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-12"&gt;TLDR · 2026-10-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-12T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://royfish.dev/fingerprints-are-the-new-cookies</id>
-    <title>From now on I'll call you (13 minute read)</title>
-    <updated>2026-10-12T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Brave, Tor, and Mullvad Browser are the only major browsers at the moment that implement advanced protections against fingerprinting.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-12"&gt;TLDR · 2026-10-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://royfish.dev/fingerprints-are-the-new-cookies"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-12T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://eastwind.substack.com/p/below-the-frontier-the-battle-for</id>
-    <title>Below the Frontier: The Battle for Good-Enough AI (14 minute read)</title>
-    <updated>2026-10-12T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Frontier labs will likely capture the bulk of revenue from the most demanding work, but there's still plenty of room below the frontier for very large businesses.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-12"&gt;TLDR · 2026-10-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://eastwind.substack.com/p/below-the-frontier-the-battle-for"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-12T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nibzard.com/hiring</id>
-    <title>We don't know how to hire. We're just very confident (14 minute read)</title>
-    <updated>2026-10-12T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Skill and competence matter, but being a 'good human' is one of the strongest foundations for doing great work together.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-12"&gt;TLDR · 2026-10-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.nibzard.com/hiring"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-12T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theregister.com/personal-tech/2026/10/09/global-pc-shipments-crater-20-as-rising-prices-hammer-demand/5302264</id>
-    <title>Global PC shipments crater 20% as rising prices hammer demand (3 minute read)</title>
-    <updated>2026-10-12T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The AI-driven memory shortage is pushing up prices, and buyers are deciding that their existing machines are just fine.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-12"&gt;TLDR · 2026-10-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.theregister.com/personal-tech/2026/10/09/global-pc-shipments-crater-20-as-rising-prices-hammer-demand/5302264"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-12T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://scotthelme.co.uk/the-first-reduction-in-their-history-64-day-lets-encrypt-certificates</id>
-    <title>The First Reduction in Their History: 64-Day Let's Encrypt Certificates (3 minute read)</title>
-    <updated>2026-10-12T10:59:46+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Let's Encrypt will start issuing 64-day certificates starting on October 14.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-12"&gt;TLDR · 2026-10-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://scotthelme.co.uk/the-first-reduction-in-their-history-64-day-lets-encrypt-certificates/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-12T10:59:46+00:00</published>
   </entry>
 </feed>
