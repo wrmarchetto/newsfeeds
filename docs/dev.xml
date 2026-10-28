@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-10-27T11:00:00+00:00</updated>
+  <updated>2026-10-28T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering</id>
+    <title>How Meta Built Forum With AI-Native Engineering (9 minute read)</title>
+    <updated>2026-10-28T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Meta built Forum by having agents plan, implement, test, and correct changes while engineers set goals and approved results. A small team reached Facebook Groups feature parity in eight weeks.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-28"&gt;TLDR Dev · 2026-10-28 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-28T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/aiworkspacebuilder/claude-code-skills-for-teams-what-to-move-out-of-claudemd-4f6o</id>
+    <title>Claude Code skills for teams: what to move out of CLAUDE.md (5 minute read)</title>
+    <updated>2026-10-28T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Keep always-needed rules in CLAUDE.md and move task-specific procedures into skills that load on demand. Restrict deployment and other side-effecting skills to manual use, with reviewed tool permissions.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-28"&gt;TLDR Dev · 2026-10-28 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://dev.to/aiworkspacebuilder/claude-code-skills-for-teams-what-to-move-out-of-claudemd-4f6o"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-28T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.langchain.com/blog/components-building-company-harness</id>
+    <title>The five components of building a "company harness" (6 minute read)</title>
+    <updated>2026-10-28T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;LangChain's internal agents share five components: Slack interfaces, scoped credentials, shared and personal memory, sandboxed execution, and scheduled runs. Memory remains the least solved piece.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-28"&gt;TLDR Dev · 2026-10-28 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.langchain.com/blog/components-building-company-harness"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-28T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://oioannou.com/blog/ai-promised-less-work</id>
+    <title>AI Promised Less Work. I Have Never Worked More (7 minute read)</title>
+    <updated>2026-10-28T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Cheaper implementation makes more projects worth starting, but reviewing agent output and switching contexts still consume attention. A personal GitHub activity analysis traces cycles of increased output and burnout as that workload grows.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-28"&gt;TLDR Dev · 2026-10-28 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://oioannou.com/blog/ai-promised-less-work"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-10-28T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers</id>
+    <title>Hunger Beats Tenure: Advice for Junior Engineers (5 minute read)</title>
+    <updated>2026-10-28T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Junior engineers can gain influence by building one focused prototype tied to a business goal. Fresh eyes help challenge assumptions that experienced teammates have stopped questioning.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-28"&gt;TLDR Dev · 2026-10-28 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-10-28T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.logrocket.com/ux-design/intent-driven-ux-dynamic-user-flows</id>
+    <title>Are fixed user flows becoming obsolete? (11 minute read)</title>
+    <updated>2026-10-28T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Intent-driven UX adapts flows to a user's goal, context, and behavior. Designers define the rules and boundaries, including confirmations, undo, and fallbacks when the system misreads intent.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-28"&gt;TLDR Dev · 2026-10-28 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.logrocket.com/ux-design/intent-driven-ux-dynamic-user-flows/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-10-28T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ghostty.org/docs/install/release-notes/1-4-0</id>
+    <title>Ghostty 1.4 (Website)</title>
+    <updated>2026-10-28T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Ghostty 1.4 adds complete Kitty graphics support, security fixes, and faster terminal I/O. Scrollback compression cuts physical memory use by 70% to 90% for typical text-heavy history.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-28"&gt;TLDR Dev · 2026-10-28 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://ghostty.org/docs/install/release-notes/1-4-0"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-28T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6</id>
+    <title>Apple Introduces the 14-inch MacBook Pro with M6 (8 minute read)</title>
+    <updated>2026-10-28T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The new 14-inch MacBook Pro adds a 12-core CPU and GPU, Wi-Fi 7, and Bluetooth 6. Apple claims up to 30% faster Xcode builds than M5. The new laptop will be available starting on November 6.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-28"&gt;TLDR Dev · 2026-10-28 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-28T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://expo.dev/blog/introducing-expo-agent-cli</id>
+    <title>Expo Agent CLI (7 minute read)</title>
+    <updated>2026-10-28T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Expo's experimental CLI helps agents choose the right build, launch an app, and smoke-test it. Structured output and runtime inspection help agents diagnose failures.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-28"&gt;TLDR Dev · 2026-10-28 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://expo.dev/blog/introducing-expo-agent-cli"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-28T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tabletopwhale.com/</id>
+    <title>Tabletop Whale (Website)</title>
+    <updated>2026-10-28T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Tabletop Whale explains science, from ventilation to lunar geology, through animations, illustrations, and maps. Several projects have shared their source data or code.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-28"&gt;TLDR Dev · 2026-10-28 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://tabletopwhale.com/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-28T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone</id>
+    <title>How Apple Fits an LLM on Your iPhone (7 minute read)</title>
+    <updated>2026-10-28T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Apple fits a 3-billion-parameter model on the iPhone using compressed weights, shared caches, and small task-specific adapters. More complex requests go to Private Cloud Compute.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-28"&gt;TLDR Dev · 2026-10-28 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-28T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://nextjs.org/blog/upcoming-nextjs-security-release-november-2026</id>
+    <title>Upcoming Next.js November Security Release (1 minute read)</title>
+    <updated>2026-10-28T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Next.js plans fixes for seven medium-severity vulnerabilities on November 3.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-28"&gt;TLDR Dev · 2026-10-28 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://nextjs.org/blog/upcoming-nextjs-security-release-november-2026"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-28T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tailscale.com/ssh-investigation-update</id>
+    <title>Tailscale SSH Investigation Update (3 minute read)</title>
+    <updated>2026-10-28T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Tailscale's SSH investigation covers privilege escalation, access-policy reviews, and disabling unneeded forwarding ahead of a patched client.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-28"&gt;TLDR Dev · 2026-10-28 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://tailscale.com/ssh-investigation-update"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-28T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/maharmstone/moxnox</id>
+    <title>Moxnox 1.0 (GitHub Repo)</title>
+    <updated>2026-10-28T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Moxnox is a self-hosting, NT-inspired hobby OS with POSIX compatibility and Btrfs storage intended for disposable test filesystems.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-28"&gt;TLDR Dev · 2026-10-28 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/maharmstone/moxnox"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-28T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://debuff.jp/research/what-agents-need-from-cli-failures</id>
+    <title>What a Coding Agent Needs from a CLI Failure (5 minute read)</title>
+    <updated>2026-10-28T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A comparison of 12 JavaScript CLIs shows why agents need distinct error codes, structured failures, and clear retry guidance.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-28"&gt;TLDR Dev · 2026-10-28 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://debuff.jp/research/what-agents-need-from-cli-failures"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-28T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://mergify.com/blog/python-postgres-disagree-on-cet</id>
     <title>Python and Postgres Don't Agree on What “CET” Means (9 minute read)</title>

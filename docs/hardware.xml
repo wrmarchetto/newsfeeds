@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/hardware.xml</id>
   <title>TLDR Hardware</title>
-  <updated>2026-10-26T11:00:00+00:00</updated>
+  <updated>2026-10-28T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,136 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure</id>
+    <title>Oracle Cloud becomes the first hyperscaler outside Google to offer TPUs, with capacity from 2027 (4 minute read)</title>
+    <updated>2026-10-28T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TPU capacity will be deployed in OCI's liquid-cooled data centers, tied in through Oracle's Acceleron SmartNIC fabric. Google says its eighth-generation TPU delivers up to 12.6 PFLOPS of FP4 per chip at up to 2x performance per watt, sustains over 97% goodput with optical circuit switching, and cuts network hops by over 50% for up to 80% better low-latency serving performance per dollar.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-28"&gt;TLDR Hardware · 2026-10-28 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-28T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://payloadspace.com/cowboy-space-reveals-big-iron-data-center-rocket</id>
+    <title>Cowboy Space's Big Iron rocket turns its upper stage into an orbiting megawatt-class data center (3 minute read)</title>
+    <updated>2026-10-28T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Big Iron is an 86 m stainless-steel, road-transportable rocket that can carry 15,000+ kg to sun-synchronous orbit on nine 300,000 lbf methalox ‘Clydesdale' engines. The upper stage can stay in orbit as a data center with five racks of Vera Rubin GPUs, with the rocket skin doubling as the radiator and ammonia propellant as coolant. Its first flight is targeted for 2028, with up to 20,000 satellites planned pending FCC approval.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-28"&gt;TLDR Hardware · 2026-10-28 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://payloadspace.com/cowboy-space-reveals-big-iron-data-center-rocket/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-10-28T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop</id>
+    <title>Anduril and Qualcomm announce BlueChip, a hardened laptop with about 90% US or allied parts (4 minute read)</title>
+    <updated>2026-10-28T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;BlueChip runs a Snapdragon X Series chip built at TSMC's Arizona fab, with about 90% of its bill of materials from the US or allies and a roadmap to 100% domestic. The display is one component still made only in China. It's aimed at government and military buyers rather than consumers. The chip is expected to cost about 20% more than typical high-end PCs, and open for preorder in 2027. Anduril hasn't finished contracting its suppliers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-28"&gt;TLDR Hardware · 2026-10-28 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-10-28T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://semiengineering.com/testing-silicon-photonics-at-scale</id>
+    <title>Testing Silicon Photonics At Scale (5 minute read)</title>
+    <updated>2026-10-28T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The push for silicon photonics in data centers requires testing infrastructure that matches evolving demands. Automated alignment and integrated optical/electrical testing are critical for overcoming challenges in coupling efficiency and throughput. Collaboration between equipment providers, developers, and manufacturers is essential to create a seamless production system for high-volume manufacturing.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-28"&gt;TLDR Hardware · 2026-10-28 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://semiengineering.com/testing-silicon-photonics-at-scale/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-10-28T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html</id>
+    <title>Proposal reads an Andreev qubit's state through its supercurrent and a SQUID, with no ancilla qubits (3 minute read)</title>
+    <updated>2026-10-28T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A theory paper proposes reading an Andreev qubit without ancilla qubits: its state shows up as an oscillating supercurrent in a large superconducting loop, and a small coil coupled to a SQUID picks up the magnetic signal. The method still disturbs the qubit, but within standard error-correction thresholds. It's a proposal in Physical Review B, supported by FAPESP, with no experiment yet.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-28"&gt;TLDR Hardware · 2026-10-28 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-10-28T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.electropages.com/2026/10/first-32-bit-mcu-family-built-22nm-process-and-featuring-mram</id>
+    <title>First 32-bit MCU family built on 22nm process and featuring MRAM (4 minute read)</title>
+    <updated>2026-10-28T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Renesas has launched the RX74M and RX74N, the first 32-bit MCUs using a 22nm process with embedded MRAM, reaching speeds up to 600MHz. These MCUs offer significant performance improvements and support major industrial networks like EtherCAT and TSN with integrated controllers. They enhance security with hardware-based features and support post-quantum cryptography, while a partner ecosystem aids development efficiency.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-28"&gt;TLDR Hardware · 2026-10-28 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.electropages.com/2026/10/first-32-bit-mcu-family-built-22nm-process-and-featuring-mram"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-10-28T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.enlit.world/library/what-next-for-fusion-on-the-path-to-industrial-plants</id>
+    <title>Fusion's supply chain could grow from $500M to over $7B by the first plants, with the tritium fuel cycle the key hurdle (4 minute read)</title>
+    <updated>2026-10-28T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The fusion industry is close to delivering a roadmap to commercial power plants. The fuel cycle, especially tritium handling, is one of the most important development areas.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-28"&gt;TLDR Hardware · 2026-10-28 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.enlit.world/library/what-next-for-fusion-on-the-path-to-industrial-plants"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-28T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.intc.com/news-events/press-releases/detail/1784/intel-to-acquire-classiq-to-create-a-full-stack-quantum</id>
+    <title>Intel to acquire quantum software maker Classiq to pair it with silicon spin-qubit chips (2 minute read)</title>
+    <updated>2026-10-28T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Intel has agreed to acquire Classiq, pairing its hardware-agnostic algorithm synthesis platform with Intel's silicon spin-qubit chips and cryogenic control electronics, which Intel says it alone can make at scale on conventional fab processes. The goal is a full-stack platform that adds QPUs alongside Intel's CPUs, GPUs, and ASICs. Intel plans to keep Classiq's multi-platform integrations.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-28"&gt;TLDR Hardware · 2026-10-28 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.intc.com/news-events/press-releases/detail/1784/intel-to-acquire-classiq-to-create-a-full-stack-quantum"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-28T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/openAMRobot</id>
+    <title>OpenAMRobot: Open-Source Mobile Manipulation and Physical AI Platform (5 minute read)</title>
+    <updated>2026-10-28T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAMRobot is an open-source, modular mobile manipulation platform designed to lower the barrier to entry for embodied AI research and hands-on imitation learning.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-28"&gt;TLDR Hardware · 2026-10-28 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/openAMRobot"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-28T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.luxonis.com/oak4-ffc</id>
+    <title>Luxonis OAK 4 FFC: Modular Multi-Camera Perception and Edge AI Platform (2 minute read)</title>
+    <updated>2026-10-28T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Luxonis OAK 4 FFC is a compact embedded vision board that pairs a 52 TOPS AI processor with five flexible camera ports on a single lightweight carrier.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-28"&gt;TLDR Hardware · 2026-10-28 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.luxonis.com/oak4-ffc"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-28T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arxiv.org/abs/2610.35862</id>
+    <title>FLoRe teaches humanoids to control contact force, and it succeeds in 80% of rollouts vs 26.7% without it (3 minute read)</title>
+    <updated>2026-10-28T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Amazon FAR and university collaborators collect demonstrations without a robot, using two force-sensing UMI-style handheld grippers plus chest and ankle trackers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-28"&gt;TLDR Hardware · 2026-10-28 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arxiv.org/abs/2610.35862"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-28T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.therobotreport.com/agility-gxo-logistics-plan-expanded-deployment-digit-humanoid</id>
+    <title>Agility and GXO Logistics plan expanded deployment of Digit humanoid (5 minute read)</title>
+    <updated>2026-10-28T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Agility Robotics and GXO Logistics will expand the deployment of Digit humanoid robots to GXO sites in North Carolina and Tennessee.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-28"&gt;TLDR Hardware · 2026-10-28 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.therobotreport.com/agility-gxo-logistics-plan-expanded-deployment-digit-humanoid/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-28T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tomshardware.com/pc-components/dram/micron-plans-to-use-wafer-bonding-and-high-na-euv-for-next-gen-dram-company-also-developing-vertical-high-bandwidth-memory-and-vertical-edge-inference-memory-integrated-directly-on-top-of-processors</id>
+    <title>Micron plans wafer bonding at 1ε and High-NA EUV later, plus DRAM stacked on top of processors (4 minute read)</title>
+    <updated>2026-10-28T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Micron's roadmap puts wafer bonding in its 1ε DRAM node, with High-NA EUV and new materials in later ζÅ and ηÅ nodes after 1δ ramps in the second half of 2027.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-28"&gt;TLDR Hardware · 2026-10-28 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tomshardware.com/pc-components/dram/micron-plans-to-use-wafer-bonding-and-high-na-euv-for-next-gen-dram-company-also-developing-vertical-high-bandwidth-memory-and-vertical-edge-inference-memory-integrated-directly-on-top-of-processors"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-10-28T10:59:48+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html</id>
     <title>GTC Berlin: Vera Rubin in a shipping container, while neocloud financing worries dominate the floor (6 minute read)</title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/tech.xml</id>
   <title>TLDR</title>
-  <updated>2026-10-27T11:00:00+00:00</updated>
+  <updated>2026-10-28T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,146 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.bloomberg.com/opinion/newsletters/2026-10-26/anthropic-raises-concerns?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzE0ODQxNSwiZXhwIjoxNzkzNzUzMjE1LCJhcnRpY2xlSWQiOiJUTkoxUkdLSUpIOTUwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.vGUyKyDKL4LsWKbUP7cmX29Y9M-2H81FMKIA8wWC8jg</id>
+    <title>Anthropic Raises Concerns (21 minute read)</title>
+    <updated>2026-10-28T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic's prospectus claims the biggest risks to its business are risks the business poses to everyone else. All other human enterprise will be eaten by Claude, so you might as well own some of it. The company's governance structure is exactly what you would expect for a company worried about existential AI risks. However, it is also the same governance structure for a startup that wants to raise a lot of outside capital without losing control.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-28"&gt;TLDR · 2026-10-28 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/opinion/newsletters/2026-10-26/anthropic-raises-concerns?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzE0ODQxNSwiZXhwIjoxNzkzNzUzMjE1LCJhcnRpY2xlSWQiOiJUTkoxUkdLSUpIOTUwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.vGUyKyDKL4LsWKbUP7cmX29Y9M-2H81FMKIA8wWC8jg"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-10-28T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip</id>
+    <title>Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip (2 minute read)</title>
+    <updated>2026-10-28T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The iMac and the entry-level 14-inch MacBook Pro are both getting the M6 chip. The iMac will have two variants of the M6 chip, one with a 10-core CPU and a 10-core GPU, while the other will have 12 cores for each. The MacBook Pro will only have the 12-core option. Both computers will have the N1 chip for wireless connectivity, which means they will have Wi-Fi 7 and Bluetooth 6. Pre-orders will start on October 28, and they will start shipping on November 6.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-28"&gt;TLDR · 2026-10-28 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-10-28T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software</id>
+    <title>Vibe genes? Natural(ish) language comes to protein, genome design software (13 minute read)</title>
+    <updated>2026-10-28T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Researchers based in China have collaborated to create a tool that can take natural language prompts and use them to produce proteins with specified functions. This could enable anyone to design proteins - if they have a lab that can sort the good designs from the failures. The model's success rate is not great, but it can still get the job done. The tool likely won't remove the need for biologists, but it could help accelerate research.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-28"&gt;TLDR · 2026-10-28 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-10-28T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites</id>
+    <title>Sunlight at night: US startup's demonstration of lighting Earth from space draws criticism (6 minute read)</title>
+    <updated>2026-10-28T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Reflect Orbital is a US-based startup that plans to erect thousands of giant mirrors in space to reflect sunlight onto the Earth during night-time. The Federal Communications Commission has approved the startup's proposal to launch an initial demonstration satellite next year. The test will reflect sunlight in 3-mile-wide beams in strengths from moonlight up to the brightness of the Sun at noon. While the technology could be helpful for search-and-rescue operations, among other applications, critics say that it threatens a harmful change to the separation of night and day, with a huge number of unresolved questions and significant potential impacts.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-28"&gt;TLDR · 2026-10-28 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-10-28T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/Nutlope/hallmark</id>
+    <title>Hallmark (GitHub Repo)</title>
+    <updated>2026-10-28T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Hallmark is an anti-AI-slop design skill for Claude Code, Cursor, Codex, and OpenCode. It contains fifty themes and 755 openly licensed photos. Hallmark can create custom pages from prompts or real products, and users can redesign and audit pages. Each generated page is self-contained HTML and CSS.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-28"&gt;TLDR · 2026-10-28 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/Nutlope/hallmark"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-10-28T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers</id>
+    <title>Hunger beats tenure: Advice for junior engineers (5 minute read)</title>
+    <updated>2026-10-28T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The coding interview was never popular, and AI is likely going to make it go away for good. Impact is now less bounded by years of accumulated knowledge. Fresh eyes have long been considered powerful, as newcomers often see things old-timers miss. Look for candidates with prototypes that exhibit taste, empathy, and principled thinking.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-28"&gt;TLDR · 2026-10-28 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-10-28T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html</id>
+    <title>Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI (4 minute read)</title>
+    <updated>2026-10-28T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Amazon has released a memo to staff saying that token usage and code generation should be considered with care and judgment. The company has not instituted caps on employees' token usage, but it has acknowledged that metrics like token usage, the rate of adoption of AI tools, and code changes or reviews remain deeply flawed ways of measuring AI usage, and that they can lead to higher costs and too much complexity. The company is now looking at how many launches it is doing and how many successful changes it is making in production to measure how AI is improving engineer productivity.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-28"&gt;TLDR · 2026-10-28 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-28T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://nothinghuman.substack.com/p/some-memories-of-early-anthropic</id>
+    <title>Some Memories of Early Anthropic (15 minute read)</title>
+    <updated>2026-10-28T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Ivan Vendrov worked at Anthropic between October 2022 and May 2023. This post shares the most salient parts of his experience. Anthropic has since grown into a massive organization.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-28"&gt;TLDR · 2026-10-28 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://nothinghuman.substack.com/p/some-memories-of-early-anthropic"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-28T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f?st=3RaFdS&amp;reflink=desktopwebshare_permalink</id>
+    <title>Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal (10 minute read)</title>
+    <updated>2026-10-28T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Broadcom's CEO agreed to protect banks from losses in case Anthropic defaulted on the loans.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-28"&gt;TLDR · 2026-10-28 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f?st=3RaFdS&amp;reflink=desktopwebshare_permalink"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-28T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tinfoil.sh/blog/2026-10-25-less-is-more</id>
+    <title>Less Is More: From 1M Lines of Firmware to 300 of Assembly (16 minute read)</title>
+    <updated>2026-10-28T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Large language models allow developers to write small, purpose-built software.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-28"&gt;TLDR · 2026-10-28 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://tinfoil.sh/blog/2026-10-25-less-is-more"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-28T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work</id>
+    <title>Here Be Monsters: What Do You Still Need to Know When Agents Do the Work? (17 minute read)</title>
+    <updated>2026-10-28T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;You need to know just enough when something is wrong, and be willing and able to dive deep when needed.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-28"&gt;TLDR · 2026-10-28 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-28T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns</id>
+    <title>Discord is making its public communities more searchable, and people have concerns (3 minute read)</title>
+    <updated>2026-10-28T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Some users are concerned about exposing conversations to audiences far beyond their original context, and that their conversations may be used to train AI models.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-28"&gt;TLDR · 2026-10-28 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-28T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://newsletter.drorpoleg.com/p/ai-doesnt-have-to-replace-you-to</id>
+    <title>Your Job Can Survive AI. Your Salary Might Not (6 minute read)</title>
+    <updated>2026-10-28T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI can change what someone will pay you to do a task.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-28"&gt;TLDR · 2026-10-28 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.drorpoleg.com/p/ai-doesnt-have-to-replace-you-to"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-28T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://jamesthomason.com/the-gigawatt-question</id>
+    <title>The gigawatt question (13 minute read)</title>
+    <updated>2026-10-28T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A 1 gigawatt facility loses money in 98% of simulated outcomes at today's build costs and rental rates.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-28"&gt;TLDR · 2026-10-28 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://jamesthomason.com/the-gigawatt-question/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-28T10:59:47+00:00</published>
+  </entry>
   <entry>
     <id>https://www.wsj.com/business/hospitality/doordash-is-in-advanced-talks-to-acquire-delivery-rival-instacart-2b3d3d18?st=vzXBtZ&amp;reflink=desktopwebshare_permalink</id>
     <title>DoorDash Is in Advanced Talks to Acquire Delivery Rival Instacart (2 minute read)</title>
