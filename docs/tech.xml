@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/tech.xml</id>
   <title>TLDR</title>
-  <updated>2026-10-28T11:00:00+00:00</updated>
+  <updated>2026-10-29T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,146 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://venturebeat.com/technology/google-unveils-gemini-4-carbon-retaking-the-worlds-no-1-spot-on-updated-harder-benchmarks-but-access-is-limited</id>
+    <title>Google unveils Gemini 4 Carbon, retaking the world's no. 1 spot on updated, harder benchmarks — but access is limited (17 minute read)</title>
+    <updated>2026-10-29T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Gemini 4 Carbon promises improvements in cybersecurity and complex software engineering. It is now available to selected cybersecurity defenders. A broader release will be available after Google improves guardrails on the model based on feedback. Carbon will launch at $2 per million input tokens and $10 per million output tokens, with a 95% discount for cached inputs. Prices will return to $4 per million input tokens and $20 per million output tokens when the introductory period ends.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-29"&gt;TLDR · 2026-10-29 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://venturebeat.com/technology/google-unveils-gemini-4-carbon-retaking-the-worlds-no-1-spot-on-updated-harder-benchmarks-but-access-is-limited"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-10-29T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display</id>
+    <title>Apple announces touchscreen MacBook Pro with OLED display (2 minute read)</title>
+    <updated>2026-10-29T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The new MacBook Pro has an OLED touchscreen display. The display can achieve 2,000 nits of maximum brightness, and Apple claims it has a 10,000,000:1 contrast ratio. The new laptop is lighter than the previous model at just 3 pounds. The top-of-screen camera notch has been replaced by a Dynamic Island, and the Apple logo on the back of the lid glows like in older models.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-29"&gt;TLDR · 2026-10-29 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-10-29T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona</id>
+    <title>The last, best hope for space tourism just rolled onto a runway in Arizona (2 minute read)</title>
+    <updated>2026-10-29T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Apeiron, a Delta-class suborbital spacecraft from Virgin Galactic, is being moved from Virgin Galactic's Spaceship Factory in Mesa, Arizona, to Spaceport America in New Mexico. After its arrival, aircraft engineers and technicians will complete work on the vehicle's avionics equipment and flight software. Apeiron will still require several ground tests and test flights before it can make a free flight. Virgin Galactic expects Apeiron's first commercial spaceflight to take place early in the second quarter of 2027.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-29"&gt;TLDR · 2026-10-29 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-10-29T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.circuithub.com/post/unveiling-the-grid</id>
+    <title>Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen (3 minute read)</title>
+    <updated>2026-10-29T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Grid is a factory-scale robot that can build circuit boards on demand. Every board takes its own route through the factory, which has machines that print solder paste, place parts, reflow, solder, and inspect. With The Grid, printing one unit of 100 designs is as easy as printing 100 units of one, and prototypes and production batches run on the same machines. It allows companies to manufacture huge numbers of low-volume boards, and could help bring manufacturing back to the US.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-29"&gt;TLDR · 2026-10-29 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.circuithub.com/post/unveiling-the-grid"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-10-29T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://simonwillison.net/2026/Oct/28/vibe-game-development</id>
+    <title>The October inflection point for vibe game development (13 minute read)</title>
+    <updated>2026-10-29T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Models have been able to create something that looks like a game for a while, but the games weren't fun. The latest generation of models exhibit meaningful improvements in game design, allowing them to create games with novel, compelling gameplay loops. The challenge now is coming up with concepts for games that wouldn't exist without AI assistance.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-29"&gt;TLDR · 2026-10-29 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://simonwillison.net/2026/Oct/28/vibe-game-development/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-10-29T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://slack.com/blog/developers/slack-code-api</id>
+    <title>Introducing the Slack Code API: Your agents, your team, one code channel (6 minute read)</title>
+    <updated>2026-10-29T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Slack Code API allows agents to start code channels, add relevant people and files, post updates as they work, and archive channels when the work is done. It enables teams to work together with agents on tasks with the same shared context. Users can see exactly what agents are doing and who approved it, and workspace controls and data boundaries are built in. Users can choose what agents and models they want to use to suit their needs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-29"&gt;TLDR · 2026-10-29 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://slack.com/blog/developers/slack-code-api"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-10-29T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://colossus.com/article/sane-asylum-turbopuffer</id>
+    <title>The Sane Asylum (32 minute read)</title>
+    <updated>2026-10-29T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;It is now possible to build a highly profitable business with significant scale without raising or hiring a ton. Founders can take advantage of new AI tools to generate financial freedom and build organizations to work on the things they want to, with the people they want, at a scale, ambition, and pace that works for them. This article explores how the founders of turbopuffer, a startup that powers the search infrastructure for many AI companies, built their company. It explores what life and work in the time of AI can look like, and shows how ambitious builders and founders can try it for themselves.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-29"&gt;TLDR · 2026-10-29 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://colossus.com/article/sane-asylum-turbopuffer/"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-29T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wsj.com/tech/ai/alphabet-googl-q3-earnings-report-2026-stock-fa41392d?st=JmRqzS&amp;amp%3Breflink=desktopwebshare_permalink</id>
+    <title>Google Shares Fall 10% as Growth in Search Revenue Slows (5 minute read)</title>
+    <updated>2026-10-29T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Google's advertising business failed to deliver on analysts' estimates in the third quarter. The company is still figuring out how to translate AI into faster sales in its core web-search business. While Alphabet reported 25% revenue for the quarter, revenue from search advertising decelerated. Its cloud business exceeded analyst expectations, drawing in $30.7 billion out of Alphabet's total of $127.6 billion in sales.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-29"&gt;TLDR · 2026-10-29 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/tech/ai/alphabet-googl-q3-earnings-report-2026-stock-fa41392d?st=JmRqzS&amp;amp%3Breflink=desktopwebshare_permalink"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-29T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://v12.sh/blog/the-case-of-the-9bit-aes-key</id>
+    <title>The case of the 9 bit AES key (8 minute read)</title>
+    <updated>2026-10-29T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The randomness used in PDF encryption is often generated very insecurely, allowing for the passwordless description of protected PDFs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-29"&gt;TLDR · 2026-10-29 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://v12.sh/blog/the-case-of-the-9bit-aes-key"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-29T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://lexifina.com/blog/git-for-the-us-code</id>
+    <title>Git for the US Code (4 minute read)</title>
+    <updated>2026-10-29T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Lawyers also need a convenient system of record.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-29"&gt;TLDR · 2026-10-29 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://lexifina.com/blog/git-for-the-us-code"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-29T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack</id>
+    <title>GitHub Universe 2026: Evolving every layer of the stack (6 minute read)</title>
+    <updated>2026-10-29T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;GitHub has introduced new products and is rebuilding its infrastructure to become the most comprehensive software delivery system in the world.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-29"&gt;TLDR · 2026-10-29 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-29T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://thomasjiralerspong.substack.com/p/chasing-the-karpathy-peak</id>
+    <title>Confessions from Slopaholics Anonymous (17 minute read)</title>
+    <updated>2026-10-29T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;It can be difficult to tell whether you are overusing AI unless someone directly engages with the details of your work.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-29"&gt;TLDR · 2026-10-29 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://thomasjiralerspong.substack.com/p/chasing-the-karpathy-peak"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-29T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=nrreXK&amp;reflink=desktopwebshare_permalink</id>
+    <title>The Beleaguered Chip Sellers Getting Their Revenge on Apple (11 minute read)</title>
+    <updated>2026-10-29T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Demand from AI hyperscalers has quintupled prices for flash memory, something Apple previously paid pennies for.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-29"&gt;TLDR · 2026-10-29 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=nrreXK&amp;reflink=desktopwebshare_permalink"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-29T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed</id>
+    <title>Reddit is the latest platform to embrace the ‘For You' feed (3 minute read)</title>
+    <updated>2026-10-29T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Reddit's redesigned feed is designed to nudge users to engage with content beyond the communities they already follow.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-29"&gt;TLDR · 2026-10-29 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-10-29T10:59:47+00:00</published>
+  </entry>
   <entry>
     <id>https://www.bloomberg.com/opinion/newsletters/2026-10-26/anthropic-raises-concerns?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzE0ODQxNSwiZXhwIjoxNzkzNzUzMjE1LCJhcnRpY2xlSWQiOiJUTkoxUkdLSUpIOTUwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.vGUyKyDKL4LsWKbUP7cmX29Y9M-2H81FMKIA8wWC8jg</id>
     <title>Anthropic Raises Concerns (21 minute read)</title>
@@ -1439,145 +1579,5 @@
     <category term="TLDR"/>
     <category term="Quick Links"/>
     <published>2026-10-15T10:59:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html?unlocked_article_code=1.IlE.cQEC.vtkkfVCSfSUv&amp;smid=url-share</id>
-    <title>Apple Introduces HomeView, a $299 Tablet for the Home (5 minute read)</title>
-    <updated>2026-10-14T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Apple's new HomeView device is a seven-inch tablet that starts at $299. It can recognize up to six members of a household and change its content based on who is using it. There is a countertop version and a version that can be mounted on a wall. The HomeView will be available for purchase starting on November 13.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-14"&gt;TLDR · 2026-10-14 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html?unlocked_article_code=1.IlE.cQEC.vtkkfVCSfSUv&amp;smid=url-share"/>
-    <category term="TLDR"/>
-    <category term="Big Tech &amp; Startups"/>
-    <published>2026-10-14T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://venturebeat.com/technology/google-makes-gemini-4-argon-broadly-available-with-limited-time-low-api-pricing-of-2-10-per-1m-token</id>
-    <title>Google makes Gemini 4 Argon broadly available with limited-time low API pricing of 2/10 per 1M token (17 minute read)</title>
-    <updated>2026-10-14T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Google's flagship Gemini 4 Argon multimodal language AI model is now broadly available. Developers and enterprises now have a powerful new option for software engineering, financial analysis, legal work, cybersecurity, and scientific research. API prices have been discounted substantially for a limited time. Argon is available through the paid Gemini API, Google AI Studio, Antigravity, eligible Gemini Enterprise subscriptions, and to Google AI Pro and Ultra subscribers through the Gemini app and AI Mode in Search.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-14"&gt;TLDR · 2026-10-14 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://venturebeat.com/technology/google-makes-gemini-4-argon-broadly-available-with-limited-time-low-api-pricing-of-2-10-per-1m-token"/>
-    <category term="TLDR"/>
-    <category term="Big Tech &amp; Startups"/>
-    <published>2026-10-14T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-10-13/spacex-plan-to-launch-456-starships-a-year-in-texas-under-review</id>
-    <title>SpaceX Plan to Launch 456 Starships a Year in Texas Under Review (3 minute read)</title>
-    <updated>2026-10-14T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;SpaceX plans to perform as many as 456 launches and 912 landings at its Texas facility each year. The company's CEO, Elon Musk, has been open about the company's intent to launch Starship as rapidly as possible in the future. He has claimed that, in less than a decade, SpaceX will be able to launch Starship more than once every hour. SpaceX recently announced plans to invest as much as $100 billion to build a massive launch site in southern Louisiana to support rapid Starship launches.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-14"&gt;TLDR · 2026-10-14 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-13/spacex-plan-to-launch-456-starships-a-year-in-texas-under-review"/>
-    <category term="TLDR"/>
-    <category term="Science &amp; Futuristic Technology"/>
-    <published>2026-10-14T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient</id>
-    <title>Science Corporation implants its vision-restoring chip in its first Stargardt disease patient (5 minute read)</title>
-    <updated>2026-10-14T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Science Corporation's vision-restoring chip, PRIMA, is commercially available in Europe for patients who have lost their sight to an advanced form of age-related macular degeneration, but the company believes its approach can be applied to multiple diseases. It recently implanted the chip in a patient with Stargardt disease, an inherited eye disease that gradually destroys central vision. The company's work with PRIMA is part of a broader pursuit of a novel brain-computer interface. It envisions a future where BCIs expand into a wide range of medical technology applications rather than just being used to control computers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-14"&gt;TLDR · 2026-10-14 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"/>
-    <category term="TLDR"/>
-    <category term="Science &amp; Futuristic Technology"/>
-    <published>2026-10-14T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models</id>
-    <title>How to be more ambitious: A tutorial for humans with models (8 minute read)</title>
-    <updated>2026-10-14T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;There are four types of ambition. Speed gets the same work done in less time. Altitude involves going up in abstraction and considering the outcome rather than the individual task. Depth considers a task the way a field-leading expert would, going one level deeper and touching the underlying data, tools, and problems. Range draws on multiple fields rather than just the one the task might need at the surface using knowledge, tools, and techniques you normally wouldn't.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-14"&gt;TLDR · 2026-10-14 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-14T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/engineering/redesigning-source-control</id>
-    <title>Redesigning source control at Anthropic (23 minute read)</title>
-    <updated>2026-10-14T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic was being bottlenecked by developer infrastructure built for human scale, so it built an in-house version control system called Scion to support its next stage of growth, and fully migrated its monorepo from git in five months. It also built and shipped a code review surface, code search, a rich source control IAM system, novel ways of managing and landing large amounts of reviewed code, and more, all in that same time period. Anthropic averaged about 2,500 code changes merged per day in May. It now merges over 30,000 per day, and the rate of growth isn't expected to slow down anytime soon.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-14"&gt;TLDR · 2026-10-14 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.anthropic.com/engineering/redesigning-source-control"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-14T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along</id>
-    <title>Were we blue-collar workers all along? (3 minute read)</title>
-    <updated>2026-10-14T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Blue-collar workers typically do the hands-on labor of making or fixing stuff. Software developers have tried to separate themselves from this category, but they also make or fix stuff, just in bits rather than atoms. Just like electricians or carpenters, software developers must spend years practicing their craft in order to become skilled and sought-after. Just like anyone else in a skilled trade, software engineers can be outpaced by technology.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-14"&gt;TLDR · 2026-10-14 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-14T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html?unlocked_article_code=1.IlE.2dS1.0tjJ0NPwfkW5&amp;smid=url-share</id>
-    <title>FBI Arrests OpenAI Employee Accused of Planting Bug in Office (4 minute read)</title>
-    <updated>2026-10-14T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI discovered a hidden recording device in one of its offices recently. It was traced to Abdulrahman Alfozan, a Saudi Arabian national who joined the company's product team in July 2025 as an engineer. He was arrested by the FBI. The device was built to evade detection and used advanced encryption. It could monitor audio and had a way to transfer data without being noticed.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-14"&gt;TLDR · 2026-10-14 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html?unlocked_article_code=1.IlE.2dS1.0tjJ0NPwfkW5&amp;smid=url-share"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-14T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://crossingriver.substack.com/p/silicon-valley-seen-from-beijing</id>
-    <title>Silicon Valley, Seen from Beijing (13 minute read)</title>
-    <updated>2026-10-14T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Researchers at frontier labs in the Bay Area say they can't beat the Chinese models.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-14"&gt;TLDR · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://crossingriver.substack.com/p/silicon-valley-seen-from-beijing"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-14T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset</id>
-    <title>Bumble agrees to a $1.3B acquisition deal as online dating faces a reset (2 minute read)</title>
-    <updated>2026-10-14T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Ithaca Holdings will make Bumble private to rethink the online dating experience, away from the pressure of public markets.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-14"&gt;TLDR · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-14T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://martinfowler.com/articles/are-harnesses-worth-the-cost.html</id>
-    <title>Are Harnesses Worth the Cost? (25 minute read)</title>
-    <updated>2026-10-14T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A behavioral harness is not an automatic win for every model on every task.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-14"&gt;TLDR · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://martinfowler.com/articles/are-harnesses-worth-the-cost.html"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-14T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tanayj.com/p/the-rise-of-deploycos</id>
-    <title>The Rise of DeployCos (8 minute read)</title>
-    <updated>2026-10-14T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Deployment companies are entities whose job it is to embed engineers inside enterprises to help them adopt AI agents and get them working in actual workflows.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-14"&gt;TLDR · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.tanayj.com/p/the-rise-of-deploycos"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-14T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.experimental-history.com/p/claude-dont-touch-my-lump</id>
-    <title>Claude, don't touch my lump (18 minute read)</title>
-    <updated>2026-10-14T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;We only live half of our existence in the present - the other half we spend in tomorrow, or tomorrow's tomorrow.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-14"&gt;TLDR · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.experimental-history.com/p/claude-dont-touch-my-lump"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-14T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store</id>
-    <title>Google wants to host your personal vibe-coded apps in the Play Store (3 minute read)</title>
-    <updated>2026-10-14T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;AI Studio users will soon be able to send apps to a personal library on the Play Store accessible from the app store clients on their devices.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-14"&gt;TLDR · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-14T10:59:47+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-10-28T11:00:00+00:00</updated>
+  <updated>2026-10-29T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://nextjs.org/blog/ship-less-javascript-with-ai</id>
+    <title>Ship less JavaScript in Next.js with your AI agent (3 minute read)</title>
+    <updated>2026-10-29T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Next.js 16.4 adds an agent skill that uses Turbopack's module graph to find unnecessary client JavaScript, including eager imports, duplicate dependencies, and missed tree shaking. Vercel reports removing or deferring nearly two megabytes of compressed JavaScript across pages in v0 and vercel.com, with snapshot comparisons to verify each change.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-29"&gt;TLDR Dev · 2026-10-29 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://nextjs.org/blog/ship-less-javascript-with-ai"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-29T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://evilmartians.com/chronicles/how-to-make-postmessage-type-safe-in-under-350-bytes</id>
+    <title>How to make postMessage type-safe in under 350 bytes (9 minute read)</title>
+    <updated>2026-10-29T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;typed-channel defines message names and payloads once so TypeScript can check both sides of a worker, iframe, or event-bus boundary. The core plus postMessage transport is 341 bytes with Brotli compression, while a separate request API adds typed replies and cancellation that propagates to the handler.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-29"&gt;TLDR Dev · 2026-10-29 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://evilmartians.com/chronicles/how-to-make-postmessage-type-safe-in-under-350-bytes"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-10-29T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://hologram.page/blog/local-first-means-three-different-things</id>
+    <title>Local-First Means Three Different Things (9 minute read)</title>
+    <updated>2026-10-29T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Local-first can mean offline capability, fast optimistic interfaces, or user ownership of data, and those promises lead to different architectures. Hologram prioritizes responsive local interfaces and offline support while retaining a server to enforce permissions and business rules.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-29"&gt;TLDR Dev · 2026-10-29 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://hologram.page/blog/local-first-means-three-different-things"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-10-29T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks</id>
+    <title>The AI cost of JavaScript frameworks (15 minute read)</title>
+    <updated>2026-10-29T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A benchmark asks Opus 5.5 to build the same Pokémon app across JavaScript frameworks, then measures cost, time, spec compliance, performance, and accessibility over repeated runs. Hono with htmx, Astro, and Nuxt are among the cheapest in this experiment, but substantial run-to-run variance and a mostly content-focused app limit how broadly the ranking applies.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-29"&gt;TLDR Dev · 2026-10-29 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-10-29T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dri.es/website-migration-costs-are-going-to-zero</id>
+    <title>Website migration costs are going to zero (2 minute read)</title>
+    <updated>2026-10-29T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI agents could make technical website migrations nearly free by using the existing site as a baseline for differential tests of pages and publishing workflows. The prediction shifts the durable sources of lock-in toward contracts, procurement approvals, and agent memory, making portable requirements and decision logs more valuable.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-29"&gt;TLDR Dev · 2026-10-29 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://dri.es/website-migration-costs-are-going-to-zero"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-10-29T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://nuxt.com/blog/devtools-v4</id>
+    <title>Nuxt DevTools v4 (7 minute read)</title>
+    <updated>2026-10-29T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Nuxt DevTools v4 moves onto the framework-agnostic Devframe and Vite DevTools foundations, allowing it to reuse the Vite and Vue tooling ecosystem. A transition shim supports legacy modules while their integrations migrate to the new Devframe APIs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-29"&gt;TLDR Dev · 2026-10-29 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://nuxt.com/blog/devtools-v4"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-29T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon</id>
+    <title>Gemini 4 Carbon: our next frontier model (6 minute read)</title>
+    <updated>2026-10-29T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Google announced Gemini 4 Carbon for sustained coding workflows and cybersecurity, reporting 88.2% on SEC-bench Pro for vulnerability discovery and 71.0% on CWE-bench for patching. Access begins with selected cyber defenders and trusted Fairwind partners, with broader availability still to come. Announced introductory pricing is $2 per million input tokens and $10 per million output tokens.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-29"&gt;TLDR Dev · 2026-10-29 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-29T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://vercel.com/blog/introducing-vercel-ci</id>
+    <title>Introducing Vercel CI (2 minute read)</title>
+    <updated>2026-10-29T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Vercel CI enters beta with Turborepo-based task selection and remote caching, running only work affected by a code change. Vercel reports two to six times faster push-to-passed-check times while reducing the need for separate CI workflow configuration.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-29"&gt;TLDR Dev · 2026-10-29 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://vercel.com/blog/introducing-vercel-ci"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-10-29T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://simonwillison.net/2026/Oct/28/vibe-game-development</id>
+    <title>The October inflection point for vibe game development (10 minute read)</title>
+    <updated>2026-10-29T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Opus 5.5 has improved at generating 3D models, music, and gameplay that is fun to play. Simple instructions can produce working games. More ambitious projects still need playtesting and iteration to fix gameplay problems.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-29"&gt;TLDR Dev · 2026-10-29 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://simonwillison.net/2026/Oct/28/vibe-game-development/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-29T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://armincat.com/articles/ai-agent-executed-same-query-254-times</id>
+    <title>Our AI Agent Executed the Same Successful SQL Query 254 Times (2 minute read)</title>
+    <updated>2026-10-29T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;During a model comparison at Funnel, an internal data agent repeatedly executed a successful SQL query instead of finishing its task. The failure illustrates why model swaps need whole-system evaluation, explicit tool contracts, and bounds on repeated behavior.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-29"&gt;TLDR Dev · 2026-10-29 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://armincat.com/articles/ai-agent-executed-same-query-254-times"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-29T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://nullpt.rs/fingerprinting-bioweapons</id>
+    <title>Why Is This Fingerprinting Script Creating Bioweapons? (6 minute read)</title>
+    <updated>2026-10-29T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A browser fingerprinting script hides alarming prompts and variable names intended to trip LLM safety filters and frustrate automated analysis. Underneath the anti-LLM obfuscation, it collects conventional browser and WebGL signals and includes a gated Node.js routine for gathering system information.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-29"&gt;TLDR Dev · 2026-10-29 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://nullpt.rs/fingerprinting-bioweapons"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-29T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ghostty.org/docs/install/release-notes/1-4-0</id>
+    <title>Ghostty 1.4 (Website)</title>
+    <updated>2026-10-29T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Ghostty 1.4 adds complete Kitty graphics support, scrollback compression, faster terminal processing, improved SSH integration, and security fixes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-29"&gt;TLDR Dev · 2026-10-29 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://ghostty.org/docs/install/release-notes/1-4-0"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-29T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://nodejs.org/en/blog/release/v26.13.0</id>
+    <title>Node.js 26.13.0 enters LTS (1 minute read)</title>
+    <updated>2026-10-29T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Node.js 26 has entered Long Term Support as Lithium through April 2029.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-29"&gt;TLDR Dev · 2026-10-29 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://nodejs.org/en/blog/release/v26.13.0"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-29T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://yavashark.dev/blog/announcing-yavashark</id>
+    <title>Yavashark: a new embeddable JavaScript engine in Rust (3 minute read)</title>
+    <updated>2026-10-29T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Yavashark is an embeddable Rust JavaScript engine that passes 82% of test262 and supports Temporal, Intl, and TypeScript execution through its CLI.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-29"&gt;TLDR Dev · 2026-10-29 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://yavashark.dev/blog/announcing-yavashark"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-29T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://expressjs.com/en/blog/2026-10-28-cve-2026-111181</id>
+    <title>Denial of service in body-parser (2 minute read)</title>
+    <updated>2026-10-29T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A decompression error in affected body-parser versions can crash a server with one request.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-29"&gt;TLDR Dev · 2026-10-29 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://expressjs.com/en/blog/2026-10-28-cve-2026-111181"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-10-29T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering</id>
     <title>How Meta Built Forum With AI-Native Engineering (9 minute read)</title>
@@ -1579,155 +1729,5 @@
     <category term="TLDR Dev"/>
     <category term="Quick Links"/>
     <published>2026-10-15T10:59:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.cloudflare.com/rewinding-the-exponential</id>
-    <title>Rewinding the Exponential: How We Keep Hardware Usage Down (12 minute read)</title>
-    <updated>2026-10-14T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Cloudflare's data pipeline handles roughly two billion events per second while hardware capacity grows more slowly than traffic. Product-specific schemas, zstd compression, later replication, earlier sampling, and aggregation have collectively deferred the equivalent of two and a half years of hardware expansion.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-14"&gt;TLDR Dev · 2026-10-14 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.cloudflare.com/rewinding-the-exponential"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-14T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/engineering/redesigning-source-control</id>
-    <title>Redesigning Source Control at Anthropic (14 minute read)</title>
-    <updated>2026-10-14T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic replaced Git with Scion after daily merges grew from roughly 2,500 to more than 30,000. The centralized system uses server-side commits, sparse checkouts, and layered caches, reducing its source control infrastructure's CPU and memory footprint by 200 times and freeing 25% of CI CPU capacity.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-14"&gt;TLDR Dev · 2026-10-14 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.anthropic.com/engineering/redesigning-source-control"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-14T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://relace.ai/old/blog/relace-apply-3</id>
-    <title>A Year of Fast Apply: The Path to 10k Tokens per Second (13 minute read)</title>
-    <updated>2026-10-14T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Relace explains how it built a small model that applies code edits at a reported 10,000 tokens per second using high-quality merge data, LoRA fine-tuning, FP8 quantization, and speculative decoding. Its training pipeline filtered 200,000 candidate examples down to about 145,000, using a judge calibrated against 500 manually reviewed merges. Relace Apply 3 supports a 256,000-token context and multiple diff formats, although improving frontier-model edit accuracy could eventually reduce the need for specialized apply models.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-14"&gt;TLDR Dev · 2026-10-14 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://relace.ai/old/blog/relace-apply-3"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-14T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cphiri.dev/presentations/recreational-programming</id>
-    <title>Recreational Programming (5 minute read)</title>
-    <updated>2026-10-14T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Programming for curiosity and enjoyment can restore motivation without requiring a business case or a finished product. This presentation suggests small experiments, toy implementations, language exploration, and documenting the process, with permission to switch projects or stop when they stop being fun.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-14"&gt;TLDR Dev · 2026-10-14 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.cphiri.dev/presentations/recreational-programming"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-14T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models</id>
-    <title>How to Be More Ambitious: A Tutorial for Humans with Models (10 minute read)</title>
-    <updated>2026-10-14T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;More ambitious AI use can mean pursuing higher-level outcomes, applying expert methods to raw data, or combining ideas from multiple fields. Practical examples show how to move beyond generating a quarterly slide deck toward identifying urgent decisions, testing assumptions, and validating results with independent tools.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-14"&gt;TLDR Dev · 2026-10-14 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-14T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tanstack.com/blog/tanstack-start-1-0</id>
-    <title>TanStack Start 1.0 Is Stable (10 minute read)</title>
-    <updated>2026-10-14T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;TanStack Start 1.0 is now stable and ready for production, formalizing a commitment to its APIs after extensive real-world use. It combines type-safe routing with server rendering, typed server functions, and middleware spanning client and server, while shipping current agent guidance through TanStack Intent.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-14"&gt;TLDR Dev · 2026-10-14 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://tanstack.com/blog/tanstack-start-1-0"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-14T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://deepmind.google/models/gemini</id>
-    <title>Gemini 4 Argon (Website)</title>
-    <updated>2026-10-14T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Google DeepMind introduces Gemini 4 Argon for complex software engineering, scientific research, robotics, and professional workflows. The model offers a one-million-token output window, and Google reports uses ranging from large Chromium refactors to physics-ready robot simulations and vulnerability remediation.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-14"&gt;TLDR Dev · 2026-10-14 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://deepmind.google/models/gemini/"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-14T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.pi.website/blog/api-beta</id>
-    <title>Frontier Models for Every Robot: Announcing the Pi API Beta (4 minute read)</title>
-    <updated>2026-10-14T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Physical Intelligence's API beta lets developers upload robot demonstrations, fine-tune its models on managed infrastructure, and run inference through a hosted gateway. Early partners independently improved policies across manufacturing and other applications, although some deployments exposed network connectivity challenges.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-14"&gt;TLDR Dev · 2026-10-14 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.pi.website/blog/api-beta"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-14T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://stripe.com/blog/economics-of-ai-monetization</id>
-    <title>The “Alien” Economics of AI Monetization (6 minute read)</title>
-    <updated>2026-10-14T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Two-thirds of the Forbes AI 50 companies use some form of usage-based pricing as variable AI costs push businesses toward hybrid subscriptions, credits, and outcome charges. Examples from AI companies show why spending controls, flexible packaging, measurable customer value, and pricing pages readable by both people and agents are becoming part of the product.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-14"&gt;TLDR Dev · 2026-10-14 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://stripe.com/blog/economics-of-ai-monetization"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-14T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room</id>
-    <title>OpenAI Engineer Arrested over Alleged Conference Room Bugging (5 minute read)</title>
-    <updated>2026-10-14T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Federal prosecutors charged an OpenAI engineer with using or attempting to use a device to intercept conversations after a concealed recorder was found in an executive conference room. OpenAI says it referred the discovery to the FBI and has found no indication that model weights, source code, or customer data were improperly accessed or taken.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-14"&gt;TLDR Dev · 2026-10-14 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-14T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://martinfowler.com/articles/are-harnesses-worth-the-cost.html</id>
-    <title>Are Harnesses Worth the Cost? (20 minute read)</title>
-    <updated>2026-10-14T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;In ten runs on one Java API service, a behavioral harness raised GPT-6 Luna's acceptance rate from three successes to ten, while GPT-6 Sol passed all ten runs with or without it. Harnessed Luna cost about 33% less per run than unharnessed Sol, but those estimates exclude harness maintenance and the unusually detailed brief limits how broadly the results apply.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-14"&gt;TLDR Dev · 2026-10-14 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://martinfowler.com/articles/are-harnesses-worth-the-cost.html"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-14T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tanayj.com/p/the-rise-of-deploycos</id>
-    <title>The Rise of DeployCos (7 minute read)</title>
-    <updated>2026-10-14T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;AI deployment companies embed engineers inside enterprises to connect models to real workflows, build evaluations, and manage the organizational changes needed to turn model capabilities into business results.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-14"&gt;TLDR Dev · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.tanayj.com/p/the-rise-of-deploycos"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-14T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://pulseos.finance/</id>
-    <title>Pulse Local (Website)</title>
-    <updated>2026-10-14T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Pulse Local is a budgeting app that keeps both financial data and AI models on your machine, so your ledger and questions stay local.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-14"&gt;TLDR Dev · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://pulseos.finance/"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-14T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.sammystraus.com/</id>
-    <title>I Posted to HN, and Then My Website Was Flooded with AI Bot Traffic (3 minute read)</title>
-    <updated>2026-10-14T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;After a Hacker News post, heavy automated traffic slowed a feed reader, prompting endpoint logging, blocking an aggressive scraper, rate limits, and infrastructure improvements.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-14"&gt;TLDR Dev · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.sammystraus.com/"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-14T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://github.com/maximhq/bifrost</id>
-    <title>Bifrost (GitHub Repo)</title>
-    <updated>2026-10-14T10:59:46+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Bifrost is an open-source AI gateway with an OpenAI-compatible API, provider failover, load balancing, semantic caching, virtual keys, budgets, and MCP support.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-14"&gt;TLDR Dev · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://github.com/maximhq/bifrost"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-14T10:59:46+00:00</published>
   </entry>
 </feed>

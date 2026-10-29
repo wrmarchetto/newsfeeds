@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/ai.xml</id>
   <title>TLDR AI</title>
-  <updated>2026-10-28T11:00:00+00:00</updated>
+  <updated>2026-10-29T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon</id>
+    <title>Gemini 4 Carbon (1 minute read)</title>
+    <updated>2026-10-29T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Google has introduced the Gemini 4 Carbon model, advancing AI capabilities with improved energy efficiency. This model enhances performance in natural language processing tasks while reducing carbon footprint, addressing sustainability concerns in AI development. Gemini 4 Carbon aims to set new industry standards for eco-friendly AI models.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-29"&gt;TLDR AI · 2026-10-29 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-10-29T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</id>
+    <title>NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt (14 minute read)</title>
+    <updated>2026-10-29T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;NVIDIA's Nemotron 3.5 Transcribe is an open-weight model for multilingual transcription, translation, speaker attribution, and audio Q&amp;amp;A. It's ranked first across several transcription and speaker attribution leaderboards, supporting up to 40 languages with low error rates. Granary v2 enhances this by offering reusable data pipelines and fine-tuning options, enabling customization for diverse vocabularies and specialized applications.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-29"&gt;TLDR AI · 2026-10-29 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-10-29T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.com/DecagonAI/status/2115511110120120437</id>
+    <title>Building an Inference Stack That Improves Itself (20 minute read)</title>
+    <updated>2026-10-29T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Decagon's AutoResearch agents diagnose inference bottlenecks, test optimizations against production traffic replays, and preserve findings across experiments. The company reports throughput gains up to 2.5x within endpoint latency requirements through quantization, scheduling, engine patches, and speculative decoding, with production changes requiring human approval.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-29"&gt;TLDR AI · 2026-10-29 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/DecagonAI/status/2115511110120120437"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-10-29T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers</id>
+    <title>Artificial Analysis v5 and the benchmarker's dilemma (11 minute read)</title>
+    <updated>2026-10-29T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Independent evaluation of language models is a hard task. It is difficult to create a number that is representative of current models that matches vibe checks, community sentiment, and scientific analysis, while being forward-looking enough so that it's not outdated in three months. Independent evaluators dictate the winners and losers of a trillion-dollar market. They can also influence the direction of model development, increasing the pressure.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-29"&gt;TLDR AI · 2026-10-29 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-10-29T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://divagr.com/blog/qwenputer</id>
+    <title>Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5 (9 minute read)</title>
+    <updated>2026-10-29T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Qwenputer is a fully functioning, deterministic RISC-V CPU that runs inside Qwen3.5. The CPU runs on its own Gated DeltaNet layers as RAM. It can run arithmetic operations and C and MicroPython code without any external runtime or tool usage. This post explains how the model works, how the model uses GDN layers as RAM, and how the developer also slotted in an experimental in-model file storage.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-29"&gt;TLDR AI · 2026-10-29 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://divagr.com/blog/qwenputer"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-10-29T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://vercel.com/blog/introducing-vercel-ci</id>
+    <title>Introducing Vercel CI (2 minute read)</title>
+    <updated>2026-10-29T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Vercel AI is now available in beta. The CI is able to keep up with coding agents. It runs only the tasks affected by a code change, and spins up only the compute those checks need. At Vercel, the system has decreased the time from git push to 'CI pass' by 2-6x.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-29"&gt;TLDR AI · 2026-10-29 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://vercel.com/blog/introducing-vercel-ci"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-10-29T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion</id>
+    <title>Route and orchestrate models with GitHub Copilot Fusion (2 minute read)</title>
+    <updated>2026-10-29T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;GitHub Copilot Fusion lets Copilot intelligently route and orchestrate models for each task. It leverages the benefits of Project HydraFusion's multi-model orchestration and Copilot auto model selection's fine-tuned model selection to balance performance and cost efficiency. Copilot Fusion determines which models to use and how they work together depending on the level of effort selected by the user. Administrators can control which models Copilot Fusion can use and whether Copilot Fusion is the default.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-29"&gt;TLDR AI · 2026-10-29 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-10-29T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work</id>
+    <title>Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work (4 minute read)</title>
+    <updated>2026-10-29T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Microsoft Copilot harness powers Copilot Code, Copilot Studio, the GitHub Copilot app, the CLI, VS Code, and more. It is now available through Microsoft Foundry. The harness gives developers and enterprise customers a fully managed way to build agents that reason, use tools, and complete complex, long-running tasks. It was built to perform across model families, and is flexible and configurable to any type of app, agent, or service.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-29"&gt;TLDR AI · 2026-10-29 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-10-29T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying</id>
+    <title>Anthropic just launched tools to show companies what their AI spending is buying (5 minute read)</title>
+    <updated>2026-10-29T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic has launched reporting tools to help companies measure and optimize their AI spending with its products like Claude Code. The tools offer detailed insights on productivity, costs, and recommendations, addressing a major concern for enterprise clients. Despite competition from models like OpenAI's Astra, Anthropic's strong enterprise presence and sticky workflows continue to drive significant adoption and spending growth.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-29"&gt;TLDR AI · 2026-10-29 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-29T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world</id>
+    <title>Meta has a new AI pet app called Waddle World (3 minute read)</title>
+    <updated>2026-10-29T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Meta launched Waddle World, a virtual AI pet app that functions like a Tamagotchi, in the Philippines on iOS and Android. Unlike traditional productivity tools or chatbots, it serves as a digital pet and personal journal, allowing users to interact and play mini-games without pressure. The app reflects Meta's cautious approach following legal issues faced by other AI companion apps.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-29"&gt;TLDR AI · 2026-10-29 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-10-29T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place</id>
+    <title>Build and manage Connected Apps in one place (1 minute read)</title>
+    <updated>2026-10-29T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Google has introduced a centralized platform for building and managing connected apps.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-29"&gt;TLDR AI · 2026-10-29 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-10-29T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://elevenlabs.io/blog/cue-aligner</id>
+    <title>ElevenLabs Cue: Character-level audio timing (7 minute read)</title>
+    <updated>2026-10-29T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;ElevenLabs' Cue is a forced alignment model for precise character-level timing in audio files.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-29"&gt;TLDR AI · 2026-10-29 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://elevenlabs.io/blog/cue-aligner"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-10-29T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.com/mirendil/status/2115488264312492088</id>
+    <title>Mirendil Introduces Lor for AI Research Automation (1 minute read)</title>
+    <updated>2026-10-29T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Lor is a system with agents that write code, run experiments, and iterate for days across hundreds of parallel workers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-29"&gt;TLDR AI · 2026-10-29 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/mirendil/status/2115488264312492088"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-10-29T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent</id>
+    <title>OpenAI now lets you text your Dot agent (2 minute read)</title>
+    <updated>2026-10-29T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI now allows US Pro users to text their Dot agents via iMessage and RCS, enabling instructions through text, photos, and voice memos.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-29"&gt;TLDR AI · 2026-10-29 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-10-29T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.blog/changelog/2026-10-28-copilot-automations-now-learn-from-outcomes-and-self-improve</id>
+    <title>Copilot Automations now learn from outcomes and self-improve (2 minute read)</title>
+    <updated>2026-10-29T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Copilot Automations now self-improve by learning from real-world outcomes on GitHub.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-29"&gt;TLDR AI · 2026-10-29 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.blog/changelog/2026-10-28-copilot-automations-now-learn-from-outcomes-and-self-improve/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-10-29T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://www.liquid.ai/blog/lfm3</id>
     <title>Liquid AI Launches LFM3 Models for On Device AI (27 minute read)</title>
@@ -1469,155 +1619,5 @@
     <category term="TLDR AI"/>
     <category term="Quick Links"/>
     <published>2026-10-15T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://x.com/OpenAINewsroom/status/2110095403198849132</id>
-    <title>OpenAI Employee Arrested Over Hidden Recording Device (2 minute read)</title>
-    <updated>2026-10-14T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI said it alerted the FBI after finding a hidden recording device in an executive conference room, leading to the firing and arrest of employee Abdulrahman Alfozan. Prosecutors alleged the device was used to covertly intercept conversations, while OpenAI said it found no evidence that model weights, source code, or customer data were accessed.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-14"&gt;TLDR AI · 2026-10-14 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://x.com/OpenAINewsroom/status/2110095403198849132"/>
-    <category term="TLDR AI"/>
-    <category term="Headlines &amp; Launches"/>
-    <published>2026-10-14T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud</id>
-    <title>Gemini 4 Argon Lands on Google Cloud (3 minute read)</title>
-    <updated>2026-10-14T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Google made Gemini 4 Argon available on Google Cloud as a frontier model for long, multi-step enterprise work. It was positioned for tasks requiring sustained context and domain expertise, including software development, finance, legal work, and cybersecurity.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-14"&gt;TLDR AI · 2026-10-14 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud"/>
-    <category term="TLDR AI"/>
-    <category term="Headlines &amp; Launches"/>
-    <published>2026-10-14T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://thezvi.wordpress.com/2026/10/13/arguments-about-ai-consciousness-remain-highly-motivated-and-at-best-overconfident</id>
-    <title>Arguments About AI Consciousness Remain Highly Motivated and At Best Overconfident (14 minute read)</title>
-    <updated>2026-10-14T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The debate over AI consciousness continues with minimal progress, as many argue without strong evidence. Anthropic's new policy classifies abusive behavior towards AI, such as Claude, as a violation of terms to cultivate positive model interactions. Despite skepticism from many, some, including Nick Bostrom, believe current AIs may be conscious, complicating ethical considerations around AI development.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-14"&gt;TLDR AI · 2026-10-14 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://thezvi.wordpress.com/2026/10/13/arguments-about-ai-consciousness-remain-highly-motivated-and-at-best-overconfident/"/>
-    <category term="TLDR AI"/>
-    <category term="Deep Dives &amp; Analysis"/>
-    <published>2026-10-14T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.latent.space/p/claude-dynamic-workflows</id>
-    <title>How Anthropic's Dynamic Workflows Coordinate Claude Agents (6 minute read)</title>
-    <updated>2026-10-14T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Splitting a task among several AI agents creates another job: deciding who does what, passing information between them, and checking their results. Anthropic's dynamic workflows let Claude write the program that manages those steps. An October 12 demonstration assigned stock tickers to separate agents, then reviewed their findings before producing a report. The presenters said this found more detail but cost much more than using one agent. Developers can set a session spending limit, but the running model does not know that budget.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-14"&gt;TLDR AI · 2026-10-14 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.latent.space/p/claude-dynamic-workflows"/>
-    <category term="TLDR AI"/>
-    <category term="Deep Dives &amp; Analysis"/>
-    <published>2026-10-14T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.liquid.ai/blog/lfm2-5-24b-a2b</id>
-    <title>LFM2.5-24B-A2B (7 minute read)</title>
-    <updated>2026-10-14T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;LFM2.5-24B-A2B, a 24B-parameter reasoning model with 2B active parameters, is designed for fast, private on-device agents. It outperforms or matches larger models like Qwen3.6-35B-A3B on five out of eight benchmarks and runs up to 1.7x faster due to its efficient architecture. Available on Hugging Face, it supports extensive inference frameworks, making it suitable for tasks needing swift local inference and tool usage.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-14"&gt;TLDR AI · 2026-10-14 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.liquid.ai/blog/lfm2-5-24b-a2b"/>
-    <category term="TLDR AI"/>
-    <category term="Engineering &amp; Research"/>
-    <published>2026-10-14T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform</id>
-    <title>NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform (17 minute read)</title>
-    <updated>2026-10-14T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Nvidia is making the full NVIDIA Run:ai platform available as open-source software. It is now possible for every NVIDIA DSX ecosystem partner and AI cloud to increase workload throughput, improve GPU utilization, and operate shared AI infrastructure more efficiently and effectively. The release includes the complete NVIDIA Run:ai platform, KAI Scheduler, GPU Fractioning Operator, KAI Resource Management, and Workload Map. Platform teams and ecosystem partners can adopt NVIDIA Run:ai as an integrated whole, build on it for their own products and services, or integrate individual components based on their requirements.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-14"&gt;TLDR AI · 2026-10-14 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform"/>
-    <category term="TLDR AI"/>
-    <category term="Engineering &amp; Research"/>
-    <published>2026-10-14T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.pi.website/blog/api-beta</id>
-    <title>Frontier Models for Every Robot (6 minute read)</title>
-    <updated>2026-10-14T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Physical Intelligence is making its latest models available for training and inference through the Pi API beta. The Pi API adapts the latest and most powerful robotic foundation models to each application, dealing with ML infrastructure, compute, and complex data pipelines. Users just upload data, launch fine-tuning on managed compute and infrastructure, and access the fine-tuned models via a hosted gateway to run inference.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-14"&gt;TLDR AI · 2026-10-14 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.pi.website/blog/api-beta"/>
-    <category term="TLDR AI"/>
-    <category term="Engineering &amp; Research"/>
-    <published>2026-10-14T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://anoma.ly/notes/opencode-2-0</id>
-    <title>OpenCode 2.0 (6 minute read)</title>
-    <updated>2026-10-14T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;OpenCode 2.0 contains quite a lot of new features, performance improvements, and bug fixes. The server now automatically runs as a single background process. Programmatic clients will autodiscover the local service and just work. OpenCode can now be used as a library with the SDK package. More details about the update are available in the article.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-14"&gt;TLDR AI · 2026-10-14 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://anoma.ly/notes/opencode-2-0/"/>
-    <category term="TLDR AI"/>
-    <category term="Engineering &amp; Research"/>
-    <published>2026-10-14T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://x.com/eglyman/status/2110007713396613568</id>
-    <title>Ramp Glass (4 minute read)</title>
-    <updated>2026-10-14T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Ramp has launched Glass, an AI workspace that shares company knowledge, reusable skills, and collaborative sessions across teams. Employees have made 6,500+ knowledge edits, while model routing cut AI costs by 30% and automated workflows dramatically expanded feature-request tracking.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-14"&gt;TLDR AI · 2026-10-14 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://x.com/eglyman/status/2110007713396613568"/>
-    <category term="TLDR AI"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-14T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.character.ai/an-update-on-character-ai</id>
-    <title>Character.ai Filed for Chapter 11 Bankruptcy (2 minute read)</title>
-    <updated>2026-10-14T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Character.ai initiated a voluntary Chapter 11 bankruptcy process to pursue a court-supervised sale after facing legal, regulatory, and operational pressures. The company said the platform could continue under a successful bid, but may be wound down if no viable buyer emerges.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-14"&gt;TLDR AI · 2026-10-14 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.character.ai/an-update-on-character-ai/"/>
-    <category term="TLDR AI"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-14T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://threadreaderapp.com/thread/2109543080609165508.html</id>
-    <title>PSA: Starting today, GPT 6.1 Sol has a default context window of 500k (1 minute read)</title>
-    <updated>2026-10-14T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The larger context window means fewer compactions on long-running tasks and faster E2E task completion.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-14"&gt;TLDR AI · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://threadreaderapp.com/thread/2109543080609165508.html"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-14T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.primeintellect.ai/blog/moondream</id>
-    <title>Moondream is joining Prime Intellect (4 minute read)</title>
-    <updated>2026-10-14T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Moondream's founders are joining Prime Intellect to lead and scale inference, and to accelerate its work on multimodal models.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-14"&gt;TLDR AI · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.primeintellect.ai/blog/moondream"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-14T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription</id>
-    <title>SpaceXSI bundles X Premium, Grok, and Cursor into one subscription (2 minute read)</title>
-    <updated>2026-10-14T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;SpaceXSI has launched "The X Subscription," combining X Premium, Grok, and Cursor in one plan.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-14"&gt;TLDR AI · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-14T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://fish.audio/drama-3</id>
-    <title>Drama 3 (Website)</title>
-    <updated>2026-10-14T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Drama 3 is a text-to-speech model from Fish Audio built for direction.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-14"&gt;TLDR AI · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://fish.audio/drama-3"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-14T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.copilotkit.ai/blog/introducing-clif</id>
-    <title>Introducing CLiF: Continual Learning from Full-Stack Trajectories (8 minute read)</title>
-    <updated>2026-10-14T10:59:46+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;CopilotKit releases CLiF, a tool for continual learning from full-stack trajectories, capturing both agent traces and user actions using the AG-UI protocol.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-14"&gt;TLDR AI · 2026-10-14 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.copilotkit.ai/blog/introducing-clif"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-14T10:59:46+00:00</published>
   </entry>
 </feed>
