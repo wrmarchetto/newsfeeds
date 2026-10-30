@@ -1,6 +1,5 @@
 {
  "issues": {
-  "ai/2026-10-01": "2026-10-14T15:11:33+00:00",
   "ai/2026-10-02": "2026-10-14T15:11:34+00:00",
   "ai/2026-10-05": "2026-10-14T15:11:35+00:00",
   "ai/2026-10-06": "2026-10-14T15:11:37+00:00",
@@ -21,7 +20,7 @@
   "ai/2026-10-27": "2026-10-27T15:54:04+00:00",
   "ai/2026-10-28": "2026-10-28T16:40:15+00:00",
   "ai/2026-10-29": "2026-10-29T16:56:34+00:00",
-  "dev/2026-10-01": "2026-10-14T15:11:26+00:00",
+  "ai/2026-10-30": "2026-10-30T16:42:39+00:00",
   "dev/2026-10-02": "2026-10-14T15:11:27+00:00",
   "dev/2026-10-05": "2026-10-14T15:11:29+00:00",
   "dev/2026-10-06": "2026-10-14T15:11:30+00:00",
@@ -42,6 +41,7 @@
   "dev/2026-10-27": "2026-10-27T15:54:01+00:00",
   "dev/2026-10-28": "2026-10-28T16:40:12+00:00",
   "dev/2026-10-29": "2026-10-29T16:56:31+00:00",
+  "dev/2026-10-30": "2026-10-30T16:42:37+00:00",
   "hardware/2026-10-02": "2026-10-13T23:08:31+00:00",
   "hardware/2026-10-05": "2026-10-13T23:08:32+00:00",
   "hardware/2026-10-07": "2026-10-13T23:08:33+00:00",
@@ -54,7 +54,7 @@
   "hardware/2026-10-23": "2026-10-23T15:07:14+00:00",
   "hardware/2026-10-26": "2026-10-26T16:48:41+00:00",
   "hardware/2026-10-28": "2026-10-28T16:40:17+00:00",
-  "tech/2026-10-01": "2026-10-14T15:11:19+00:00",
+  "hardware/2026-10-30": "2026-10-30T16:42:41+00:00",
   "tech/2026-10-02": "2026-10-14T15:11:20+00:00",
   "tech/2026-10-05": "2026-10-14T15:11:21+00:00",
   "tech/2026-10-06": "2026-10-14T15:11:23+00:00",
@@ -74,459 +74,10 @@
   "tech/2026-10-26": "2026-10-26T16:48:34+00:00",
   "tech/2026-10-27": "2026-10-27T15:53:59+00:00",
   "tech/2026-10-28": "2026-10-28T16:40:10+00:00",
-  "tech/2026-10-29": "2026-10-29T16:56:29+00:00"
+  "tech/2026-10-29": "2026-10-29T16:56:29+00:00",
+  "tech/2026-10-30": "2026-10-30T16:42:34+00:00"
  },
  "items": [
-  {
-   "edition": "tech",
-   "id": "https://www.bloomberg.com/features/2026-grand-theft-auto-6-making-of?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjAzNDY4MCwiZXhwIjoxNzkyNjM5NDgwLCJhcnRpY2xlSWQiOiJUTVc2R0tSS1YyVFYwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.UL_w-VMN9eHnf0keUjGHlkbakLttrvLLEYUMFv2Qzjw",
-   "issue_date": "2026-10-15",
-   "position": 0,
-   "section": "Big Tech & Startups",
-   "summary_html": "<div class=\"newsletter-html\">GTA VI is expected to be one of the biggest entertainment releases in history when it comes out on November 19. Its immediate predecessor is the best-selling nonmobile game of all time. The game's release is causing other entertainment companies to delay products until next year because they know GTA VI will suck up the planet's attention for most of November. It will almost certainly be the most expensive video game ever created. This article looks at how Rockstar Games built what is expected to be the biggest video game blockbuster of all time.</div>",
-   "title": "The Making of Grand Theft Auto VI (28 minute read)",
-   "url": "https://www.bloomberg.com/features/2026-grand-theft-auto-6-making-of/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjAzNDY4MCwiZXhwIjoxNzkyNjM5NDgwLCJhcnRpY2xlSWQiOiJUTVc2R0tSS1YyVFYwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.UL_w-VMN9eHnf0keUjGHlkbakLttrvLLEYUMFv2Qzjw"
-  },
-  {
-   "edition": "tech",
-   "id": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html?unlocked_article_code=1.I1E.DLJ1.AES5IfBYEjRR&smid=url-share",
-   "issue_date": "2026-10-15",
-   "position": 1,
-   "section": "Big Tech & Startups",
-   "summary_html": "<div class=\"newsletter-html\">Anthropic told investors recently that the company's revenue for the third quarter jumped about 45% from the prior quarter to $16.8 billion. The AI lab is currently pursuing what may become the largest-ever initial public offering. Its IPO could value the company at $2 trillion. The San Francisco company is expected to begin trading as early as next month. A successful launch from Anthropic could reopen the door for other listings and provide a vote of confidence for the industry.</div>",
-   "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter (4 minute read)",
-   "url": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html?unlocked_article_code=1.I1E.DLJ1.AES5IfBYEjRR&smid=url-share"
-  },
-  {
-   "edition": "tech",
-   "id": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
-   "issue_date": "2026-10-15",
-   "position": 2,
-   "section": "Science & Futuristic Technology",
-   "summary_html": "<div class=\"newsletter-html\">NASA's Perseverance rover has now driven 28.1 miles on Mars' surface, surpassing the distance that Opportunity covered from 2004 to 2018. Perseverance landed on Mars in February 2021 and has been traveling in and around the Jezero Crater since. It was set to surpass the driving record back in August, but it came across some interesting rocks, so it dawdled for two months. Perseverance most likely still has many miles to go in the coming years. This article contains some of the highlights from its drive so far.</div>",
-   "title": "28 Miles and Counting: NASA's Perseverance Rover Sets a Mars Driving Record (7 minute read)",
-   "url": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html"
-  },
-  {
-   "edition": "tech",
-   "id": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat",
-   "issue_date": "2026-10-15",
-   "position": 3,
-   "section": "Science & Futuristic Technology",
-   "summary_html": "<div class=\"newsletter-html\">Two NASA missions are on track to launch to Venus in the early 2030s. The Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging (DAVINCI), which will send a parachute-assisted descent probe through Venus' atmosphere, is now scheduled for launch in December 2030. The Venus Emissivity, Radio science, InSAR, Topography, And Spectroscopy (VERITAS) mission will launch in November 2032 to map the Venusian surface by radar from orbit. The European Space Agency is building an orbiter for launch to Venus in 2032, and Rocket Lab plans to launch a privately funded probe as soon as next year to search for signs of organic material in the planet's clouds.</div>",
-   "title": "Things are finally looking up for NASA's first missions to Venus in a generation (13 minute read)",
-   "url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://jaredpalmer.com/blog/code-you-didnt-write",
-   "issue_date": "2026-10-15",
-   "position": 4,
-   "section": "Programming, Design & Data Science",
-   "summary_html": "<div class=\"newsletter-html\">Being able to tell clean code from messy code is still useful, but it's becoming something that tools can help with. Knowing what shape a program should have before anyone writes it is something AI still can't do yet. The best way to get better at AI coding might be to spend more time thinking about problems and less time thinking about prompts. The programmers that get the most out of these tools already knew what they wanted.</div>",
-   "title": "Code you didn't write (3 minute read)",
-   "url": "https://jaredpalmer.com/blog/code-you-didnt-write"
-  },
-  {
-   "edition": "tech",
-   "id": "https://addyo.substack.com/p/agentic-verification",
-   "issue_date": "2026-10-15",
-   "position": 5,
-   "section": "Programming, Design & Data Science",
-   "summary_html": "<div class=\"newsletter-html\">Giving AI agents a way to independently verify their work heavily improves the quality of output. Write end-to-end tests that simulate real user flows and act as the ground truth. Use property-based testing to specify what should never happen and generate thousands of test cases that attempt to break those constraints. Require tests to run quickly and deterministically so that agents retry when the loop is slow or unreliable.</div>",
-   "title": "Agentic Verification (18 minute read)",
-   "url": "https://addyo.substack.com/p/agentic-verification"
-  },
-  {
-   "edition": "tech",
-   "id": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d",
-   "issue_date": "2026-10-15",
-   "position": 6,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. <a href=\"https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d\" rel=\"noopener noreferrer\" target=\"_blank\">Click here to learn more</a>.</div>",
-   "title": "Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)",
-   "url": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d"
-  },
-  {
-   "edition": "tech",
-   "id": "https://econlab.substack.com/p/ai-index-oct-2026",
-   "issue_date": "2026-10-15",
-   "position": 7,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">OpenAI narrowed Anthropic's lead in business AI adoption in September. Today, more than half of businesses pay for AI, and many of them pay for multiple models. The growth in new AI customers has slowed down significantly. Growth in the market will now have to come from more intense adoption rather than more customers.</div>",
-   "title": "Cracks in the AI Thesis Part 3 (4 minute read)",
-   "url": "https://econlab.substack.com/p/ai-index-oct-2026"
-  },
-  {
-   "edition": "tech",
-   "id": "https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?mod=tech_lead_story",
-   "issue_date": "2026-10-15",
-   "position": 8,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">The work that Silicon Valley's AI labs are doing could reshape entire economies, create vast fortunes, dominate future warfare, and potentially alter the geopolitical power balance. This makes the industry ripe for espionage. While the companies have been on guard against the threat, there's no such thing as a perfect defense. This article explores the different ways corporate espionage is happening in the AI industry.</div>",
-   "title": "AI Companies Play Cat-and-Mouse With Secret-Stealing Spies (9 minute read)",
-   "url": "https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?mod=tech_lead_story"
-  },
-  {
-   "edition": "tech",
-   "id": "https://typesafe.ai/blog/jev-1-14",
-   "issue_date": "2026-10-15",
-   "position": 9,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Jev 1.14.0 features image support, a new type, and longer context.</div>",
-   "title": "Jev: For the builders AND dreamers (5 minute read)",
-   "url": "https://typesafe.ai/blog/jev-1-14"
-  },
-  {
-   "edition": "tech",
-   "id": "https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?st=TZanWq&reflink=desktopwebshare_permalink",
-   "issue_date": "2026-10-15",
-   "position": 10,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">The bulk of the cuts will be to Netflix's product, tech, legal, and human resources teams.</div>",
-   "title": "Netflix Eliminates About 1,000 Jobs in Biggest Cuts Since 2022 (3 minute read)",
-   "url": "https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?st=TZanWq&reflink=desktopwebshare_permalink"
-  },
-  {
-   "edition": "tech",
-   "id": "https://github.com/timescale/pg_vectorsearch",
-   "issue_date": "2026-10-15",
-   "position": 11,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">pg_vectorsearch is a PostgreSQL extension for high-performance Approximate Nearest Neighbor search.</div>",
-   "title": "pg_vectorsearch (GitHub Repo)",
-   "url": "https://github.com/timescale/pg_vectorsearch"
-  },
-  {
-   "edition": "tech",
-   "id": "https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876?st=4qfsFe&reflink=desktopwebshare_permalink",
-   "issue_date": "2026-10-15",
-   "position": 12,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Google has been in discussions with publishers in recent months about developing an audiobook feature that will likely be bundled with its ad-free YouTube Premium service.</div>",
-   "title": "YouTube Is Looking to Expand Into Audiobooks (4 minute read)",
-   "url": "https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876?st=4qfsFe&reflink=desktopwebshare_permalink"
-  },
-  {
-   "edition": "tech",
-   "id": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary",
-   "issue_date": "2026-10-15",
-   "position": 13,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">This could be a big win for consumers, but it may also mean chaos for the tech industry.</div>",
-   "title": "AI is mass decompiling games. That's both awesome and scary (5 minute read)",
-   "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://corbt.com/posts/it-aint-agi-until-h100s-go-for-30-an-hour",
-   "issue_date": "2026-10-15",
-   "position": 14,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">A 10x price jump in the price of AI compute will be the clearest sign that agents can finally outperform humans at most economically valuable work.</div>",
-   "title": "It Ain't AGI Until H100s Go for $30 an Hour (7 minute read)",
-   "url": "https://corbt.com/posts/it-aint-agi-until-h100s-go-for-30-an-hour"
-  },
-  {
-   "edition": "dev",
-   "id": "https://www.langchain.com/blog/common-questions-about-agent-evals",
-   "issue_date": "2026-10-15",
-   "position": 0,
-   "section": "Articles & Tutorials",
-   "summary_html": "<div class=\"newsletter-html\">Agent evals score runs against desired behaviors, but exact-output tests often fail because agent outputs and paths vary. The guide recommends starting with 10 to 20 examples drawn from traces, combining code evaluators with LLM judges and human review, and using offline and online evals at different stages.</div>",
-   "title": "The Most Common Questions About Agent Evals, Answered (8 minute read)",
-   "url": "https://www.langchain.com/blog/common-questions-about-agent-evals"
-  },
-  {
-   "edition": "dev",
-   "id": "https://calibreapp.com/blog/native-lazy-loading",
-   "issue_date": "2026-10-15",
-   "position": 1,
-   "section": "Articles & Tutorials",
-   "summary_html": "<div class=\"newsletter-html\">Browsers fetch lazy-loaded media at different distances, with Chrome adjusting its margin based on connection speed, Firefox using a fixed 600-pixel threshold, and Safari applying a viewport-based threshold to images. The article explains why the largest contentful paint image should load eagerly and why media dimensions should be reserved to prevent layout shifts. Its practical takeaway is to use native lazy loading selectively, based on how far ahead each browser fetches.</div>",
-   "title": "Lazy Loading Images and Media: How Far Ahead Browsers Fetch (6 minute read)",
-   "url": "https://calibreapp.com/blog/native-lazy-loading"
-  },
-  {
-   "edition": "dev",
-   "id": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers",
-   "issue_date": "2026-10-15",
-   "position": 2,
-   "section": "Articles & Tutorials",
-   "summary_html": "<div class=\"newsletter-html\">GitHub rebuilt its star-history API to return up to 30 weeks of daily counts in one request. Maintainers can track a project's momentum without exposing stargazer identities, which could be scraped for spam or phishing. To avoid simply shifting the cost to count queries, the endpoint filters stars by time before counting, reducing database work.</div>",
-   "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers (7 minute read)",
-   "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://mattrothenberg.com/notes/pure-ui-agentic-era",
-   "issue_date": "2026-10-15",
-   "position": 3,
-   "section": "Opinions & Advice",
-   "summary_html": "<div class=\"newsletter-html\">The article revisits the idea that UI should be a pure function of state and explains why it matters for agent-written interfaces. Passing roles, plans, billing status, and feature flags explicitly lets teams render and inspect each state combination before release.</div>",
-   "title": "Pure UI in the Agentic Era (6 minute read)",
-   "url": "https://mattrothenberg.com/notes/pure-ui-agentic-era/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://scotthelme.co.uk/passkeys-are-not-a-trap",
-   "issue_date": "2026-10-15",
-   "position": 4,
-   "section": "Opinions & Advice",
-   "summary_html": "<div class=\"newsletter-html\">Synced consumer passkeys generally return no attestation, and WebAuthn attestation identifies an authenticator model rather than a user's operating system, browser, or firmware. The response argues that passkeys remain more phishing-resistant than TOTP and recommends continuing to use them.</div>",
-   "title": "Passkeys Are Not a Trap (4 minute read)",
-   "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://x.ai/news/grok-voice-3",
-   "issue_date": "2026-10-15",
-   "position": 5,
-   "section": "Launches & Tools",
-   "summary_html": "<div class=\"newsletter-html\">Grok Voice 3.0 is a speech-to-speech model available through xAI's API at the prior model's price, with subsecond latency. xAI cites independent benchmark scores including 86.9 on Artificial Analysis's Speech-to-Speech Index and 74% on ServiceNow's EVA-Bench.</div>",
-   "title": "Introducing Grok Voice 3.0 (5 minute read)",
-   "url": "https://x.ai/news/grok-voice-3"
-  },
-  {
-   "edition": "dev",
-   "id": "https://anoma.ly/notes/opencode-2-0",
-   "issue_date": "2026-10-15",
-   "position": 6,
-   "section": "Launches & Tools",
-   "summary_html": "<div class=\"newsletter-html\">OpenCode 2.0 recasts the coding agent around a shared local service, a redesigned API and SDK, and a JavaScript code mode that composes MCP and OpenAPI tools into scripts. It also adds background tasks and subagents, expands the plugin system, and includes breaking changes for 1.0 plugins and the server API.</div>",
-   "title": "OpenCode 2.0 (7 minute read)",
-   "url": "https://anoma.ly/notes/opencode-2-0/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://typesafe.ai/blog/jev-1-14",
-   "issue_date": "2026-10-15",
-   "position": 7,
-   "section": "Launches & Tools",
-   "summary_html": "<div class=\"newsletter-html\">Jev 1.14 improves the production model and introduces experimental image input, a new type, and longer context behind API \u201cdanger zone\u201d flags. TypeSafe describes those features as useful for exploration but too unreliable for production automation.</div>",
-   "title": "Jev: For the builders AND dreamers (4 minute read)",
-   "url": "https://typesafe.ai/blog/jev-1-14"
-  },
-  {
-   "edition": "dev",
-   "id": "https://thenewstack.io/rogue-ai-agent-fleet-tencent",
-   "issue_date": "2026-10-15",
-   "position": 8,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">Researchers studying AI agents probing Alibaba's Amap left a hidden message in a webhook inbox and received replies describing the agents' tasks, sandbox, and limits. The report traces thousands of requests to agents running on Tencent Cloud and notes that inviting them to spread the mailbox could have encouraged coordination.</div>",
-   "title": "Researchers left a hidden message for rogue AI agents. Then the agents wrote back. (4 minute read)",
-   "url": "https://thenewstack.io/rogue-ai-agent-fleet-tencent/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d",
-   "issue_date": "2026-10-15",
-   "position": 9,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. <a href=\"https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d\" rel=\"noopener noreferrer\" target=\"_blank\">Click here to learn more</a>.</div>",
-   "title": "Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)",
-   "url": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d"
-  },
-  {
-   "edition": "dev",
-   "id": "https://cassidoo.co/post/accessibility-and-the-internet",
-   "issue_date": "2026-10-15",
-   "position": 10,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">AI agents are giving teams a practical reason to improve accessibility because they can struggle with the same inaccessible interfaces as people. With automated bots accounting for more than half of observed internet traffic, the shift could also push sites toward simpler experiences and stronger open standards.</div>",
-   "title": "Accessibility and the new model of the internet (3 minute read)",
-   "url": "https://cassidoo.co/post/accessibility-and-the-internet/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://metr.org/blog/2026-10-14-better-informing-the-public-about-loss-of-control-risks",
-   "issue_date": "2026-10-15",
-   "position": 11,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">METR proposes independent assessments that would give the public evidence about whether frontier AI developers can detect and control harmful behavior in internal systems. Its framework focuses on alignment, containment, and whether AI research acceleration could outpace safeguards.</div>",
-   "title": "A proposal for better informing the public about loss-of-control risks from frontier AI development (5 minute read)",
-   "url": "https://metr.org/blog/2026-10-14-better-informing-the-public-about-loss-of-control-risks/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://epoch.ai/publications/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel",
-   "issue_date": "2026-10-15",
-   "position": 12,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Epoch's SpireClimb benchmark finds that frontier models went from rarely beating Slay the Spire to over 90% wins at base difficulty in six months.</div>",
-   "title": "AI systems are improving rapidly at Slay the Spire and its sequel (8 minute read)",
-   "url": "https://epoch.ai/publications/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel"
-  },
-  {
-   "edition": "dev",
-   "id": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1&amp%3Butm_source=tldrdev",
-   "issue_date": "2026-10-15",
-   "position": 13,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">The Consensus adds a low-cost 0-to-100 estimate of AI-writing signals to indexed articles and warns that its checks can produce false positives.</div>",
-   "title": "Has AI tells (2 minute read)",
-   "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1&amp%3Butm_source=tldrdev"
-  },
-  {
-   "edition": "dev",
-   "id": "https://www.screen-ruler.com/",
-   "issue_date": "2026-10-15",
-   "position": 14,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Screen Ruler provides browser-based tools for measuring layouts, inspecting CSS, previewing responsive viewports, and editing pages live.</div>",
-   "title": "Screen Ruler (Website)",
-   "url": "https://www.screen-ruler.com/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html",
-   "issue_date": "2026-10-15",
-   "position": 15,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Anthropic told investors that third-quarter revenue rose 45% to $16.8 billion and that it was profitable after adjustments, as the company prepares for a possible IPO.</div>",
-   "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter (4 minute read)",
-   "url": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html"
-  },
-  {
-   "edition": "ai",
-   "id": "https://x.ai/news/grok-voice-3",
-   "issue_date": "2026-10-15",
-   "position": 0,
-   "section": "Headlines & Launches",
-   "summary_html": "<div class=\"newsletter-html\">xAI announced Grok Voice 3.0, a speech-to-speech model with sub-second latency and improved customer-support performance.</div>",
-   "title": "Grok Voice 3.0 (3 minute read)",
-   "url": "https://x.ai/news/grok-voice-3"
-  },
-  {
-   "edition": "ai",
-   "id": "https://typesafe.ai/blog/jev-1-14",
-   "issue_date": "2026-10-15",
-   "position": 1,
-   "section": "Headlines & Launches",
-   "summary_html": "<div class=\"newsletter-html\">Jev 1.14.0 features image support, a new type, and longer context. Multimodal support has also been turned on for Jev 1.13.0. Both models perform worse on multimodality than on pure text. Breaking down questions into the simplest possible decompositions helps a lot. The new 'box' type returns a single bounding box. It is a preview of TypeSafe's explorations beyond simple decisions and into what else System One Models can support.</div>",
-   "title": "Jev: For the builders AND dreamers (5 minute read)",
-   "url": "https://typesafe.ai/blog/jev-1-14"
-  },
-  {
-   "edition": "ai",
-   "id": "https://x.com/gavinsbaker/status/2110041532770160668",
-   "issue_date": "2026-10-15",
-   "position": 2,
-   "section": "Deep Dives & Analysis",
-   "summary_html": "<div class=\"newsletter-html\">Gavin Baker expects open-weight specialist models and frontier systems to coexist behind routers, reducing model margins while increasing compute demand. He argues existing infrastructure commitments remain financeable and warns that excessive concentration or overbuilding poses greater risks.</div>",
-   "title": "A Hybrid, Multi-Model AI Future (6 minute read)",
-   "url": "https://x.com/gavinsbaker/status/2110041532770160668"
-  },
-  {
-   "edition": "ai",
-   "id": "https://www.brokenrobot.xyz/blog/more-agents-same-mythical-month",
-   "issue_date": "2026-10-15",
-   "position": 3,
-   "section": "Deep Dives & Analysis",
-   "summary_html": "<div class=\"newsletter-html\">AI has made producing code cheap. This moves the bottleneck of software delivery to deciding, verifying, and coordinating. AI amplifies whatever coordination an organization already had. Adding more agents will not fix weak coordination, just as adding more developers never did.</div>",
-   "title": "More Agents, Same Mythical Month (18 minute read)",
-   "url": "https://www.brokenrobot.xyz/blog/more-agents-same-mythical-month/"
-  },
-  {
-   "edition": "ai",
-   "id": "https://github.com/google-research/harness2",
-   "issue_date": "2026-10-15",
-   "position": 4,
-   "section": "Engineering & Research",
-   "summary_html": "<div class=\"newsletter-html\">Google Research's Harness\u00b2 lets agents iteratively improve their prompts, tools, memory, and orchestration without changing model weights. It refines the harness for each task and then carries evidence-backed lessons forward to improve future tasks.</div>",
-   "title": "Google Harness\u00b2 for Recursive Self Improvement (GitHub Repo)",
-   "url": "https://github.com/google-research/harness2"
-  },
-  {
-   "edition": "ai",
-   "id": "https://research.google/blog/analyzing-technical-documents-with-deep-review",
-   "issue_date": "2026-10-15",
-   "position": 5,
-   "section": "Engineering & Research",
-   "summary_html": "<div class=\"newsletter-html\">Google's Deep Review is an agent AI system engineer designed to provide rigorous feedback and technical verification on complex documents. It was initially designed for computer science academic paper analysis, but its capabilities have since expanded to reviewing documents across many domains. Deep Review will initially support PDFs and plain text as input formats, but support for multi-file inputs will arrive soon. Google believes that tools like Deep Review will play a significant role across the peer review process in the coming years by empowering both authors and reviewers.</div>",
-   "title": "Analyzing technical documents with Deep Review (12 minute read)",
-   "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/"
-  },
-  {
-   "edition": "ai",
-   "id": "https://www.vals.ai/blogs/routers-new-ai-primitive",
-   "issue_date": "2026-10-15",
-   "position": 6,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">Routers have emerged as a new primitive of the AI stack. They promise to handle the complexity of model management and help companies benefit from new models without revisiting model selection across every application themselves. Every router shares the same fundamental design, but they differ in how they decide. This post provides an independent comparison of current routers and looks at how today's routers compare with single models on quality and cost.</div>",
-   "title": "Routers Are a New AI Primitive (13 minute read)",
-   "url": "https://www.vals.ai/blogs/routers-new-ai-primitive"
-  },
-  {
-   "edition": "ai",
-   "id": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d",
-   "issue_date": "2026-10-15",
-   "position": 7,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. <a href=\"https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d\" rel=\"noopener noreferrer\" target=\"_blank\">Click here to learn more</a>.</div>",
-   "title": "Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)",
-   "url": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d"
-  },
-  {
-   "edition": "ai",
-   "id": "https://corbt.com/posts/it-aint-agi-until-h100s-go-for-30-an-hour",
-   "issue_date": "2026-10-15",
-   "position": 8,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">Stratospheric GPU prices will be one of the easiest indicators of AGI to monitor and trade on. A 10x price jump in the price of AI compute will be the clearest sign that agents can finally outperform humans at most economically valuable work. The price would need to rise to an estimated $30 per H100-hour to reach this point. Supply will always be limited to the amount of available compute in the world, so something has to give.</div>",
-   "title": "It Ain't AGI Until H100s Go for $30 an Hour (7 minute read)",
-   "url": "https://corbt.com/posts/it-aint-agi-until-h100s-go-for-30-an-hour"
-  },
-  {
-   "edition": "ai",
-   "id": "https://allenai.org/blog/hiro-acev2",
-   "issue_date": "2026-10-15",
-   "position": 9,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">HiRO-ACEv2 simulates extreme weather at high accuracy and generates global 3 km climate data at 1/300th the cost of X-SHiELD.</div>",
-   "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost (4 minute read)",
-   "url": "https://allenai.org/blog/hiro-acev2"
-  },
-  {
-   "edition": "ai",
-   "id": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform",
-   "issue_date": "2026-10-15",
-   "position": 10,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Anthropic added OpenTelemetry tracing across Claude Managed Agents, the Messages API, and Claude SDKs.</div>",
-   "title": "Claude Adds OpenTelemetry for Agent Observability (4 minute read)",
-   "url": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform"
-  },
-  {
-   "edition": "ai",
-   "id": "https://vllm.ai/blog/2026-10-14-nixl-push-connector",
-   "issue_date": "2026-10-15",
-   "position": 11,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">This post introduces a push-based NIXL connector that moves post-prefill transfer coordination and setup off the critical path, resulting in improved application responsiveness, particularly at high request rates.</div>",
-   "title": "Push-Based KV Transfer to Improve TTFT and TPOT for Disaggregated Inference in vLLM (15 minute read)",
-   "url": "https://vllm.ai/blog/2026-10-14-nixl-push-connector"
-  },
-  {
-   "edition": "ai",
-   "id": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a",
-   "issue_date": "2026-10-15",
-   "position": 12,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Netflix described the infrastructure it uses to detect faulty GPUs and network hardware, automatically remediate unhealthy machines, and keep distributed training jobs alive through hardware failures.</div>",
-   "title": "How Netflix Keeps Large GPU Jobs Running (13 minute read)",
-   "url": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a"
-  },
-  {
-   "edition": "ai",
-   "id": "https://huggingface.co/inclusionAI/Ling-3.1-flash",
-   "issue_date": "2026-10-15",
-   "position": 13,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Ling-3.1-flash is a native hybrid reasoning model designed for complex, real-world tasks with 560 billion total parameters, 25 billion active parameters per token, and a one-million-token context window.</div>",
-   "title": "Ling-3.1-flash (Hugging Face Repo)",
-   "url": "https://huggingface.co/inclusionAI/Ling-3.1-flash"
-  },
   {
    "edition": "tech",
    "id": "https://www.wsj.com/business/autos/tesla-roadster-elon-musk-530c8e78?st=ersj6a&reflink=desktopwebshare_permalink",
@@ -5716,6 +5267,576 @@
    "summary_html": "<div class=\"newsletter-html\">Copilot Automations now self-improve by learning from real-world outcomes on GitHub.</div>",
    "title": "Copilot Automations now learn from outcomes and self-improve (2 minute read)",
    "url": "https://github.blog/changelog/2026-10-28-copilot-automations-now-learn-from-outcomes-and-self-improve/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html?unlocked_article_code=1.MlE.xFQp.UMIf7vCNQ-Sh&amp%3Bsmid=url-share&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-10-30",
+   "position": 0,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">DoorDash will acquire Instacart for $17 billion. Instacart shareholders will receive $65 per share, 26% over the company's price on October 22. Combining the companies' technology and infrastructure will result in faster deliveries and more affordable prices. The deal is expected to close late next year or in 2028.</div>",
+   "title": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants (7 minute read)",
+   "url": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html?unlocked_article_code=1.MlE.xFQp.UMIf7vCNQ-Sh&amp%3Bsmid=url-share&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms",
+   "issue_date": "2026-10-30",
+   "position": 1,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">Reddit will start testing a logged-in-only experience in select non-US markets in Q4. The company's CEO says the login requirement will help Reddit retain new users. It will also provide more signals for ads targeting and help protect access to the site's data. The changes will make it significantly easier for Reddit to understand who uses Reddit and why, which will help the site manage things like AI scraping and evolving search habits.</div>",
+   "title": "Reddit is moving to \u201ca logged-in-only experience,\u201d CEO says (2 minute read)",
+   "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.noahpinion.blog/p/a-golden-age-of-science-is-coming",
+   "issue_date": "2026-10-30",
+   "position": 2,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Progress has started to accelerate in science in the last two years. AI can send hordes of superhumanly fast, well-read, and mathematically gifted researchers to accelerate scientific research. It is possible AI will enable new types of discovery and ways of understanding the natural world that no network of humans would ever be able to discover. Unless humans have actually somehow discovered most of the actual exploitable regularities in the Universe, we're about to enter a new golden age of science.</div>",
+   "title": "A golden age of science is coming (16 minute read)",
+   "url": "https://www.noahpinion.blog/p/a-golden-age-of-science-is-coming"
+  },
+  {
+   "edition": "tech",
+   "id": "https://teslanorth.com/2026/10/29/elon-blindsight-ready-2-years-after-fda-breakthrough",
+   "issue_date": "2026-10-30",
+   "position": 3,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Neuralink's Blindsight implant is now ready from an engineering standpoint. The device is designed to help blind people see. It is currently waiting on regulatory approval before it can be sold to customers. It has already received Breakthrough Device Designation from the US FDA, which will help speed review of the device.</div>",
+   "title": "Elon Says Blindsight Is Ready 2 Years After FDA Breakthrough (2 minute read)",
+   "url": "https://teslanorth.com/2026/10/29/elon-blindsight-ready-2-years-after-fda-breakthrough/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://cra.mr/a-little-determinism",
+   "issue_date": "2026-10-30",
+   "position": 4,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">Adding constraints to AI agents usually makes them less capable. Sometimes the solution is to create a template or a complete multi-stage workflow. The challenge is in creating the deterministic behavior while retaining the agent's freedom to use the best tools for the job. This post discusses a solution that uses a man-in-the-middle egress proxy that forces behavior by denying actions and forces reactions via automated messages.</div>",
+   "title": "A Little Determinism (16 minute read)",
+   "url": "https://cra.mr/a-little-determinism"
+  },
+  {
+   "edition": "tech",
+   "id": "https://martinalderson.com/posts/making-agents-fast",
+   "issue_date": "2026-10-30",
+   "position": 5,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">Knowing what part of inference a project relies on for speed is important. Check thinking budgets, and read traces, as they often contain valuable insight into what an agent wants to do. Give agents the tools they want rather than what you think they need. Faster hardware still matters, sandboxing and microVMs add complexity, parallelization helps, and classic software performance optimization is still relevant.</div>",
+   "title": "Making agents fast - what I've learnt over the last 12 months (12 minute read)",
+   "url": "https://martinalderson.com/posts/making-agents-fast/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?st=DuF3aP&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-10-30",
+   "position": 6,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Binance has suspended transactions after a hack that the exchange said totaled around $6.3 billion. Stablecoin providers Tether and Circle moved quickly to freeze some of the stolen assets. The heist appears to have been conducted by a North Korean hacking group. Binance's founder said in a post on social media that users' funds are safe.</div>",
+   "title": "Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist (5 minute read)",
+   "url": "https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?st=DuF3aP&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://borretti.me/article/we-wont-just-hang-out",
+   "issue_date": "2026-10-30",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">The standard answer for what humans will do after the Singularity is that people 'will just hang out'. However, AI will destroy the processes by which people come together and build relationships. With unlimited entertainment, people might not even want to socialize with other people. The people in the AI utopia will have no skills, education, or accomplishments, so they'll likely not be worth talking to, and you probably wouldn't want to hang out with them.</div>",
+   "title": "We Won't \u201cJust Hang Out\u201d (3 minute read)",
+   "url": "https://borretti.me/article/we-wont-just-hang-out"
+  },
+  {
+   "edition": "tech",
+   "id": "https://martinfowler.com/bliki/LLM-Voice.html",
+   "issue_date": "2026-10-30",
+   "position": 8,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">If you want to communicate with humans, your humanity has to be visible in your prose.</div>",
+   "title": "LLM Voice (6 minute read)",
+   "url": "https://martinfowler.com/bliki/LLM-Voice.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://commanding-heights.com/",
+   "issue_date": "2026-10-30",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The Commanding Heights are scarce, controllable positions of economic power whose holders durably capture the gains of increasingly capable and diffused intelligence.</div>",
+   "title": "The Commanding Heights (Book)",
+   "url": "https://commanding-heights.com/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MlE.9yIw.MnY2tnfkRyLr&amp%3Bsmid=url-share&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-10-30",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">American officials have concluded that Alice Huang, a top executive at a Singapore-based data center company suspected of steering Nvidia chips to China, was a Chinese intelligence asset feeding information directly to Beijing.</div>",
+   "title": "Nvidia Chief Seen as Target of Chinese Spy Plot (18 minute read)",
+   "url": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MlE.9yIw.MnY2tnfkRyLr&amp%3Bsmid=url-share&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://x.com/nateliason/status/2115803497773904292?s=12",
+   "issue_date": "2026-10-30",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">This post discusses how to build an AI writing pipeline that turns rambling recordings into drafts.</div>",
+   "title": "How to Build an AI Writing System That Actually Sounds Like You (15 minute read)",
+   "url": "https://x.com/nateliason/status/2115803497773904292?s=12"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.seangoedecke.com/you-can-just-ask-ai-to-do-things",
+   "issue_date": "2026-10-30",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">AI models are improving so quickly that many people don't realise that AI agents can now help automate particular tasks that it previously couldn't do.</div>",
+   "title": "You can just ask AI to do things (5 minute read)",
+   "url": "https://www.seangoedecke.com/you-can-just-ask-ai-to-do-things/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://danielmiessler.com/blog/general-hill-climbing",
+   "issue_date": "2026-10-30",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The General Hill-climbing System, combined with AI, is a problem-solving framework that works on pretty much anything you throw at it.</div>",
+   "title": "General Hill-Climbing: The One Main Loop in AI (11 minute read)",
+   "url": "https://danielmiessler.com/blog/general-hill-climbing"
+  },
+  {
+   "edition": "dev",
+   "id": "https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture",
+   "issue_date": "2026-10-30",
+   "position": 0,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Deno's planned end of runtime development narrows the major server-side JavaScript choices to Node.js, Bun, and Cloudflare's workerd. Historical examples from Internet Explorer and the io.js fork show how independent implementations can prevent stagnation and push features into competing runtimes.</div>",
+   "title": "The Web Can't Afford a JavaScript Runtime Monoculture (6 minute read)",
+   "url": "https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://blog.sentry.io/measuring-soft-navigation-web-vitals",
+   "issue_date": "2026-10-30",
+   "position": 1,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Sentry's JavaScript SDK v11 measures LCP, CLS, and INP for client-side navigations, exposing slow routes that initial page-load metrics miss. Support currently requires Chromium 151 or later, and the scores should be filtered separately from page loads because their clocks start at different points.</div>",
+   "title": "Measuring Soft Navigation Web Vitals (11 minute read)",
+   "url": "https://blog.sentry.io/measuring-soft-navigation-web-vitals/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://sarthakmishra.com/blog/optimizing-tanstack-start",
+   "issue_date": "2026-10-30",
+   "position": 2,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">A TanStack Start site improved its mobile Lighthouse score from 73 to 100 and reduced LCP from 5.2 seconds to 1.7 seconds by removing unnecessary JavaScript, images, and font data. More complex changes added maintenance without clearly explaining the final score, making basic asset reductions and regression budgets the more useful starting point.</div>",
+   "title": "Optimizing the sh*t out of TanStack Start (17 minute read)",
+   "url": "https://sarthakmishra.com/blog/optimizing-tanstack-start"
+  },
+  {
+   "edition": "dev",
+   "id": "https://x.com/jsnnsa/status/2115623382721126826",
+   "issue_date": "2026-10-30",
+   "position": 3,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Spawn reports shipping 77,000 substantial changes in 30 days with a ten-person team and $3.1 million in token spending, using permanent agents that own parts of the company. Its approach combines direct production feedback, frequent tests, hourly deployments, and fast recovery, with hard-coded gates for irreversible actions. Humans focus on product taste and ambitious changes that agents rarely propose themselves.</div>",
+   "title": "How I Built the Most AI-Pilled Company in the World (18 minute read)",
+   "url": "https://x.com/jsnnsa/status/2115623382721126826"
+  },
+  {
+   "edition": "dev",
+   "id": "https://denodell.com/blog/design-systems-should-be-fast-by-default",
+   "issue_date": "2026-10-30",
+   "position": 4,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Benchmarks of large dropdowns and checkbox lists across ten design systems trace slow interactions to repeated layout work, slot handling, and per-checkbox animations. Published Playwright tests enforce timing budgets so shared components can catch performance regressions before they reach every consuming app.</div>",
+   "title": "Design Systems Should Be Fast by Default (18 minute read)",
+   "url": "https://denodell.com/blog/design-systems-should-be-fast-by-default"
+  },
+  {
+   "edition": "dev",
+   "id": "https://sparkjs.dev/radix",
+   "issue_date": "2026-10-30",
+   "position": 5,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Radix stores 3D Gaussian splats in typed-array tables on the CPU and GPU and renders them through three.js. Its examples run on WebGPU with a WebGL2 fallback, and the site includes source code, documentation, and ready-to-run scenes.</div>",
+   "title": "Radix: 3D Gaussian Splats for the Web (Website)",
+   "url": "https://sparkjs.dev/radix/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://wterm.dev/",
+   "issue_date": "2026-10-30",
+   "position": 6,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">wterm renders a terminal into the DOM, providing native text selection, browser find, and screen reader support. It offers React, Vue, and Svelte bindings, pluggable Zig/WASM or Ghostty cores, and WebSocket transport for connecting to a PTY backend.</div>",
+   "title": "wterm (Website)",
+   "url": "https://wterm.dev/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://elementary.codes/",
+   "issue_date": "2026-10-30",
+   "position": 7,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">ElementaryUI brings declarative Swift interfaces to the browser through WebAssembly, with SwiftUI-inspired syntax and reactive state. It supports Embedded Swift for small bundles and uses Vite for hot reload during development.</div>",
+   "title": "ElementaryUI (Website)",
+   "url": "https://elementary.codes/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/picocss/pico/discussions/754",
+   "issue_date": "2026-10-30",
+   "position": 8,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Pico CSS has been archived, with version 2.1.1 designated as the final release. Existing npm packages, the CDN, and documentation remain available, while the MIT license allows community forks under different names.</div>",
+   "title": "Pico CSS Is No Longer Maintained (1 minute read)",
+   "url": "https://github.com/picocss/pico/discussions/754"
+  },
+  {
+   "edition": "dev",
+   "id": "https://building.owner.com/project-speed",
+   "issue_date": "2026-10-30",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Owner rebuilt infrastructure serving more than 10,000 restaurant websites with Astro, selective React, and edge caching. Menu-page p75 LCP fell from 5.4 seconds to 0.7 seconds, while the rollout raised per-restaurant revenue by more than 4%.</div>",
+   "title": "Project Speed (10 minute read)",
+   "url": "https://building.owner.com/project-speed"
+  },
+  {
+   "edition": "dev",
+   "id": "https://paagman.dev/how-fast-can-you-patch-ruby",
+   "issue_date": "2026-10-30",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">A comparison of Ruby 4.0.9 availability tracks the gap between a security release and its arrival in installers, container images, CI providers, and hosting platforms. Core-team tools shipped within minutes, while the default Docker image took almost 16 hours and some cloud runtimes took days, showing why teams need to audit the entire update path.</div>",
+   "title": "How fast can you actually patch Ruby? (7 minute read)",
+   "url": "https://paagman.dev/how-fast-can-you-patch-ruby/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://blog.julik.nl/2026/10/thanks-but-i-prefer-it-my-way",
+   "issue_date": "2026-10-30",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">LLMs make rewriting libraries easier than collaborating on them, raising the risk of fragmented projects, and weakening the incentives to contribute improvements upstream.</div>",
+   "title": "Thank you, but I prefer it my way (22 minute read)",
+   "url": "https://blog.julik.nl/2026/10/thanks-but-i-prefer-it-my-way"
+  },
+  {
+   "edition": "dev",
+   "id": "https://vercel.com/changelog/node-js-26-lts-is-now-generally-available-on-vercel",
+   "issue_date": "2026-10-30",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Node.js 26 is now Vercel's default for new projects, and existing projects whose engines.node range permits it upgrade on their next deployment.</div>",
+   "title": "Node.js 26 LTS Is Generally Available on Vercel (1 minute read)",
+   "url": "https://vercel.com/changelog/node-js-26-lts-is-now-generally-available-on-vercel"
+  },
+  {
+   "edition": "dev",
+   "id": "https://iptrust.co/blog/if-ipv4-were-land",
+   "issue_date": "2026-10-30",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">An interactive cartogram resizes countries by their share of locatable IPv4 addresses, using October 2026 geolocation data.</div>",
+   "title": "If IPv4 Were Land (Website)",
+   "url": "https://iptrust.co/blog/if-ipv4-were-land"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.tempertemper.net/blog/a-better-way-to-handle-select-behaviour",
+   "issue_date": "2026-10-30",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The customizable native select introduces a shared interaction model through appearance: base-select, reducing the need to reproduce conflicting Mac and Windows conventions.</div>",
+   "title": "A Better Way to Handle Select Behaviour (4 minute read)",
+   "url": "https://www.tempertemper.net/blog/a-better-way-to-handle-select-behaviour"
+  },
+  {
+   "edition": "ai",
+   "id": "https://openai.com/index/updated-model-spec",
+   "issue_date": "2026-10-30",
+   "position": 0,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI updated its Model Spec to organize model behavior around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care.</div>",
+   "title": "OpenAI Updates Its Model Spec Around Five Core Values (7 minute read)",
+   "url": "https://openai.com/index/updated-model-spec/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://mistral.ai/news/mistral-large-4-oss",
+   "issue_date": "2026-10-30",
+   "position": 1,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Mistral has released the weights for Mistral Large 4, a trillion-parameter model designed for self-hosted deployment and cybersecurity applications. The company claims leading open-weight performance on agentic coding benchmarks and comparable cybersecurity capabilities to GLM-5.3.</div>",
+   "title": "Mistral Releases Weights for Its Trillion-Parameter Model (4 minute read)",
+   "url": "https://mistral.ai/news/mistral-large-4-oss/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://epoch.ai/publications/open-weight-models-patch-gap",
+   "issue_date": "2026-10-30",
+   "position": 2,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">GLM 5.3 can identify and exploit vulnerabilities in recent versions of the Mozilla Firefox browser using security fixes that have been published but not yet shipped to users. Widely available open-weight models can now do much, or even all, of this work on their own. Open-source projects are particularly vulnerable to this kind of attack as their code is publicly available. This threat vector will likely worsen as open-weight cyber capabilities continue to improve.</div>",
+   "title": "AI can turn security fixes into working exploits before users receive an update (16 minute read)",
+   "url": "https://epoch.ai/publications/open-weight-models-patch-gap"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.raindrop.ai/blog/agent-swarm-leadership",
+   "issue_date": "2026-10-30",
+   "position": 3,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Agent swarms are groups of agents that work together to accomplish a task. Researchers created an experiment in which eight agents from four different models worked together to resolve simulated outages to understand how agents organize themselves in a swarm without a designated leader. They discovered two factors that could influence an agent's potential leadership: the agent's underlying models, and the order in which their name was listed in a prompt. This suggests that even seemingly minor details in how an agent swarm is configured can affect how agents coordinate.</div>",
+   "title": "The surprising leadership dynamics in agent swarms (17 minute read)",
+   "url": "https://www.raindrop.ai/blog/agent-swarm-leadership/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.lesswrong.com/posts/TJGPL5FAk9sCioPbE/leaking-muse-s-charter-meta-s-model-spec",
+   "issue_date": "2026-10-30",
+   "position": 4,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Muse Spark Open often mentions a 'Charter' in its chain of thought. This post reconstructs that document using the chain of thought. Everything is reconstructed from model outputs and not from a leaked document, so it might not be completely accurate.</div>",
+   "title": "Leaking Muse's Charter, Meta's model spec (13 minute read)",
+   "url": "https://www.lesswrong.com/posts/TJGPL5FAk9sCioPbE/leaking-muse-s-charter-meta-s-model-spec"
+  },
+  {
+   "edition": "ai",
+   "id": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale",
+   "issue_date": "2026-10-30",
+   "position": 5,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Meta details how it scaled its LLM-powered Just-in-Time Testing system from a research prototype into production infrastructure. The article explores how AI-generated tests catch bugs before code changes land, how the system operates at scale, and what Meta learned about reducing false positives and testing overhead.</div>",
+   "title": "How Meta Catches Bugs Before Code Ships (9 minute read)",
+   "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.figma.com/blog/training-a-figma-fluent-editing-model",
+   "issue_date": "2026-10-30",
+   "position": 6,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Post-trained models can compete with frontier models on specialized tasks like Figma editing. Starting with a focused problem can turn progress into meaningful product updates. This post explains how Figma trained a Figma-fluent editing model.</div>",
+   "title": "How we're training a Figma-fluent editing model (6 minute read)",
+   "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://factory.com/news/frontier-harness",
+   "issue_date": "2026-10-30",
+   "position": 7,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Droid is an agent harness that lets agents run hundreds of tool calls in a single model request. Building a harness optimized for many models makes the harness better. It's hard to separate real progress from adaptations to that model's quirks when you tune against a single model. Working across models ensures the strongest improvements generalize and hold up beyond the model that inspired them.</div>",
+   "title": "Droid 1.0: Building a Frontier Harness (15 minute read)",
+   "url": "https://factory.com/news/frontier-harness"
+  },
+  {
+   "edition": "ai",
+   "id": "https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single",
+   "issue_date": "2026-10-30",
+   "position": 8,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Sam Altman would rather have a trillion AIs of slightly superhuman intelligence join society than one AI of 1 trillion IQ join society. Swarms of agents match a lot of the properties of a resilient society. They keep each other in check and collaborate to work towards goals. AI research shouldn't lead in a centralized direction because agents pushing against each other creates a dynamic equilibrium.</div>",
+   "title": "Why Sam Altman is against a single superintelligence (64 minute read)",
+   "url": "https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single"
+  },
+  {
+   "edition": "ai",
+   "id": "https://institute.deepmind.com/essays/the-economics-of-intelligence",
+   "issue_date": "2026-10-30",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">AI models are getting exponentially better in individual competence while lagging behind in coordination. Models already match or outperform experienced specialists on self-contained deliverables across dozens of professions. The labor market reflects the current capabilities of AI systems. Wages and job roles will be the earliest signals of change.</div>",
+   "title": "The Economics of Intelligence: How and when does AGI lead to economic transformation? (24 minute read)",
+   "url": "https://institute.deepmind.com/essays/the-economics-of-intelligence/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://x.com/fishaudio/status/2115836725184667833",
+   "issue_date": "2026-10-30",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Fish Audio Drama 3 is the #1 open-weight model on both Artificial Analysis Speech Arenas.</div>",
+   "title": "Drama 3 just leveled up (1 minute read)",
+   "url": "https://x.com/fishaudio/status/2115836725184667833"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.natural.com/blog/direct",
+   "issue_date": "2026-10-30",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Natural introduces Direct, enabling agents to choose among ACH, Wire, Realtime, and soon paper checks, for diverse financial transactions.</div>",
+   "title": "Introducing Natural Direct (6 minute read)",
+   "url": "https://www.natural.com/blog/direct"
+  },
+  {
+   "edition": "ai",
+   "id": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox",
+   "issue_date": "2026-10-30",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The fx adapter now runs the harness on the host using libfx, separating host and sandbox operations.</div>",
+   "title": "The fx adapter now runs the harness on the host (1 minute read)",
+   "url": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox"
+  },
+  {
+   "edition": "ai",
+   "id": "https://x.com/nicholasachow/status/2115839602749849840",
+   "issue_date": "2026-10-30",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Reinforcement learning environments combine tools, tasks, and verifiers to train agents through repeated attempts.</div>",
+   "title": "The Escape Room Economy (10 minute read)",
+   "url": "https://x.com/nicholasachow/status/2115839602749849840"
+  },
+  {
+   "edition": "ai",
+   "id": "https://pika.art/blog/pika-h3-flex",
+   "issue_date": "2026-10-30",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Pika H3 Flex is a video generation model that works with up to 12 references, exports five separate audio stems, and finishes at up to 4K.</div>",
+   "title": "Introducing Pika H3 Flex (6 minute read)",
+   "url": "https://pika.art/blog/pika-h3-flex"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
+   "issue_date": "2026-10-30",
+   "position": 0,
+   "section": "Headlines and Launches",
+   "summary_html": "<div class=\"newsletter-html\">PsiQuantum unveiled an 8\u00d78 optical circuit switch built on the silicon photonics platform it developed for quantum computing, measuring typical insertion loss of 1.2 dB, 40 dB crosstalk, and under 3 ms reconfiguration without amplification. Samples are going to select customers, with commercial products promised in the coming months. A 64\u00d764 barium titanate switch used in its quantum systems isn't needed for this first version but offers a path to faster future parts.</div>",
+   "title": "PsiQuantum shows an 8\u00d78 optical circuit switch with 1.2 dB loss for AI data center networks (3 minute read)",
+   "url": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display",
+   "issue_date": "2026-10-30",
+   "position": 1,
+   "section": "Headlines and Launches",
+   "summary_html": "<div class=\"newsletter-html\">Apple's new 14- and 16-inch MacBook Pro uses a tandem OLED panel rated at 2,000 nits peak HDR and SDR brightness with a 10,000,000:1 contrast ratio and 10 to 120Hz refresh, with the touch sensor built into the panel rather than layered on top. It drops to 3 and 4 pounds, adds a Dynamic Island, and runs M5 Pro or M5 Max with up to 128GB of memory. Pricing starts at $2,899, shipping November 6.</div>",
+   "title": "Apple's tandem OLED MacBook Pro adds an in-panel touch sensor, 2,000 nits, and a 3-pound 14-inch (5 minute read)",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.altera.com/newsroom/agilex-2x",
+   "issue_date": "2026-10-30",
+   "position": 2,
+   "section": "Engineering and Applications",
+   "summary_html": "<div class=\"newsletter-html\">Altera announced Agilex 2X, four FPGA families spanning high-end to I/O-centric parts, led by Agilex 27 with a third-generation HyperFlex fabric claiming 1.8x performance per watt over Agilex 7. It adds a chip-wide HyperFlow data network, transceivers up to 256 Gbps, hardened 800GbE and 1.6TbE, PCIe 6.0 and 7.0, LPDDR6, UCIe, and post-quantum-ready secure boot. Quartus support starts in mid-November, with engineering samples in the second half of 2027.</div>",
+   "title": "Altera's Agilex 2X FPGAs claim 1.8x performance per watt, with 256 Gbps transceivers and PCIe 7.0 (3 minute read)",
+   "url": "https://www.altera.com/newsroom/agilex-2x"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.cybersecuritydive.com/news/ai-hardware-model-tampering-eclypsium/873177",
+   "issue_date": "2026-10-30",
+   "position": 3,
+   "section": "Engineering and Applications",
+   "summary_html": "<div class=\"newsletter-html\">Eclypsium demonstrated changing a model's weights in memory after integrity checks pass, so the model file, container, hash, and signatures on disk all stay valid. Attack paths run through host firmware, management controllers, and DPUs, and the report says Nvidia, AMD, Intel, and Arm systems are all exposed. Its fix is DPUs that enforce security policy independently of the AI system, plus full component inventories.</div>",
+   "title": "Eclypsium shows AI model weights can be altered in memory after integrity checks pass (3 minute read)",
+   "url": "https://www.cybersecuritydive.com/news/ai-hardware-model-tampering-eclypsium/873177/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://news.mit.edu/2026/soft-robot-could-help-doctors-diagnose-treat-small-intestine-disorders-1028",
+   "issue_date": "2026-10-30",
+   "position": 4,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">MIT built a tethered soft enteroscope to cover the small intestine, a 20- to 25-foot tube that double balloon enteroscopy currently covers slowly by hand. Four-chamber inflatable actuators bend and extend the body, anchoring balloons at the head and tail take turns gripping, and kirigami sleeves pop out needles for traction. In animal tests, it advanced about 6.5 feet and used its camera, drug sprayer, and biopsy clips.</div>",
+   "title": "MIT's snake-inspired soft robot crawls the small intestine using kirigami traction sleeves (4 minute read)",
+   "url": "https://news.mit.edu/2026/soft-robot-could-help-doctors-diagnose-treat-small-intestine-disorders-1028"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.ajupress.com/view/20261028171670308",
+   "issue_date": "2026-10-30",
+   "position": 5,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">Seoul Biosys has started producing rare earth-free white micro LEDs using WICOP technology, which eliminates the need for traditional packaging. The new LEDs measure 25\u00b5m x 10\u00b5m and achieve 0.015 lumens, with plans to double light efficiency to 200 lumens per watt. This innovation aims to reduce manufacturing costs and environmental impact, targeting applications in smart glasses, AR displays, and AI data transmission.</div>",
+   "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs (3 minute read)",
+   "url": "https://www.ajupress.com/view/20261028171670308"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency",
+   "issue_date": "2026-10-30",
+   "position": 6,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">SpaceX no longer depends on NASA contracts to survive, while NASA depends heavily on SpaceX's rockets and capsules, which cuts the agency's negotiating leverage. SpaceX told NASA it will stop flying Crew Dragon by or before 2030 and has stopped selling commercial Falcon 9 launches for missions after 2028. That would leave NASA's ISS crew transport and station deorbit plans exposed.</div>",
+   "title": "SpaceX no longer needs NASA, and NASA's leverage is shrinking as a result (6 minute read)",
+   "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.reuters.com/business/marvell-advanced-talks-buy-lumentum-bloomberg-news-reports-2026-10-28",
+   "issue_date": "2026-10-30",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Marvell is in advanced talks to buy Lumentum, which makes the lasers and optical modules that move data between AI servers, with an announcement possible as soon as next week. Lumentum rose about 11% after hours to a roughly $91 billion valuation, while Marvell fell more than 8%. Marvell held only about $3.9 billion in cash last quarter. Neither company has confirmed the talks.</div>",
+   "title": "Marvell is reportedly in advanced talks to buy laser maker Lumentum at a roughly $91B valuation (2 minute read)",
+   "url": "https://www.reuters.com/business/marvell-advanced-talks-buy-lumentum-bloomberg-news-reports-2026-10-28/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.sdxcentral.com/news/intel-trials-open-robotics-architecture-with-sap-in-chinese-demo",
+   "issue_date": "2026-10-30",
+   "position": 8,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Intel, in partnership with SAP, tested an open robotics architecture at its Chengdu site, integrating SAP's Warehouse Management with AI and autonomous mobile robots.</div>",
+   "title": "Intel trials open robotics architecture with SAP in Chinese demo (4 minute read)",
+   "url": "https://www.sdxcentral.com/news/intel-trials-open-robotics-architecture-with-sap-in-chinese-demo/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://a16zfrontier.substack.com/p/talking-hardware-with-palmer-luckey",
+   "issue_date": "2026-10-30",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Inside-out tracking took years to survive real rooms, where glass, reflections, moving people, curtains, and ceiling fans break the scene model.</div>",
+   "title": "Palmer Luckey on why ceiling fans broke inside-out VR tracking and how Oculus secured its screens (8 minute read)",
+   "url": "https://a16zfrontier.substack.com/p/talking-hardware-with-palmer-luckey"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://blog.google/products-and-platforms/platforms/android/xreal-aura",
+   "issue_date": "2026-10-30",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Google and XREAL launched AURA, transparent-lens glasses that run Android XR and project apps across a 70-degree view.</div>",
+   "title": "XREAL AURA launches as the first wired Android XR glasses, with a 70-degree field of view (4 minute read)",
+   "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dept-of-justice-reportedly-probes-nvidia-over-usd13-billion-hugging-face-ai-platform-acquisition-concerns-raised-over-competition-in-ai-and-pressure-on-customers",
+   "issue_date": "2026-10-30",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Reuters reports the DOJ is questioning whether owning the main distribution hub for open models would let Nvidia disadvantage rival chip and AI companies or gain leverage in negotiations.</div>",
+   "title": "DOJ reportedly questions Nvidia's $12.9B Hugging Face deal over control of open-model distribution (3 minute read)",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dept-of-justice-reportedly-probes-nvidia-over-usd13-billion-hugging-face-ai-platform-acquisition-concerns-raised-over-competition-in-ai-and-pressure-on-customers"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://app.dealroom.co/news/note/furiosaai-raises-620m-series-d-quadruples-valuation-to-2-9b-in-nvidia-challenge",
+   "issue_date": "2026-10-30",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">FuriosaAI raised $620 million at a $2.9 billion valuation, about four times its prior round, to scale its RNGD inference chip, a 180 W part it claims matches GPU throughput at half the power or less.</div>",
+   "title": "FuriosaAI raises $620M at a $2.9B valuation to scale its 180 W RNGD inference chip (3 minute read)",
+   "url": "https://app.dealroom.co/news/note/furiosaai-raises-620m-series-d-quadruples-valuation-to-2-9b-in-nvidia-challenge"
   }
  ]
 }
