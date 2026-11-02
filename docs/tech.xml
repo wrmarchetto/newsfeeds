@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/tech.xml</id>
   <title>TLDR</title>
-  <updated>2026-10-30T11:00:00+00:00</updated>
+  <updated>2026-11-02T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts</id>
+    <title>Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the company's legacy code in 24 months (2 minute read)</title>
+    <updated>2026-11-02T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Cisco has given Padmanabhan Krishnamurthy, a 27-year-old ex-startup founder who joined the company through an acquisition, the job of refactoring 98% of the company's legacy code within 24 months. Krishnamurthy has four weeks to produce a proof of concept. He has been given a budget of unlimited tokens to achieve the goal. Cisco is looking to hire more employees that fit Krishnamurthy's mould.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-02"&gt;TLDR · 2026-11-02 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-02T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5?st=a8XRE1&amp;amp%3Breflink=desktopwebshare_permalink&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>OpenAI Raises Less Than Half of $30 Billion Target in Latest Round (3 minute read)</title>
+    <updated>2026-11-02T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI's latest funding round received tepid interest from investors. The deal values the AI lab at $1.25 trillion, less than the $1.4 trillion valuation it had earlier hoped to achieve. Investors appear to have grown pickier about which companies they want to back and on what terms. The industry recently experienced a brutal selloff tied to disappointing earnings results from giants, including Google, Amazon, and Intel.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-02"&gt;TLDR · 2026-11-02 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5?st=a8XRE1&amp;amp%3Breflink=desktopwebshare_permalink&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-02T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency</id>
+    <title>SpaceX no longer needs NASA, and that's a problem for America's space agency (34 minute read)</title>
+    <updated>2026-11-02T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;NASA is no longer an indispensable customer for SpaceX. SpaceX is now increasingly disinterested in the US government for most contracts outside of data services. The company is still fulfilling its existing contracts with the government, and at a lower cost and generally higher reliability, but it is no longer signing many large new contracts for spaceflight and services in the traditional launch and in-space flight domains. It sees the vast bulk of its future revenue coming from AI.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-02"&gt;TLDR · 2026-11-02 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-02T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores</id>
+    <title>Meta Reportedly Built A Humanoid Robot Prototype That Can Do Household Chores (2 minute read)</title>
+    <updated>2026-11-02T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Meta's Max robot is designed to help out around people's homes. The prototype was built with the help of a Chinese robotics company in roughly three months. Powered by Nvidia's Jetson Thor chips, the robot weighs roughly 106 pounds and is about 1.5 meters tall, and has a display that can show facial expressions, a built-in speaker, and hands designed to pick up small objects. Meta is already working on a second prototype with updates to the design of the robot's torso and hands, as well as a projector and additional sensors to help it handle stairs better.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-02"&gt;TLDR · 2026-11-02 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-02T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html</id>
+    <title>Postgres 19 is late, and it's AI's fault (5 minute read)</title>
+    <updated>2026-11-02T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Postgres 19 most likely won't be released until November and could possibly be postponed further. Several large features were reverted quite late in the beta period. AI has made it easier to identify bugs, and this has resulted in a lot more bug reports that the PostgreSQL committers have to work on. This has taken the focus off development of new features, as the project cares about quality.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-02"&gt;TLDR · 2026-11-02 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-02T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://seldo.com/posts/a-proposal-how-to-hire-junior-engineers-in-the-age-of-ai</id>
+    <title>A proposal: how to hire junior engineers in the age of AI (11 minute read)</title>
+    <updated>2026-11-02T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;With product engineering, figuring out what the requirements are is still most of the job. This post presents an interview model where LLMs can be used in interviews to roleplay as customers, and engineers talk to the models to extract requirements. The approach rewards candidates who think of edge cases, approach things sideways, and think about whole systems at once. It's relatively cheap and can be used in conjunction with a standard human interview.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-02"&gt;TLDR · 2026-11-02 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://seldo.com/posts/a-proposal-how-to-hire-junior-engineers-in-the-age-of-ai/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-02T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html?unlocked_article_code=1.NVE.LIjh.maw8V5NeAaHv&amp;amp%3Bsmid=url-share&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>How Binance's $6.3 Billion Hack Went Down (9 minute read)</title>
+    <updated>2026-11-02T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A string of unusual transactions started to cause alarm at Binance on Thursday afternoon. Binance's top executives put together an informal war room with about 100 participants in response and worked through the night to navigate one of the most damaging crises in Binance's history. The company was forced to halt deposits and withdrawals as more than $6 billion was drained from the exchange. This article details how the hack unfolded based on interviews with people with knowledge of the events and analyses by crypto forensics firms.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-02"&gt;TLDR · 2026-11-02 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html?unlocked_article_code=1.NVE.LIjh.maw8V5NeAaHv&amp;amp%3Bsmid=url-share&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-02T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html</id>
+    <title>Digital minimalism (17 minute read)</title>
+    <updated>2026-11-02T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Digital minimalism is about being intentional about how you access digital technology. It is about making a conscious choice rather than something that you get sucked into by default. We need social media, the internet, and the web less than before due to AI, and there's so much you can now do purely locally and offline. The flaws of the previous paradigm are now reaching their apex, making digital minimalism more and more necessary.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-02"&gt;TLDR · 2026-11-02 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-02T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d</id>
+    <title>Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)</title>
+    <updated>2026-11-02T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. &lt;a href="https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d" rel="noopener noreferrer" target="_blank"&gt;Click here to learn more&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-02"&gt;TLDR · 2026-11-02 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-02T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://jyn.dev/rising-tide-raises-rents</id>
+    <title>A rising tide raises all rents (33 minute read)</title>
+    <updated>2026-11-02T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This post looks at how society could give everyone a stake in productivity improvements in a way that still keeps the natural self-regulation of the free market.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-02"&gt;TLDR · 2026-11-02 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://jyn.dev/rising-tide-raises-rents/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-02T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.starpointllp.com/2026/10/shopify-stripe</id>
+    <title>Shopify Reduces Stripe Dependency (16 minute read)</title>
+    <updated>2026-11-02T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Shopify Shop Pay now works inside personal agents and for brands that are not on Shopify.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-02"&gt;TLDR · 2026-11-02 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.starpointllp.com/2026/10/shopify-stripe/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-02T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://robonomics.substack.com/p/robotics-new-era-after-astra?r=3hcp4&amp;amp%3Butm_campaign=post&amp;amp%3Butm_medium=web&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>Robotics' New Era After Astra (11 minute read)</title>
+    <updated>2026-11-02T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;GPT-6 Astra can outperform several specialized robotics models despite not being designed as a robotics foundation model.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-02"&gt;TLDR · 2026-11-02 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://robonomics.substack.com/p/robotics-new-era-after-astra?r=3hcp4&amp;amp%3Butm_campaign=post&amp;amp%3Butm_medium=web&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-02T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://colossus.com/article/michael-kratsios-office-frontier-ostp</id>
+    <title>The Office of the Frontier (39 minute read)</title>
+    <updated>2026-11-02T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The fight to regulate AI and reform American science runs through the Office of Science and Technology Policy, an underutilized office run by Michael Kratsios, who had previously worked with Peter Thiel.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-02"&gt;TLDR · 2026-11-02 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://colossus.com/article/michael-kratsios-office-frontier-ostp/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-02T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it</id>
+    <title>Mathematics has changed. Let's act like it (23 minute read)</title>
+    <updated>2026-11-02T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;We are on the verge of a new era of mathematics as AI has opened up many great new opportunities, possibilities, and reasons to be optimistic.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-02"&gt;TLDR · 2026-11-02 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-02T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://electrek.co/2026/10/30/waymo-toyota-bz4x-robotaxi-japan-2027</id>
+    <title>Waymo picks Toyota bZ4X as its next robotaxi, starting in Japan in 2027 (5 minute read)</title>
+    <updated>2026-11-02T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Toyota will build a custom version of its bZ4X electric SUV with the Waymo Driver integrated right on the line.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-02"&gt;TLDR · 2026-11-02 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://electrek.co/2026/10/30/waymo-toyota-bz4x-robotaxi-japan-2027/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-02T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html?unlocked_article_code=1.MlE.xFQp.UMIf7vCNQ-Sh&amp;amp%3Bsmid=url-share&amp;amp%3Butm_source=tldrnewsletter</id>
     <title>DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants (7 minute read)</title>
@@ -1429,145 +1579,5 @@
     <category term="TLDR"/>
     <category term="Quick Links"/>
     <published>2026-10-19T10:59:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.wsj.com/business/autos/tesla-roadster-elon-musk-530c8e78?st=ersj6a&amp;reflink=desktopwebshare_permalink</id>
-    <title>Tesla's New Roadster Takes Flight After Nearly a Decade of Delays (4 minute read)</title>
-    <updated>2026-10-16T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Tesla unveiled its second-generation Roadster sports car on Thursday by having the vehicle launch itself up a curved ramp into a controlled landing. It later leapt over five other Tesla vehicles while twisting in the air. The car is scheduled to enter production in 2028. Tesla has yet to release a price tag. The Roadster can go from a stop to 60 miles an hour in about one second, and it has a top speed of over 230 miles an hour.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-16"&gt;TLDR · 2026-10-16 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.wsj.com/business/autos/tesla-roadster-elon-musk-530c8e78?st=ersj6a&amp;reflink=desktopwebshare_permalink"/>
-    <category term="TLDR"/>
-    <category term="Big Tech &amp; Startups"/>
-    <published>2026-10-16T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://venturebeat.com/technology/meta-unveils-muse-spark-open-the-new-top-u-s-open-weights-model-and-it-runs-on-two-paired-mac-desktops</id>
-    <title>Meta unveils Muse Spark Open, the new top US open weights model — and it runs on two paired Mac desktops (18 minute read)</title>
-    <updated>2026-10-16T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Muse Spark Open is an 816-billion-parameter open-weight model that can run on relatively affordable consumer hardware. Meta's benchmark tests used a pair of M5 Ultra Mac Studios with an unknown memory configuration. The model uses a mixture-of-experts design and activates 42 billion parameters for each token. It supports a context of up to 1 million tokens and accepts text, images, video, and audio, but only outputs text.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-16"&gt;TLDR · 2026-10-16 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://venturebeat.com/technology/meta-unveils-muse-spark-open-the-new-top-u-s-open-weights-model-and-it-runs-on-two-paired-mac-desktops"/>
-    <category term="TLDR"/>
-    <category term="Big Tech &amp; Startups"/>
-    <published>2026-10-16T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing</id>
-    <title>Bringing the magic: Google breaks open a bottleneck in quantum computing (3 minute read)</title>
-    <updated>2026-10-16T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Google Quantum AI has demonstrated that 'magic state cultivation' works in practice on its Willow processor. Magic states help researchers create the operations they need for going beyond classical computing. Creating high-quality, error-corrected magic states is incredibly resource-heavy. This post details how Google Quantum AI created a magic state cultivation protocol that achieved a 40-fold reduction in errors. The breakthrough is a crucial step towards scaling up quantum computing to practical use.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-16"&gt;TLDR · 2026-10-16 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/"/>
-    <category term="TLDR"/>
-    <category term="Science &amp; Futuristic Technology"/>
-    <published>2026-10-16T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.construction-physics.com/p/how-to-train-your-robot</id>
-    <title>How to Train Your Robot (22 minute read)</title>
-    <updated>2026-10-16T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Training an AI model fundamentally requires lots and lots of examples of something being done correctly. Creating this data for training robots is expensive, and companies need a lot of data to train competent models. Large language models showed the benefits of scale when training models. Researchers are now working hard to gather enormous amounts of robot task training data in the hopes of seeing the same sort of trends with robotic capabilities.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-16"&gt;TLDR · 2026-10-16 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.construction-physics.com/p/how-to-train-your-robot"/>
-    <category term="TLDR"/>
-    <category term="Science &amp; Futuristic Technology"/>
-    <published>2026-10-16T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware</id>
-    <title>Using Artificial Intelligence to reverse engineer hardware (10 minute read)</title>
-    <updated>2026-10-16T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Developers are using Claude to debug hardware issues. AIs can read thousands of lines of USB capture, notice sequence repeats with one byte changing, make suggestions on what that byte means, and write the tests to confirm its suggestions. A human is still required to decide what to build and check that the fix runs on real hardware, but AI takes away a lot of the slog. The post includes a link to a harness with a small set of tools that help with reverse engineering Linux drivers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-16"&gt;TLDR · 2026-10-16 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-16T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies</id>
-    <title>New trend of building “internal vibe-coding apps” at tech companies (6 minute read)</title>
-    <updated>2026-10-16T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Tech companies are building internal vibe-coding tools for non-engineers. It's not that complicated, it gets higher adoption than vendor products, and it helps build out more AI intra expertise in-house. Building an internal vibe-coding tool is a tiny investment that can result in better, more custom tools than with vendor products, and companies don't have to wait on vendors to build what's needed. It's also a lot safer to expose internal data sources to internal tools.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-16"&gt;TLDR · 2026-10-16 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies/"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-16T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://every.to/p/how-codex-happened</id>
-    <title>How Codex Happened (45 minute read)</title>
-    <updated>2026-10-16T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Codex started as a scrappy effort to build an AI software engineer. The team building it had launched a version in the cloud, but it didn't find product-market fit. OpenAI took the project and made it the centerpiece of its comeback. This post tells the inside story of how Codex was created.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-16"&gt;TLDR · 2026-10-16 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://every.to/p/how-codex-happened"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-16T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html</id>
-    <title>CoreWeave credit default swaps hit distress levels as investors sour on AI debt (4 minute read)</title>
-    <updated>2026-10-16T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;CoreWeave has taken on more than $51 billion of debt and obligations to finance its AI infrastructure buildout. Stock and bond investors are now showing signs of being concerned about AI overspending and debt levels. Yields on CoreWeave debt continue to climb. The spread on its five-year credit default swaps has soared. No one is questioning whether demand for CoreWeave's services is real, but the cash flow needs to arrive to justify all of the capex spending.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-16"&gt;TLDR · 2026-10-16 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-16T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://lemire.me/blog/2026/10/15/redis-now-has-compressed-bitmaps-roaring</id>
-    <title>Redis now has compressed bitmaps (Roaring) (3 minute read)</title>
-    <updated>2026-10-16T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Compressed bitmaps store a set of integers in a form that takes little room when the set is sparse.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-16"&gt;TLDR · 2026-10-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://lemire.me/blog/2026/10/15/redis-now-has-compressed-bitmaps-roaring/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-16T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://fintechtakes.com/articles/2026-10-15/moneys-public-cloud-moment</id>
-    <title>Money's Public Cloud Moment (22 minute read)</title>
-    <updated>2026-10-16T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Stablecoins are the public cloud moment for global money movement.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-16"&gt;TLDR · 2026-10-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://fintechtakes.com/articles/2026-10-15/moneys-public-cloud-moment/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-16T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://time.com/collection/best-inventions/2026/apple-iphone-duo</id>
-    <title>John Ternus Is Engineering a New Era for Apple (22 minute read)</title>
-    <updated>2026-10-16T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Ternus has so far played to his own strengths rather than trying to replicate his forerunners' styles of success.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-16"&gt;TLDR · 2026-10-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://time.com/collection/best-inventions/2026/apple-iphone-duo/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-16T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://weli.dev/blog/the-cost-of-getting-a-job-today</id>
-    <title>The Cost of Getting a Job Today (5 minute read)</title>
-    <updated>2026-10-16T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Every job expects employees to be able to use AI, but using AI costs money, which adds pressure when job seeking.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-16"&gt;TLDR · 2026-10-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://weli.dev/blog/the-cost-of-getting-a-job-today/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-16T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.perplexity.ai/hub/blog/open-sourcing-space</id>
-    <title>Open-sourcing SPACE, the sandbox platform behind Computer (6 minute read)</title>
-    <updated>2026-10-16T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Perplexity's SPACE provides a foundation for building safer agent systems.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-16"&gt;TLDR · 2026-10-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.perplexity.ai/hub/blog/open-sourcing-space"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-16T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://avdi.codes/lies-damn-lies-and-github-stars</id>
-    <title>Lies, Damn Lies, and GitHub Stars (6 minute read)</title>
-    <updated>2026-10-16T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Repositories used to only pile up GitHub stars if they were genuinely in widespread use over a long period of time, but influencers can make something look real when it isn't.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-16"&gt;TLDR · 2026-10-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://avdi.codes/lies-damn-lies-and-github-stars/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-16T10:59:47+00:00</published>
   </entry>
 </feed>
