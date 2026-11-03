@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/tech.xml</id>
   <title>TLDR</title>
-  <updated>2026-11-02T11:00:00+00:00</updated>
+  <updated>2026-11-03T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,146 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat</id>
+    <title>Coming in 2027: Apple's $1,000 home robot for FaceTime and switching on lights (2 minute read)</title>
+    <updated>2026-11-03T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Apple is reportedly working on an AI-driven home robot potentially named the HomeView Ultra. It plans to launch the robotic product with a possible price tag of $1,000 or more by 2027. The earliest prototypes of the home robot first came out in 2018. The robot, which will support FaceTime calls, will be able to autonomously roam around and switch lights on whenever a person enters the room.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-03"&gt;TLDR · 2026-11-03 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-03T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network</id>
+    <title>SpaceX is reportedly looking at buying Boost Mobile or using its cell network (2 minute read)</title>
+    <updated>2026-11-03T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;SpaceX has held talks with EchoStar to potentially acquire Boost Mobile outright or gain access to its cell network, which is leased from AT&amp;amp;T and T-Mobile. Starlink recently confirmed plans to become a major mobile carrier in the US. The deal will need approval from AT&amp;amp;T and T-Mobile, both of which have already turned down SpaceX for access to their cell towers. SpaceX last year acquired $2.6 billion worth of spectrum licenses from EchoStar to improve its Starlink network's 5G connections.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-03"&gt;TLDR · 2026-11-03 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-03T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.mackenziemorehead.com/what-is-quantum-advantage-actually-worth</id>
+    <title>What Is Quantum Advantage Actually Worth? (9 minute read)</title>
+    <updated>2026-11-03T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Nearly all roadmaps point to a utility-scale quantum computer being developed around 2030. Despite this, there is little confidence or clarity on how these machines will actually be useful. The consensus is now that they'll first be used for breaking cryptography. The second most concrete answer is to use them to generate simulation data for AI labs' science models. This post looks at how else quantum computing could be applied and where all the revenue will come from.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-03"&gt;TLDR · 2026-11-03 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.mackenziemorehead.com/what-is-quantum-advantage-actually-worth/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-03T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030</id>
+    <title>China publicly discloses plan for a lunar landing within three years (3 minute read)</title>
+    <updated>2026-11-03T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Chinese space officials have confirmed the country's plans to land astronauts on the Moon within three years. The landings will involve a lunar-orbit rendezvous similar to what NASA did with the Apollo program. China and the US are racing to land astronauts on the lunar surface, as it would be a major geopolitical win. Both countries are also building capabilities to establish a long-term presence at the Moon's South Pole.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-03"&gt;TLDR · 2026-11-03 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-03T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/scaling-git-at-openai</id>
+    <title>Scaling Git at OpenAI (31 minute read)</title>
+    <updated>2026-11-03T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI's monorepo's size and demands increased at a staggering pace over the last year, necessitating a revamp of the AI lab's source control system. Its technical staff built Pando, a new backend for Git repositories optimized for concurrent pushes to many branches and to maximize read throughput. The team implemented the backend without interrupting any engineering work or changing how the team uses Git. Pando cut median push latency in production by nearly 5x, and it now delivers nearly a petabyte of Git data per day.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-03"&gt;TLDR · 2026-11-03 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openai.com/index/scaling-git-at-openai/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-03T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.philschmid.de/code-mode</id>
+    <title>Why Agents Are Soon Only Going to Have 1 Tool (9 minute read)</title>
+    <updated>2026-11-03T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Agents are collapsing their entire tool catalog into one 'exec' tool. This allows models to write short scripts that chain, combine, and await actions inside isolated sandboxes. Models can now reliably combine and chain dependent actions in a single pass. In the previous standard tool-calling model, agents could only perform single actions, but the exec tool allows them to perform multiple actions.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-03"&gt;TLDR · 2026-11-03 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.philschmid.de/code-mode"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-03T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside</id>
+    <title>Our organizations are being DDoSed from the inside (6 minute read)</title>
+    <updated>2026-11-03T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Organizations are losing attention as everyone within is doing something they think is useful, but all that work draws on the same limited capacity to understand, review, and decide. Just because work exists doesn't mean it's the right thing to do. Output is not proof of value. A working implementation only means that something can be built, not that it should be - some changes have negative value.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-03"&gt;TLDR · 2026-11-03 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside/"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-03T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://haydenbleasel.com/writing/open-source</id>
+    <title>The value of open source (16 minute read)</title>
+    <updated>2026-11-03T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;People open source projects for various reasons. Some do it to build a company or product, others do it performatively, and some ship code just for the love of the game. Open source was never free to copy, and the code was never the moat. AI can remake a product, but it can't provide the rest of the value a company generates. The technology is helping maintainers ship and fix problems faster.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-03"&gt;TLDR · 2026-11-03 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://haydenbleasel.com/writing/open-source"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-03T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://elliotmorris.net/prototypes-are-not-that-helpful-anymore</id>
+    <title>Prototypes are not that helpful anymore (12 minute read)</title>
+    <updated>2026-11-03T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A prototype is no longer an indicator that the builder is competent.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-03"&gt;TLDR · 2026-11-03 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://elliotmorris.net/prototypes-are-not-that-helpful-anymore"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-03T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://knlb.dev/essays/surrender</id>
+    <title>Resisting Cognitive Surrender (16 minute read)</title>
+    <updated>2026-11-03T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Cognitive surrender is when someone uncritically accepts whatever agents output without actually thinking, exploring, or considering alternatives.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-03"&gt;TLDR · 2026-11-03 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://knlb.dev/essays/surrender"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-03T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights</id>
+    <title>LLMs are not superhuman at reading and writing neural network weights (4 minute read)</title>
+    <updated>2026-11-03T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;GPT-6 Astra's ability to make direct weight updates is cool, but the best way to update the weights of a model is still to train them normally.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-03"&gt;TLDR · 2026-11-03 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-03T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-80-billion-in-all-stock-ai-deal-c9fd43a6?st=Cbe3J3&amp;amp%3Breflink=desktopwebshare_permalink&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>Chip Maker Marvell Agrees to Buy Lumentum in $80 Billion Deal (5 minute read)</title>
+    <updated>2026-11-03T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Marvell designs custom AI chips and other technology that connects processors and moves data around data centers, and Lumentum has technology that uses light to move data between chips and servers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-03"&gt;TLDR · 2026-11-03 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-80-billion-in-all-stock-ai-deal-c9fd43a6?st=Cbe3J3&amp;amp%3Breflink=desktopwebshare_permalink&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-03T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://rogerpielkejr.substack.com/p/the-coming-replication-revolution</id>
+    <title>The Coming Replication Revolution (16 minute read)</title>
+    <updated>2026-11-03T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Soon, almost all researchers will engage in AI-assisted replication of their own work before submitting to a journal, which will improve the quality of research going forward.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-03"&gt;TLDR · 2026-11-03 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://rogerpielkejr.substack.com/p/the-coming-replication-revolution"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-03T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai</id>
+    <title>Anthropic warns that it's very close to RSI capability, aka self-building AI (4 minute read)</title>
+    <updated>2026-11-03T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic recently updated its S-1 to say it may soon meet its own internal definition of recursive self-improvement.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-03"&gt;TLDR · 2026-11-03 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-03T10:59:47+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts</id>
     <title>Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the company's legacy code in 24 months (2 minute read)</title>

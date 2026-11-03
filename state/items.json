@@ -20,6 +20,7 @@
   "ai/2026-10-29": "2026-10-29T16:56:34+00:00",
   "ai/2026-10-30": "2026-10-30T16:42:39+00:00",
   "ai/2026-11-02": "2026-11-02T20:22:34+00:00",
+  "ai/2026-11-03": "2026-11-03T17:51:56+00:00",
   "dev/2026-10-06": "2026-10-14T15:11:30+00:00",
   "dev/2026-10-07": "2026-10-13T23:08:17+00:00",
   "dev/2026-10-08": "2026-10-13T23:08:18+00:00",
@@ -40,6 +41,7 @@
   "dev/2026-10-29": "2026-10-29T16:56:31+00:00",
   "dev/2026-10-30": "2026-10-30T16:42:37+00:00",
   "dev/2026-11-02": "2026-11-02T20:22:32+00:00",
+  "dev/2026-11-03": "2026-11-03T17:51:54+00:00",
   "hardware/2026-10-07": "2026-10-13T23:08:33+00:00",
   "hardware/2026-10-09": "2026-10-13T23:08:34+00:00",
   "hardware/2026-10-12": "2026-10-13T23:08:35+00:00",
@@ -71,7 +73,8 @@
   "tech/2026-10-28": "2026-10-28T16:40:10+00:00",
   "tech/2026-10-29": "2026-10-29T16:56:29+00:00",
   "tech/2026-10-30": "2026-10-30T16:42:34+00:00",
-  "tech/2026-11-02": "2026-11-02T20:22:29+00:00"
+  "tech/2026-11-02": "2026-11-02T20:22:29+00:00",
+  "tech/2026-11-03": "2026-11-03T17:51:52+00:00"
  },
  "items": [
   {
@@ -5253,6 +5256,476 @@
    "summary_html": "<div class=\"newsletter-html\">K2 Space's CEO says it wants to build about 100 high-power satellites a year, after a $500 million round at roughly a $7 billion valuation, and that its 165 kW satellite is the size where hosting a compute rack becomes possible.</div>",
    "title": "K2 Space targets 100 satellites a year and says a 165 kW satellite can host one compute rack (4 minute read)",
    "url": "https://www.satellitetoday.com/manufacturing/2026/10/30/k2-space-ceo-sets-out-expansive-growth-plan-as-high-power-demand-increases"
+  },
+  {
+   "edition": "tech",
+   "id": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat",
+   "issue_date": "2026-11-03",
+   "position": 0,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">Apple is reportedly working on an AI-driven home robot potentially named the HomeView Ultra. It plans to launch the robotic product with a possible price tag of $1,000 or more by 2027. The earliest prototypes of the home robot first came out in 2018. The robot, which will support FaceTime calls, will be able to autonomously roam around and switch lights on whenever a person enters the room.</div>",
+   "title": "Coming in 2027: Apple's $1,000 home robot for FaceTime and switching on lights (2 minute read)",
+   "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network",
+   "issue_date": "2026-11-03",
+   "position": 1,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">SpaceX has held talks with EchoStar to potentially acquire Boost Mobile outright or gain access to its cell network, which is leased from AT&amp;T and T-Mobile. Starlink recently confirmed plans to become a major mobile carrier in the US. The deal will need approval from AT&amp;T and T-Mobile, both of which have already turned down SpaceX for access to their cell towers. SpaceX last year acquired $2.6 billion worth of spectrum licenses from EchoStar to improve its Starlink network's 5G connections.</div>",
+   "title": "SpaceX is reportedly looking at buying Boost Mobile or using its cell network (2 minute read)",
+   "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.mackenziemorehead.com/what-is-quantum-advantage-actually-worth",
+   "issue_date": "2026-11-03",
+   "position": 2,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Nearly all roadmaps point to a utility-scale quantum computer being developed around 2030. Despite this, there is little confidence or clarity on how these machines will actually be useful. The consensus is now that they'll first be used for breaking cryptography. The second most concrete answer is to use them to generate simulation data for AI labs' science models. This post looks at how else quantum computing could be applied and where all the revenue will come from.</div>",
+   "title": "What Is Quantum Advantage Actually Worth? (9 minute read)",
+   "url": "https://www.mackenziemorehead.com/what-is-quantum-advantage-actually-worth/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030",
+   "issue_date": "2026-11-03",
+   "position": 3,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Chinese space officials have confirmed the country's plans to land astronauts on the Moon within three years. The landings will involve a lunar-orbit rendezvous similar to what NASA did with the Apollo program. China and the US are racing to land astronauts on the lunar surface, as it would be a major geopolitical win. Both countries are also building capabilities to establish a long-term presence at the Moon's South Pole.</div>",
+   "title": "China publicly discloses plan for a lunar landing within three years (3 minute read)",
+   "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://openai.com/index/scaling-git-at-openai",
+   "issue_date": "2026-11-03",
+   "position": 4,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI's monorepo's size and demands increased at a staggering pace over the last year, necessitating a revamp of the AI lab's source control system. Its technical staff built Pando, a new backend for Git repositories optimized for concurrent pushes to many branches and to maximize read throughput. The team implemented the backend without interrupting any engineering work or changing how the team uses Git. Pando cut median push latency in production by nearly 5x, and it now delivers nearly a petabyte of Git data per day.</div>",
+   "title": "Scaling Git at OpenAI (31 minute read)",
+   "url": "https://openai.com/index/scaling-git-at-openai/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.philschmid.de/code-mode",
+   "issue_date": "2026-11-03",
+   "position": 5,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">Agents are collapsing their entire tool catalog into one 'exec' tool. This allows models to write short scripts that chain, combine, and await actions inside isolated sandboxes. Models can now reliably combine and chain dependent actions in a single pass. In the previous standard tool-calling model, agents could only perform single actions, but the exec tool allows them to perform multiple actions.</div>",
+   "title": "Why Agents Are Soon Only Going to Have 1 Tool (9 minute read)",
+   "url": "https://www.philschmid.de/code-mode"
+  },
+  {
+   "edition": "tech",
+   "id": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside",
+   "issue_date": "2026-11-03",
+   "position": 6,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Organizations are losing attention as everyone within is doing something they think is useful, but all that work draws on the same limited capacity to understand, review, and decide. Just because work exists doesn't mean it's the right thing to do. Output is not proof of value. A working implementation only means that something can be built, not that it should be - some changes have negative value.</div>",
+   "title": "Our organizations are being DDoSed from the inside (6 minute read)",
+   "url": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://haydenbleasel.com/writing/open-source",
+   "issue_date": "2026-11-03",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">People open source projects for various reasons. Some do it to build a company or product, others do it performatively, and some ship code just for the love of the game. Open source was never free to copy, and the code was never the moat. AI can remake a product, but it can't provide the rest of the value a company generates. The technology is helping maintainers ship and fix problems faster.</div>",
+   "title": "The value of open source (16 minute read)",
+   "url": "https://haydenbleasel.com/writing/open-source"
+  },
+  {
+   "edition": "tech",
+   "id": "https://elliotmorris.net/prototypes-are-not-that-helpful-anymore",
+   "issue_date": "2026-11-03",
+   "position": 8,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">A prototype is no longer an indicator that the builder is competent.</div>",
+   "title": "Prototypes are not that helpful anymore (12 minute read)",
+   "url": "https://elliotmorris.net/prototypes-are-not-that-helpful-anymore"
+  },
+  {
+   "edition": "tech",
+   "id": "https://knlb.dev/essays/surrender",
+   "issue_date": "2026-11-03",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Cognitive surrender is when someone uncritically accepts whatever agents output without actually thinking, exploring, or considering alternatives.</div>",
+   "title": "Resisting Cognitive Surrender (16 minute read)",
+   "url": "https://knlb.dev/essays/surrender"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights",
+   "issue_date": "2026-11-03",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">GPT-6 Astra's ability to make direct weight updates is cool, but the best way to update the weights of a model is still to train them normally.</div>",
+   "title": "LLMs are not superhuman at reading and writing neural network weights (4 minute read)",
+   "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-80-billion-in-all-stock-ai-deal-c9fd43a6?st=Cbe3J3&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-03",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Marvell designs custom AI chips and other technology that connects processors and moves data around data centers, and Lumentum has technology that uses light to move data between chips and servers.</div>",
+   "title": "Chip Maker Marvell Agrees to Buy Lumentum in $80 Billion Deal (5 minute read)",
+   "url": "https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-80-billion-in-all-stock-ai-deal-c9fd43a6?st=Cbe3J3&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://rogerpielkejr.substack.com/p/the-coming-replication-revolution",
+   "issue_date": "2026-11-03",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Soon, almost all researchers will engage in AI-assisted replication of their own work before submitting to a journal, which will improve the quality of research going forward.</div>",
+   "title": "The Coming Replication Revolution (16 minute read)",
+   "url": "https://rogerpielkejr.substack.com/p/the-coming-replication-revolution"
+  },
+  {
+   "edition": "tech",
+   "id": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
+   "issue_date": "2026-11-03",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic recently updated its S-1 to say it may soon meet its own internal definition of recursive self-improvement.</div>",
+   "title": "Anthropic warns that it's very close to RSI capability, aka self-building AI (4 minute read)",
+   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://blog.cloudflare.com/dns-targeted-zone-builds",
+   "issue_date": "2026-11-03",
+   "position": 0,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Cloudflare replaced full DNS zone rebuilds with a planner that selects the smallest provably safe update and a scheduler that combines work for the same zone. The changes cut peak memory by 85% and halved the delay from a DNS change to its data being written to Quicksilver without rebuilding tens of millions of records for a settings change.</div>",
+   "title": "How we halved DNS build delay and cut memory use by 85% (18 minute read)",
+   "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://nextjs.org/blog/ship-less-javascript-with-ai",
+   "issue_date": "2026-11-03",
+   "position": 1,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Hidden import chains often load heavy code upfront that teams thought they had deferred, which slows page loads. Next.js 16.4 adds an agent skill that reads Turbopack's module graph, finds these problems, and can apply the fixes, plus new Bundle Analyzer views for route sizes, snapshot diffs, and the critical render path. At Vercel, it removed nearly 2 MB of compressed JavaScript across v0 and vercel.com, so Turbopack users can get similar savings with little manual work.</div>",
+   "title": "Ship less JavaScript in Next.js with your AI agent (4 minute read)",
+   "url": "https://nextjs.org/blog/ship-less-javascript-with-ai"
+  },
+  {
+   "edition": "dev",
+   "id": "https://maple.dev/blog/react-to-foldkit",
+   "issue_date": "2026-11-03",
+   "position": 2,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Maple moved its observability app from React to Foldkit using about 40 Claude agents, with most human effort going into a harness that compared more than 2,600 screen variants across pixels, structure, network requests, and accessibility. The rewrite took three days, but code review still found about 180 defects the screenshots missed, and the startup bundle roughly doubled.</div>",
+   "title": "Porting 287,000 lines of React in 3 days. The hard part was proving nothing changed. (11 minute read)",
+   "url": "https://maple.dev/blog/react-to-foldkit/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers",
+   "issue_date": "2026-11-03",
+   "position": 3,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Coding interviews no longer predict success when AI can outperform candidates on the same tasks, according to this hiring perspective. Newer engineers can stand out by tying their work to business goals, choosing one bold idea, and proving it with a weekend prototype.</div>",
+   "title": "Hunger beats tenure: Advice for junior engineers (5 minute read)",
+   "url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside",
+   "issue_date": "2026-11-03",
+   "position": 4,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">AI makes it cheap to generate changes, but understanding, reviewing, and coordinating them still consumes the same limited human attention. Clearer intent about priorities and scope, plus a deliberate gate between experiments and the shared product, can help teams keep control of their direction.</div>",
+   "title": "Our organizations are being DDoSed from the inside (4 minute read)",
+   "url": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://newsletter.pragmaticengineer.com/p/the-pulse-time-to-rethink-software",
+   "issue_date": "2026-11-03",
+   "position": 5,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">A single week brought a pile-up of major security failures: a certificate authority issued keys that were trivially guessable numbers, critical flaws hit PHP, GitLab, and Node.js, Railway leaked customer secrets, and PingCAP's TiDB control plane was breached for a month. AI now makes vulnerabilities faster to find and easier to exploit, even for nontechnical attackers. Teams will likely need automated patching, constant security monitoring, and AI-driven defense, and security will cost more.</div>",
+   "title": "Time to rethink software security because of AI? (10 minute read)",
+   "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-time-to-rethink-software"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/beenuar/AiSOC",
+   "issue_date": "2026-11-03",
+   "position": 6,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">AiSOC is a self-hostable security operations platform that combines alerts, uses LLM agents for triage, and supports investigations mapped to MITRE ATT&amp;CK. A replayable decision ledger records agent steps, and an MCP server exposes the system to connected coding assistants.</div>",
+   "title": "AiSOC (GitHub Repo)",
+   "url": "https://github.com/beenuar/AiSOC"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+   "issue_date": "2026-11-03",
+   "position": 7,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Disc Image Studio turns images into data patterns that become visible artwork on the recording surface of CDs, DVDs, and single-layer Blu-ray discs. Windows supports design and burning, while experimental Linux and macOS command-line builds generate disc images offline.</div>",
+   "title": "Disc Image Studio (GitHub Repo)",
+   "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"
+  },
+  {
+   "edition": "dev",
+   "id": "https://labs.leaningtech.com/blog/cheerpj-5.0",
+   "issue_date": "2026-11-03",
+   "position": 8,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">CheerpJ brings Java 21 and preview support for Java 25 to the browser, with a full OpenJDK that can compile as well as run Java applications. Its new WasmGC engine is experimental and opt-in, with production readiness planned for CheerpJ 6.0.</div>",
+   "title": "CheerpJ 5.0 (10 minute read)",
+   "url": "https://labs.leaningtech.com/blog/cheerpj-5.0"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/kgoedecke/doop",
+   "issue_date": "2026-11-03",
+   "position": 9,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Doop is a multiplayer design canvas where people and AI agents edit together through a built-in MCP server. It supports live cursors, threaded comments, clickable prototypes, and self-hosting with embedded Postgres for local development.</div>",
+   "title": "Doop (GitHub Repo)",
+   "url": "https://github.com/kgoedecke/doop"
+  },
+  {
+   "edition": "dev",
+   "id": "https://p.migdal.pl/warsaw-vibe-voxel",
+   "issue_date": "2026-11-03",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Explore central Warsaw as an interactive 3D voxel map built from GUGiK and OpenStreetMap data. Controls for date, time, and weather let you change the scene's lighting and atmosphere, and the source code is available to inspect.</div>",
+   "title": "Warsaw in voxels (Website)",
+   "url": "https://p.migdal.pl/warsaw-vibe-voxel/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://allenai.org/blog/novelty-bench",
+   "issue_date": "2026-11-03",
+   "position": 11,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Ai2's benchmark, built from ICLR 2026 peer reviews, tests whether LLMs can judge research novelty and finds that small prompt changes can swing accuracy by more than 50 points on AI-generated ideas. Extra retrieval and reasoning did not reliably help, so teams using LLM judges should test their stability on the kinds of ideas they plan to score.</div>",
+   "title": "Can we trust LLMs to judge whether a research idea is novel? (8 minute read)",
+   "url": "https://allenai.org/blog/novelty-bench"
+  },
+  {
+   "edition": "dev",
+   "id": "https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens",
+   "issue_date": "2026-11-03",
+   "position": 12,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Smarsh turned the AWS Agentic AI Lens into a Claude skill that checks all 150 best practices against a GitHub repository and produces an evidence-cited workbook in hours. The review surfaced gaps such as missing prompt-injection screening and cost controls, making follow-up architecture discussions more focused.</div>",
+   "title": "Automating agentic AI Well-Architected reviews with the AWS Agentic AI Lens (8 minute read)",
+   "url": "https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/vercel-labs/scriptc",
+   "issue_date": "2026-11-03",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">This experimental compiler turns TypeScript and JavaScript into native executables or WebAssembly.</div>",
+   "title": "scriptc (GitHub Repo)",
+   "url": "https://github.com/vercel-labs/scriptc"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/CNCKitchen/ScanRuler",
+   "issue_date": "2026-11-03",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">ScanRuler measures 3D scans, compares them against CAD models, and maps wall thickness entirely in the browser.</div>",
+   "title": "ScanRuler (GitHub Repo)",
+   "url": "https://github.com/CNCKitchen/ScanRuler"
+  },
+  {
+   "edition": "dev",
+   "id": "https://expressjs.com/en/blog/2026-10-31-security-releases",
+   "issue_date": "2026-11-03",
+   "position": 15,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The Express team patched denial-of-service flaws in body-parser and multer and recommends updating Node.js for the separate upstream Brotli decoder vulnerability.</div>",
+   "title": "October 2026 Express security releases (4 minute read)",
+   "url": "https://expressjs.com/en/blog/2026-10-31-security-releases/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/Leaflet/Leaflet/releases/tag/v2.0.0-beta.1",
+   "issue_date": "2026-11-03",
+   "position": 16,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Leaflet's first 2.0 beta adds tree-shaking, bundled TypeScript types, and accessibility improvements, reducing a map with a tile layer from 38 kB to 25.6 kB gzipped while introducing breaking API changes.</div>",
+   "title": "Leaflet 2.0 beta (Website)",
+   "url": "https://github.com/Leaflet/Leaflet/releases/tag/v2.0.0-beta.1"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.testingcatalog.com/gpt-6-2-astra-appears-codex-usage",
+   "issue_date": "2026-11-03",
+   "position": 0,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">GPT-6.2-Astra has started appearing in Codex usage breakdowns. The requests are likely being quietly routed to the new model as part of an A/B test or a staged rollout. A public launch could be days away. OpenAI reportedly decided to skip GPT-6.1 Astra due to concerns about deception and scope.</div>",
+   "title": "GPT-6.2 Astra appears in Codex usage ahead of possible launch (3 minute read)",
+   "url": "https://www.testingcatalog.com/gpt-6-2-astra-appears-codex-usage/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
+   "issue_date": "2026-11-03",
+   "position": 1,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic disclosed in its updated IPO filing that it may soon reach its internal definition of recursive self-improvement (RSI), where AI systems help develop increasingly capable AI models.</div>",
+   "title": "Anthropic Warns It May Be Close to Self-Improving AI (3 minute read)",
+   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://claude.com/resources/articles/message-threads",
+   "issue_date": "2026-11-03",
+   "position": 2,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic released message threads in public beta, allowing agents to send only new messages instead of resending their entire conversation history. The feature reduced median time to first token by approximately 35% for requests with 500K\u20131M tokens, without changing token usage.</div>",
+   "title": "Claude Introduces Message Threads (2 minute read)",
+   "url": "https://claude.com/resources/articles/message-threads"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.gr.inc/blog/how-to-train-a-swarm",
+   "issue_date": "2026-11-03",
+   "position": 3,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Swarms are AI systems where multiple agents cooperate towards a shared goal. This post discusses a technique called collective inference-time scaling, where agents scale the amount of useful work performed in parallel and the communication needed to achieve it. It also explains how to design incentives for parallel work, and covers the general topic of designing incentives for reinforcement learning.</div>",
+   "title": "How to Train a Swarm (19 minute read)",
+   "url": "https://www.gr.inc/blog/how-to-train-a-swarm"
+  },
+  {
+   "edition": "ai",
+   "id": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration",
+   "issue_date": "2026-11-03",
+   "position": 4,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Microsoft's Copilot Cowork, an AI-driven agentic execution layer, achieved global availability in four and a half months, switching its runtime from Python to Rust while live. Key practices included writing clear specs before coding, running narrow agents with clear boundaries, and ensuring automated checks genuinely verify code changes. The transition to Rust improved efficiency and highlighted the importance of clear testing, boundary setting, and human oversight in the development process.</div>",
+   "title": "Lessons from building Copilot Cowork (21 minute read)",
+   "url": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.coreauto.com/hitchhikers-guide-to-training-on-compute-islands",
+   "issue_date": "2026-11-03",
+   "position": 5,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Being able to train reliably on multiple smaller clusters widens the usable training pool for frontier training. A single run could mix accelerator generations and vendors as each island runs on its own schedule. Older generations or less common chips could also participate in a frontier run. One risk with this model is that integrity and safety may become harder when models are trained across providers, as one faulty or compromised site can quietly degrade or tamper with models in ways that are harder to trace.</div>",
+   "title": "The Hitchhiker's Guide to Training on Compute Islands (18 minute read)",
+   "url": "https://www.coreauto.com/hitchhikers-guide-to-training-on-compute-islands"
+  },
+  {
+   "edition": "ai",
+   "id": "https://humansand.ai/blog/gpu-accelerated-weight-teleportation",
+   "issue_date": "2026-11-03",
+   "position": 6,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">GPU-accelerated Weight Teleportation optimizes RL training by improving weight syncing between trainers and samplers, reducing pause times to under 0.23 seconds. This is achieved using a co-designed compression/decompression pipeline with GPU-accelerated parallel processing, utilizing efficient codecs like LZ4 and Snappy, combined with a Zstd layer.</div>",
+   "title": "GPU-accelerated Weight Teleportation (17 minute read)",
+   "url": "https://humansand.ai/blog/gpu-accelerated-weight-teleportation"
+  },
+  {
+   "edition": "ai",
+   "id": "https://framer.com/blog/harness-2",
+   "issue_date": "2026-11-03",
+   "position": 7,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Framer's Harness 2 significantly upgrades the agent's execution process, allowing entire workflows in one program, achieving up to 33% cost reduction and 20% faster execution. This is done by executing JavaScript as it streams in, avoiding multiple model calls and using eager execution and early cancellation to enhance efficiency. The redesign also replaces DSL with method calls for real-time updates, making task execution streamlined for both in-app and external agents, reducing tool steps by 43% and cached input tokens by 39% per message.</div>",
+   "title": "Harness 2: executing agent code as it streams (6 minute read)",
+   "url": "https://framer.com/blog/harness-2/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos",
+   "issue_date": "2026-11-03",
+   "position": 8,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">NVIDIA introduced new Cosmos Framework capabilities for training, fine-tuning, reinforcement learning, and optimizing world models for physical AI. Developers can generate synchronized video and LiDAR simulations for robotics and autonomous vehicles, then deploy models through GPU-accelerated Cosmos NIM microservices.</div>",
+   "title": "NVIDIA's Cosmos Framework (6 minute read)",
+   "url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs",
+   "issue_date": "2026-11-03",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI plans to merge the Chat and Work tabs within the ChatGPT experience after an initial testing period with select users. Codex will remain a separate experience in the ChatGPT desktop app. The change will enable users to move from exploring ideas to having the chatbot complete work within the same space. Users can import files and plugins. Both ChatGPT and Codex will soon draw from the same allowance pool.</div>",
+   "title": "OpenAI is finally merging ChatGPT's Chat and Work tabs (2 minute read)",
+   "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights",
+   "issue_date": "2026-11-03",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">A recent paper demonstrates GPT-6 Astra's ability to interact with neural network weights directly, surpassing human or conventional algorithm capabilities. Astra significantly improved a 0.8B Qwen LLM's mathematical skills by editing weights natively. While impressive, these capabilities reflect advanced problem-solving akin to skilled human researchers, not radically new AI capabilities.</div>",
+   "title": "LLMs are not superhuman at reading and writing neural network weights (4 minute read)",
+   "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+   "issue_date": "2026-11-03",
+   "position": 11,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic's amended IPO prospectus reveals a 1,200% increase in revenue to $33.24 billion for the first nine months of 2026. The company reported a net loss of $104 billion for the same period. Anthropic's commitments for compute and infrastructure total approximately $895.4 billion.</div>",
+   "title": "Anthropic releases amended IPO prospectus with third-quarter financials (1 minute read)",
+   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
+  },
+  {
+   "edition": "ai",
+   "id": "https://githubnext.com/posts/enclaves",
+   "issue_date": "2026-11-03",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Enclaves are a new security primitive for cross-repository GitHub Agentic Workflows that lets agents work on different repositories while limiting what they say to each other.</div>",
+   "title": "Limit what agents learn about private repos with enclaves (17 minute read)",
+   "url": "https://githubnext.com/posts/enclaves/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://openai.com/index/lifeval",
+   "issue_date": "2026-11-03",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">LifeVal is a benchmark designed to evaluate AI performance on practical everyday tasks such as budgeting, finding childcare, and accessing government services.</div>",
+   "title": "OpenAI Introduces LifeVal to Measure AI Performance on Everyday Tasks (4 minute read)",
+   "url": "https://openai.com/index/lifeval/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://x.com/elonmusk/status/2116992258520064397",
+   "issue_date": "2026-11-03",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Elon Musk confirmed that Grok Bot usage limits were reduced after operating costs became unsustainably high relative to revenue.</div>",
+   "title": "Elon Musk Limits Grok Bot Usage Over Rising Costs (2 minute read)",
+   "url": "https://x.com/elonmusk/status/2116992258520064397"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.lesswrong.com/posts/35yw2qGK7naFLAvcq/teaching-qwen-why-1",
+   "issue_date": "2026-11-03",
+   "position": 15,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The research extends Anthropic's \"Teaching Claude Why\" methods to new models, focusing on reducing agentic misalignment through synthetic document finetuning (SDF) and supervised finetuning (SFT) with fictional stories and ethical dilemmas.</div>",
+   "title": "Teaching Qwen Why (47 minute read)",
+   "url": "https://www.lesswrong.com/posts/35yw2qGK7naFLAvcq/teaching-qwen-why-1"
   }
  ]
 }

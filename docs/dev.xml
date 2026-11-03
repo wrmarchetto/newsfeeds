@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-11-02T11:00:00+00:00</updated>
+  <updated>2026-11-03T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,176 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://blog.cloudflare.com/dns-targeted-zone-builds</id>
+    <title>How we halved DNS build delay and cut memory use by 85% (18 minute read)</title>
+    <updated>2026-11-03T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Cloudflare replaced full DNS zone rebuilds with a planner that selects the smallest provably safe update and a scheduler that combines work for the same zone. The changes cut peak memory by 85% and halved the delay from a DNS change to its data being written to Quicksilver without rebuilding tens of millions of records for a settings change.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-03"&gt;TLDR Dev · 2026-11-03 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.cloudflare.com/dns-targeted-zone-builds/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-03T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://nextjs.org/blog/ship-less-javascript-with-ai</id>
+    <title>Ship less JavaScript in Next.js with your AI agent (4 minute read)</title>
+    <updated>2026-11-03T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Hidden import chains often load heavy code upfront that teams thought they had deferred, which slows page loads. Next.js 16.4 adds an agent skill that reads Turbopack's module graph, finds these problems, and can apply the fixes, plus new Bundle Analyzer views for route sizes, snapshot diffs, and the critical render path. At Vercel, it removed nearly 2 MB of compressed JavaScript across v0 and vercel.com, so Turbopack users can get similar savings with little manual work.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-03"&gt;TLDR Dev · 2026-11-03 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://nextjs.org/blog/ship-less-javascript-with-ai"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-03T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://maple.dev/blog/react-to-foldkit</id>
+    <title>Porting 287,000 lines of React in 3 days. The hard part was proving nothing changed. (11 minute read)</title>
+    <updated>2026-11-03T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Maple moved its observability app from React to Foldkit using about 40 Claude agents, with most human effort going into a harness that compared more than 2,600 screen variants across pixels, structure, network requests, and accessibility. The rewrite took three days, but code review still found about 180 defects the screenshots missed, and the startup bundle roughly doubled.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-03"&gt;TLDR Dev · 2026-11-03 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://maple.dev/blog/react-to-foldkit/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-03T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers</id>
+    <title>Hunger beats tenure: Advice for junior engineers (5 minute read)</title>
+    <updated>2026-11-03T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Coding interviews no longer predict success when AI can outperform candidates on the same tasks, according to this hiring perspective. Newer engineers can stand out by tying their work to business goals, choosing one bold idea, and proving it with a weekend prototype.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-03"&gt;TLDR Dev · 2026-11-03 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-03T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside</id>
+    <title>Our organizations are being DDoSed from the inside (4 minute read)</title>
+    <updated>2026-11-03T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI makes it cheap to generate changes, but understanding, reviewing, and coordinating them still consumes the same limited human attention. Clearer intent about priorities and scope, plus a deliberate gate between experiments and the shared product, can help teams keep control of their direction.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-03"&gt;TLDR Dev · 2026-11-03 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-03T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://newsletter.pragmaticengineer.com/p/the-pulse-time-to-rethink-software</id>
+    <title>Time to rethink software security because of AI? (10 minute read)</title>
+    <updated>2026-11-03T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A single week brought a pile-up of major security failures: a certificate authority issued keys that were trivially guessable numbers, critical flaws hit PHP, GitLab, and Node.js, Railway leaked customer secrets, and PingCAP's TiDB control plane was breached for a month. AI now makes vulnerabilities faster to find and easier to exploit, even for nontechnical attackers. Teams will likely need automated patching, constant security monitoring, and AI-driven defense, and security will cost more.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-03"&gt;TLDR Dev · 2026-11-03 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.pragmaticengineer.com/p/the-pulse-time-to-rethink-software"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-03T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/beenuar/AiSOC</id>
+    <title>AiSOC (GitHub Repo)</title>
+    <updated>2026-11-03T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AiSOC is a self-hostable security operations platform that combines alerts, uses LLM agents for triage, and supports investigations mapped to MITRE ATT&amp;amp;CK. A replayable decision ledger records agent steps, and an MCP server exposes the system to connected coding assistants.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-03"&gt;TLDR Dev · 2026-11-03 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/beenuar/AiSOC"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-03T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</id>
+    <title>Disc Image Studio (GitHub Repo)</title>
+    <updated>2026-11-03T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Disc Image Studio turns images into data patterns that become visible artwork on the recording surface of CDs, DVDs, and single-layer Blu-ray discs. Windows supports design and burning, while experimental Linux and macOS command-line builds generate disc images offline.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-03"&gt;TLDR Dev · 2026-11-03 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-03T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://labs.leaningtech.com/blog/cheerpj-5.0</id>
+    <title>CheerpJ 5.0 (10 minute read)</title>
+    <updated>2026-11-03T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;CheerpJ brings Java 21 and preview support for Java 25 to the browser, with a full OpenJDK that can compile as well as run Java applications. Its new WasmGC engine is experimental and opt-in, with production readiness planned for CheerpJ 6.0.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-03"&gt;TLDR Dev · 2026-11-03 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://labs.leaningtech.com/blog/cheerpj-5.0"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-03T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/kgoedecke/doop</id>
+    <title>Doop (GitHub Repo)</title>
+    <updated>2026-11-03T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Doop is a multiplayer design canvas where people and AI agents edit together through a built-in MCP server. It supports live cursors, threaded comments, clickable prototypes, and self-hosting with embedded Postgres for local development.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-03"&gt;TLDR Dev · 2026-11-03 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/kgoedecke/doop"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-03T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://p.migdal.pl/warsaw-vibe-voxel</id>
+    <title>Warsaw in voxels (Website)</title>
+    <updated>2026-11-03T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Explore central Warsaw as an interactive 3D voxel map built from GUGiK and OpenStreetMap data. Controls for date, time, and weather let you change the scene's lighting and atmosphere, and the source code is available to inspect.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-03"&gt;TLDR Dev · 2026-11-03 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://p.migdal.pl/warsaw-vibe-voxel/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-03T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://allenai.org/blog/novelty-bench</id>
+    <title>Can we trust LLMs to judge whether a research idea is novel? (8 minute read)</title>
+    <updated>2026-11-03T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Ai2's benchmark, built from ICLR 2026 peer reviews, tests whether LLMs can judge research novelty and finds that small prompt changes can swing accuracy by more than 50 points on AI-generated ideas. Extra retrieval and reasoning did not reliably help, so teams using LLM judges should test their stability on the kinds of ideas they plan to score.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-03"&gt;TLDR Dev · 2026-11-03 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://allenai.org/blog/novelty-bench"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-03T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens</id>
+    <title>Automating agentic AI Well-Architected reviews with the AWS Agentic AI Lens (8 minute read)</title>
+    <updated>2026-11-03T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Smarsh turned the AWS Agentic AI Lens into a Claude skill that checks all 150 best practices against a GitHub repository and produces an evidence-cited workbook in hours. The review surfaced gaps such as missing prompt-injection screening and cost controls, making follow-up architecture discussions more focused.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-03"&gt;TLDR Dev · 2026-11-03 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-03T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel-labs/scriptc</id>
+    <title>scriptc (GitHub Repo)</title>
+    <updated>2026-11-03T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This experimental compiler turns TypeScript and JavaScript into native executables or WebAssembly.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-03"&gt;TLDR Dev · 2026-11-03 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/vercel-labs/scriptc"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-03T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/CNCKitchen/ScanRuler</id>
+    <title>ScanRuler (GitHub Repo)</title>
+    <updated>2026-11-03T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;ScanRuler measures 3D scans, compares them against CAD models, and maps wall thickness entirely in the browser.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-03"&gt;TLDR Dev · 2026-11-03 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/CNCKitchen/ScanRuler"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-03T10:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://expressjs.com/en/blog/2026-10-31-security-releases</id>
+    <title>October 2026 Express security releases (4 minute read)</title>
+    <updated>2026-11-03T10:59:45+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Express team patched denial-of-service flaws in body-parser and multer and recommends updating Node.js for the separate upstream Brotli decoder vulnerability.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-03"&gt;TLDR Dev · 2026-11-03 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://expressjs.com/en/blog/2026-10-31-security-releases/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-03T10:59:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/Leaflet/Leaflet/releases/tag/v2.0.0-beta.1</id>
+    <title>Leaflet 2.0 beta (Website)</title>
+    <updated>2026-11-03T10:59:44+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Leaflet's first 2.0 beta adds tree-shaking, bundled TypeScript types, and accessibility improvements, reducing a map with a tile layer from 38 kB to 25.6 kB gzipped while introducing breaking API changes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-03"&gt;TLDR Dev · 2026-11-03 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/Leaflet/Leaflet/releases/tag/v2.0.0-beta.1"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-03T10:59:44+00:00</published>
+  </entry>
   <entry>
     <id>https://vercel.com/blog/simplifying-runtime-caching-on-vercel</id>
     <title>Simplifying Runtime Caching on Vercel (4 minute read)</title>
