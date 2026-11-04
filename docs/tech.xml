@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/tech.xml</id>
   <title>TLDR</title>
-  <updated>2026-11-03T11:00:00+00:00</updated>
+  <updated>2026-11-04T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,146 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20</id>
+    <title>OpenAI: ChatGPT Search Is About 20% of Google's, 250 Million People Speak With ChatGPT, and Chat Is Merging With Work (4 minute read)</title>
+    <updated>2026-11-04T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI added 200 million users over just the past two months. Its growth is accelerating. ChatGPT's search volume is approximately 20% of Google's, and its users create 1.5 billion images with it per week. This post contains an edited transcript of an interview with ChatGPT consumer product lead Adam Fry, where he discusses OpenAI's plans to merge ChatGPT's Chat and Work modes, image generation, interactive interfaces, advertising, education, and public unease about AI.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-04"&gt;TLDR · 2026-11-04 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-04T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://developer.apple.com/news?id=gdk2umrf&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>Siri AI is now open to all developers (4 minute read)</title>
+    <updated>2026-11-04T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Developers can now enable their apps to bring content and actions directly into Siri AI by using App Intents. Skills are available for more complex requests that require Siri to combine several actions into a single experience. Siri AI can now surface any entity in the Spotlight semantic index. Submissions to the App Store for apps with the new capabilities will open up in the spring.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-04"&gt;TLDR · 2026-11-04 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://developer.apple.com/news/?id=gdk2umrf&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-04T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.a16z.news/p/the-state-of-longevity</id>
+    <title>The State of Longevity (18 minute read)</title>
+    <updated>2026-11-04T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The fringe movement of biohackers and people taking a more hands-on approach to longevity has moved into the mainstream thanks to the COVID-19 pandemic and AI chatbots. More and more people are now taking their health into their own hands and spending time, money, and energy on health and longevity. This post looks at how people view health and explores how the people at the cutting edge of health and technology approach their own health. Some of the biggest opportunities in longevity will go to the companies that help people take action and manage their health over time.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-04"&gt;TLDR · 2026-11-04 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.a16z.news/p/the-state-of-longevity"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-04T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2026-11-03/neuralink-china-brainco-obesity-with-electronic-glp-wearable-weight-loss?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzc2NjIyOSwiZXhwIjoxNzk0MzcxMDI5LCJhcnRpY2xlSWQiOiJUTldWU0JLSzNOWTgwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9._EOYJORteRaZpC1kV0zdY39mi4h074JYQDhJGzPJJ38&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>Neuralink's China Rival Targets Obesity With ‘Electronic' GLP-1 (2 minute read)</title>
+    <updated>2026-11-04T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;BrainCo, a Chinese neurotech company, is developing a wearable device that suppresses appetite by stimulating the brain. It aims to bring the device to market within the next two to three years. The device will launch first in China before potentially expanding to the US. BrainCo currently markets brain-computer interface-enabled headsets to address neurological disorders such as autism, ADHD, and insomnia. Its devices can collect, decode, and stimulate neural signals.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-04"&gt;TLDR · 2026-11-04 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-03/neuralink-china-brainco-obesity-with-electronic-glp-wearable-weight-loss?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzc2NjIyOSwiZXhwIjoxNzk0MzcxMDI5LCJhcnRpY2xlSWQiOiJUTldWU0JLSzNOWTgwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9._EOYJORteRaZpC1kV0zdY39mi4h074JYQDhJGzPJJ38&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-04T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing</id>
+    <title>How software engineering is changing: a tale of two eras (32 minute read)</title>
+    <updated>2026-11-04T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI-native startups can ship even faster than fast-moving pre-AI startups because they risk nothing by moving too fast. The old constraints of software engineering have disappeared, allowing startups to move faster, but also break things. The new constraints are too much context switching, losing shared context, tougher pacing, less focus on design, and AI plan limits. Many existing technologies and processes will crack under the change.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-04"&gt;TLDR · 2026-11-04 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-04T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://benjamincongdon.me/blog/2026/11/02/Interpolative-Software</id>
+    <title>Interpolative Software (5 minute read)</title>
+    <updated>2026-11-04T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Interpolative software is code that is solidly within the training distribution of models. It can often be specified with just a few sentences of prompting. Novel software is something that has fundamentally not existed before. Writing novel software with agents is challenging, as they are not trained on the task. Not a lot of software is novel, which is fine, as there is still a ton of value in the interpolative stuff.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-04"&gt;TLDR · 2026-11-04 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://benjamincongdon.me/blog/2026/11/02/Interpolative-Software/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-04T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://zachholman.com/posts/angel-investor-death</id>
+    <title>The Death of the Angel Investor (6 minute read)</title>
+    <updated>2026-11-04T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The economics of angel investing have shifted. Many investors have realized it's potentially more profitable to raise a fund instead of using their own money. Technology startups now move much faster, and running around grabbing small checks from angels is less palatable than grabbing a pre-seed fund to fund a whole initial round. Also, when angels try to fund a round, they are often pushed out by the valuation game.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-04"&gt;TLDR · 2026-11-04 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://zachholman.com/posts/angel-investor-death"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-04T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html?unlocked_article_code=1.N1E.ptjc.6fOSKNFJlLLf&amp;amp%3Bsmid=url-share&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>Google Will Turn Off Search for Schools That Reject AI (7 minute read)</title>
+    <updated>2026-11-04T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Google will turn off AI tools in its software for K-12 students unless school administrators explicitly choose to make them available. However, schools that choose to restrict AI entirely will also lose access to Google search. Google had earlier turned on AI features as the default option and is claiming that the reversal is in response to feedback from educators and parents. The company's decision to use this strategy shows how much power it has over the US education system.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-04"&gt;TLDR · 2026-11-04 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html?unlocked_article_code=1.N1E.ptjc.6fOSKNFJlLLf&amp;amp%3Bsmid=url-share&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-04T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://namespace.so/blog/mac-at-any-scale</id>
+    <title>Mac at any scale (14 minute read)</title>
+    <updated>2026-11-04T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This post looks at how Namespace builds custom Mac racks, how it starts macOS instances from scratch in seconds, and how to deliver new Xcode versions mere hours after Apple releases them.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-04"&gt;TLDR · 2026-11-04 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://namespace.so/blog/mac-at-any-scale"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-04T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles</id>
+    <title>A Family Tree of Software Job Titles (7 minute read)</title>
+    <updated>2026-11-04T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A look at how jobs in software have evolved from the 1940s to now.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-04"&gt;TLDR · 2026-11-04 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-04T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://webkit.org/blog/18541/introducing-adaptive-dark-mode</id>
+    <title>Introducing Adaptive Dark Mode (6 minute read)</title>
+    <updated>2026-11-04T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Adaptive Dark Mode in Safari adapts light websites and presents them as dark.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-04"&gt;TLDR · 2026-11-04 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://webkit.org/blog/18541/introducing-adaptive-dark-mode/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-04T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://mackgrenfell.com/writing/saas-growth-2026</id>
+    <title>The SaaS apocalypse started in October (5 minute read)</title>
+    <updated>2026-11-04T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Revenue at the median SaaS company grew 0.20% in September, then shrank 0.41% the month after.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-04"&gt;TLDR · 2026-11-04 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://mackgrenfell.com/writing/saas-growth-2026"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-04T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345</id>
+    <title>British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted (6 minute read)</title>
+    <updated>2026-11-04T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Revolut runs GLM-5.3 on 56 Nvidia B200 GPUs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-04"&gt;TLDR · 2026-11-04 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-04T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://substack.hadley.nz/p/how-much-do-tokens-really-cost</id>
+    <title>How much do tokens really cost? (7 minute read)</title>
+    <updated>2026-11-04T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;It appears that the cost of running servers is significantly cheaper than what providers are charging, assuming high capacity.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-04"&gt;TLDR · 2026-11-04 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://substack.hadley.nz/p/how-much-do-tokens-really-cost"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-04T10:59:47+00:00</published>
+  </entry>
   <entry>
     <id>https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat</id>
     <title>Coming in 2027: Apple's $1,000 home robot for FaceTime and switching on lights (2 minute read)</title>
@@ -1429,145 +1569,5 @@
     <category term="TLDR"/>
     <category term="Quick Links"/>
     <published>2026-10-21T10:59:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.semafor.com/article/10/19/2026/waymo-plans-to-quintuple-its-fleet</id>
-    <title>Waymo plans to quintuple its fleet (1 minute read)</title>
-    <updated>2026-10-20T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Waymo plans to grow its fleet to 20,000 by the end of next year. It recently raised $5 billion from private credit lenders to achieve this goal. The company has already ordered thousands of cars from China to help expand its fleet. Waymo currently operates 4,000 vehicles in 15 cities in the US.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.semafor.com/article/10/19/2026/waymo-plans-to-quintuple-its-fleet"/>
-    <category term="TLDR"/>
-    <category term="Big Tech &amp; Startups"/>
-    <published>2026-10-20T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-10-19/apple-announces-oct-28-event-for-touch-screen-macbook-pro?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjQ2NTcwOCwiZXhwIjoxNzkzMDcwNTA4LCJhcnRpY2xlSWQiOiJUTjVXTFRLSUpIOE4wMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.9-rQbdYBHovzTZePj_kDnZSnkRnXix9kn06X9f70Kxs</id>
-    <title>Apple Announces Oct. 28 Event for Touch-Screen MacBook Pro (2 minute read)</title>
-    <updated>2026-10-20T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Apple will be holding a product launch event on October 28 to debut its first touch-screen MacBook. The company will also introduce a new low-end MacBook Pro with an M6 chip, a refreshed iMac, and a revamped iPad mini with a sharper screen. Apple retail stores are preparing to begin selling new products on November 6. The new touch MacBooks, which will run on M5 Pro and M5 Max chips, will have a Dynamic Island interface, as well as a sharper OLED display.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-19/apple-announces-oct-28-event-for-touch-screen-macbook-pro?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjQ2NTcwOCwiZXhwIjoxNzkzMDcwNTA4LCJhcnRpY2xlSWQiOiJUTjVXTFRLSUpIOE4wMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.9-rQbdYBHovzTZePj_kDnZSnkRnXix9kn06X9f70Kxs"/>
-    <category term="TLDR"/>
-    <category term="Big Tech &amp; Startups"/>
-    <published>2026-10-20T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019</id>
-    <title>AI Proved the Quasi-Riemann Hypothesis. What Happens Now? (6 minute read)</title>
-    <updated>2026-10-20T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The quasi-Riemann hypothesis is a weaker version of the Riemann hypothesis, arguably the biggest open question in math. Resolving the Riemann hypothesis would enable mathematicians to better understand the nature of prime numbers. OpenAI's recently released proof for the quasi-Riemann hypothesis is the most significant AI-for-math achievement so far, by quite a margin. The vast majority of the consequences of resolving it already follow from solving the quasi-Riemann hypothesis.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/"/>
-    <category term="TLDR"/>
-    <category term="Science &amp; Futuristic Technology"/>
-    <published>2026-10-20T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test</id>
-    <title>Startup taps underwater volcano as energy source in “proof point” test (11 minute read)</title>
-    <updated>2026-10-20T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Endurance Energy, a Seattle-based startup, recently demonstrated the technical feasibility of using an active underwater volcano to generate electricity. The startup deployed a 3-ton prototype power plant at the Axial Seamount in the northeast Pacific Ocean in September and generated less than 10 seconds of net-positive electricity. The company's next trial run, planned for the winter of 2026 to 2027, will aim to sustain higher power generation. It is currently developing a 2-megawatt commercial generator for its first planned commercial deployment with the Kingdom of Tonga in 2027.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/"/>
-    <category term="TLDR"/>
-    <category term="Science &amp; Futuristic Technology"/>
-    <published>2026-10-20T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.cloudflare.com/clairic-extraction-model</id>
-    <title>Introducing Clairic, a new System One class of extraction models (16 minute read)</title>
-    <updated>2026-10-20T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Clairic is an extraction model. Extraction models are a new class of System One-style models that can extract, compute, estimate, and forecast values from unstructured inputs, all at significantly higher accuracy, faster latency, and lower cost than traditional LLMs. It answers with values directly extracted from the input, computed from it, or predicted beyond it. The model can't produce a mistyped answer or hallucinate in the same way an LLM can, but it can still make mistakes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.cloudflare.com/clairic-extraction-model/"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-20T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.cloudflare.com/obsessive-inference-optimization</id>
-    <title>Cutting our inference bill by 68% by being obsessive about optimization (15 minute read)</title>
-    <updated>2026-10-20T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Cloudflare lowered its average review cost from $2.43 to $0.77. The biggest single saving came from checking what actually reached the provider on each session's first request, and finding a way to order those messages in a way that was as consistent as possible across commits, merge requests, and repositories. Check whether each session's first request actually reads from the cache and whether reviewers still find real problems at the effort level being paid for.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.cloudflare.com/obsessive-inference-optimization"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-20T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.jasonwei.net/blog/ai-will-not-automate-radiologists-like-you-think</id>
-    <title>AI will not automate radiologists like you think (6 minute read)</title>
-    <updated>2026-10-20T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Some worry about radiology being totally automated, but the more likely outcome is a future where there is more demand for services as predictive power increases. This is similar to how programming is thriving despite drastic change in the field. It may be possible one day to use radiology images to predict disease probabilities far into the future. Any domain where demand can be elastic and quality can scale with increased intelligence will similarly flourish with the development of AI.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.jasonwei.net/blog/ai-will-not-automate-radiologists-like-you-think"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-20T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html?unlocked_article_code=1.KFE.Mdoj.9aCl6JAb1idL&amp;smid=url-share</id>
-    <title>Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say (6 minute read)</title>
-    <updated>2026-10-20T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Former OpenAI engineer Abdulrahman Alfozan was recently arrested and charged after a hidden recording device in one of OpenAI's offices was traced back to him. The engineer was in frequent contact with a member of the Saudi royal family, who was trying to recruit him to work in Saudi Arabia, but Alfozan had refused, saying he wanted to collect the company stock he had been promised. The Saudi government has offered to pay his bail, and a member of the Saudi military paid for his wife and infant son to fly out of the US the day after his arrest.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html?unlocked_article_code=1.KFE.Mdoj.9aCl6JAb1idL&amp;smid=url-share"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-20T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.wsj.com/business/media/netflix-americas-dominant-streaming-service-has-hit-a-wall-13660401?st=4VCGkt&amp;reflink=desktopwebshare_permalink</id>
-    <title>Netflix, America's Dominant Streaming Service, Has Hit a Wall (8 minute read)</title>
-    <updated>2026-10-20T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Netflix is overhauling its creative leadership as it struggles to get domestic audiences to watch more.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.wsj.com/business/media/netflix-americas-dominant-streaming-service-has-hit-a-wall-13660401?st=4VCGkt&amp;reflink=desktopwebshare_permalink"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-20T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://hugovk.dev/blog/2026/releasing-python-3-15-0</id>
-    <title>Releasing Python 3.15.0 (6 minute read)</title>
-    <updated>2026-10-20T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Python 3.15.0 features lazy imports, built-in frozendict and sentinel, more color, faster JIT, package startup config files, and much more.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://hugovk.dev/blog/2026/releasing-python-3-15-0/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-20T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c?st=4Qa1Yp&amp;reflink=desktopwebshare_permalink</id>
-    <title>Musk Vows to Give Each US Child a SpaceX Share (3 minute read)</title>
-    <updated>2026-10-20T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;With approximately 73 million children under the age of 18 living in the US, that could mean giving away nearly $11 billion in stock.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c?st=4Qa1Yp&amp;reflink=desktopwebshare_permalink"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-20T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming</id>
-    <title>It's still OK to enjoy programming (2 minute read)</title>
-    <updated>2026-10-20T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;It's okay to enjoy things without any economic justification.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-20T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bbc.com/news/articles/cjkgeq0k1wevo</id>
-    <title>US bans DeepSeek AI from government use as tech tension with China continues (3 minute read)</title>
-    <updated>2026-10-20T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The order is specific to civilian agencies - agencies within the Department of Defense are excluded.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.bbc.com/news/articles/cjkgeq0k1wevo"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-20T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again</id>
-    <title>People are using AI to make their smart TVs dumb again (5 minute read)</title>
-    <updated>2026-10-20T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;They're getting rid of sponsored ads, speeding up app launchers, redesigning home screens, disabling tracking features, and more.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-20"&gt;TLDR · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-20T10:59:47+00:00</published>
   </entry>
 </feed>

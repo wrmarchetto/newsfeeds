@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/hardware.xml</id>
   <title>TLDR Hardware</title>
-  <updated>2026-11-02T11:00:00+00:00</updated>
+  <updated>2026-11-04T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,126 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.spacex.com/starfall</id>
+    <title>SpaceX's Starfall is a flat disk capsule built to return up to 1,000 kg from orbit (3 minute read)</title>
+    <updated>2026-11-04T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Starfall is an uncrewed SpaceX reentry capsule shaped like a disk, about 10 feet across and 2.5 feet tall, that launches on Falcon 9, with Starship planned. It returns up to 1,000 kg from orbit by parachute and ocean splashdown, targeting about 700 nautical miles off the US West Coast. SpaceX's stated goals are fast point-to-point cargo delivery and return of in-space manufactured goods. The first demo launched on June 23, and it puts SpaceX in competition with return-capsule startups like Varda.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-04"&gt;TLDR Hardware · 2026-11-04 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.spacex.com/starfall"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-11-04T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tomshardware.com/pc-components/dram/apple-faces-unprecedented-memory-cost-increases-as-ram-prices-continue-to-surge-manufacturing-bill-climbs-by-usd33-billion-rising-component-expenses-threaten-margins-through-the-holiday-quarter-and-into-2027</id>
+    <title>Apple warns memory costs keep rising, as supplier purchase commitments jump $33B in one quarter (3 minute read)</title>
+    <updated>2026-11-04T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;On its earnings call, Apple CEO John Ternus called memory pricing “unprecedented” and said costs will rise again in the December quarter and beyond. Apple's manufacturing purchase obligations rose $33 billion in the September quarter, to $89.7 billion, to lock in supply. It guided December gross margin to 45% to 46%, and expects Macs and iPads to stay supply-constrained through the holidays. Apple raised prices on some Macs, iPads, and iPhones earlier this year.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-04"&gt;TLDR Hardware · 2026-11-04 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tomshardware.com/pc-components/dram/apple-faces-unprecedented-memory-cost-increases-as-ram-prices-continue-to-surge-manufacturing-bill-climbs-by-usd33-billion-rising-component-expenses-threaten-margins-through-the-holiday-quarter-and-into-2027"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-11-04T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.qualcomm.com/news/onq/2026/11/qualcomm-hbc-validated-silicon-ai-inference</id>
+    <title>Qualcomm says HBC silicon passes lab validation: 18x LPDDR5X bandwidth, 5x HBM4 bandwidth per watt (3 minute read)</title>
+    <updated>2026-11-04T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Qualcomm's first High Bandwidth Compute silicon passed lab validation. HBC bonds stacked LPDDR memory to an AI accelerator base die, so compute sits under the memory and data travels less. Qualcomm claims 18x the effective bandwidth of LPDDR5X and over 5x the bandwidth per watt of HBM4, from early tests. HBC debuts in the Dragonfly AI250 inference accelerator, sampling in the first half of 2027.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-04"&gt;TLDR Hardware · 2026-11-04 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.qualcomm.com/news/onq/2026/11/qualcomm-hbc-validated-silicon-ai-inference"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-11-04T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://thequantuminsider.com/2026/10/30/foxconn-aims-to-become-worlds-largest-quantum-computer-manufacturer</id>
+    <title>Foxconn plans to contract-build other companies' quantum computers, treating them as accelerators next to CPUs and GPUs (3 minute read)</title>
+    <updated>2026-11-04T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Foxconn wants to turn other companies' quantum designs into production systems, without owning the qubit technology itself. Chairman Young Liu told CNBC he sees the machines as accelerators attached to CPUs and GPUs for hard NP-type problems, not general-purpose computers, and puts commercial viability at least two years out. One cost driver he flagged is cabling: a single cable built for the low-temperature requirements can cost over $1,000.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-04"&gt;TLDR Hardware · 2026-11-04 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://thequantuminsider.com/2026/10/30/foxconn-aims-to-become-worlds-largest-quantum-computer-manufacturer/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-11-04T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space</id>
+    <title>Orbital Matter prints a half-meter rigid beam in orbit by UV-curing extruded resin (3 minute read)</title>
+    <updated>2026-11-04T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Orbital Matter's Replicator-2 satellite 3D printed a half-meter rigid beam in orbit by extruding coils of resin cured with UV light, a first for a free-flying spacecraft. One of two printers meant to deploy a solar array failed, but the boom the other made did deploy the array. Boom length is limited only by onboard resin, and the company thinks 100 m is feasible. A 2028 mission targets a 5 kW array, then 100+ kW per wing by 2030.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-04"&gt;TLDR Hardware · 2026-11-04 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-11-04T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tech.yahoo.com/computing/articles/intel-14a-moves-closer-production-152027808.html</id>
+    <title>Intel's 14A PDK 0.9 goes to outside customers, with PDK 1.0 due in Q1 2027 (3 minute read)</title>
+    <updated>2026-11-04T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Intel released 14A PDK 0.9 to outside customers, with PDK 1.0 planned for Q1 2027. A PDK is the set of design rules and transistor models chip designers build against, so 0.9 is where external designs can start taking shape. Intel's schedule still has risk production for its own products in the second half of 2027 and volume production in 2028, and it claims 14A is ahead of 18A on defect density and transistor performance at the same stage.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-04"&gt;TLDR Hardware · 2026-11-04 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://tech.yahoo.com/computing/articles/intel-14a-moves-closer-production-152027808.html"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-11-04T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://read.corematter.com/p/agility-unitree-humanoid-financials-compared</id>
+    <title>Agility lists at roughly 1,550x 2025 sales with a -151% gross margin, while Unitree's humanoid margin premium shrinks (8 minute read)</title>
+    <updated>2026-11-04T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Agility goes public via SPAC at roughly $2.8 billion on $1.8 million of 2025 revenue. Its gross margin was -151%, since a Digit costs about $125,000 to build against a $75,000 target. Unitree is worth about $40 billion on $239 million of revenue and 5,500 humanoids sold, but its gross margin slipped to 54%, and humanoids' margin edge over its other products shrank to 6 points. Agility spends about 4.5x Unitree's R&amp;amp;D on 1/134th of its revenue.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-04"&gt;TLDR Hardware · 2026-11-04 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://read.corematter.com/p/agility-unitree-humanoid-financials-compared"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-04T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth</id>
+    <title>Northwood Space raises $375M at a $2B valuation to scale satellite communications gear (1 minute read)</title>
+    <updated>2026-11-04T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Northwood Space raised a $375 million Series C at a $2 billion valuation, co-led by a16z and DFJ Growth, alongside a financing agreement with HSBC. Founded in 2022 and led by CEO Bridgit Mendler, it builds antennas and software that help satellites communicate with Earth. It raised a $100 million Series B in January and won a nearly $50 million Space Force contract to upgrade the satellite control network.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-04"&gt;TLDR Hardware · 2026-11-04 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-04T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.reuters.com/world/asia-pacific/samsung-make-amd-nvidia-chip-parts-second-texas-plant-maeil-business-reports-2026-11-03</id>
+    <title>Samsung to make HBM base dies for AMD and Nvidia on 2nm at a second Texas fab, per Maeil (2 minute read)</title>
+    <updated>2026-11-04T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Samsung will reportedly use its second Taylor, Texas, foundry to build base dies, the logic layer at the bottom of an HBM stack, for AMD and Nvidia on a 2nm process.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-04"&gt;TLDR Hardware · 2026-11-04 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.reuters.com/world/asia-pacific/samsung-make-amd-nvidia-chip-parts-second-texas-plant-maeil-business-reports-2026-11-03/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-04T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arxiv.org/abs/2611.03648</id>
+    <title>Pixel co-designs a low-cost wheeled humanoid with its data collection, controller, and policy stack (3 minute read)</title>
+    <updated>2026-11-04T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Pixel is a low-cost wheeled humanoid with human-aligned kinematics and compliant grippers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-04"&gt;TLDR Hardware · 2026-11-04 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arxiv.org/abs/2611.03648"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-04T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.semiconductor-digest.com/entegris-enters-silicon-carbide-and-diamond-enabled-thermal-management-materials-market-for-ai-advanced-packaging</id>
+    <title>Entegris moves into SiC and diamond thermal materials for AI packaging via an acquisition and an Element Six deal (2 minute read)</title>
+    <updated>2026-11-04T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Entegris bought Advanced Abrasives, a maker of diamond super-abrasives used to polish hard substrates like SiC, and plans a new SiC CMP line in Taiwan.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-04"&gt;TLDR Hardware · 2026-11-04 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.semiconductor-digest.com/entegris-enters-silicon-carbide-and-diamond-enabled-thermal-management-materials-market-for-ai-advanced-packaging"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-04T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://journalrecord.com/2026/11/03/elon-musk-spacex-tesla-merger-voting-control</id>
+    <title>Barclays estimates Musk would hold about 56% of the vote in a combined SpaceX-Tesla (2 minute read)</title>
+    <updated>2026-11-04T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Barclays estimates Elon Musk would own about 37% of a potential combined company but hold about 56% of the vote, since his SpaceX shares carry 10x votes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-04"&gt;TLDR Hardware · 2026-11-04 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://journalrecord.com/2026/11/03/elon-musk-spacex-tesla-merger-voting-control/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-04T10:59:49+00:00</published>
+  </entry>
   <entry>
     <id>https://boomsupersonic.com/press-release/superpower-superfactory</id>
     <title>Boom opens a $150M Colorado factory to build 42 MW gas turbines for AI data centers (3 minute read)</title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-11-03T11:00:00+00:00</updated>
+  <updated>2026-11-04T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://blog.nns.ee/2026/11/02/renault-hack</id>
+    <title>Jailbreaking my car's navigation system just so I can change the time (10 minute read)</title>
+    <updated>2026-11-04T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A Renault's clock settings were inaccessible without a legitimate navigation SD card, turning a daylight-saving adjustment into a firmware reverse-engineering project. QEMU emulation exposed how a script parser's file writes and Linux's core-dump handling could combine into code execution. The eventual fix changed the stored GPS time offset from 180 minutes to 120.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-04"&gt;TLDR Dev · 2026-11-04 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.nns.ee/2026/11/02/renault-hack/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-04T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://planetscale.com/blog/the-hidden-latency-inside-your-database</id>
+    <title>The hidden latency inside your database (7 minute read)</title>
+    <updated>2026-11-04T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Network-attached storage adds latency inside a database cluster, even when the application and database are close together. Local NVMe avoids that hop, but requires deliberate replication and failover to preserve durability. Workloads that fit mostly in RAM may see little benefit, while frequent cache misses and IOPS limits make storage placement worth examining.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-04"&gt;TLDR Dev · 2026-11-04 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://planetscale.com/blog/the-hidden-latency-inside-your-database"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-04T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/scaling-git-at-openai</id>
+    <title>Scaling Git at OpenAI (22 minute read)</title>
+    <updated>2026-11-04T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI built Pando, a Git-compatible backend that handles pushes to unrelated branches independently and reuses cached packfiles across fetches. It reduced median push latency by nearly 80% and now serves nearly a petabyte of Git data per day. The tradeoff is weaker consistency across branches and some redundant downloads, allowing writes to scale horizontally and reads to saturate clients' network connections.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-04"&gt;TLDR Dev · 2026-11-04 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openai.com/index/scaling-git-at-openai/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-04T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://knlb.dev/essays/surrender</id>
+    <title>Resisting Cognitive Surrender (12 minute read)</title>
+    <updated>2026-11-04T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Uncritically accepting agent output can increase technical debt while eroding the understanding needed to debug and maintain a system. Choose how much to delegate based on risk, stay involved in consequential decisions, and ask for small, comprehensible changes. When delegating more fully, use independent observability, deterministic checks, and shadow traffic to verify behavior rather than relying solely on the agent's account.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-04"&gt;TLDR Dev · 2026-11-04 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://knlb.dev/essays/surrender"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-04T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tech.wmg.com/auditioning-engineering-4ca3d48bf457</id>
+    <title>Auditioning Engineering: Software Engineering Interviews in the Age of AI (6 minute read)</title>
+    <updated>2026-11-04T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Warner Music Group encourages candidates to use AI while solving realistic API integration problems against a live, randomized test server. Its system-design interview asks candidates to modify an existing system and infer causes from observed behavior. The approach emphasizes technical judgment, although building new coding exercises and training senior system-design interviewers remain costly.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-04"&gt;TLDR Dev · 2026-11-04 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://tech.wmg.com/auditioning-engineering-4ca3d48bf457"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-04T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://honnibal.dev/blog/astra-read-write-misleading</id>
+    <title>The weight-space programming post is misleading (5 minute read)</title>
+    <updated>2026-11-04T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This critique separates experiments that inspect small networks' raw weights from larger-model experiments that use Python and execution feedback. The Qwen result involved 50 batches of practice problems, so it does not demonstrate improvement from inspecting raw weights alone. The distinction matters when judging whether the work shows one general capability or several different engineering techniques.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-04"&gt;TLDR Dev · 2026-11-04 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://honnibal.dev/blog/astra-read-write-misleading"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-04T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/earendil-works/djs</id>
+    <title>djs (GitHub Repo)</title>
+    <updated>2026-11-04T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;djs is a JavaScript and TypeScript engine written in Rust for agent-generated scripts running in a WebAssembly sandbox. It keeps the entire VM state in one byte array, allowing execution to pause between instructions, snapshot while waiting for tools, and resume elsewhere. The focused runtime deliberately omits features such as ES modules, Intl, and a JIT.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-04"&gt;TLDR Dev · 2026-11-04 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/earendil-works/djs"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-04T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/p10node/office-engine</id>
+    <title>Office Engine (GitHub Repo)</title>
+    <updated>2026-11-04T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Office Engine embeds DOCX, XLSX, and PPTX viewing and editing in a browser through React or a web component. Progressive loading, Web Worker parsing, and virtualized views handle large files, while saves regenerate edited parts and preserve the original bytes elsewhere.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-04"&gt;TLDR Dev · 2026-11-04 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/p10node/office-engine"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-04T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/google/three-live</id>
+    <title>Three-Live (GitHub Repo)</title>
+    <updated>2026-11-04T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Three-Live compiles a declarative subset of Three.js into GLB and USDZ assets for web, Android, and Apple rendering pipelines. It runs generated scripts with execution timeouts and geometry quotas, then hands the assets to platform-specific viewers. The Apache-licensed project is in Developer Preview and is not an officially supported Google product.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-04"&gt;TLDR Dev · 2026-11-04 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/google/three-live"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-04T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://rikiyat.github.io/blog/weight-space-programming</id>
+    <title>Sparks of Weight-Space Programming (20 minute read)</title>
+    <updated>2026-11-04T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Experiments show GPT-6 Astra reading and directly editing neural network weights without gradient descent, including writing small game-playing networks from scratch. Editing 0.016% of Qwen3.5-0.8B's weights reduced reasoning loops and raised MATH-500 accuracy from 7.9% to 48.1% with 50 forward passes for feedback. The gains removed an obstacle to existing ability, while similar edits failed to meaningfully improve a Gemma model that rarely looped.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-04"&gt;TLDR Dev · 2026-11-04 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://rikiyat.github.io/blog/weight-space-programming/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-04T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html</id>
+    <title>Could a modern chess engine on a Pentium have defeated Kasparov in 1996? (15 minute read)</title>
+    <updated>2026-11-04T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A port of Stockfish running on a 200 MHz Pentium Pro with 64 MB of RAM reaches a measured rating of 3180 at 30 seconds per move. The experiment attributes much of chess engines' progress to better search and evaluation rather than faster hardware. Its roughly 3300 rating at classical time controls is extrapolated from shorter games, and readers can play the machine online.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-04"&gt;TLDR Dev · 2026-11-04 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-04T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://hackertv.org/</id>
+    <title>HackerTV (Website)</title>
+    <updated>2026-11-04T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;HackerTV turns videos recommended in Hacker News comments into shared, continuously scheduled TV channels with a retro interface.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-04"&gt;TLDR Dev · 2026-11-04 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://hackertv.org/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-04T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://namespace.so/blog/mac-at-any-scale</id>
+    <title>Mac at any scale (14 minute read)</title>
+    <updated>2026-11-04T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Namespace explains the hardware, networking, virtualization, and VM-image distribution work behind running a fleet of Macs for cloud development and CI.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-04"&gt;TLDR Dev · 2026-11-04 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://namespace.so/blog/mac-at-any-scale"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-04T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.autodidacts.io/curiosity-traps</id>
+    <title>Curiosity Traps (7 minute read)</title>
+    <updated>2026-11-04T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Subtle details, footnotes, and Easter eggs in public work can reward close attention and help people with shared interests find each other.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-04"&gt;TLDR Dev · 2026-11-04 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.autodidacts.io/curiosity-traps/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-04T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive</id>
+    <title>C++26 DIS failed, how does C++ survive? (7 minute read)</title>
+    <updated>2026-11-04T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;C++26's draft failed its ISO ballot amid objections to Contracts, leaving the committee to agree on a revised path and putting the release schedule in doubt.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-04"&gt;TLDR Dev · 2026-11-04 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-04T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://blog.cloudflare.com/dns-targeted-zone-builds</id>
     <title>How we halved DNS build delay and cut memory use by 85% (18 minute read)</title>
@@ -1549,165 +1699,5 @@
     <category term="TLDR Dev"/>
     <category term="Quick Links"/>
     <published>2026-10-21T10:59:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://wendelladriel.com/blog/when-retries-make-things-worse-protecting-your-system-from-overload</id>
-    <title>When Retries Make Things Worse: Protecting Your System From Overload (16 minute read)</title>
-    <updated>2026-10-20T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Retries can turn a slow dependency into a wider outage by multiplying attempts and exhausting connections or workers. A PHP example combines one retry owner, an operation deadline, admission limits, shared retry budgets, and jitter, then outlines a load test that measures both overload and recovery.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-20"&gt;TLDR Dev · 2026-10-20 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://wendelladriel.com/blog/when-retries-make-things-worse-protecting-your-system-from-overload"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-20T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://pournasserian.com/writing/ai-friendly-website-2026</id>
-    <title>Making a website AI friendly: what the bots actually fetched from mine (17 minute read)</title>
-    <updated>2026-10-20T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;An analysis of 18 days of traffic to one personal site found that verified crawlers mostly fetched ordinary pages, robots.txt, and the sitemap. Markdown copies attracted verified crawlers within a day, while llms.txt saw no verified training or search crawler requests, suggesting that basic HTML and measured traffic matter more than adding every proposed discovery file.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-20"&gt;TLDR Dev · 2026-10-20 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://pournasserian.com/writing/ai-friendly-website-2026"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-20T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.jayfreestone.com/writing/the-generic-circular-dependency-problem</id>
-    <title>The generic circular dependency problem (15 minute read)</title>
-    <updated>2026-10-20T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Generic services become coupled to their consumers when shared types or domain logic pull application knowledge back into analytics, email, or authorization modules. Domain wrappers, locally owned handlers, smaller contracts, and plugin registration can break those cycles, while extracting a shared type package may only hide the conceptual coupling.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-20"&gt;TLDR Dev · 2026-10-20 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.jayfreestone.com/writing/the-generic-circular-dependency-problem/"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-20T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.seangoedecke.com/writing-is-no-longer-proof-of-work</id>
-    <title>Writing is no longer proof of work (6 minute read)</title>
-    <updated>2026-10-20T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Organizations often use reports and templates as evidence that someone put in effort, followed a process, or understood a topic. LLMs weaken that signal by producing plausible documents without the underlying work, leaving companies to find better evidence and reserve careful writing for actual communication.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-20"&gt;TLDR Dev · 2026-10-20 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.seangoedecke.com/writing-is-no-longer-proof-of-work/"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-20T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://swizec.com/blog/no-more-tech-debt</id>
-    <title>No more tech debt (4 minute read)</title>
-    <updated>2026-10-20T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A completed design system migration shows how coding agents can make broad cleanup practical once reusable components, written guidance, and linters are in place. The team migrated through 45 pull requests across eight stacks, using vertical slices and before-and-after screenshots, then removed the old patterns so agents would stop copying them.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-20"&gt;TLDR Dev · 2026-10-20 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://swizec.com/blog/no-more-tech-debt"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-20T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://emilkowal.ski/ui/developing-taste</id>
-    <title>Developing Taste (3 minute read)</title>
-    <updated>2026-10-20T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;As working software becomes easier to produce, design, usability, and attention to detail become stronger differentiators. Taste develops through studying excellent work, explaining why specific choices succeed, and practicing with useful critique.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-20"&gt;TLDR Dev · 2026-10-20 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://emilkowal.ski/ui/developing-taste"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-20T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://github.com/kksimp/Mac.apk</id>
-    <title>Mac.apk (GitHub Repo)</title>
-    <updated>2026-10-20T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Mac.apk implements the Android application environment directly on Apple Silicon Macs so apps run as native macOS processes with their own windows and GPU rendering. It is alpha software, with compatibility ranging from fully working apps to partial support or apps that do not launch.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-20"&gt;TLDR Dev · 2026-10-20 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://github.com/kksimp/Mac.apk"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-20T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://pele.run/</id>
-    <title>Pele (Website)</title>
-    <updated>2026-10-20T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Pele renders Mermaid diagrams as SVG with zero dependencies and CSS variable theming that can change colors without rendering again. The site reports a 230 kB gzipped bundle and support for every diagram type built into Mermaid 12.1.0, with layouts that adapt to small screens.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-20"&gt;TLDR Dev · 2026-10-20 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://pele.run/"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-20T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.minimax.io/blog/minimax-m31f</id>
-    <title>MiniMax M3.1 Flash: Redefining Agent Performance and Cost (3 minute read)</title>
-    <updated>2026-10-20T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;MiniMax M3.1 Flash targets coding, computer use, and other agent workflows, with published pricing of $0.15 per million input tokens and $0.60 per million output tokens. MiniMax reports 73.7% on DeepSWE v1.1 and 70% lower overall agent task costs than its predecessor, with API access available now and model weights planned for later.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-20"&gt;TLDR Dev · 2026-10-20 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.minimax.io/blog/minimax-m31f"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-20T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://kael.tech.blog/2026/10/17/my-experience-running-local-llms</id>
-    <title>My experience running local LLMs (22 minute read)</title>
-    <updated>2026-10-20T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Tests on an AMD Ryzen AI Max+ 395 system show why model size, memory bandwidth, context length, and serving engine all affect local agent performance. A quantized MoE model generated about 42 tokens per second for one request versus about 11 for a dense model, but the experiments measured generation speed rather than completed coding tasks.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-20"&gt;TLDR Dev · 2026-10-20 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://kael.tech.blog/2026/10/17/my-experience-running-local-llms/"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-20T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://siddhantkhare.com/writing/agentic-inference-field-guide</id>
-    <title>Your coding agent loses its cache while it waits for you (19 minute read)</title>
-    <updated>2026-10-20T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A survey of agent inference research distinguishes cache misses caused by memory pressure from those caused by human pauses. One public trace reported about 97% cache reuse after tool calls but 18% after gaps longer than an hour, highlighting a retention problem that autonomous benchmark loops often miss.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-20"&gt;TLDR Dev · 2026-10-20 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://siddhantkhare.com/writing/agentic-inference-field-guide"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-20T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring</id>
-    <title>Agentic Monitoring (10 minute read)</title>
-    <updated>2026-10-20T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Agents with access to code and telemetry can create targeted monitoring plans and investigate unusual signals around releases or configuration changes. An early prototype produced cleaner signals and used fewer tokens when an agent wrote monitoring specifications for a deterministic runner, with another agent investigating triggers and escalating to humans.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-20"&gt;TLDR Dev · 2026-10-20 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-20T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://news.ycombinator.com/item?id=50151036&amp;amp%3Butm_source=tldrdev</id>
-    <title>Ask HN: How to deal with shipping AI-written code you don't understand? (Website)</title>
-    <updated>2026-10-20T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;This discussion explores how much generated code engineers need to understand before shipping.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-20"&gt;TLDR Dev · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://news.ycombinator.com/item?id=50151036&amp;amp%3Butm_source=tldrdev"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-20T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://itsnas.me/writing/use-overflow</id>
-    <title>useOverflow (3 minute read)</title>
-    <updated>2026-10-20T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A React hook that compares scroll and client dimensions and rechecks on resize to show expansion controls only when text is clipped.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-20"&gt;TLDR Dev · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://itsnas.me/writing/use-overflow"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-20T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.albertodenia.com/writing/code-is-clay-now</id>
-    <title>Code is clay now (5 minute read)</title>
-    <updated>2026-10-20T10:59:46+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Cheaper code changes enable rapid exploratory iteration and automated production pipelines.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-20"&gt;TLDR Dev · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.albertodenia.com/writing/code-is-clay-now"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-20T10:59:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://hacdias.com/2026/10/17/mcp</id>
-    <title>Adding an MCP server to a personal website (7 minute read)</title>
-    <updated>2026-10-20T10:59:45+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A Go backend gains authenticated MCP tools for logging books, films, and performances from chat.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-20"&gt;TLDR Dev · 2026-10-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://hacdias.com/2026/10/17/mcp/"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-20T10:59:45+00:00</published>
   </entry>
 </feed>
