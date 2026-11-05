@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/tech.xml</id>
   <title>TLDR</title>
-  <updated>2026-11-04T11:00:00+00:00</updated>
+  <updated>2026-11-05T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,146 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzg1MjE3OCwiZXhwIjoxNzk0NDU2OTc4LCJhcnRpY2xlSWQiOiJUTlhPMzdLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.DHBVA6zPzhHyQxx1e0_HOL8by7dOzZ6s91xNvxnD9n4&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending (5 minute read)</title>
+    <updated>2026-11-05T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Apple quietly lowered the daily spending cap on AI models for its employees last month. Some engineers had their budgets cut from $300 to $200, and the company is planning further cuts for some engineering teams that may potentially reduce their daily allowances to as little as $100. Groups outside of engineering may have their limits reduced to $25 from $100. Employees say that few workers were using their full $300 daily allowances, making the previous limits unnecessarily generous.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-05"&gt;TLDR · 2026-11-05 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzg1MjE3OCwiZXhwIjoxNzk0NDU2OTc4LCJhcnRpY2xlSWQiOiJUTlhPMzdLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.DHBVA6zPzhHyQxx1e0_HOL8by7dOzZ6s91xNvxnD9n4&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-05T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference</id>
+    <title>OpenAI launches Images 2.6 with GIFs and image reference (1 minute read)</title>
+    <updated>2026-11-05T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI is rolling out Images 2.6 globally in ChatGPT and Codex. The new model generates images 50% faster than the previous iteration, and it can also create GIFs. Users can adjust the speed of GIFs, edit individual frames, and share them. GPT-Image-2.6 Flare and Sunburst are now available through the API.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-05"&gt;TLDR · 2026-11-05 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference/"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-05T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.teslarati.com/spacexs-starfall-just-went-from-secret-to-storefront</id>
+    <title>SpaceX's Starfall just went from secret to storefront (16 minute read)</title>
+    <updated>2026-11-05T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;SpaceX has launched a commercial page for Starfall, a disk-shaped reentry capsule that can carry up to 1,000 kg of payload. The capsule can supply 1 kW of power and connect to the internet through Starlink, allowing researchers to pull data from experiments while in orbit instead of waiting for splashdown. It can be used for manufacturing, research, or testing and is aimed at biomedical customers, pharmaceutical companies, and materials science research. Starfall's timeline will depend on Starship - SpaceX is preparing for Flight 15, where it aims to catch both stages with the launch tower.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-05"&gt;TLDR · 2026-11-05 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.teslarati.com/spacexs-starfall-just-went-from-secret-to-storefront/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-05T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theguardian.com/science/2026/nov/04/us-firm-varda-space-industries-manufacturing-drugs-in-space</id>
+    <title>Why pharma firms are going to Earth's orbit in search of new cancer drugs (7 minute read)</title>
+    <updated>2026-11-05T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Varda Space Industries' autonomous factories carry miniature laboratories in which materials can be processed without astronauts. Once the process is complete, a capsule separates from the spacecraft and returns to Earth. The company currently has three spacecraft simultaneously in orbit. Manufacturing in space has several advantages, one of the most important being microgravity. Varda plans to launch seven missions in 2027 and 10 in 2028.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-05"&gt;TLDR · 2026-11-05 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.theguardian.com/science/2026/nov/04/us-firm-varda-space-industries-manufacturing-drugs-in-space"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-05T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://maggieappleton.com/fortune-telling</id>
+    <title>Fortune Telling and Speculative Design (21 minute read)</title>
+    <updated>2026-11-05T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Design engineering requires being deeply involved in the technical craft and material of software. They help make decisions about functionality and architecture in code while still being a designer. Design engineers are uniquely positioned to make convincing prototypes of future theories. They are the perfect people to help figure out the shape of the future.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-05"&gt;TLDR · 2026-11-05 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://maggieappleton.com/fortune-telling"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-05T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.x.com/en/engineering/rebuilding-the-global-town-square-from-scratch</id>
+    <title>Rebuilding the global town square from scratch (32 minute read)</title>
+    <updated>2026-11-05T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The new version of X.com's web app was built by five engineers working with AI coding agents in under six months. It loads pages significantly faster than the old web app over slow connections, and it already serves logged-out users and the pages that search engines crawl. This post covers why X.com was rebuilt, how the new web app is being rolled out, and how the old and new apps compare today. It also looks at the performance work completed since logged-out traffic moved over.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-05"&gt;TLDR · 2026-11-05 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.x.com/en/engineering/rebuilding-the-global-town-square-from-scratch"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-05T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://benjamincongdon.me/blog/2026/11/03/Voice-is-Underutilized</id>
+    <title>Voice is Underutilized (6 minute read)</title>
+    <updated>2026-11-05T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Voice is a natural modality that is underutilized. It is great for rambling at coding agents and for capturing context. There is a lot of ambient context that exists in conversations with a ton of downstream value. This post presents some use cases for voice as a way to interact with AI.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-05"&gt;TLDR · 2026-11-05 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://benjamincongdon.me/blog/2026/11/03/Voice-is-Underutilized/"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-05T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://stratechery.com/2026/ai-on-the-ballot</id>
+    <title>AI on the Ballot (18 minute read)</title>
+    <updated>2026-11-05T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Nearly every relevant local ballot measure opposing data centers won or is winning, with the exception of North Dakota. The constraint on AI dispersion is becoming political. AI will likely be a scarcity for much longer than expected. This post looks at what the implications might be if Americans don't change their minds about data centers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-05"&gt;TLDR · 2026-11-05 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://stratechery.com/2026/ai-on-the-ballot/"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-05T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.saastr.com/the-top-1-of-ai-spenders-stalled-in-q3-so-did-anthropics-dollar-growth</id>
+    <title>The Top 1% of AI Spenders Stalled in Q3. So Did Anthropic's Dollar Growth (6 minute read)</title>
+    <updated>2026-11-05T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Adoption across all other firms is still rising.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-05"&gt;TLDR · 2026-11-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.saastr.com/the-top-1-of-ai-spenders-stalled-in-q3-so-did-anthropics-dollar-growth/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-05T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tomtunguz.com/watts-in-store-for-2027-inference</id>
+    <title>Watts in Store for 2027: The AI Ceiling (5 minute read)</title>
+    <updated>2026-11-05T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;US AI capacity will grow from 38 GW today to an 81 GW ceiling in 2027.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-05"&gt;TLDR · 2026-11-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://tomtunguz.com/watts-in-store-for-2027-inference"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-05T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://alperenkeles.com/posts/bug-finding-considered-harmful</id>
+    <title>Bug Finding Considered Harmful? (6 minute read)</title>
+    <updated>2026-11-05T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Teams need to be more selective about which bugs to focus on fixing, as it isn't practical nowadays to fix everything.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-05"&gt;TLDR · 2026-11-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://alperenkeles.com/posts/bug-finding-considered-harmful/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-05T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.fintechbrainfood.com/p/payments-new-ads</id>
+    <title>Payments are the new ads (12 minute read)</title>
+    <updated>2026-11-05T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Agents make ads businesses less effective, but agentic spending is an opportunity to make up for any revenue shortfall.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-05"&gt;TLDR · 2026-11-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.fintechbrainfood.com/p/payments-new-ads"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-05T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion</id>
+    <title>Sequoia hits rewind, undoing 20 years of expansion (9 minute read)</title>
+    <updated>2026-11-05T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Sequoia Capital is closing its London office, shutting down its Arc accelerator and its Scouts program, merging its early-stage and growth teams into one, flattening its partnership, and killing the Monday partner meeting.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-05"&gt;TLDR · 2026-11-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-05T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.androidauthority.com/youtube-tamba-sandbox-social-app-apk-teardown-3731409</id>
+    <title>YouTube is cooking up something new called 'Tamba,' and it looks pretty social (6 minute read)</title>
+    <updated>2026-11-05T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Tamba could be an experimental testing ground for social features rather than a finished product.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-05"&gt;TLDR · 2026-11-05 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.androidauthority.com/youtube-tamba-sandbox-social-app-apk-teardown-3731409/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-05T10:59:47+00:00</published>
+  </entry>
   <entry>
     <id>https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20</id>
     <title>OpenAI: ChatGPT Search Is About 20% of Google's, 250 Million People Speak With ChatGPT, and Chat Is Merging With Work (4 minute read)</title>
@@ -1419,155 +1559,5 @@
     <category term="TLDR"/>
     <category term="Quick Links"/>
     <published>2026-10-22T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.wsj.com/business/earnings/spacex-spcx-q3-earnings-report-2026-stock-4138193d?st=sDgpKx&amp;reflink=desktopwebshare_permalink</id>
-    <title>Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says (6 minute read)</title>
-    <updated>2026-10-21T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;SpaceX and Tesla have formed special committees to discuss a potential merger. While Elon Musk thinks there's a lot of merit in combining the companies, the special committees have yet to reach an agreement, and there's no guarantee that they will. Musk is not on either committee. Shareholders will get to vote on the matter. A deal this large will attract regulatory scrutiny.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-21"&gt;TLDR · 2026-10-21 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.wsj.com/business/earnings/spacex-spcx-q3-earnings-report-2026-stock-4138193d?st=sDgpKx&amp;reflink=desktopwebshare_permalink"/>
-    <category term="TLDR"/>
-    <category term="Big Tech &amp; Startups"/>
-    <published>2026-10-21T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1?st=D6WDhb&amp;reflink=desktopwebshare_permalink</id>
-    <title>Anthropic S-1 Shows Red-Hot Growth, Risks, and Massive Computing Costs (8 minute read)</title>
-    <updated>2026-10-21T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic's draft initial public offering prospectus recorded a net loss of more than $80 billion in the first half of this year. It also lays out a long list of risk factors that include uncertainty over how the company plans to prevent its AI models from causing harm and protect itself from those liabilities. Anthropic is generating breakneck revenue growth, but it faces challenges such as uncertain access to compute. It has signaled that it could potentially spend $750 billion in the next few years on obtaining more compute capacity.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-21"&gt;TLDR · 2026-10-21 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1?st=D6WDhb&amp;reflink=desktopwebshare_permalink"/>
-    <category term="TLDR"/>
-    <category term="Big Tech &amp; Startups"/>
-    <published>2026-10-21T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</id>
-    <title>How Claude designed protein binders against scorpion neurotoxins (16 minute read)</title>
-    <updated>2026-10-21T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic asked an internal research model to design mini binders, small proteins that attach tightly to a target, against scorpion neurotoxins as part of its work in experimenting with how Claude can accelerate drug discovery. 17 of the 211 designs tested met Anthropic's criteria. Anthropic has not confirmed whether these binders neutralize scorpion venom in a cellular environment, so it is not claiming to have produced an antivenom. However, the study is a promising first step towards using AI to design credible binders against hard-to-target toxins in days, with lab confirmation within weeks. The challenge, as always, will be turning those binders into safe, affordable, and widely accessible drugs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-21"&gt;TLDR · 2026-10-21 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"/>
-    <category term="TLDR"/>
-    <category term="Science &amp; Futuristic Technology"/>
-    <published>2026-10-21T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://read.corematter.com/p/tau-robotics-humanoid-house-cleaning-review-san-francisco</id>
-    <title>I Paid $60 for Two Humanoids to Clean My Home In San Francisco (8 minute read)</title>
-    <updated>2026-10-21T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;You can now pay for human operator-controlled robots to clean your house in San Francisco. This post describes the experience of hiring Tau Robotics' robots to clean a home for an hour. It details what the experience is like, examines the economics for the user and for the company, and tries to predict what a future with humanoids and advanced robots doing productive work would look like.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-21"&gt;TLDR · 2026-10-21 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://read.corematter.com/p/tau-robotics-humanoid-house-cleaning-review-san-francisco"/>
-    <category term="TLDR"/>
-    <category term="Science &amp; Futuristic Technology"/>
-    <published>2026-10-21T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vikramsingh.me/increase-your-slope</id>
-    <title>Increase your slope (22 minute read)</title>
-    <updated>2026-10-21T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Become an expert at something small, take ownership of the problems around you, and get comfortable with having opinions. These things build on each other, and new employees can start doing all of them much sooner than they think. Practiced over time, workers will find themselves answering questions they used to ask, making decisions they used to need help with, and taking on problems they wouldn't have known how to approach.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-21"&gt;TLDR · 2026-10-21 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.vikramsingh.me/increase-your-slope"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-21T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://hamel.dev/blog/posts/decision-model-evals</id>
-    <title>How To Use Decision Models for Evals (23 minute read)</title>
-    <updated>2026-10-21T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Decision models are an appealing alternative to LLM judges for automated evals. However, whether they're the right choice depends on the cost, performance, and latency requirements of the use case. Many people leave the default decision threshold at 0.50 without checking whether that's appropriate for the task, leaving a lot of performance on the table. This post shows how to tune thresholds to get the best results from decision models, compares cost and performance between models, and explores how to interpret model scores and how calibration can make them more useful.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-21"&gt;TLDR · 2026-10-21 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://hamel.dev/blog/posts/decision-model-evals/"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-21T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d</id>
-    <title>Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)</title>
-    <updated>2026-10-21T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. &lt;a href="https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d" rel="noopener noreferrer" target="_blank"&gt;Click here to learn more&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-21"&gt;TLDR · 2026-10-21 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-21T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://teendrama.substack.com/p/some-final-words-on-foursquare</id>
-    <title>Some final words on Foursquare (10 minute read)</title>
-    <updated>2026-10-21T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Foursquare was acquired about a month ago, marking the end of a 17-year story. The acquisition was a $0 outcome for equity holders. This post captures the ending from a founder's point of view and details lessons learned from starting, scaling, and losing the company. In the end, the company was unable to survive a leadership change, leading to employee frustration and the zero-dollar outcome for equity holders.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-21"&gt;TLDR · 2026-10-21 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://teendrama.substack.com/p/some-final-words-on-foursquare"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-21T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts</id>
-    <title>30 Months on the Exponential (in Charts) (7 minute read)</title>
-    <updated>2026-10-21T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;AI's gains have been so large that how we work with it has to change. Before, the work was divided between AI and humans. Now, humans summon agents when needed, assign them work, and evaluate what comes back. While it is the most powerful way to use AI, it carries new risks as we lose control over what AI is doing to get those results.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-21"&gt;TLDR · 2026-10-21 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-21T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://docs.google.com/document/d/1xRiCqpy3LMAgEsHdX-IA23j6nUISdT5nAJmtKbk9wNA/edit?tab=t.0&amp;amp%3Butm_source=tldrnewsletter</id>
-    <title>Bits and bobs (631 page read)</title>
-    <updated>2026-10-21T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;This document contains a collection of proto-insights that mirror and accentuate one another over time.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-21"&gt;TLDR · 2026-10-21 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://docs.google.com/document/d/1xRiCqpy3LMAgEsHdX-IA23j6nUISdT5nAJmtKbk9wNA/edit?tab=t.0&amp;amp%3Butm_source=tldrnewsletter"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-21T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs</id>
-    <title>The Internet goes on high alert after discovery of 8 compromised TLS certs (4 minute read)</title>
-    <updated>2026-10-21T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The eight intermediate certificates, which belong to India-based certificate authority eMudhra Limited, were defective at a level thought not possible by engineers studying the incident.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-21"&gt;TLDR · 2026-10-21 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-21T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow</id>
-    <title>PHP warns admins of two critical flaws, emergency patches coming tomorrow (4 minute read)</title>
-    <updated>2026-10-21T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;CVE-2026-109618 and CVE-2026-109619 are remote code execution flaws believed to affect PHP versions 5, 6, 7, and 8.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-21"&gt;TLDR · 2026-10-21 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-21T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.rameznaam.com/p/can-a-million-ai-agents-create-superintelligence</id>
-    <title>Can a Million AI Agents Create Superintelligence (40 minute read)</title>
-    <updated>2026-10-21T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Today's feedback loop is probably too weak, as improving AI faces diminishing returns at every step.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-21"&gt;TLDR · 2026-10-21 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.rameznaam.com/p/can-a-million-ai-agents-create-superintelligence"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-21T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://stevekrouse.com/ends</id>
-    <title>What Shall I Teach My Son? (6 minute read)</title>
-    <updated>2026-10-21T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The way we teach is often more important than the what.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-21"&gt;TLDR · 2026-10-21 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://stevekrouse.com/ends"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-21T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web</id>
-    <title>Publish stats, get cited: The tactic that put my data all over the web (15 minute read)</title>
-    <updated>2026-10-21T10:59:46+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Research means fanout queries asking for statistics, and a number looks like evidence that can fill knowledge gaps.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-21"&gt;TLDR · 2026-10-21 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-21T10:59:46+00:00</published>
   </entry>
 </feed>
