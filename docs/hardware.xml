@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/hardware.xml</id>
   <title>TLDR Hardware</title>
-  <updated>2026-11-04T11:00:00+00:00</updated>
+  <updated>2026-11-06T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,126 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11</id>
+    <title>Agility Robotics lists on Nasdaq as AGLT with $1.8M of revenue and a $138.1M net loss (3 minute read)</title>
+    <updated>2026-11-06T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Agility begins trading Thursday after merging with Churchill Capital Corp XI, becoming the first US-listed company focused on humanoid robots. The deal values it at roughly $2.5 billion and expects about $465 million in gross proceeds, including $100 million already received. In 2025, it booked $1.8 million of revenue, over half from five robots bought by one investor, against a $138.1 million net loss. About $38 million of that was non-cash stock compensation, and it burned $99.8 million in cash.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-06"&gt;TLDR Hardware · 2026-11-06 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-11-06T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028</id>
+    <title>Waymo confirms it will leave Uber in Austin and Atlanta in January 2028 (1 minute read)</title>
+    <updated>2026-11-06T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Waymo will move rides in Austin and Atlanta to its own app in January 2028, ahead of the Uber deal's May 2028 expiry. Riders on Uber never knew whether they'd get a robotaxi or a human driver. Waymo wants a direct rider relationship.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-06"&gt;TLDR Hardware · 2026-11-06 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-11-06T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine</id>
+    <title>Blue Origin adds a BE-7 third stage to New Glenn and unveils the Northstar engine (3 minute read)</title>
+    <updated>2026-11-06T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Northstar is a methalox booster engine that Blue Origin says cuts mass by 30% and parts count by 50% versus the BE-4 while raising thrust from 640,000 to 715,000 lbf, with assembly in under a day. No first-flight date is given, and New Glenn is still recovering from a pad explosion that happened in May.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-06"&gt;TLDR Hardware · 2026-11-06 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-11-06T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html</id>
+    <title>Qualcomm to supply MIMO radios and baseband for Starlink Mobile's terrestrial 5G network (2 minute read)</title>
+    <updated>2026-11-06T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;SpaceX has signed a multiyear deal for Qualcomm's Dragonwing infrastructure platforms: the QRU100 radio unit and QDU100 distributed unit, with 64T64R massive MIMO and physical-layer RAN software. They'll go into base stations at what's planned as tens of thousands of US sites, starting in 2027, to complement Starlink's satellite service. Qualcomm calls this its biggest 5G deal yet.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-06"&gt;TLDR Hardware · 2026-11-06 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-11-06T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://phys.org/news/2026-11-giant-planet-emerges-year-jwst.html</id>
+    <title>FLIP software subtracts starlight in JWST coronagraph data with up to 15x better sensitivity (3 minute read)</title>
+    <updated>2026-11-06T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A Northwestern-led team built FLIP, which makes a physics-based digital twin of the telescope's optics and adjusts it until it reproduces the observed starlight, then subtracts that simulated glare. On existing NIRCam data at 4.3 microns, it improved sensitivity up to 15x over the conventional KLIP method and recovered the giant planet 51 Eridani b, which standard processing couldn't separate from residual glare.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-06"&gt;TLDR Hardware · 2026-11-06 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://phys.org/news/2026-11-giant-planet-emerges-year-jwst.html"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-11-06T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arxiv.org/abs/2611.05936</id>
+    <title>LumiTac is a camera-free six-axis tactile sensor, 12 mm wide and about $7 in parts (2 minute read)</title>
+    <updated>2026-11-06T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;LumiTac pairs five photoemitters with five RGBW photoreceivers on opposing circuit boards joined by translucent silicone, so load-driven motion between the layers shifts the internal light field under compression, shear, bending, and torsion. The head is 12 mm across, 4.75 mm thick, under 2 g, and made with about $7 in components. Independent testing gave R² of 0.966 to 0.994, with mean absolute errors of 0.054 to 0.190 N in force and 0.304 to 1.419 mN·m in moment.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-06"&gt;TLDR Hardware · 2026-11-06 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arxiv.org/abs/2611.05936"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-11-06T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.reuters.com/world/us/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race-2026-11-04</id>
+    <title>Texas governor-elect Hinojosa's data center moratorium pledge puts 13.3 GW of announced projects at risk (2 minute read)</title>
+    <updated>2026-11-06T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Texas governor-elect Gina Hinojosa has pledged to halt all data center approvals until the legislature passes new laws when it meets in January. Outgoing Governor Abbott had already paused new grid connections and ordered an audit. Texas holds about 25% of planned US data center capacity. It is estimated that 13.3 GW of announced projects are at risk.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-06"&gt;TLDR Hardware · 2026-11-06 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.reuters.com/world/us/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race-2026-11-04/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-06T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.forbes.com/sites/ywang/2026/11/04/chinese-chip-magnate-amasses-13-billion-fortune-on-claims-of-tech-breakthrough-by-cxmt</id>
+    <title>CXMT's chairman tops China's newcomers at $13B on an unverified claim of a 4F² DRAM breakthrough (3 minute read)</title>
+    <updated>2026-11-06T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;CXMT says its 4F² DRAM uses a vertical surrounding gate transistor and builds the memory cells and peripheral circuitry on separate wafers joined by hybrid bonding, which an analyst says could raise density by about 30%. Yields are unknown, and a server product is promised before year-end. The claim cut Samsung and SK Hynix about 13% in a day, even though CXMT holds roughly 10% of DRAM against Samsung's 38%.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-06"&gt;TLDR Hardware · 2026-11-06 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.forbes.com/sites/ywang/2026/11/04/chinese-chip-magnate-amasses-13-billion-fortune-on-claims-of-tech-breakthrough-by-cxmt/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-06T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.space.com/space-exploration/satellites/drone-warfare-in-space-swarms-of-autonomous-laser-shooting-cubesats-could-defend-western-satellites-in-orbit</id>
+    <title>Shield Space plans swarms of up to 100 laser-armed cubesat interceptors, starting with a 2027 rendezvous demo (4 minute read)</title>
+    <updated>2026-11-06T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;UK startup Shield Space wants carrier-deployed cubesat swarms using lasers, microwaves, or kinetic standoff to defend satellites, even when ground contact is lost, for under £100M per 100.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-06"&gt;TLDR Hardware · 2026-11-06 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.space.com/space-exploration/satellites/drone-warfare-in-space-swarms-of-autonomous-laser-shooting-cubesats-could-defend-western-satellites-in-orbit"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-06T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.geekwire.com/2026/starfish-space-loses-contact-otter-sspicy</id>
+    <title>Starfish's first Otter servicing spacecraft is lost to a fault-protection fault, ending a $15M NASA inspection mission (2 minute read)</title>
+    <updated>2026-11-06T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Starfish's Otter 24C launched October 1, made two-way contact, and downlinked telemetry, then lost contact during commissioning.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-06"&gt;TLDR Hardware · 2026-11-06 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.geekwire.com/2026/starfish-space-loses-contact-otter-sspicy/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-06T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://interestingengineering.com/energy/thea-energy-mit-stellarator-magnet-test</id>
+    <title>Thea Energy and MIT will test a full-size flat superconducting coil for the Eos stellarator (3 minute read)</title>
+    <updated>2026-11-06T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Thea Energy's Eos stellarator uses flat coils instead of hard-to-build 3D magnets.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-06"&gt;TLDR Hardware · 2026-11-06 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://interestingengineering.com/energy/thea-energy-mit-stellarator-magnet-test"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-06T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://corporate.walmart.com/news/2026/11/walmart-expands-drone-delivery-network-with-zipline</id>
+    <title>Walmart adds 300 Zipline drone delivery sites, building on 2M+ deliveries (2 minute read)</title>
+    <updated>2026-11-06T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Walmart signed a multi-year deal to add 300 Zipline drone sites.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-06"&gt;TLDR Hardware · 2026-11-06 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://corporate.walmart.com/news/2026/11/walmart-expands-drone-delivery-network-with-zipline"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-06T10:59:49+00:00</published>
+  </entry>
   <entry>
     <id>https://www.spacex.com/starfall</id>
     <title>SpaceX's Starfall is a flat disk capsule built to return up to 1,000 kg from orbit (3 minute read)</title>

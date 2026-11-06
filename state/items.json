@@ -1,6 +1,5 @@
 {
  "issues": {
-  "ai/2026-10-08": "2026-10-13T23:08:25+00:00",
   "ai/2026-10-09": "2026-10-13T23:08:26+00:00",
   "ai/2026-10-12": "2026-10-13T23:08:27+00:00",
   "ai/2026-10-13": "2026-10-13T23:08:28+00:00",
@@ -21,7 +20,7 @@
   "ai/2026-11-03": "2026-11-03T17:51:56+00:00",
   "ai/2026-11-04": "2026-11-04T17:59:55+00:00",
   "ai/2026-11-05": "2026-11-05T18:02:47+00:00",
-  "dev/2026-10-08": "2026-10-13T23:08:18+00:00",
+  "ai/2026-11-06": "2026-11-06T17:31:37+00:00",
   "dev/2026-10-09": "2026-10-13T23:08:19+00:00",
   "dev/2026-10-12": "2026-10-13T23:08:20+00:00",
   "dev/2026-10-13": "2026-10-13T23:08:22+00:00",
@@ -42,6 +41,7 @@
   "dev/2026-11-03": "2026-11-03T17:51:54+00:00",
   "dev/2026-11-04": "2026-11-04T17:59:53+00:00",
   "dev/2026-11-05": "2026-11-05T18:02:44+00:00",
+  "dev/2026-11-06": "2026-11-06T17:31:35+00:00",
   "hardware/2026-10-09": "2026-10-13T23:08:34+00:00",
   "hardware/2026-10-12": "2026-10-13T23:08:35+00:00",
   "hardware/2026-10-14": "2026-10-14T15:11:41+00:00",
@@ -54,7 +54,7 @@
   "hardware/2026-10-30": "2026-10-30T16:42:41+00:00",
   "hardware/2026-11-02": "2026-11-02T20:22:37+00:00",
   "hardware/2026-11-04": "2026-11-04T17:59:58+00:00",
-  "tech/2026-10-08": "2026-10-13T23:08:11+00:00",
+  "hardware/2026-11-06": "2026-11-06T17:31:40+00:00",
   "tech/2026-10-09": "2026-10-13T23:08:13+00:00",
   "tech/2026-10-12": "2026-10-13T23:08:14+00:00",
   "tech/2026-10-13": "2026-10-13T23:08:15+00:00",
@@ -74,459 +74,10 @@
   "tech/2026-11-02": "2026-11-02T20:22:29+00:00",
   "tech/2026-11-03": "2026-11-03T17:51:52+00:00",
   "tech/2026-11-04": "2026-11-04T17:59:51+00:00",
-  "tech/2026-11-05": "2026-11-05T18:02:42+00:00"
+  "tech/2026-11-05": "2026-11-05T18:02:42+00:00",
+  "tech/2026-11-06": "2026-11-06T17:31:33+00:00"
  },
  "items": [
-  {
-   "edition": "tech",
-   "id": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html?unlocked_article_code=1.KlE.QAgO.72jJWCZG7Z62&smid=url-share",
-   "issue_date": "2026-10-22",
-   "position": 0,
-   "section": "Big Tech & Startups",
-   "summary_html": "<div class=\"newsletter-html\">Anthropic's Claude Duet joins a fast-growing field of AI assistants that take actions and perform tasks on their own. Unlike OpenAI's dots and Meta's Muse, Anthropic's agent was built for work and is less capable at personal errands. It can connect to more than 6,000 outside apps and make purchases through Link, Stripe's digital wallet, and Shopify's Shop Pay. The agent shows users exactly what it plans to do before performing actions, and some actions, like trading stocks or moving money between accounts, are blocked even with user approval. The wait list to use the agent is now open to Anthropic's Pro and Max plan subscribers.</div>",
-   "title": "Anthropic Joins the AI Agent Race With Claude Duet (3 minute read)",
-   "url": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html?unlocked_article_code=1.KlE.QAgO.72jJWCZG7Z62&smid=url-share"
-  },
-  {
-   "edition": "tech",
-   "id": "https://www.bloomberg.com/news/features/2026-10-22/tesla-spacex-merger-why-musk-wants-a-deal-before-trump-leaves-office?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYzNTU2MywiZXhwIjoxNzkzMjQwMzYzLCJhcnRpY2xlSWQiOiJUTkE4SERLR1pBSkQwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.d68zeuF7ErOwhw0McTs2vQCc-w5gFsYLKhtweLq1Kmc",
-   "issue_date": "2026-10-22",
-   "position": 1,
-   "section": "Big Tech & Startups",
-   "summary_html": "<div class=\"newsletter-html\">Elon Musk is fully behind a combination of SpaceX and Tesla, his two most valuable companies. He is pushing to announce a deal by the first half of 2027 so it closes during the Trump administration. The timing will depend on when Tesla's board gets comfortable with the details - SpaceX shareholder approval is less of an obstacle, as Musk controls more than 80% of the voting power. Combining the companies before the end of this administration would consolidate Musk's corporate power before a potentially less accommodating political and financial environment takes hold.</div>",
-   "title": "Musk Tries to Lock In His Tesla-SpaceX Dream Before Trump's Exit (11 minute read)",
-   "url": "https://www.bloomberg.com/news/features/2026-10-22/tesla-spacex-merger-why-musk-wants-a-deal-before-trump-leaves-office?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYzNTU2MywiZXhwIjoxNzkzMjQwMzYzLCJhcnRpY2xlSWQiOiJUTkE4SERLR1pBSkQwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.d68zeuF7ErOwhw0McTs2vQCc-w5gFsYLKhtweLq1Kmc"
-  },
-  {
-   "edition": "tech",
-   "id": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43",
-   "issue_date": "2026-10-22",
-   "position": 2,
-   "section": "Science & Futuristic Technology",
-   "summary_html": "<div class=\"newsletter-html\">Tesla has started production of its Optimus humanoid robot at its factory in Fremont, California. While the company admits there is still more work to be done before the robot is fully safe and reliable, it says it has proven that the current manufacturing process for Optimus is suitable for a commercial product. Elon Musk says Tesla will be able to make 20,000 units per week by the end of 2027. Tesla's profits fell 43% in the third quarter due to heavy investments in its Optimus robots, AI, and autonomous driving.</div>",
-   "title": "Tesla starts Optimus robot production in California as profit falls 43% (3 minute read)",
-   "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://phys.org/news/2026-10-physicists-particle-antimatter-months.html",
-   "issue_date": "2026-10-22",
-   "position": 3,
-   "section": "Science & Futuristic Technology",
-   "summary_html": "<div class=\"newsletter-html\">Physicists at Northwestern University have coaxed a single positron (the antimatter counterpart of an electron) into an exquisitely controlled quantum state for the first time. The scientists cooled the fast-moving particle to nearly absolute zero after capturing it from radioactive decay, and then suspended it in a near-perfect vacuum, resulting in a state where the positron behaved much like an artificial atom with quantum energy levels scientists can precisely control and observe. The technique could enable the most precise test yet of a fundamental symmetry between electrons and their antimatter counterparts.</div>",
-   "title": "Physicists trap and tame single particle of antimatter for months (12 minute read)",
-   "url": "https://phys.org/news/2026-10-physicists-particle-antimatter-months.html"
-  },
-  {
-   "edition": "tech",
-   "id": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure",
-   "issue_date": "2026-10-22",
-   "position": 4,
-   "section": "Programming, Design & Data Science",
-   "summary_html": "<div class=\"newsletter-html\">Git traffic grew exponentially over the past year. During that time, GitHub started moving almost all of its repositories to Azure. This post discusses how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.</div>",
-   "title": "The bridge to agent-scale Git infrastructure (11 minute read)",
-   "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://blog.exe.dev/topology",
-   "issue_date": "2026-10-22",
-   "position": 5,
-   "section": "Programming, Design & Data Science",
-   "summary_html": "<div class=\"newsletter-html\">An agent is three things: a model, an agentic loop, and a set of tools. Where these run has implications for cost, capability, effectiveness, and security. If you focus on topology, you can break down any agentic product and reason about what a product can and cannot do. There isn't one perfect loop - good UX for a general-purpose chatbot is not the same as good UX for a coding agent.</div>",
-   "title": "The Topology of an LLM Agent Loop With Tool Use (7 minute read)",
-   "url": "https://blog.exe.dev/topology"
-  },
-  {
-   "edition": "tech",
-   "id": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day",
-   "issue_date": "2026-10-22",
-   "position": 6,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">AI has discovered critical security vulnerabilities in PHP, prompting the US National Security Agency to advise organizations using PHP to either update immediately or take their systems offline until they can. Node.js has released an update that fixes four high-severity vulnerabilities. LiteLLM was compromised by an attacker who injected malicious code. eMudhra, an Indian certificate authority, had its private keys compromised, potentially allowing attackers to issue fraudulent certificates and impersonate legitimate websites. These unrelated issues highlight the challenges cybersecurity teams now face.</div>",
-   "title": "The internet is having a very bad cybersecurity day (2 minute read)",
-   "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html?unlocked_article_code=1.KlE.nrh3.m2Uy2OLbBIlz&smid=url-share",
-   "issue_date": "2026-10-22",
-   "position": 7,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">California's proposed tax on billionaires prompted Mark Zuckerberg to leverage the board at Meta to get the company to protect him from it. He issued an ultimatum to the board on September 9 that he would sell his home in Palo Alto, and the listing would be public, if a deal wasn't struck by September 13.  The board decided to issue a new class of stock to shareholders that Zuckerberg could sell to pay the potential wealth tax without cutting into his 60.6% voting power. California's proposal would assess a one-time 5% tax on all holdings of billionaires who lived in California as of January 1, 2026.</div>",
-   "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California's Proposed Wealth Tax (6 minute read)",
-   "url": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html?unlocked_article_code=1.KlE.nrh3.m2Uy2OLbBIlz&smid=url-share"
-  },
-  {
-   "edition": "tech",
-   "id": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming",
-   "issue_date": "2026-10-22",
-   "position": 8,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">IBM claimed FORTRAN would virtually eliminate coding and debugging back in 1954.</div>",
-   "title": "The compiler was supposed to end programming too (15 minute read)",
-   "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
-   "issue_date": "2026-10-22",
-   "position": 9,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Over a quarter of Muse's engaged users were shopping via the AI agent, with an average purchase size of over $200.</div>",
-   "title": "Meta says Muse has over 10M users, with shopping a top activity (3 minute read)",
-   "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security",
-   "issue_date": "2026-10-22",
-   "position": 10,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">PHP's recent release fixes two critical vulnerabilities that allow unauthenticated attackers to execute code on servers running PHP.</div>",
-   "title": "Today's PHP Security Release, and How We're Strengthening PHP Security (12 minute read)",
-   "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://terrytao.wordpress.com/2026/10/21/mathematics-is-a-subject-for-the-young",
-   "issue_date": "2026-10-22",
-   "position": 11,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Mathematics is changing faster than at any point in its history, and today's graduate students and postdocs will shape its future.</div>",
-   "title": "Mathematics is a subject for the young (13 minute read)",
-   "url": "https://terrytao.wordpress.com/2026/10/21/mathematics-is-a-subject-for-the-young/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://www.agentready.org/",
-   "issue_date": "2026-10-22",
-   "position": 12,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">AgentReady is an open specification for what a product should implement to be usable by AI agents.</div>",
-   "title": "The open standard for agent readiness (14 minute read)",
-   "url": "https://www.agentready.org/"
-  },
-  {
-   "edition": "tech",
-   "id": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
-   "issue_date": "2026-10-22",
-   "position": 13,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Demis Hassabis believes that AI can lead to an amazing future, but we have to intentionally build toward it.</div>",
-   "title": "Why AI's Deepest Mind Believes the World Is About to Change Radically (19 minute read)",
-   "url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153"
-  },
-  {
-   "edition": "dev",
-   "id": "https://openai.com/index/building-chatgpt-ad-stack",
-   "issue_date": "2026-10-22",
-   "position": 0,
-   "section": "Articles & Tutorials",
-   "summary_html": "<div class=\"newsletter-html\">ChatGPT's ad system uses a post-trained LLM to orchestrate retrieval, ranking, relevance checks, and auctions as user intent evolves across conversations. Stateful ad sessions preserve context, while separate models, services, and code keep ad selection outside ChatGPT's answer-generation path.</div>",
-   "title": "How ChatGPT's Ad Stack Works (12 minute read)",
-   "url": "https://openai.com/index/building-chatgpt-ad-stack/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://tldraw.dev/blog/computing-bounding-boxes",
-   "issue_date": "2026-10-22",
-   "position": 1,
-   "section": "Articles & Tutorials",
-   "summary_html": "<div class=\"newsletter-html\">tldraw transforms shape vertices into page coordinates, then takes their minimum and maximum values to compute fast axis-aligned bounding boxes. The walkthrough covers nested transforms and rotated selection handles, with approximate bounds filtering candidates before more expensive geometry checks.</div>",
-   "title": "Computing Bounding Boxes (6 minute read)",
-   "url": "https://tldraw.dev/blog/computing-bounding-boxes"
-  },
-  {
-   "edition": "dev",
-   "id": "https://clickhouse.com/blog/openreplay-front-end-observability-at-scale-clickhouse",
-   "issue_date": "2026-10-22",
-   "position": 2,
-   "section": "Articles & Tutorials",
-   "summary_html": "<div class=\"newsletter-html\">OpenReplay's largest customers ingest billions of events and roughly 6 TB daily on a single ClickHouse instance, with sub-second queries. Moving behavioral analytics out of Postgres also replaced disruptive retention cleanups with TTL rules and simplified data pipelines through materialized views.</div>",
-   "title": "Front-end Observability at Scale with ClickHouse (11 minute read)",
-   "url": "https://clickhouse.com/blog/openreplay-front-end-observability-at-scale-clickhouse"
-  },
-  {
-   "edition": "dev",
-   "id": "https://aboard.com/the-web-is-more-than-enough",
-   "issue_date": "2026-10-22",
-   "position": 3,
-   "section": "Opinions & Advice",
-   "summary_html": "<div class=\"newsletter-html\">Modern browsers already offer cryptography, native-speed code, graphics, and audio, while AI makes those capabilities easier for individuals to use. Falling development and hosting costs could expand personal software creation and challenge app-store economics.</div>",
-   "title": "The Web Is More Than Enough (6 minute read)",
-   "url": "https://aboard.com/the-web-is-more-than-enough/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-   "issue_date": "2026-10-22",
-   "position": 4,
-   "section": "Opinions & Advice",
-   "summary_html": "<div class=\"newsletter-html\">An LLM's stated confidence is generated text, so a precise-looking number should not be treated as a calibrated measure of correctness. The proposed alternative derives scores from observable evidence and historical outcomes, then checks calibration regularly on the same kinds of tasks.</div>",
-   "title": "Asking LLM for Confidence (8 minute read)",
-   "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html"
-  },
-  {
-   "edition": "dev",
-   "id": "https://hrih.si/articles/who-holds-the-off-switch",
-   "issue_date": "2026-10-22",
-   "position": 5,
-   "section": "Opinions & Advice",
-   "summary_html": "<div class=\"newsletter-html\">Five imagined coffee purchases in 2035 illustrate different models of data control, from state surveillance and privacy regulation to commercial data markets, public infrastructure, and biometric identity. Privacy increasingly depends on who can stop collection. AI assistants and paid privacy tiers will make that question more pressing.</div>",
-   "title": "Who Holds the Off Switch? (24 minute read)",
-   "url": "https://hrih.si/articles/who-holds-the-off-switch/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://claude.com/product/claude-duet",
-   "issue_date": "2026-10-22",
-   "position": 6,
-   "section": "Launches & Tools",
-   "summary_html": "<div class=\"newsletter-html\">Claude Duet is a proactive agent that delivers morning briefs, handles tasks while you are away, and asks for approval when needed. The research preview uses Opus 5.5, carries over Claude memory, skills, and apps, and is offered through a waitlist for US Pro and Max users.</div>",
-   "title": "Claude Duet (Website)",
-   "url": "https://claude.com/product/claude-duet"
-  },
-  {
-   "edition": "dev",
-   "id": "https://github.com/omnara-ai/omnara",
-   "issue_date": "2026-10-22",
-   "position": 7,
-   "section": "Launches & Tools",
-   "summary_html": "<div class=\"newsletter-html\">Omnara is an open-source managed agent platform that can run with different model providers and execute tools on sandboxes or your own machines. A REST API, TypeScript SDK, CLI, and dashboard expose agent runs, while a Postgres event log lets workers resume them after crashes.</div>",
-   "title": "Omnara (GitHub Repo)",
-   "url": "https://github.com/omnara-ai/omnara"
-  },
-  {
-   "edition": "dev",
-   "id": "https://www.a16z.news/p/why-hardware-specialization-is-back",
-   "issue_date": "2026-10-22",
-   "position": 8,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">Slower transistor scaling, memory bottlenecks, and power limits are renewing the case for specialized AI inference hardware. Matching different inference phases to different accelerators can improve performance per watt while adding deployment and software complexity and leaving room for GPUs to absorb successful ideas.</div>",
-   "title": "Why Hardware Specialization Is Back (11 minute read)",
-   "url": "https://www.a16z.news/p/why-hardware-specialization-is-back"
-  },
-  {
-   "edition": "dev",
-   "id": "https://taekim.substack.com/p/an-interview-with-openais-richard",
-   "issue_date": "2026-10-22",
-   "position": 9,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">OpenAI's Jalape\u00f1o inference chip links 64 dedicated cores to individual HBM memory banks to reduce data movement and improve utilization. This interview explains the tradeoff in memory-management complexity, the choice to keep prefill and decode on fungible hardware, and how AI-assisted optimization accelerated chip design and kernel development.</div>",
-   "title": "Inside OpenAI's Jalape\u00f1o AI Chip (18 minute read)",
-   "url": "https://taekim.substack.com/p/an-interview-with-openais-richard"
-  },
-  {
-   "edition": "dev",
-   "id": "https://cameronrwolfe.substack.com/p/subjective-evals",
-   "issue_date": "2026-10-22",
-   "position": 10,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">Reliable evaluation of open-ended agent tasks combines calibrated human judgments, automated judges or rubrics, and production monitoring. Power analysis, confidence intervals, and repeated runs help distinguish improvements from noise, while realistic, diverse tasks, and production feedback keep benchmarks useful.</div>",
-   "title": "Evaluating Agents on Highly Subjective Tasks (20 minute read)",
-   "url": "https://cameronrwolfe.substack.com/p/subjective-evals"
-  },
-  {
-   "edition": "dev",
-   "id": "https://openai.com/index/openai-models-google-cloud",
-   "issue_date": "2026-10-22",
-   "position": 11,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">OpenAI frontier models and Codex workflows are coming to Google Cloud's Model Garden.</div>",
-   "title": "OpenAI Models Are Coming to Google Cloud (2 minute read)",
-   "url": "https://openai.com/index/openai-models-google-cloud/"
-  },
-  {
-   "edition": "dev",
-   "id": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-   "issue_date": "2026-10-22",
-   "position": 12,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Railway reports possible unauthorized access to customer environment variables, including some decrypted contents, and recommends rotating stored secrets and private registry credentials while reviewing service logs.</div>",
-   "title": "Railway Security Disclosure (2 minute read)",
-   "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st"
-  },
-  {
-   "edition": "dev",
-   "id": "https://google.github.io/styleguide/rustguide.html",
-   "issue_date": "2026-10-22",
-   "position": 13,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Google's Rust style guide covers code organization, formatting, ownership, API design, traits, errors, and concurrency.</div>",
-   "title": "Google Rust Style Guide (Website)",
-   "url": "https://google.github.io/styleguide/rustguide.html"
-  },
-  {
-   "edition": "dev",
-   "id": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans",
-   "issue_date": "2026-10-22",
-   "position": 14,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Narrating your reasoning aloud can aid problem-solving by exposing assumptions, organizing dependencies, making rules explicit, and clarifying choices for backtracking.</div>",
-   "title": "Chain of Thought for Humans (3 minute read)",
-   "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/"
-  },
-  {
-   "edition": "ai",
-   "id": "https://claude.com/resources/articles/claude-duet",
-   "issue_date": "2026-10-22",
-   "position": 0,
-   "section": "Headlines & Launches",
-   "summary_html": "<div class=\"newsletter-html\">Anthropic has unveiled Claude Duet, a proactive AI agent powered by Opus 5.5 that monitors connected apps, prioritizes tasks, and works autonomously while requesting approval before certain actions. The research preview initially targeted US Pro and Max subscribers through a waitlist.</div>",
-   "title": "Claude Duet (5 minute read)",
-   "url": "https://claude.com/resources/articles/claude-duet"
-  },
-  {
-   "edition": "ai",
-   "id": "https://recursive.com/updates/introducing-recursive-flint",
-   "issue_date": "2026-10-22",
-   "position": 1,
-   "section": "Headlines & Launches",
-   "summary_html": "<div class=\"newsletter-html\">Recursive Flint is a mixture-of-experts model built for fast agentic coding on local hardware. It has 40 billion total parameters but activates just 2.5 billion per token. It was built from scratch by a small team of people and agents in under four months. Flint generates more than 125 tokens per second on an M4 Pro MacBook Pro and more than 150 tokens per second on a 64GB NVIDIA RTX Spark at short contexts. It can be used as a daily coding model to complete tasks locally without sending data to a remote server.</div>",
-   "title": "Introducing Flint (7 minute read)",
-   "url": "https://recursive.com/updates/introducing-recursive-flint"
-  },
-  {
-   "edition": "ai",
-   "id": "https://openai.com/index/openai-models-google-cloud",
-   "issue_date": "2026-10-22",
-   "position": 2,
-   "section": "Headlines & Launches",
-   "summary_html": "<div class=\"newsletter-html\">OpenAI's frontier models and Codex agentic workflows are coming to Google Cloud's Model Garden. The integration will give customers native access to these models to power complex agentic workflows at scale. It will pair OpenAI's frontier models with Google Cloud's built-in access controls, centralized data governance, and high-performance infrastructure to support demanding enterprise workloads. OpenAI models will soon be available in Google Antigravity and the Gemini Agent.</div>",
-   "title": "OpenAI models are coming to Google Cloud (2 minute read)",
-   "url": "https://openai.com/index/openai-models-google-cloud/"
-  },
-  {
-   "edition": "ai",
-   "id": "https://x.com/prathiknaidu/status/2112928049935118493",
-   "issue_date": "2026-10-22",
-   "position": 3,
-   "section": "Deep Dives & Analysis",
-   "summary_html": "<div class=\"newsletter-html\">Long Lake argues that acquiring established service businesses solves AI deployment barriers through customer trust, expert knowledge, proprietary data, and aligned incentives. Backed by $7.5B, the company has partnered with 40 businesses to turn automation into measurable operating gains.</div>",
-   "title": "If Intelligence Is Getting Cheap, What Remains Expensive? (7 minute read)",
-   "url": "https://x.com/prathiknaidu/status/2112928049935118493"
-  },
-  {
-   "edition": "ai",
-   "id": "https://www.latent.space/p/claude-mods",
-   "issue_date": "2026-10-22",
-   "position": 4,
-   "section": "Deep Dives & Analysis",
-   "summary_html": "<div class=\"newsletter-html\">Claude Mods flips the agent harness paradigm to face the human, creating a customizable \"Attention Interface\" for Claude AI. Mods are TypeScript or JavaScript functions that alter Claude Code's behavior in real-time, allowing users to design how Claude interacts with them. This shift lets users program the human-agent interface and even have Claude build mods, enhancing workflow and decision-making.</div>",
-   "title": "Claude Mods: Flipping the Harness Inside Out (11 minute read)",
-   "url": "https://www.latent.space/p/claude-mods"
-  },
-  {
-   "edition": "ai",
-   "id": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
-   "issue_date": "2026-10-22",
-   "position": 5,
-   "section": "Deep Dives & Analysis",
-   "summary_html": "<div class=\"newsletter-html\">Language models can encode messages in images. These messages can be decoded by the same language model even if no information about the encoding method is passed. The act of decoding the hidden messages is obvious if the tool calls of the decoding model are monitored. The encoded messaging is surprisingly hard to spot, and it could be used as a precursor to steganography in images.</div>",
-   "title": "How does Fable 5.1 hide messages in images? (15 minute read)",
-   "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images"
-  },
-  {
-   "edition": "ai",
-   "id": "https://labs.baseten.co/articles/mammoth-1-and-elephant-1-frontier-decision-models",
-   "issue_date": "2026-10-22",
-   "position": 6,
-   "section": "Engineering & Research",
-   "summary_html": "<div class=\"newsletter-html\">Mammoth-1 and Elephant-1, decision models from Base Labs, top benchmarks like the Jev Decision Index and Artificial Analysis Decision Index.</div>",
-   "title": "Mammoth-1 and Elephant-1: frontier decision models (20 minute read)",
-   "url": "https://labs.baseten.co/articles/mammoth-1-and-elephant-1-frontier-decision-models"
-  },
-  {
-   "edition": "ai",
-   "id": "https://threadreaderapp.com/thread/2113013247209021918.html",
-   "issue_date": "2026-10-22",
-   "position": 7,
-   "section": "Engineering & Research",
-   "summary_html": "<div class=\"newsletter-html\">The Claude API has received its first official version release since 2023. Anthropic plans to release versions more often so developers can handle breaking changes before a new model requires them. 2023-06-10 is not deprecated. New major versions of the Anthropic SDKs and CLI are out today and default to the new API. A migration guide is available.</div>",
-   "title": "Claude API version 2026-10-21 is now available (1 minute read)",
-   "url": "https://threadreaderapp.com/thread/2113013247209021918.html"
-  },
-  {
-   "edition": "ai",
-   "id": "https://vllm.ai/blog/2026-10-21-humming",
-   "issue_date": "2026-10-22",
-   "position": 8,
-   "section": "Engineering & Research",
-   "summary_html": "<div class=\"newsletter-html\">Humming is a general-purpose kernel library for quantized inference. It features broad device support, extensive quantization support, and strong execution performance. Humming's unified architecture makes it straightforward to tune execution parameters and collect pipelines for different workloads.</div>",
-   "title": "Announcing Humming: Fast, Flexible Kernels for Quantized Inference (19 minute read)",
-   "url": "https://vllm.ai/blog/2026-10-21-humming"
-  },
-  {
-   "edition": "ai",
-   "id": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-   "issue_date": "2026-10-22",
-   "position": 9,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">OpenAI coordinated with PHP maintainers and security partners to patch critical vulnerabilities discovered using GPT-5.6 Sol and independently by Wiz. The company also released a PHP vulnerability checker and proposed a framework for coordinating responses to AI-discovered security flaws.</div>",
-   "title": "OpenAI's PHP Patcher (11 minute read)",
-   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
-  },
-  {
-   "edition": "ai",
-   "id": "https://www.theregister.com/ai-and-ml/2026/10/21/openclaw-creator-says-he-spent-10-million-in-tokens-last-month/5304573",
-   "issue_date": "2026-10-22",
-   "position": 10,
-   "section": "Miscellaneous",
-   "summary_html": "<div class=\"newsletter-html\">Peter Steinberger, the creator of OpenClaw and now a member of technical staff at OpenAI, estimates that he spent around $10 million in tokens running AI workloads last month, all from out of investors' pockets. Steinberger has a virtually unlimited token budget, allowing him to work differently from others in the industry. This article collects some of his answers during a conversation with Cloudflare's CTO at the Cloudflare Connect 2026 conference.</div>",
-   "title": "OpenClaw creator says he spent $10 million in tokens last month (4 minute read)",
-   "url": "https://www.theregister.com/ai-and-ml/2026/10/21/openclaw-creator-says-he-spent-10-million-in-tokens-last-month/5304573"
-  },
-  {
-   "edition": "ai",
-   "id": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
-   "issue_date": "2026-10-22",
-   "position": 11,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">A malicious LiteLLM package was published to PyPI and was live for approximately 2 hours before it was pulled.</div>",
-   "title": "Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised (11 minute read)",
-   "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026"
-  },
-  {
-   "edition": "ai",
-   "id": "https://github.com/openai/openai-cli",
-   "issue_date": "2026-10-22",
-   "position": 12,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">This repository contains the official CLI for the OpenAI API.</div>",
-   "title": "OpenAI CLI (GitHub Repo)",
-   "url": "https://github.com/openai/openai-cli"
-  },
-  {
-   "edition": "ai",
-   "id": "https://x.com/samdblond/status/2112936538711683315",
-   "issue_date": "2026-10-22",
-   "position": 13,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Agent Matrix is a platform that coordinates multiple AI agents working continuously toward revenue growth.</div>",
-   "title": "Monaco Launches Agent Matrix for Revenue Growth (1 minute read)",
-   "url": "https://x.com/samdblond/status/2112936538711683315"
-  },
-  {
-   "edition": "ai",
-   "id": "https://getopposable.com/blog/computer-use-on-the-phone",
-   "issue_date": "2026-10-22",
-   "position": 14,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">GUI-Owl 1.5 is a 2-billion-parameter screen model that can read an Android screen through the accessibility service and tap and type in any other app.</div>",
-   "title": "Computer use on the phone itself: a 2B model that operates Android apps (4 minute read)",
-   "url": "https://getopposable.com/blog/computer-use-on-the-phone"
-  },
-  {
-   "edition": "ai",
-   "id": "https://threadreaderapp.com/thread/2112732230124818891.html",
-   "issue_date": "2026-10-22",
-   "position": 15,
-   "section": "Quick Links",
-   "summary_html": "<div class=\"newsletter-html\">Dario Amodei responds to a post regarding Anthropic's stance on AI safety by listing the things that the company did in the past year that were pro-safety and commercially costly to it.</div>",
-   "title": "A response from Dario Amodei (8 minute read)",
-   "url": "https://threadreaderapp.com/thread/2112732230124818891.html"
-  },
   {
    "edition": "tech",
    "id": "https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853?st=XN3MfC&reflink=desktopwebshare_permalink",
@@ -5666,6 +5217,556 @@
    "summary_html": "<div class=\"newsletter-html\">Kimi K3.1 Pro, the latest in the 3T-class models, excels in multimodal tasks, improving outputs in coding, 3D creation, and factual accuracy with a million-token context window.</div>",
    "title": "Kimi-K3.1-Pro (10 minute read)",
    "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=F62maw&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-06",
+   "position": 0,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">Recent election results show that voters are overwhelmingly against the massive build-out of compute capacity that Silicon Valley is pushing. This could rein in AI's rapid growth and become a big problem for the tech companies developing the technology, and could have effects on the wider US economy. Stalling construction could result in dire consequences for tech companies that were already struggling to secure enough compute.</div>",
+   "title": "The Election Day Revolt That Threatens America's AI Boom (11 minute read)",
+   "url": "https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=F62maw&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?st=hNX9MY&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-06",
+   "position": 1,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">Major investors planning to participate in Anthropic's IPO, expected to launch the week before Thanksgiving, say the expected $1.5 trillion valuation will likely need to come down. The AI lab was expected to raise up to $100 billion, but is now predicted to raise around $80 billion, leaving it with a valuation closer to $1 trillion. Investors have revolted against AI bets this week as the midterm elections have put several AI skeptics in power, potentially slowing data center development in the US. Anthropic has avoided committing to specific plans for its IPO to maintain optionality.</div>",
+   "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation (7 minute read)",
+   "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?st=hNX9MY&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance",
+   "issue_date": "2026-11-06",
+   "position": 2,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Blue Origin has announced two significant upgrades to its New Glenn rocket that reduce the cost of manufacturing the vehicle and expand its capacity for payload delivery. The company aims to eventually launch the vehicle more than 1,000 times a year. It has started test firing a new engine that will eventually replace the BE-4 engine that powers the first stage of New Glenn. The company is also developing a hydrogen-oxygen third stage for the rocket to give it an extra kick.</div>",
+   "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost (2 minute read)",
+   "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.nytimes.com/2026/10/14/science/spudcell-adamala-biotic.html?unlocked_article_code=1.OVE.N_Db.a5RBcfVbgWuT&amp%3Bsmid=url-share&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-06",
+   "position": 3,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">A SpudCell is an artificial cell created from lifeless ingredients that can grow, copy its DNA, divide in two, and start its cell cycle all over again. It is still far from a self-sustaining cell that any scientist could manufacture from prepared ingredients, but the technology could eventually make it easier to produce medicines, foods, and other items that could not otherwise be produced with ordinary biology. The researchers working on SpudCell hope that it will eventually be a platform for biotechnology that will allow a simple cell to be engineered in scores of useful ways. SpudCell could potentially be misused, so its researchers are taking security seriously from the start - its DNA and proteins are engineered so that it can only survive on an exotic diet of chemicals not found in nature.</div>",
+   "title": "They Created a Cell That's Almost Alive. What to Do With It Now? (8 minute read)",
+   "url": "https://www.nytimes.com/2026/10/14/science/spudcell-adamala-biotic.html?unlocked_article_code=1.OVE.N_Db.a5RBcfVbgWuT&amp%3Bsmid=url-share&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password",
+   "issue_date": "2026-11-06",
+   "position": 4,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">*sshole is a vulnerability in Linux that allows attackers to log in via SSH without knowing the password. The vulnerability exists in systems using OpenSSH with musl without pluggable authentication modules. Despite the prerequisites, the vulnerabilities likely threaten a large number of systems. It is still unclear where the vulnerability resides and what other packages may be vulnerable.</div>",
+   "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices (3 minute read)",
+   "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture",
+   "issue_date": "2026-11-06",
+   "position": 5,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">GitHub's new Git storage architecture is capable of handling thousands of writes per second with reads that scale on demand. It can support 5,000 concurrent agents working on a repository while serving read traffic with consistently low latency. The new architecture is designed to support agentic development for hundreds of millions of developers. This post walks through the requirements behind the design of the new architecture and explores two of its components.</div>",
+   "title": "Inside GitHub's new Git storage architecture (21 minute read)",
+   "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html?unlocked_article_code=1.OVE.0w5Y.yvhWxuXOa-LL&amp%3Bsmid=url-share&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-06",
+   "position": 6,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">At the heart of Dario Amodei's worldview are two interwoven philosophies: rationalism, which aims to apply dispassionate thinking to the world, and effective altruism, which seeks to maximize social good with mathematical precision. These schools of thought form the foundation for Anthropic. As the company has grown, Amodei's views have become increasingly prominent. This article takes a look at how Anthropic's chief executive's thinking on AI was shaped.</div>",
+   "title": "The Making of Dario Amodei (20 minute read)",
+   "url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html?unlocked_article_code=1.OVE.0w5Y.yvhWxuXOa-LL&amp%3Bsmid=url-share&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai",
+   "issue_date": "2026-11-06",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">A 'Hackintosh' is a non-Apple computer running macOS. The Hackintosh community started fading away after Apple released its first ARM-based Mac and discontinued support for x86 versions of macOS. However, the rise of AI has revived activity in the space, and there has been an explosion in development, activity, and success in the past few weeks. This post lists a few recent developments, including macOS 27 running on a Snapdragon laptop, iOS 17 running on the Nintendo Switch OLED, and macOS 27.2 Beta on an ARM SBC RK3588 with Mali drivers.</div>",
+   "title": "The Hackintosh Reborn... with AI (3 minute read)",
+   "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://a16z.com/the-exploit-was-the-bottleneck",
+   "issue_date": "2026-11-06",
+   "position": 8,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The average time from disclosure to attack has been falling for some time, but AI has changed who can operate inside that window, and how fast known bugs get weaponized.</div>",
+   "title": "The Exploit Was the Bottleneck (24 minute read)",
+   "url": "https://a16z.com/the-exploit-was-the-bottleneck/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+   "issue_date": "2026-11-06",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Tech companies track, store, and sell a lot of information - they should use it to make the user experience better.</div>",
+   "title": "I wish tech companies knew more about me (4 minute read)",
+   "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me"
+  },
+  {
+   "edition": "tech",
+   "id": "https://tailscale.com/blog/100x-more-programmers",
+   "issue_date": "2026-11-06",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">There will be 100 times more programmers in the next few years, but most of them won't call themselves programmers.</div>",
+   "title": "100x more programmers (17 minute read)",
+   "url": "https://tailscale.com/blog/100x-more-programmers"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.seangoedecke.com/a-database-is-a-store-for-global-variables",
+   "issue_date": "2026-11-06",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Two pieces of common software engineering dogma - avoid global variables and use a database for state - are partially inconsistent.</div>",
+   "title": "A database is a store for global variables (7 minute read)",
+   "url": "https://www.seangoedecke.com/a-database-is-a-store-for-global-variables/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://deepphenotype.substack.com/p/getting-data-to-grow-in-a-dish",
+   "issue_date": "2026-11-06",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">This essay looks at what it takes to build a physical platform capable of performing biological experiments, measuring their outcomes reliably, and generating evidence at the scale AI requires.</div>",
+   "title": "Getting Data to Grow in a Dish (30 minute read)",
+   "url": "https://deepphenotype.substack.com/p/getting-data-to-grow-in-a-dish"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.bloomberg.com/news/articles/2026-11-05/how-musk-s-starlink-can-challenge-at-t-verizon-and-t-mobile?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzk0MzA5MSwiZXhwIjoxNzk0NTQ3ODkxLCJhcnRpY2xlSWQiOiJUTkQ1QkZUOU5KTFcwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.a1-WWYcSKGVVPz7Ag2jGNwXWVjlrBwccqRCeb2bt3xI&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-06",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Elon Musk wants to combine SpaceX's Starlink satellite broadband network with mobile antennas, fiber connections, and other ground infrastructure, so that regular smartphones can seamlessly tap into signals from both Earth and space.</div>",
+   "title": "How Musk Plans to Shake Up the US Wireless Industry (9 minute read)",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-05/how-musk-s-starlink-can-challenge-at-t-verizon-and-t-mobile?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzk0MzA5MSwiZXhwIjoxNzk0NTQ3ODkxLCJhcnRpY2xlSWQiOiJUTkQ1QkZUOU5KTFcwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.a1-WWYcSKGVVPz7Ag2jGNwXWVjlrBwccqRCeb2bt3xI&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "dev",
+   "id": "https://airbnb.tech/ai-ml/frontier-quality-at-1-of-the-cost-a-production-benchmark-of-llm-classifiers",
+   "issue_date": "2026-11-06",
+   "position": 0,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Airbnb fine-tuned a model with 2 billion effective parameters to match frontier models on a production policy classifier, reaching 0.902 F1 with 35 ms median latency. At thousands of requests per minute, serving it on one GPU cost roughly 1% as much as frontier APIs, though hosted models were cheaper at low traffic.</div>",
+   "title": "Frontier Quality at 1% of the Cost: A Production Benchmark of LLM Classifiers (8 minute read)",
+   "url": "https://airbnb.tech/ai-ml/frontier-quality-at-1-of-the-cost-a-production-benchmark-of-llm-classifiers/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://tabwidgets.com/blog/react-lazy-suspense-delay",
+   "issue_date": "2026-11-06",
+   "position": 1,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Tab Widgets traced slow startup to React's 300 ms Suspense reveal throttle, even though its widget code had loaded within about 100 ms. Rendering placeholders without suspending brought the first widget content onscreen about 240 ms sooner in its Windows Chrome tests, while shrinking the startup bundle made no measurable difference.</div>",
+   "title": "React.lazy, Suspense and the Hidden 300 ms Delay (12 minute read)",
+   "url": "https://tabwidgets.com/blog/react-lazy-suspense-delay"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture",
+   "issue_date": "2026-11-06",
+   "position": 2,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">GitHub's Rubicon architecture separates immutable Git objects in Azure Blob Storage from reference updates in a dedicated replicated log, letting compute, storage, and maintenance scale independently. Internal tests supported 5,000 concurrent agents and 7,200 pushes per second to one repository, with disposable virtual replicas serving requests and separate workers compacting packs.</div>",
+   "title": "Inside GitHub's New Git Storage Architecture (16 minute read)",
+   "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet",
+   "issue_date": "2026-11-06",
+   "position": 3,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Similar-looking workflows can have different failure modes, audit requirements, and owners, so combining them too early creates flags and coordination costs. Wait until a pattern appears three times for the same reason before extracting it, while sharing stable primitives, design tokens, accessibility behavior, and standards-driven utilities from the start.</div>",
+   "title": "Don't Build the Reusable Component Yet (6 minute read)",
+   "url": "https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet"
+  },
+  {
+   "edition": "dev",
+   "id": "https://denodell.com/blog/design-systems-should-be-fast-by-default",
+   "issue_date": "2026-11-06",
+   "position": 4,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Tests of ten design systems show why interaction performance needs the same attention as accessibility, using a 249-country dropdown and a list of 100 checkboxes as realistic stress cases. The practical approach combines Playwright performance budgets, checks for long frames and nonlinear scaling, and defaults such as automatic virtualization so every app benefits.</div>",
+   "title": "Design Systems Should Be Fast by Default (18 minute read)",
+   "url": "https://denodell.com/blog/design-systems-should-be-fast-by-default"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/flyfish-dev/file-viewer",
+   "issue_date": "2026-11-06",
+   "position": 5,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">File Viewer previews more than 275 file formats in the browser, including Office documents, PDF, CAD, 3D files, and archives. Its built-in renderers work without a conversion server, with integrations for Vue, React, Svelte, and Web Components and support for self-hosting workers, WASM, and fonts.</div>",
+   "title": "File Viewer (GitHub Repo)",
+   "url": "https://github.com/flyfish-dev/file-viewer"
+  },
+  {
+   "edition": "dev",
+   "id": "https://sidebearing-trim.js.org/",
+   "issue_date": "2026-11-06",
+   "position": 6,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">sidebearing-trim aligns text columns by visible letter shapes rather than glyph box origins. It reads OpenType glyph metrics and applies a negative offset at the start of the line to compensate for the first glyph's sidebearing.</div>",
+   "title": "sidebearing-trim (Website)",
+   "url": "https://sidebearing-trim.js.org/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/KenKaiii/gg-framework",
+   "issue_date": "2026-11-06",
+   "position": 7,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">GG Coder is a desktop coding agent that works with existing AI subscriptions, API keys, or local models, with local search of open-source code and an autopilot that continues through verification. The repository also exposes reusable packages for provider connections, tool-using agents, model selection, and coding sessions under an AGPL-3.0 license.</div>",
+   "title": "GG Coder (GitHub Repo)",
+   "url": "https://github.com/KenKaiii/gg-framework"
+  },
+  {
+   "edition": "dev",
+   "id": "https://expo.dev/blog/purrkour-webgpu-typegpu-game-expo-three-days",
+   "issue_date": "2026-11-06",
+   "position": 8,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Purrkour went from first commit to App Store-ready in three days using a shared TypeScript engine, Expo, and TypeGPU, with procedural graphics and audio. A solver verifies the puzzles, while an AI agent tests actual gameplay through Argent using a debug bridge that exposes board state and exact tap coordinates.</div>",
+   "title": "A WebGPU Cat Puzzle Game Shipped in Three Days on Expo, with an AI Agent as the QA Team (6 minute read)",
+   "url": "https://expo.dev/blog/purrkour-webgpu-typegpu-game-expo-three-days"
+  },
+  {
+   "edition": "dev",
+   "id": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations",
+   "issue_date": "2026-11-06",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">NVIDIA uses specialized agents to correlate failures across GPU cluster hardware, networking, scheduling, and observability through one chat interface. The system can run on-premises with local Nemotron models, while read-only Kubernetes credentials, per-session sandboxes, and auditable recommendations give SREs control over investigations.</div>",
+   "title": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations (5 minute read)",
+   "url": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+   "issue_date": "2026-11-06",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Discord plans to replace Electron on desktop and React Native on mobile with shared Rust app code, while retaining native mobile interfaces. A preview Windows client used 290 MB of RAM, but there is no announced release date and user testing is still planned.</div>",
+   "title": "Discord Is Ditching Electron and Its New App Uses Less RAM (2 minute read)",
+   "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.ivankristianto.com/split-webfont-text-layout",
+   "issue_date": "2026-11-06",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Splitting common letters across webfont files increases text layout work and interaction latency, which can be reduced by keeping basic Latin together, avoiding overlapping unicode-range declarations, and placing Arabic fonts first on Arabic pages.</div>",
+   "title": "How a Split Webfont Slowed Down My Text Layout, and How I Fixed It (7 minute read)",
+   "url": "https://www.ivankristianto.com/split-webfont-text-layout/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://thinkingmachines.ai/news/inkling-2-small",
+   "issue_date": "2026-11-06",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Thinking Machines' new mixture-of-experts model has 594B total parameters and 17B active, supports image input and adjustable reasoning effort, and launches on Tinker with Apache 2.0 weights planned for next week after external safety testing.</div>",
+   "title": "Introducing Inkling 2 Small (12 minute read)",
+   "url": "https://thinkingmachines.ai/news/inkling-2-small/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://sshhole.com/",
+   "issue_date": "2026-11-06",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">A password authentication bypass in OpenSSH on musl systems without PAM can let specially configured accounts accept long passwords because musl's crypt() failure marker matches the account's stored password field.</div>",
+   "title": "*sshole (5 minute read)",
+   "url": "https://sshhole.com/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+   "issue_date": "2026-11-06",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Despite extensive tracking, tech services still recommend products people already own, ignore explicit language preferences, and miss years of consistent behavior, raising the question of why collected data so rarely improves the experience.</div>",
+   "title": "I Wish Tech Companies Knew More About Me (4 minute read)",
+   "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me"
+  },
+  {
+   "edition": "ai",
+   "id": "https://openai.com/index/introducing-gpt-6-cyber",
+   "issue_date": "2026-11-06",
+   "position": 0,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI introduced GPT-6 Cyber, a cybersecurity model designed to identify and validate exploitable vulnerabilities while staying within researcher-defined boundaries.</div>",
+   "title": "GPT-6 Cyber (13 minute read)",
+   "url": "https://openai.com/index/introducing-gpt-6-cyber/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://thinkingmachines.ai/news/inkling-2-small",
+   "issue_date": "2026-11-06",
+   "position": 1,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Inkling 2 Small is a Mixture-of-Experts model with 594B total parameters, 17B active, that supports image inputs and variable effort. The model's vision and agentic capabilities enable it to incorporate visual feedback to iteratively build and refine websites, games, and 3D designs with interactive elements. It will be initially available through Tinker with closed weights. Full weights will be available under an Apache 2.0 license next week after the completion of external safety testing and red-teaming.</div>",
+   "title": "Introducing Inkling 2 Small (37 minute read)",
+   "url": "https://thinkingmachines.ai/news/inkling-2-small/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+   "issue_date": "2026-11-06",
+   "position": 2,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Google introduces Gemini Omni 1.2 Flash, enhancing speed, cost-efficiency, and extended clip lengths for AI models. This update aims to improve developer tools and effectiveness in AI applications.</div>",
+   "title": "Gemini Omni 1.2 Flash (1 minute read)",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment",
+   "issue_date": "2026-11-06",
+   "position": 3,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic's AI R&amp;D capabilities accelerated significantly, improving model performance on well-defined tasks at roughly twice the rate compared to 2024-2025. This acceleration primarily results from AI's increasing role in R&amp;D, though multiple factors contributed in late 2025.</div>",
+   "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026 (63 minute read)",
+   "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://blog.cloudflare.com/trusted-agent-delegation",
+   "issue_date": "2026-11-06",
+   "position": 4,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Cloudflare has outlined the challenges websites face as AI agents increasingly act on behalf of users, making it harder to verify identities, assess trustworthiness, and assign accountability.</div>",
+   "title": "Cloudflare's Trust Framework for AI Agents (4 minute read)",
+   "url": "https://blog.cloudflare.com/trusted-agent-delegation"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.dwarkesh.com/p/clocktower",
+   "issue_date": "2026-11-06",
+   "position": 5,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Blood on the Clocktower is a social deception game. Watching AI play the game unveils a lot about how AI is progressing on a set of AI capabilities that no other benchmark gives clear visibility into. The game requires AI to execute schemes with creativity, on-the-spot bluffing, and collective reasoning. This post looks at what happens when you pit AI models against each other in the game.</div>",
+   "title": "The benchmark where AIs have to lie to win (23 minute read)",
+   "url": "https://www.dwarkesh.com/p/clocktower"
+  },
+  {
+   "edition": "ai",
+   "id": "https://research.nvidia.com/labs/lpr/vflash",
+   "issue_date": "2026-11-06",
+   "position": 6,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">NVIDIA VFlash is a vision model that generates geometric predictions like robot trajectories and 3D motion in parallel rather than token by token.</div>",
+   "title": "NVIDIA Introduced VFlash (5 minute read)",
+   "url": "https://research.nvidia.com/labs/lpr/vflash/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+   "issue_date": "2026-11-06",
+   "position": 7,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">NVIDIA's Cosmos 3 platform now offers four open-weight models for interactive world simulation and driving scenes, each with 16 billion trainable parameters. These models enable multi-sensor data generation, synchronized observations, and photorealistic video from simulator controls, supporting advanced research in robotics and autonomous driving.</div>",
+   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation (7 minute read)",
+   "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+  },
+  {
+   "edition": "ai",
+   "id": "https://x.com/OrnnExchange/status/2118372699093295482",
+   "issue_date": "2026-11-06",
+   "position": 8,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">GPU providers sell capacity through reservations, on-demand rentals, and interruptible spot contracts. Reservations help secure financing through predictable revenue, on-demand offers flexibility at higher rates, and spot monetizes idle capacity. Ornn's compute price indices track executed on-demand transactions, excluding reservations and spot rentals.</div>",
+   "title": "How Primary Compute Markets Work (7 minute read)",
+   "url": "https://x.com/OrnnExchange/status/2118372699093295482"
+  },
+  {
+   "edition": "ai",
+   "id": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
+   "issue_date": "2026-11-06",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic Personal Finance in Claude allows users to securely connect bank and credit card accounts to ask questions about balances, transactions, and spending.</div>",
+   "title": "Personal Finance in Claude (3 minute read)",
+   "url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude"
+  },
+  {
+   "edition": "ai",
+   "id": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars",
+   "issue_date": "2026-11-06",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Meta announced voice conversations and expressive avatars for its Muse app, allowing users to brainstorm, plan trips, and complete tasks through spoken interactions.</div>",
+   "title": "Muse Voice (3 minute read)",
+   "url": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://x.com/cursor_ai/status/2118458629091426304",
+   "issue_date": "2026-11-06",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Users just have to describe the tool they want, and Cursor will build it, set up a database, run deterministic and agentic security checks, and deploy.</div>",
+   "title": "You can now build live apps in Cursor and share them with a link (1 minute read)",
+   "url": "https://x.com/cursor_ai/status/2118458629091426304"
+  },
+  {
+   "edition": "ai",
+   "id": "https://huggingface.co/spaces/huggingface/moe-blogpost",
+   "issue_date": "2026-11-06",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Hugging Face released \"The Ultimate MoE Training Handbook,\" a comprehensive guide on training mixture-of-experts models.</div>",
+   "title": "The Ultimate MoE Training Handbook (1 minute read)",
+   "url": "https://huggingface.co/spaces/huggingface/moe-blogpost"
+  },
+  {
+   "edition": "ai",
+   "id": "https://devin.ai/blog/devin-review-2",
+   "issue_date": "2026-11-06",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The cost of a Devin Review per PR has dropped by 82% since August.</div>",
+   "title": "Devin Review 2.0 (5 minute read)",
+   "url": "https://devin.ai/blog/devin-review-2"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
+   "issue_date": "2026-11-06",
+   "position": 0,
+   "section": "Headlines and Launches",
+   "summary_html": "<div class=\"newsletter-html\">Agility begins trading Thursday after merging with Churchill Capital Corp XI, becoming the first US-listed company focused on humanoid robots. The deal values it at roughly $2.5 billion and expects about $465 million in gross proceeds, including $100 million already received. In 2025, it booked $1.8 million of revenue, over half from five robots bought by one investor, against a $138.1 million net loss. About $38 million of that was non-cash stock compensation, and it burned $99.8 million in cash.</div>",
+   "title": "Agility Robotics lists on Nasdaq as AGLT with $1.8M of revenue and a $138.1M net loss (3 minute read)",
+   "url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028",
+   "issue_date": "2026-11-06",
+   "position": 1,
+   "section": "Headlines and Launches",
+   "summary_html": "<div class=\"newsletter-html\">Waymo will move rides in Austin and Atlanta to its own app in January 2028, ahead of the Uber deal's May 2028 expiry. Riders on Uber never knew whether they'd get a robotaxi or a human driver. Waymo wants a direct rider relationship.</div>",
+   "title": "Waymo confirms it will leave Uber in Austin and Atlanta in January 2028 (1 minute read)",
+   "url": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine",
+   "issue_date": "2026-11-06",
+   "position": 2,
+   "section": "Engineering and Applications",
+   "summary_html": "<div class=\"newsletter-html\">Northstar is a methalox booster engine that Blue Origin says cuts mass by 30% and parts count by 50% versus the BE-4 while raising thrust from 640,000 to 715,000 lbf, with assembly in under a day. No first-flight date is given, and New Glenn is still recovering from a pad explosion that happened in May.</div>",
+   "title": "Blue Origin adds a BE-7 third stage to New Glenn and unveils the Northstar engine (3 minute read)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html",
+   "issue_date": "2026-11-06",
+   "position": 3,
+   "section": "Engineering and Applications",
+   "summary_html": "<div class=\"newsletter-html\">SpaceX has signed a multiyear deal for Qualcomm's Dragonwing infrastructure platforms: the QRU100 radio unit and QDU100 distributed unit, with 64T64R massive MIMO and physical-layer RAN software. They'll go into base stations at what's planned as tens of thousands of US sites, starting in 2027, to complement Starlink's satellite service. Qualcomm calls this its biggest 5G deal yet.</div>",
+   "title": "Qualcomm to supply MIMO radios and baseband for Starlink Mobile's terrestrial 5G network (2 minute read)",
+   "url": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://phys.org/news/2026-11-giant-planet-emerges-year-jwst.html",
+   "issue_date": "2026-11-06",
+   "position": 4,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">A Northwestern-led team built FLIP, which makes a physics-based digital twin of the telescope's optics and adjusts it until it reproduces the observed starlight, then subtracts that simulated glare. On existing NIRCam data at 4.3 microns, it improved sensitivity up to 15x over the conventional KLIP method and recovered the giant planet 51 Eridani b, which standard processing couldn't separate from residual glare.</div>",
+   "title": "FLIP software subtracts starlight in JWST coronagraph data with up to 15x better sensitivity (3 minute read)",
+   "url": "https://phys.org/news/2026-11-giant-planet-emerges-year-jwst.html"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://arxiv.org/abs/2611.05936",
+   "issue_date": "2026-11-06",
+   "position": 5,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">LumiTac pairs five photoemitters with five RGBW photoreceivers on opposing circuit boards joined by translucent silicone, so load-driven motion between the layers shifts the internal light field under compression, shear, bending, and torsion. The head is 12 mm across, 4.75 mm thick, under 2 g, and made with about $7 in components. Independent testing gave R\u00b2 of 0.966 to 0.994, with mean absolute errors of 0.054 to 0.190 N in force and 0.304 to 1.419 mN\u00b7m in moment.</div>",
+   "title": "LumiTac is a camera-free six-axis tactile sensor, 12 mm wide and about $7 in parts (2 minute read)",
+   "url": "https://arxiv.org/abs/2611.05936"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.reuters.com/world/us/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race-2026-11-04",
+   "issue_date": "2026-11-06",
+   "position": 6,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Texas governor-elect Gina Hinojosa has pledged to halt all data center approvals until the legislature passes new laws when it meets in January. Outgoing Governor Abbott had already paused new grid connections and ordered an audit. Texas holds about 25% of planned US data center capacity. It is estimated that 13.3 GW of announced projects are at risk.</div>",
+   "title": "Texas governor-elect Hinojosa's data center moratorium pledge puts 13.3 GW of announced projects at risk (2 minute read)",
+   "url": "https://www.reuters.com/world/us/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race-2026-11-04/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.forbes.com/sites/ywang/2026/11/04/chinese-chip-magnate-amasses-13-billion-fortune-on-claims-of-tech-breakthrough-by-cxmt",
+   "issue_date": "2026-11-06",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">CXMT says its 4F\u00b2 DRAM uses a vertical surrounding gate transistor and builds the memory cells and peripheral circuitry on separate wafers joined by hybrid bonding, which an analyst says could raise density by about 30%. Yields are unknown, and a server product is promised before year-end. The claim cut Samsung and SK Hynix about 13% in a day, even though CXMT holds roughly 10% of DRAM against Samsung's 38%.</div>",
+   "title": "CXMT's chairman tops China's newcomers at $13B on an unverified claim of a 4F\u00b2 DRAM breakthrough (3 minute read)",
+   "url": "https://www.forbes.com/sites/ywang/2026/11/04/chinese-chip-magnate-amasses-13-billion-fortune-on-claims-of-tech-breakthrough-by-cxmt/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.space.com/space-exploration/satellites/drone-warfare-in-space-swarms-of-autonomous-laser-shooting-cubesats-could-defend-western-satellites-in-orbit",
+   "issue_date": "2026-11-06",
+   "position": 8,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">UK startup Shield Space wants carrier-deployed cubesat swarms using lasers, microwaves, or kinetic standoff to defend satellites, even when ground contact is lost, for under \u00a3100M per 100.</div>",
+   "title": "Shield Space plans swarms of up to 100 laser-armed cubesat interceptors, starting with a 2027 rendezvous demo (4 minute read)",
+   "url": "https://www.space.com/space-exploration/satellites/drone-warfare-in-space-swarms-of-autonomous-laser-shooting-cubesats-could-defend-western-satellites-in-orbit"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.geekwire.com/2026/starfish-space-loses-contact-otter-sspicy",
+   "issue_date": "2026-11-06",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Starfish's Otter 24C launched October 1, made two-way contact, and downlinked telemetry, then lost contact during commissioning.</div>",
+   "title": "Starfish's first Otter servicing spacecraft is lost to a fault-protection fault, ending a $15M NASA inspection mission (2 minute read)",
+   "url": "https://www.geekwire.com/2026/starfish-space-loses-contact-otter-sspicy/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://interestingengineering.com/energy/thea-energy-mit-stellarator-magnet-test",
+   "issue_date": "2026-11-06",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Thea Energy's Eos stellarator uses flat coils instead of hard-to-build 3D magnets.</div>",
+   "title": "Thea Energy and MIT will test a full-size flat superconducting coil for the Eos stellarator (3 minute read)",
+   "url": "https://interestingengineering.com/energy/thea-energy-mit-stellarator-magnet-test"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://corporate.walmart.com/news/2026/11/walmart-expands-drone-delivery-network-with-zipline",
+   "issue_date": "2026-11-06",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Walmart signed a multi-year deal to add 300 Zipline drone sites.</div>",
+   "title": "Walmart adds 300 Zipline drone delivery sites, building on 2M+ deliveries (2 minute read)",
+   "url": "https://corporate.walmart.com/news/2026/11/walmart-expands-drone-delivery-network-with-zipline"
   }
  ]
 }

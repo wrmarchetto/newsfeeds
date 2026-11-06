@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-11-05T11:00:00+00:00</updated>
+  <updated>2026-11-06T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://airbnb.tech/ai-ml/frontier-quality-at-1-of-the-cost-a-production-benchmark-of-llm-classifiers</id>
+    <title>Frontier Quality at 1% of the Cost: A Production Benchmark of LLM Classifiers (8 minute read)</title>
+    <updated>2026-11-06T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Airbnb fine-tuned a model with 2 billion effective parameters to match frontier models on a production policy classifier, reaching 0.902 F1 with 35 ms median latency. At thousands of requests per minute, serving it on one GPU cost roughly 1% as much as frontier APIs, though hosted models were cheaper at low traffic.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-06"&gt;TLDR Dev · 2026-11-06 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://airbnb.tech/ai-ml/frontier-quality-at-1-of-the-cost-a-production-benchmark-of-llm-classifiers/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-06T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tabwidgets.com/blog/react-lazy-suspense-delay</id>
+    <title>React.lazy, Suspense and the Hidden 300 ms Delay (12 minute read)</title>
+    <updated>2026-11-06T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Tab Widgets traced slow startup to React's 300 ms Suspense reveal throttle, even though its widget code had loaded within about 100 ms. Rendering placeholders without suspending brought the first widget content onscreen about 240 ms sooner in its Windows Chrome tests, while shrinking the startup bundle made no measurable difference.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-06"&gt;TLDR Dev · 2026-11-06 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://tabwidgets.com/blog/react-lazy-suspense-delay"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-06T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture</id>
+    <title>Inside GitHub's New Git Storage Architecture (16 minute read)</title>
+    <updated>2026-11-06T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;GitHub's Rubicon architecture separates immutable Git objects in Azure Blob Storage from reference updates in a dedicated replicated log, letting compute, storage, and maintenance scale independently. Internal tests supported 5,000 concurrent agents and 7,200 pushes per second to one repository, with disposable virtual replicas serving requests and separate workers compacting packs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-06"&gt;TLDR Dev · 2026-11-06 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-06T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet</id>
+    <title>Don't Build the Reusable Component Yet (6 minute read)</title>
+    <updated>2026-11-06T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Similar-looking workflows can have different failure modes, audit requirements, and owners, so combining them too early creates flags and coordination costs. Wait until a pattern appears three times for the same reason before extracting it, while sharing stable primitives, design tokens, accessibility behavior, and standards-driven utilities from the start.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-06"&gt;TLDR Dev · 2026-11-06 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-06T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://denodell.com/blog/design-systems-should-be-fast-by-default</id>
+    <title>Design Systems Should Be Fast by Default (18 minute read)</title>
+    <updated>2026-11-06T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Tests of ten design systems show why interaction performance needs the same attention as accessibility, using a 249-country dropdown and a list of 100 checkboxes as realistic stress cases. The practical approach combines Playwright performance budgets, checks for long frames and nonlinear scaling, and defaults such as automatic virtualization so every app benefits.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-06"&gt;TLDR Dev · 2026-11-06 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://denodell.com/blog/design-systems-should-be-fast-by-default"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-06T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/flyfish-dev/file-viewer</id>
+    <title>File Viewer (GitHub Repo)</title>
+    <updated>2026-11-06T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;File Viewer previews more than 275 file formats in the browser, including Office documents, PDF, CAD, 3D files, and archives. Its built-in renderers work without a conversion server, with integrations for Vue, React, Svelte, and Web Components and support for self-hosting workers, WASM, and fonts.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-06"&gt;TLDR Dev · 2026-11-06 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/flyfish-dev/file-viewer"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-06T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://sidebearing-trim.js.org/</id>
+    <title>sidebearing-trim (Website)</title>
+    <updated>2026-11-06T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;sidebearing-trim aligns text columns by visible letter shapes rather than glyph box origins. It reads OpenType glyph metrics and applies a negative offset at the start of the line to compensate for the first glyph's sidebearing.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-06"&gt;TLDR Dev · 2026-11-06 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://sidebearing-trim.js.org/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-06T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/KenKaiii/gg-framework</id>
+    <title>GG Coder (GitHub Repo)</title>
+    <updated>2026-11-06T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;GG Coder is a desktop coding agent that works with existing AI subscriptions, API keys, or local models, with local search of open-source code and an autopilot that continues through verification. The repository also exposes reusable packages for provider connections, tool-using agents, model selection, and coding sessions under an AGPL-3.0 license.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-06"&gt;TLDR Dev · 2026-11-06 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/KenKaiii/gg-framework"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-06T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://expo.dev/blog/purrkour-webgpu-typegpu-game-expo-three-days</id>
+    <title>A WebGPU Cat Puzzle Game Shipped in Three Days on Expo, with an AI Agent as the QA Team (6 minute read)</title>
+    <updated>2026-11-06T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Purrkour went from first commit to App Store-ready in three days using a shared TypeScript engine, Expo, and TypeGPU, with procedural graphics and audio. A solver verifies the puzzles, while an AI agent tests actual gameplay through Argent using a debug bridge that exposes board state and exact tap coordinates.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-06"&gt;TLDR Dev · 2026-11-06 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://expo.dev/blog/purrkour-webgpu-typegpu-game-expo-three-days"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-06T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations</id>
+    <title>How NVIDIA Uses AI Agents to Streamline AI Factory Operations (5 minute read)</title>
+    <updated>2026-11-06T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;NVIDIA uses specialized agents to correlate failures across GPU cluster hardware, networking, scheduling, and observability through one chat interface. The system can run on-premises with local Nemotron models, while read-only Kubernetes credentials, per-session sandboxes, and auditable recommendations give SREs control over investigations.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-06"&gt;TLDR Dev · 2026-11-06 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-06T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/news/1027379/discord-ditching-electron-web-app</id>
+    <title>Discord Is Ditching Electron and Its New App Uses Less RAM (2 minute read)</title>
+    <updated>2026-11-06T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Discord plans to replace Electron on desktop and React Native on mobile with shared Rust app code, while retaining native mobile interfaces. A preview Windows client used 290 MB of RAM, but there is no announced release date and user testing is still planned.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-06"&gt;TLDR Dev · 2026-11-06 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.theverge.com/news/1027379/discord-ditching-electron-web-app"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-06T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.ivankristianto.com/split-webfont-text-layout</id>
+    <title>How a Split Webfont Slowed Down My Text Layout, and How I Fixed It (7 minute read)</title>
+    <updated>2026-11-06T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Splitting common letters across webfont files increases text layout work and interaction latency, which can be reduced by keeping basic Latin together, avoiding overlapping unicode-range declarations, and placing Arabic fonts first on Arabic pages.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-06"&gt;TLDR Dev · 2026-11-06 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.ivankristianto.com/split-webfont-text-layout/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-06T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://thinkingmachines.ai/news/inkling-2-small</id>
+    <title>Introducing Inkling 2 Small (12 minute read)</title>
+    <updated>2026-11-06T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Thinking Machines' new mixture-of-experts model has 594B total parameters and 17B active, supports image input and adjustable reasoning effort, and launches on Tinker with Apache 2.0 weights planned for next week after external safety testing.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-06"&gt;TLDR Dev · 2026-11-06 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://thinkingmachines.ai/news/inkling-2-small/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-06T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://sshhole.com/</id>
+    <title>*sshole (5 minute read)</title>
+    <updated>2026-11-06T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A password authentication bypass in OpenSSH on musl systems without PAM can let specially configured accounts accept long passwords because musl's crypt() failure marker matches the account's stored password field.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-06"&gt;TLDR Dev · 2026-11-06 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://sshhole.com/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-06T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me</id>
+    <title>I Wish Tech Companies Knew More About Me (4 minute read)</title>
+    <updated>2026-11-06T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Despite extensive tracking, tech services still recommend products people already own, ignore explicit language preferences, and miss years of consistent behavior, raising the question of why collected data so rarely improves the experience.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-06"&gt;TLDR Dev · 2026-11-06 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-06T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://openai.com/index/a-thousand-fewer-paths-to-root</id>
     <title>A thousand fewer paths to root (20 minute read)</title>
@@ -1529,155 +1679,5 @@
     <category term="TLDR Dev"/>
     <category term="Quick Links"/>
     <published>2026-10-23T10:59:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/building-chatgpt-ad-stack</id>
-    <title>How ChatGPT's Ad Stack Works (12 minute read)</title>
-    <updated>2026-10-22T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;ChatGPT's ad system uses a post-trained LLM to orchestrate retrieval, ranking, relevance checks, and auctions as user intent evolves across conversations. Stateful ad sessions preserve context, while separate models, services, and code keep ad selection outside ChatGPT's answer-generation path.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-22"&gt;TLDR Dev · 2026-10-22 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://openai.com/index/building-chatgpt-ad-stack/"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-22T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tldraw.dev/blog/computing-bounding-boxes</id>
-    <title>Computing Bounding Boxes (6 minute read)</title>
-    <updated>2026-10-22T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;tldraw transforms shape vertices into page coordinates, then takes their minimum and maximum values to compute fast axis-aligned bounding boxes. The walkthrough covers nested transforms and rotated selection handles, with approximate bounds filtering candidates before more expensive geometry checks.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-22"&gt;TLDR Dev · 2026-10-22 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://tldraw.dev/blog/computing-bounding-boxes"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-22T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://clickhouse.com/blog/openreplay-front-end-observability-at-scale-clickhouse</id>
-    <title>Front-end Observability at Scale with ClickHouse (11 minute read)</title>
-    <updated>2026-10-22T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;OpenReplay's largest customers ingest billions of events and roughly 6 TB daily on a single ClickHouse instance, with sub-second queries. Moving behavioral analytics out of Postgres also replaced disruptive retention cleanups with TTL rules and simplified data pipelines through materialized views.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-22"&gt;TLDR Dev · 2026-10-22 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://clickhouse.com/blog/openreplay-front-end-observability-at-scale-clickhouse"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-22T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://aboard.com/the-web-is-more-than-enough</id>
-    <title>The Web Is More Than Enough (6 minute read)</title>
-    <updated>2026-10-22T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Modern browsers already offer cryptography, native-speed code, graphics, and audio, while AI makes those capabilities easier for individuals to use. Falling development and hosting costs could expand personal software creation and challenge app-store economics.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-22"&gt;TLDR Dev · 2026-10-22 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://aboard.com/the-web-is-more-than-enough/"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-22T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html</id>
-    <title>Asking LLM for Confidence (8 minute read)</title>
-    <updated>2026-10-22T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;An LLM's stated confidence is generated text, so a precise-looking number should not be treated as a calibrated measure of correctness. The proposed alternative derives scores from observable evidence and historical outcomes, then checks calibration regularly on the same kinds of tasks.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-22"&gt;TLDR Dev · 2026-10-22 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-22T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://hrih.si/articles/who-holds-the-off-switch</id>
-    <title>Who Holds the Off Switch? (24 minute read)</title>
-    <updated>2026-10-22T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Five imagined coffee purchases in 2035 illustrate different models of data control, from state surveillance and privacy regulation to commercial data markets, public infrastructure, and biometric identity. Privacy increasingly depends on who can stop collection. AI assistants and paid privacy tiers will make that question more pressing.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-22"&gt;TLDR Dev · 2026-10-22 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://hrih.si/articles/who-holds-the-off-switch/"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-22T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/product/claude-duet</id>
-    <title>Claude Duet (Website)</title>
-    <updated>2026-10-22T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Claude Duet is a proactive agent that delivers morning briefs, handles tasks while you are away, and asks for approval when needed. The research preview uses Opus 5.5, carries over Claude memory, skills, and apps, and is offered through a waitlist for US Pro and Max users.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-22"&gt;TLDR Dev · 2026-10-22 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://claude.com/product/claude-duet"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-22T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://github.com/omnara-ai/omnara</id>
-    <title>Omnara (GitHub Repo)</title>
-    <updated>2026-10-22T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Omnara is an open-source managed agent platform that can run with different model providers and execute tools on sandboxes or your own machines. A REST API, TypeScript SDK, CLI, and dashboard expose agent runs, while a Postgres event log lets workers resume them after crashes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-22"&gt;TLDR Dev · 2026-10-22 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://github.com/omnara-ai/omnara"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-22T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.a16z.news/p/why-hardware-specialization-is-back</id>
-    <title>Why Hardware Specialization Is Back (11 minute read)</title>
-    <updated>2026-10-22T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Slower transistor scaling, memory bottlenecks, and power limits are renewing the case for specialized AI inference hardware. Matching different inference phases to different accelerators can improve performance per watt while adding deployment and software complexity and leaving room for GPUs to absorb successful ideas.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-22"&gt;TLDR Dev · 2026-10-22 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.a16z.news/p/why-hardware-specialization-is-back"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-22T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://taekim.substack.com/p/an-interview-with-openais-richard</id>
-    <title>Inside OpenAI's Jalapeño AI Chip (18 minute read)</title>
-    <updated>2026-10-22T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI's Jalapeño inference chip links 64 dedicated cores to individual HBM memory banks to reduce data movement and improve utilization. This interview explains the tradeoff in memory-management complexity, the choice to keep prefill and decode on fungible hardware, and how AI-assisted optimization accelerated chip design and kernel development.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-22"&gt;TLDR Dev · 2026-10-22 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://taekim.substack.com/p/an-interview-with-openais-richard"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-22T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://cameronrwolfe.substack.com/p/subjective-evals</id>
-    <title>Evaluating Agents on Highly Subjective Tasks (20 minute read)</title>
-    <updated>2026-10-22T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Reliable evaluation of open-ended agent tasks combines calibrated human judgments, automated judges or rubrics, and production monitoring. Power analysis, confidence intervals, and repeated runs help distinguish improvements from noise, while realistic, diverse tasks, and production feedback keep benchmarks useful.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-22"&gt;TLDR Dev · 2026-10-22 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://cameronrwolfe.substack.com/p/subjective-evals"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-22T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/openai-models-google-cloud</id>
-    <title>OpenAI Models Are Coming to Google Cloud (2 minute read)</title>
-    <updated>2026-10-22T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI frontier models and Codex workflows are coming to Google Cloud's Model Garden.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-22"&gt;TLDR Dev · 2026-10-22 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://openai.com/index/openai-models-google-cloud/"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-22T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.railway.com/p/security-disclosure-wednesday-october-21st</id>
-    <title>Railway Security Disclosure (2 minute read)</title>
-    <updated>2026-10-22T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Railway reports possible unauthorized access to customer environment variables, including some decrypted contents, and recommends rotating stored secrets and private registry credentials while reviewing service logs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-22"&gt;TLDR Dev · 2026-10-22 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.railway.com/p/security-disclosure-wednesday-october-21st"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-22T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://google.github.io/styleguide/rustguide.html</id>
-    <title>Google Rust Style Guide (Website)</title>
-    <updated>2026-10-22T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Google's Rust style guide covers code organization, formatting, ownership, API design, traits, errors, and concurrency.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-22"&gt;TLDR Dev · 2026-10-22 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://google.github.io/styleguide/rustguide.html"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-22T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans</id>
-    <title>Chain of Thought for Humans (3 minute read)</title>
-    <updated>2026-10-22T10:59:46+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Narrating your reasoning aloud can aid problem-solving by exposing assumptions, organizing dependencies, making rules explicit, and clarifying choices for backtracking.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-22"&gt;TLDR Dev · 2026-10-22 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-22T10:59:46+00:00</published>
   </entry>
 </feed>
