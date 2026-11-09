@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/hardware.xml</id>
   <title>TLDR Hardware</title>
-  <updated>2026-11-06T11:00:00+00:00</updated>
+  <updated>2026-11-09T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,126 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.cnn.com/2026/11/08/business/nvidia-investigation-ceo-jensen-huang</id>
+    <title>Nvidia's board opens an independent investigation into Jensen Huang after he admits an affair with a woman US officials suspect of spying for China (3 minute read)</title>
+    <updated>2026-11-09T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Huang told employees he was unfaithful and said he supports the probe, which independent directors and outside counsel will oversee, and Nvidia says he stays on as CEO. The spy allegations against Alice Huang, an executive at Megaspeed, which is accused of smuggling $2B of chips, remain reported assessments, not proven, and China has called them unsubstantiated.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-09"&gt;TLDR Hardware · 2026-11-09 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cnn.com/2026/11/08/business/nvidia-investigation-ceo-jensen-huang"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-11-09T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.reuters.com/business/media-telecom/firefly-inks-13-billion-deal-supply-engines-new-ast-spacemobile-blacklift-rocket-2026-11-06</id>
+    <title>AST SpaceMobile is building its own reusable rocket, Blacklift, to launch its BlueBird satellites (2 minute read)</title>
+    <updated>2026-11-09T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AST is building Blacklift, a 20-ton, three-stage rocket with two reusable lower stages, to launch up to five stacked BlueBirds per flight from late 2028. It sized the vehicle around its own constellation after launch delays, including a New Glenn failure, slowed deployment, though it keeps outside launch deals for 100+ satellites. The engines come from Firefly: 27 Miranda and 9 Vira for the first three rockets, plus a license to build them itself, in a deal valued above $1.3 billion.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-09"&gt;TLDR Hardware · 2026-11-09 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.reuters.com/business/media-telecom/firefly-inks-13-billion-deal-supply-engines-new-ast-spacemobile-blacklift-rocket-2026-11-06/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-11-09T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://payloadspace.com/nasa-unveils-moon-base-awards-at-max-power</id>
+    <title>NASA's Moon Base awards use a “buy now, payload later” launch model and reuse Mars rover spares for PROMISE (3 minute read)</title>
+    <updated>2026-11-09T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;NASA's six VADR launch task orders (about 400M and drill about 1 m for ice. The CLPS 2 lander contract targets 2 to 6 metric ton landers. The miniCAST power-and-comms tower combines Redwire's roll-out solar arrays, which retract during landings to avoid dust, with wireless power transfer and storage.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-09"&gt;TLDR Hardware · 2026-11-09 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://payloadspace.com/nasa-unveils-moon-base-awards-at-max-power/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-11-09T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.caranddriver.com/news/a74361623/yangwang-u9-xtreme-top-speed-records-312-mph</id>
+    <title>Yangwang's U9 Xtreme hits 503 km/h (312.65 mph), a one-way record, on tuned rear-wing angle, damping, and tire pressure (2 minute read)</title>
+    <updated>2026-11-09T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;BYD's electric hypercar, driven by Marc Basseng on a closed Abu Dhabi highway, is the first production car that can accelerate past 500 km/h. Four motors make about 2,220 kW and spin to 30,000 rpm, on custom Giti semi-slick tires. After early runs topped out near 490 km/h, engineers adjusted rear-wing angle, rebound damping in the suspension software, and tire pressures.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-09"&gt;TLDR Hardware · 2026-11-09 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.caranddriver.com/news/a74361623/yangwang-u9-xtreme-top-speed-records-312-mph/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-11-09T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://bostondynamics.com/news/boston-dynamics-launches-next-generation-stretch-robot</id>
+    <title>Boston Dynamics' Stretch Gen 2 cuts internal cabling 81% and swaps a swerve drive in about an hour (3 minute read)</title>
+    <updated>2026-11-09T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Using data from 100,000+ operating hours, Boston Dynamics redesigned its trailer-unloading robot around downtime. It cut internal cabling 81% (about half a mile of wire), switched to automotive-grade connectors, and added continuous-rotation joints that no longer hit hard stops. A full swerve drive swap drops from a day to about an hour. It unloads up to 1,000 cases per hour (varies with weight and stacking) and fast-charges to 90% in about 75 minutes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-09"&gt;TLDR Hardware · 2026-11-09 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://bostondynamics.com/news/boston-dynamics-launches-next-generation-stretch-robot/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-11-09T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery</id>
+    <title>Physicists used electrical noise to show electrons in a high-temperature superconductor pair up earlier than expected (4 minute read)</title>
+    <updated>2026-11-09T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Superconductors carry current when electrons team up in pairs, but in cuprates (compounds containing copper in an anionic state), scientists couldn't tell if the pairs form early or just don't exist until the material gets cold enough. The team measured electrical noise, which gets louder when charge moves in pairs, and found the extra noise appearing early. That suggests the pairs are already there and are just failing to move together, which could be what limits how warm cuprates can superconduct.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-09"&gt;TLDR Hardware · 2026-11-09 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-11-09T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2026-11-06/neocloud-groq-aims-to-double-value-to-8-billion-amid-ai-selloff?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDIwNDY2NiwiZXhwIjoxNzk0ODA5NDY2LCJhcnRpY2xlSWQiOiJUTzM3UlNLR0lGUTEwMCIsImJjb25uZWN0SWQiOiI0NUZGMzc2RThENDg0NzYxQTkwQ0JEMzc4OTMzQjg2RiJ9.7tMgeqZbv9m_RgTwxmWEgppudAXOMpGObKr1euqpOLY</id>
+    <title>Groq seeks a Series B at an $8B valuation, more than double August's, as it shifts from chips to inference data centers (2 minute read)</title>
+    <updated>2026-11-09T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Groq, which used to build inference chips and now operates data centers selling inference capacity, is pitching investors a Series B at $8 billion before new money, versus $3.15 billion in August. Executive chairman Alex Davis criticizes rivals' reliance on debt and projects revenue up eightfold next year and $2 billion in EBITDA by 2028. The pitch comes as listed neoclouds like CoreWeave and Nebius sell off on debt concerns.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-09"&gt;TLDR Hardware · 2026-11-09 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-06/neocloud-groq-aims-to-double-value-to-8-billion-amid-ai-selloff?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDIwNDY2NiwiZXhwIjoxNzk0ODA5NDY2LCJhcnRpY2xlSWQiOiJUTzM3UlNLR0lGUTEwMCIsImJjb25uZWN0SWQiOiI0NUZGMzc2RThENDg0NzYxQTkwQ0JEMzc4OTMzQjg2RiJ9.7tMgeqZbv9m_RgTwxmWEgppudAXOMpGObKr1euqpOLY"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-09T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability</id>
+    <title>TSMC denies reports that it is planning 3D DRAM for Nvidia (2 minute read)</title>
+    <updated>2026-11-09T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Information reported that TSMC began planning 3D DRAM production, possibly by converting an existing fab, to give Nvidia a fourth memory source, but TSMC says it stays a pure-play logic foundry with no plans to make commodity memory. The engineering case against it is that 3D DRAM, which stacks memory cells vertically, is years out even for Micron, whose roadmap has at least four more planar nodes first, and TSMC has no competitive planar DRAM process to build on.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-09"&gt;TLDR Hardware · 2026-11-09 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-09T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://medium.com/@michaelswengel/omarchy-linux-now-works-on-apple-silicon-macs-6a36659df523</id>
+    <title>Omarchy 4.5 installs natively on M1 to M3 and Neo MacBooks, its first non-x86 release, built on Asahi Linux (2 minute read)</title>
+    <updated>2026-11-09T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Omarchy, an Arch-based Hyprland desktop distro, shipped 4.5 with Apple Silicon as a primary target through the Omarchy M team via a dual-boot installer.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-09"&gt;TLDR Hardware · 2026-11-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://medium.com/@michaelswengel/omarchy-linux-now-works-on-apple-silicon-macs-6a36659df523"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-09T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas</id>
+    <title>Six pallets of Nvidia hardware worth $11.4M vanished on a truck from Oakland to Fort Worth (3 minute read)</title>
+    <updated>2026-11-09T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A truck carrying six pallets of Nvidia hardware valued at $11.4 million left Oakland on August 29 and was lost near San Bernardino County.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-09"&gt;TLDR Hardware · 2026-11-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-09T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future</id>
+    <title>Tau Robotics' teleoperated humanoid cleaned a reporter's apartment while logging human-piloted motions as training data for future autonomy (3 minute read)</title>
+    <updated>2026-11-09T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Tau's 4.5-foot robots are piloted remotely over head and wrist cameras and use 3D-printed claws, so the company has done only a couple hundred cleanings, though it claims vacuuming and mopping already run autonomously.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-09"&gt;TLDR Hardware · 2026-11-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-09T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump</id>
+    <title>The Trump administration is reportedly weighing four sealed-pod underwater data centers off Maine and Alaska, building on Microsoft's test that saw 87% fewer server failures (3 minute read)</title>
+    <updated>2026-11-09T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Submerging sealed pods could cut cooling costs and sidestep the community opposition that land sites face.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-09"&gt;TLDR Hardware · 2026-11-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-09T10:59:49+00:00</published>
+  </entry>
   <entry>
     <id>https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11</id>
     <title>Agility Robotics lists on Nasdaq as AGLT with $1.8M of revenue and a $138.1M net loss (3 minute read)</title>
@@ -749,115 +869,5 @@
     <category term="TLDR Hardware"/>
     <category term="Quick Links"/>
     <published>2026-10-26T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.dwarkesh.com/p/intel-tour</id>
-    <title>Intel's CTO says tools can only roughly double leading-edge chip output, while AI demand grows 3x a year (50 minute read)</title>
-    <updated>2026-10-23T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Dwarkesh Patel toured Intel's fabs and interviewed its leaders. CTO Pushkar Ranade said that there are enough tools to roughly double leading-edge output, not 10x. Backside power lets Intel's 14A print with a single High-NA pass, where TSMC would still need double-patterned EUV. Other topics discussed included ruthenium wiring below roughly 20nm pitch, CFET aspect-ratio and heat challenges, hybrid bonding pitches shrinking toward 0.45 microns, and the Terafab partnership.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-23"&gt;TLDR Hardware · 2026-10-23 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.dwarkesh.com/p/intel-tour"/>
-    <category term="TLDR Hardware"/>
-    <category term="Headlines and Launches"/>
-    <published>2026-10-23T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://thenextweb.com/news/agility-robotics-digit-5-nvidia-igx-thor</id>
-    <title>Agility's Digit 5 humanoid robot will run on Nvidia as it heads for Nasdaq (4 minute read)</title>
-    <updated>2026-10-23T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Agility Robotics will use Nvidia's IGX Thor modules as the exclusive onboard computer for the general-sale version of Digit 5, with early access starting in the first half of 2027. The robot also adopts parts of Nvidia's Halos safety platform, whose inspection lab will check Digit's safety software before outside certification. Agility reports more than $300 million in multi-year Digit 5 orders, four new customers, and a new Pittsburgh site, as it prepares to list on Nasdaq via a merger with Churchill Capital Corp XI.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-23"&gt;TLDR Hardware · 2026-10-23 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://thenextweb.com/news/agility-robotics-digit-5-nvidia-igx-thor"/>
-    <category term="TLDR Hardware"/>
-    <category term="Headlines and Launches"/>
-    <published>2026-10-23T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.scientificamerican.com/article/new-superconducting-chip-aims-to-help-tame-fusion-plasma</id>
-    <title>New superconducting chip aims to help tame fusion plasma (5 minute read)</title>
-    <updated>2026-10-23T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Brookhaven National Laboratory debuted a superconducting chip built with other US Department of Energy facilities and AI hardware startup Great Sky to monitor fusion plasma in real time. The chip runs a neuromorphic neural network meant to spot signs that superhot plasma is about to become unstable. Its backers hope the hardware is fast enough to help control plasma before disruptions form, a prerequisite for practical fusion power.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-23"&gt;TLDR Hardware · 2026-10-23 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.scientificamerican.com/article/new-superconducting-chip-aims-to-help-tame-fusion-plasma/"/>
-    <category term="TLDR Hardware"/>
-    <category term="Engineering and Applications"/>
-    <published>2026-10-23T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://spectrum.ieee.org/ground-effect-vehicle</id>
-    <title>Electric Seagliders Promise Faster Coastal Travel by 2028 (8 minute read)</title>
-    <updated>2026-10-23T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Regent's Viceroy Seaglider, the largest electric wing-in-ground-effect craft to fly with people aboard, made its maiden flight on September 2, covering 596 meters over 30 seconds at about 10 meters above the water. The 16.8-meter craft carries 12 passengers at up to 290 kph with a 290-kilometer range, and is classified as a maritime vessel under US law, sidestepping the FAA certification limbo facing eVTOLs. Regent has raised more than $340 million, claims a $10 billion order backlog, and plans commercial production at the end of 2027.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-23"&gt;TLDR Hardware · 2026-10-23 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://spectrum.ieee.org/ground-effect-vehicle"/>
-    <category term="TLDR Hardware"/>
-    <category term="Engineering and Applications"/>
-    <published>2026-10-23T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.reuters.com/technology/us-award-389-million-rd-funds-power-semiconductors-critical-materials-2026-10-22</id>
-    <title>Commerce plans $389M for power semiconductors, with the government taking equity stakes (2 minute read)</title>
-    <updated>2026-10-23T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The Commerce Department plans four awards: up to $175 million for Helion's high-voltage power semiconductors and modules for fusion, $85 million for Commonwealth Fusion Systems' plasma-heating and radiation-hardened electronics, and $73 million for Vertical Semiconductor's vertical gallium nitride devices for AI racks. Sibelco gets $56 million for ultra-high-purity quartz purification.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-23"&gt;TLDR Hardware · 2026-10-23 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.reuters.com/technology/us-award-389-million-rd-funds-power-semiconductors-critical-materials-2026-10-22"/>
-    <category term="TLDR Hardware"/>
-    <category term="Research and Prototypes"/>
-    <published>2026-10-23T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://research.nvidia.com/labs/cosmos-lab/cosmos-simulation</id>
-    <title>Interactive World Simulation with Cosmos for Physical AI (3 minute read)</title>
-    <updated>2026-10-23T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;NVIDIA's Cosmos 3 enables real-time, interactive world simulations through models like Cosmos3-Nano-Sim-Bimanual, -Transfer, and -Auto. These models support action-conditioned dynamics, spatial control for high-quality visual outputs, and synchronized multi-view video for tasks like autonomous driving. Leveraging advanced spatial and language controls, the models surpass performance benchmarks in depth, edge, and video quality metrics.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-23"&gt;TLDR Hardware · 2026-10-23 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://research.nvidia.com/labs/cosmos-lab/cosmos-simulation/"/>
-    <category term="TLDR Hardware"/>
-    <category term="Research and Prototypes"/>
-    <published>2026-10-23T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.macrumors.com/2026/10/22/iphone-duo-australia-launch</id>
-    <title>Apple's $1,999 iPhone Duo foldable reaches its first customers with stock already tight (2 minute read)</title>
-    <updated>2026-10-23T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The $1,999 iPhone Duo has reached its first customers in Australia and New Zealand, with rollout moving through Asia, the Middle East, Europe, then North America. Early owners praise the matte 7.6-inch inner display and a nearly invisible crease, and note the under-screen camera is occasionally visible, with Touch ID in place of Face ID. Apple expects stock to sell out on launch day, and online shipping estimates have slipped to January 25.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-23"&gt;TLDR Hardware · 2026-10-23 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.macrumors.com/2026/10/22/iphone-duo-australia-launch"/>
-    <category term="TLDR Hardware"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-23T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html</id>
-    <title>SpaceX books a $561M unrealized gain on its Boring Co. stake (2 minute read)</title>
-    <updated>2026-10-23T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;SpaceX recorded a $561 million non-cash gain in Q3 from its minority stake in The Boring Co., more than half of its "other income," lifting net income to just over $4 billion. The mark-up follows Boring Co.'s $3 billion raise last month at a $23 billion valuation, backed by UAE investors. Boring Co. started inside SpaceX in 2017 and was spun out a year later.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-23"&gt;TLDR Hardware · 2026-10-23 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html"/>
-    <category term="TLDR Hardware"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-23T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techxplore.com/news/2026-10-magnetic-field-blue-oled-lifetimes.html</id>
-    <title>Magnetic Field Tests Predict Blue OLED Lifetimes (2 minute read)</title>
-    <updated>2026-10-23T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;KAIST researchers developed a method to predict blue OLED lifetimes by measuring tiny brightness changes under magnetic fields.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-23"&gt;TLDR Hardware · 2026-10-23 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://techxplore.com/news/2026-10-magnetic-field-blue-oled-lifetimes.html"/>
-    <category term="TLDR Hardware"/>
-    <category term="Quick Links"/>
-    <published>2026-10-23T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.semafor.com/article/10/22/2026/spacex-40b-debt-deal-will-cost-it-as-ai-fears-spread</id>
-    <title>SpaceX's $40B chip-financing debt prices at up to 8.3% as AI fears spread (1 minute read)</title>
-    <updated>2026-10-23T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;SpaceX's $40 billion raise, led by Apollo and Goldman Sachs, is pricing at about 8.3% on the lowest-rated tranche, while a safer piece backed by some of its chips is expected near 7.75%.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-23"&gt;TLDR Hardware · 2026-10-23 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.semafor.com/article/10/22/2026/spacex-40b-debt-deal-will-cost-it-as-ai-fears-spread"/>
-    <category term="TLDR Hardware"/>
-    <category term="Quick Links"/>
-    <published>2026-10-23T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback</id>
-    <title>Oura sues Ultrahuman again over the redesigned Ring Pro's internals (4 minute read)</title>
-    <updated>2026-10-23T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Oura sued Ultrahuman again, alleging the redesigned Ring Pro infringes two patents on the ring's design and internals, including a curved battery, circuit board, magnets, and sensors.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-23"&gt;TLDR Hardware · 2026-10-23 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback"/>
-    <category term="TLDR Hardware"/>
-    <category term="Quick Links"/>
-    <published>2026-10-23T10:59:50+00:00</published>
   </entry>
 </feed>

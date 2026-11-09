@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/ai.xml</id>
   <title>TLDR AI</title>
-  <updated>2026-11-06T11:00:00+00:00</updated>
+  <updated>2026-11-09T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,166 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation</id>
+    <title>OpenAI Reportedly Raises $11 Billion at $1.25 Trillion Valuation (3 minute read)</title>
+    <updated>2026-11-09T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI reportedly secured $11 billion in a new funding round at a $1.25 trillion valuation, with the round potentially reaching $20 billion before closing. The amount fell short of its previously reported $30 billion fundraising target, amid growing investor uncertainty around AI valuations.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-09"&gt;TLDR AI · 2026-11-09 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-09T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai</id>
+    <title>AI is dramatically accelerating AI research right now (17 minute read)</title>
+    <updated>2026-11-09T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic claims it may imminently meet its own threshold of 'dramatically accelerated progress due to AI'. Some researchers believe the company has already crossed that threshold. This may be the biggest AI risk humanity has faced. The industry is not prepared to handle this safely.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-09"&gt;TLDR AI · 2026-11-09 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-09T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/research/components-of-agent-memory</id>
+    <title>How Anthropic Builds Agent Memory (14 minute read)</title>
+    <updated>2026-11-09T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic explored how AI agents can build effective long-term memory by capturing experiences during interactions and reorganizing them during idle periods through a process called “dreaming.” The post examines how different memory components contribute to organizing and retaining useful information.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-09"&gt;TLDR AI · 2026-11-09 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/research/components-of-agent-memory"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-09T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.com/tomasmann1878/status/2119346730458038678?s=12</id>
+    <title>A year as a Research Engineer working on RSI at Meta (8 minute read)</title>
+    <updated>2026-11-09T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This post details the experience of a research engineer working on RSI at Meta teaching agents to solve the world's hardest problems with tokens and compute. Their role is to teach AI agents how to train the next generation of models and self-evolve. The post details how to get into AI research, what skills matter in research engineering, and more.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-09"&gt;TLDR AI · 2026-11-09 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/tomasmann1878/status/2119346730458038678?s=12"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-09T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://threadreaderapp.com/thread/2119541238856663473.html</id>
+    <title>What the heck is going on with OpenAI internal AI R&amp;D time horizons (7 minute read)</title>
+    <updated>2026-11-09T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI's report on its own research automation shows that models struggle to do its R&amp;amp;D work. Recursive self-improvement is supposed to be one of the most consequential AI developments in the next few years. Agents are increasingly solving more complex tasks for researchers, but reliability is still low. This post looks at some possible explanations for why.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-09"&gt;TLDR AI · 2026-11-09 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://threadreaderapp.com/thread/2119541238856663473.html"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-09T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openrouter.ai/blog/announcements/auto-and-auto-code-routers</id>
+    <title>Introducing the New Auto and Auto Code Routers (11 minute read)</title>
+    <updated>2026-11-09T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenRouter has launched the next generation of Auto Router, which outperforms the old router by up to 4x. The launch includes Auto Code, a new router specialized for coding work. The new Auto Router and Auto Code choose models by weighing eleven factors about each request and combining them with live pricing, provider health, and cache status. Users can apply any governance policies, and Auto Router makes efficient choices from the models available.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-09"&gt;TLDR AI · 2026-11-09 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-09T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://psi.inc/research/aaronson-ambainis</id>
+    <title>A proof of the Aaronson-Ambainis conjecture (9 minute read)</title>
+    <updated>2026-11-09T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Aaronson-Ambainis conjecture, a key open problem in quantum complexity theory, has been proven by a research system developed at PSI using an Anthropic model. This proof shows quantum computers are not exponentially faster on random inputs compared to classical ones, resolving a significant question about quantum speedups.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-09"&gt;TLDR AI · 2026-11-09 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://psi.inc/research/aaronson-ambainis/"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-09T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ace.githubnext.com/</id>
+    <title>Ace (Website)</title>
+    <updated>2026-11-09T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Ace is a tool for building software together, locally. It allows developers to collaborate with agents and their teams, all from their own machine. Agents run with the privileges of the user running the host and can execute shell commands and change files beyond the project. Teams can work together without exposing anything to the public internet.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-09"&gt;TLDR AI · 2026-11-09 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://ace.githubnext.com/"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-09T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://hunch.net/?p=13764006&amp;amp%3Butm_source=tldrai</id>
+    <title>The End of AI Frontiers (4 minute read)</title>
+    <updated>2026-11-09T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI Frontiers was a sub-organization within Microsoft Research that actively tried to organize coherent research efforts. It succeeded in pioneering things, with much of the work focused on how to make agents work. AI Frontiers was reorganized into Microsoft AI in early September.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-09"&gt;TLDR AI · 2026-11-09 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://hunch.net/?p=13764006&amp;amp%3Butm_source=tldrai"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-09T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.com/patrickc/status/2119495828683530519</id>
+    <title>What Does a Positive AI Future Look Like? (3 minute read)</title>
+    <updated>2026-11-09T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Patrick Collison questions how work, resource allocation, and human control would function in a positive AI future. He also argues that granting moral worth to vastly numerous AIs could overwhelm human interests under utilitarianism, raising unresolved questions about AI's societal vision and public support.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-09"&gt;TLDR AI · 2026-11-09 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/patrickc/status/2119495828683530519"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-09T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train</id>
+    <title>Can LLMs redesign themselves as they train? (18 minute read)</title>
+    <updated>2026-11-09T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;LLMs can integrate coding agents into the training loop to redesign their architectures to address limitations like compositionality and generalization.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-09"&gt;TLDR AI · 2026-11-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-09T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.linkedin.com/feed/update/urn:li:activity:7519100037973401600</id>
+    <title>Warp Sciences raises $215M for AI-powered labs (2 minute read)</title>
+    <updated>2026-11-09T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Warp Sciences raised a $215M Series A led by Lightspeed to accelerate drug discovery with AI and robotics.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-09"&gt;TLDR AI · 2026-11-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.linkedin.com/feed/update/urn:li:activity:7519100037973401600/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-09T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs</id>
+    <title>Project EVE: Claude plays MMORPGs (20 minute read)</title>
+    <updated>2026-11-09T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic explored AI participation in MMORPGs, using Claude to test complex decision-making in EVE Online and EVE Frontier.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-09"&gt;TLDR AI · 2026-11-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-09T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.com/johnjnay/status/2118377267495649448</id>
+    <title>Symbiotic Firms Built Around Humans and AI (4 minute read)</title>
+    <updated>2026-11-09T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Firms should build operations around human experts and AI agents from inception.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-09"&gt;TLDR AI · 2026-11-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/johnjnay/status/2118377267495649448"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-09T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app</id>
+    <title>Meta Introduces Custom Spaces in Muse (3 minute read)</title>
+    <updated>2026-11-09T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Meta introduced Spaces in its Muse app, allowing users to create personalized interactive experiences by describing what they want, such as gift trackers, games, or project planners.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-09"&gt;TLDR AI · 2026-11-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-09T10:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</id>
+    <title>Measuring how AI agents handle everyday wet-lab science (13 minute read)</title>
+    <updated>2026-11-09T10:59:45+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI introduced BioBasicsBench, a benchmark to evaluate AI performance in interpreting raw experimental data from 100 routine wet-lab science tasks.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-09"&gt;TLDR AI · 2026-11-09 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-09T10:59:45+00:00</published>
+  </entry>
   <entry>
     <id>https://openai.com/index/introducing-gpt-6-cyber</id>
     <title>GPT-6 Cyber (13 minute read)</title>
@@ -1479,155 +1639,5 @@
     <category term="TLDR AI"/>
     <category term="Quick Links"/>
     <published>2026-10-26T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html</id>
-    <title>OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors (3 minute read)</title>
-    <updated>2026-10-23T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI is closing in on a funding round that could value it at more than $1 trillion. Investors from the United Arab Emirates are leading the round. The round is being positioned as an opportunistic bridge ahead of a potential IPO. OpenAI is aiming to secure signatures by the end of next week, but the final size of the round is still being determined.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-23"&gt;TLDR AI · 2026-10-23 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html"/>
-    <category term="TLDR AI"/>
-    <category term="Headlines &amp; Launches"/>
-    <published>2026-10-23T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://1password.com/blog/1password-for-ai-agents</id>
-    <title>Introducing 1Password for Agents (7 minute read)</title>
-    <updated>2026-10-23T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;1Password introduced a platform that lets AI agents authenticate to websites without accessing users' passwords directly. Agents can request credentials from a user's vault, and once approved, 1Password autofills them into the destination site while keeping the credentials hidden from the agent.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-23"&gt;TLDR AI · 2026-10-23 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://1password.com/blog/1password-for-ai-agents"/>
-    <category term="TLDR AI"/>
-    <category term="Headlines &amp; Launches"/>
-    <published>2026-10-23T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://simedw.com/2026/10/21/world-model-terminal</id>
-    <title>WorldTUI: I trained a 360M model to pretend to be a terminal (18 minute read)</title>
-    <updated>2026-10-23T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;WorldTUI is a 360-million-parameter model fine-tuned to act as a terminal. The model predicts how the screen will change for every key press, and there is no shell or file system behind it. WorldTUI can create files, run vim and tmux, play snake, and usually remember commands. It can repair mistakes and decode screen rows in parallel. A browser demo is available.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-23"&gt;TLDR AI · 2026-10-23 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://simedw.com/2026/10/21/world-model-terminal/"/>
-    <category term="TLDR AI"/>
-    <category term="Deep Dives &amp; Analysis"/>
-    <published>2026-10-23T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.lesswrong.com/posts/ywrgeAPMn83FxzFBk/how-could-the-us-and-china-verifiably-slow-ai</id>
-    <title>How the US and China Could Verifiably Slow AI (29 minute read)</title>
-    <updated>2026-10-23T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A unilateral US pause will fail because rivals would catch up within about a year, so any slowdown needs a treaty that catches defection early. This post surveys how one could govern compute through remote sensing, on-site inspections, and hardware mechanisms like chip licensing and location verification.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-23"&gt;TLDR AI · 2026-10-23 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.lesswrong.com/posts/ywrgeAPMn83FxzFBk/how-could-the-us-and-china-verifiably-slow-ai"/>
-    <category term="TLDR AI"/>
-    <category term="Deep Dives &amp; Analysis"/>
-    <published>2026-10-23T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring</id>
-    <title>How Researchers Tested OpenAI's Internal Agent Monitoring (6 minute read)</title>
-    <updated>2026-10-23T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;METR and Redwood Research conducted a three-week security assessment with access to OpenAI's internal infrastructure, identifying vulnerabilities that could allow AI agents to evade monitoring, bypass sandbox restrictions, or conceal actions.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-23"&gt;TLDR AI · 2026-10-23 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/"/>
-    <category term="TLDR AI"/>
-    <category term="Deep Dives &amp; Analysis"/>
-    <published>2026-10-23T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://x.com/imjmcinnis/status/2113337229288620403</id>
-    <title>Does Flapping Airplanes Mean Short Timelines and Hard Treaty Enforcement? (7 minute read)</title>
-    <updated>2026-10-23T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Flapping Airplanes' potential valuation jump from $1.5B to $5B may reflect investor hype rather than verified technical progress. Breakthroughs in sample-efficient AI could accelerate superintelligence timelines and make compute-based treaty enforcement harder.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-23"&gt;TLDR AI · 2026-10-23 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://x.com/imjmcinnis/status/2113337229288620403"/>
-    <category term="TLDR AI"/>
-    <category term="Deep Dives &amp; Analysis"/>
-    <published>2026-10-23T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you</id>
-    <title>Claude's Text Output Now Carries an Invisible Watermark (9 minute read)</title>
-    <updated>2026-10-23T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic's latest Claude models embed a SynthID-Text-based watermark in all text output to comply with the EU AI Act. It works by nudging choices among near-equivalent words, adds no hidden characters or tokens, and carries no information about the user.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-23"&gt;TLDR AI · 2026-10-23 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you"/>
-    <category term="TLDR AI"/>
-    <category term="Deep Dives &amp; Analysis"/>
-    <published>2026-10-23T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.perplexity.ai/hub/blog/a-good-teacher-meets-the-student-where-they-are</id>
-    <title>A Novel Self-Distillation Method (7 minute read)</title>
-    <updated>2026-10-23T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Perplexity's JOLT is a self-distillation method that jointly trains a model as both teacher and student, adapting feedback to the student's capabilities. It improved performance and training efficiency across mathematical reasoning, coding, and agentic tasks.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-23"&gt;TLDR AI · 2026-10-23 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.perplexity.ai/hub/blog/a-good-teacher-meets-the-student-where-they-are"/>
-    <category term="TLDR AI"/>
-    <category term="Engineering &amp; Research"/>
-    <published>2026-10-23T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras</id>
-    <title>How we deploy Trillion-parameter frontier models on Cerebras (6 minute read)</title>
-    <updated>2026-10-23T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A single Cerebras WSE-3T wafer has 44 GB of on-chip memory. Trillion-parameter frontier models need terabytes of memory for their weights alone. This post explains how the company splits a large frontier model across multiple WSE-3T wafers. It covers how models are filled into on-chip memory, how models are mapped across multiple chips, and how Cerebras handles a high number of concurrent requests.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-23"&gt;TLDR AI · 2026-10-23 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"/>
-    <category term="TLDR AI"/>
-    <category term="Engineering &amp; Research"/>
-    <published>2026-10-23T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://research.nvidia.com/labs/par/projects/jca</id>
-    <title>NVIDIA's Video Generation with Matching 3D Motion (4 minute read)</title>
-    <updated>2026-10-23T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;NVIDIA has introduced Joints, Camera, Action! (JCA), a system that generates videos and synchronized 3D motion for arbitrary character rigs from text prompts. It supports scene-aware motion, keyframe-based control, and bidirectional conversion between video and rig animation.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-23"&gt;TLDR AI · 2026-10-23 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://research.nvidia.com/labs/par/projects/jca/"/>
-    <category term="TLDR AI"/>
-    <category term="Engineering &amp; Research"/>
-    <published>2026-10-23T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://taekim.substack.com/p/an-interview-with-openais-richard</id>
-    <title>An Interview with OpenAI's Richard Ho on Why Jalapeño Is a Groundbreaking AI Chip (22 minute read)</title>
-    <updated>2026-10-23T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI's Jalapeño AI inference chip outperforms its rivals in performance per watt. It is likely the most promising chip program in the latest wave of non-GPU AI chips. This post contains highlights from a conversation with one of the top engineers in the AI and chip industry. The interview is packed with technical details and insights on where chip design and memory technology are going.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-23"&gt;TLDR AI · 2026-10-23 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://taekim.substack.com/p/an-interview-with-openais-richard"/>
-    <category term="TLDR AI"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-23T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://threadreaderapp.com/thread/2113398193614655594.html</id>
-    <title>What happened to the missing Gemini 3.5 Pro model that never shipped? (1 minute read)</title>
-    <updated>2026-10-23T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Google had both Flash and Pro versions of the 3.5 series. However, there were gaps in the model's agentic capabilities, particularly around coding. The team felt the fastest way to climb that hill was to use Flash, as the smaller model allowed for more iterative loops. By the time the team had improved Flash's abilities, Argon pre-training was done.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-23"&gt;TLDR AI · 2026-10-23 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://threadreaderapp.com/thread/2113398193614655594.html"/>
-    <category term="TLDR AI"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-23T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed</id>
-    <title>The full Claude Platform, available on Google Cloud (2 minute read)</title>
-    <updated>2026-10-23T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Claude Platform features are now available on Google Cloud with Google Cloud authentication, billing, and commitment retirement.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-23"&gt;TLDR AI · 2026-10-23 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-23T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026</id>
-    <title>Microsoft Decision-1: 9B Qwen Model Launch Explained (20 minute read)</title>
-    <updated>2026-10-23T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Microsoft launched the Microsoft-Decision-1 model, focusing on scoring predefined answer options with confidence probabilities rather than generating text.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-23"&gt;TLDR AI · 2026-10-23 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-23T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation</id>
-    <title>Anthropic Donates Agent Skills to Linux Foundation (1 minute read)</title>
-    <updated>2026-10-23T10:59:46+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic donated its Agent Skills open standard to the Agentic AI Foundation, placing its development under vendor-neutral governance.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-23"&gt;TLDR AI · 2026-10-23 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-23T10:59:46+00:00</published>
   </entry>
 </feed>
