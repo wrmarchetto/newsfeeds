@@ -20,6 +20,7 @@
   "ai/2026-11-05": "2026-11-05T18:02:47+00:00",
   "ai/2026-11-06": "2026-11-06T17:31:37+00:00",
   "ai/2026-11-09": "2026-11-09T20:46:26+00:00",
+  "ai/2026-11-10": "2026-11-10T17:53:22+00:00",
   "dev/2026-10-13": "2026-10-13T23:08:22+00:00",
   "dev/2026-10-14": "2026-10-14T15:11:31+00:00",
   "dev/2026-10-15": "2026-10-15T15:03:59+00:00",
@@ -40,6 +41,7 @@
   "dev/2026-11-05": "2026-11-05T18:02:44+00:00",
   "dev/2026-11-06": "2026-11-06T17:31:35+00:00",
   "dev/2026-11-09": "2026-11-09T20:46:24+00:00",
+  "dev/2026-11-10": "2026-11-10T17:53:20+00:00",
   "hardware/2026-10-14": "2026-10-14T15:11:41+00:00",
   "hardware/2026-10-16": "2026-10-16T14:53:45+00:00",
   "hardware/2026-10-19": "2026-10-19T17:00:03+00:00",
@@ -71,7 +73,8 @@
   "tech/2026-11-04": "2026-11-04T17:59:51+00:00",
   "tech/2026-11-05": "2026-11-05T18:02:42+00:00",
   "tech/2026-11-06": "2026-11-06T17:31:33+00:00",
-  "tech/2026-11-09": "2026-11-09T20:46:22+00:00"
+  "tech/2026-11-09": "2026-11-09T20:46:22+00:00",
+  "tech/2026-11-10": "2026-11-10T17:53:17+00:00"
  },
  "items": [
   {
@@ -5243,6 +5246,466 @@
    "summary_html": "<div class=\"newsletter-html\">Submerging sealed pods could cut cooling costs and sidestep the community opposition that land sites face.</div>",
    "title": "The Trump administration is reportedly weighing four sealed-pod underwater data centers off Maine and Alaska, building on Microsoft's test that saw 87% fewer server failures (3 minute read)",
    "url": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+   "issue_date": "2026-11-10",
+   "position": 0,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">AI models are likely to soon cross the boundary into Artificial General Intelligence. Claude Fable 5.2 is almost as good as most human experts at most intellectual tasks that can be completed with a computer. It still makes mistakes and requires human guidance, but it demonstrates impressive work in many tests. There are still important areas in many tasks where the model is jagged enough to fall well behind human capability, but it isn't about simple errors or hallucinations anymore.</div>",
+   "title": "Fable 5.2 and Jagged AGI (18 minute read)",
+   "url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDI4MTk5MywiZXhwIjoxNzk0ODg2NzkzLCJhcnRpY2xlSWQiOiJUTzFZMk9UOU5KTFYwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.R7Bx_TEuzt-X8O8UBbRJizG8vvAeD6jnhPTV1a_aD_A&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-10",
+   "position": 1,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">Google is rolling out two new variations of its Tensor Processing Units. The 8tx is aimed at handling secure, confidential work for customers like government agencies and companies in regulated industries. The 8i Max is designed to run AI applications that require long-context windows. Google's TPU business has proven to be lucrative, and the company has netted some high-profile clients including Apple, Meta, and Oracle.</div>",
+   "title": "Google Escalates Nvidia Rivalry With Specialized Versions of AI Chips (11 minute read)",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDI4MTk5MywiZXhwIjoxNzk0ODg2NzkzLCJhcnRpY2xlSWQiOiJUTzFZMk9UOU5KTFYwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.R7Bx_TEuzt-X8O8UBbRJizG8vvAeD6jnhPTV1a_aD_A&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://medicalxpress.com/news/2026-11-experimental-mrna-therapy-heart.html",
+   "issue_date": "2026-11-10",
+   "position": 2,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Researchers have developed a treatment that uses mRNA therapy to reawaken heart muscle cells so that they start to divide and help repair damaged muscle. The treatment helped mice produce stronger heartbeats following a heart attack. While not a full cure for heart disease, even small improvements to heart function have been linked to lower mortality. The treatment is short-lived and localized, and is not expected to cause any permanent modification to the heart cells. Further trials in larger animal models are required before human testing can begin.</div>",
+   "title": "Experimental mRNA therapy promotes repair after heart attack damage (3 minute read)",
+   "url": "https://medicalxpress.com/news/2026-11-experimental-mrna-therapy-heart.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://kevinkelly.substack.com/p/new-units-of-knowledge",
+   "issue_date": "2026-11-10",
+   "position": 3,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Difference will become the valuable scarcity when AI becomes the main producer of content. The value will lie in doing things in a way that AI does not. Cheap variation is not the same as valuable difference. What yields scarcity will be a distinction worth paying attention to.</div>",
+   "title": "New Units of Knowledge (8 minute read)",
+   "url": "https://kevinkelly.substack.com/p/new-units-of-knowledge"
+  },
+  {
+   "edition": "tech",
+   "id": "https://storybook.js.org/blog/storybook-11-beta",
+   "issue_date": "2026-11-10",
+   "position": 4,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">Storybook is a small, development-only workshop that lives alongside your app. It provides an isolated iframe that renders components without interference from app business logic and context, helping developers focus development on each variation of a component. Storybook 11 beta brings official skills and headless CLI tools that let agents iterate autonomously in a smaller package with faster context delivery.</div>",
+   "title": "Storybook 11 beta (6 minute read)",
+   "url": "https://storybook.js.org/blog/storybook-11-beta/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://github.com/paulirish/chrome-capture",
+   "issue_date": "2026-11-10",
+   "position": 5,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">Chrome 153+ has a native MP4 tab recorder. chrome-capture records Chrome tabs at 60 to 120 frames per second in up to 2160p straight to an AVI .mp4. The recording includes tab audio. Users can start and stop recording whenever they want. Chromo writes AV1 into the mp4 as it goes.</div>",
+   "title": "chrome-capture (GitHub Repo)",
+   "url": "https://github.com/paulirish/chrome-capture"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.ryanhoover.me/post/how-product-hunt-almost-died",
+   "issue_date": "2026-11-10",
+   "position": 6,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Product Hunt needed an acquisition to survive. Markets can change quickly. Assume each consecutive round will be 10 times harder than the last, and know the risks if you're planning to pitch the growth narrative. It only takes one 'yes', so create a wide funnel and find people you can speak to without the mask. Try to divorce your emotions from the outcome.</div>",
+   "title": "How Product Hunt almost died (14 minute read)",
+   "url": "https://www.ryanhoover.me/post/how-product-hunt-almost-died"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c?st=1jHw5p&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-10",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic plans to start trading its shares by the end of next week. Investors anticipated a target valuation of around $1.5 trillion last week, but some major investors are now pushing for it to be lower. Anthropic could still decide to delay its plans and wait for more favorable conditions, but doing so could spark panic in the market. Even before the recent market volatility, investor enthusiasm had been waning for AI names due to increasing concerns about the increasing investments required and a lack of clarity on their potential payoff.</div>",
+   "title": "Anthropic Prepares to Push Ahead With IPO Despite Market Jitters (4 minute read)",
+   "url": "https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c?st=1jHw5p&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.wsj.com/logistics-report/alphabets-wing-to-build-new-texas-factory-for-delivery-drones-57e8a143?st=mg2s23&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-10",
+   "position": 8,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Wing's new 15,000-square-foot plant in Fort Worth, Texas, will have the capacity to build tens of thousands of aircraft each year.</div>",
+   "title": "Alphabet's Wing to Build New Texas Factory for Delivery Drones (6 minute read)",
+   "url": "https://www.wsj.com/logistics-report/alphabets-wing-to-build-new-texas-factory-for-delivery-drones-57e8a143?st=mg2s23&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://thomwolf.substack.com/p/the-future-of-software",
+   "issue_date": "2026-11-10",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Software will eventually evolve to the point where it won't mean anything anymore, as everything digital will be instantly created at will.</div>",
+   "title": "The future of software (3 minute read)",
+   "url": "https://thomwolf.substack.com/p/the-future-of-software"
+  },
+  {
+   "edition": "tech",
+   "id": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia",
+   "issue_date": "2026-11-10",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Investigations into whether Nvidia misled investors are now underway.</div>",
+   "title": "The race is on to sue Nvidia (6 minute read)",
+   "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.mbi-deepdives.com/ant-vs-meta",
+   "issue_date": "2026-11-10",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">If Meta's bet on AI fails, it still has an ads business to fall back on.</div>",
+   "title": "Anthropic vs Meta: Room to Be Wrong (17 minute read)",
+   "url": "https://www.mbi-deepdives.com/ant-vs-meta/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+   "issue_date": "2026-11-10",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Language lets us externalize some of our thinking, and writing lets us externalize even more of it.</div>",
+   "title": "Writing as a thinking tool (10 minute read)",
+   "url": "https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.wsj.com/tech/ai/a-timeline-of-nvidia-ceo-jensen-huangs-suspected-spy-drama-05cbebf3?st=DGNvz6&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-10",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Jensen Huang told President Trump that he had no idea that Alice Huang was a spy.</div>",
+   "title": "A Timeline of Nvidia CEO Jensen Huang's Suspected Spy Drama (3 minute read)",
+   "url": "https://www.wsj.com/tech/ai/a-timeline-of-nvidia-ceo-jensen-huangs-suspected-spy-drama-05cbebf3?st=DGNvz6&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "dev",
+   "id": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2",
+   "issue_date": "2026-11-10",
+   "position": 0,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">A team of 1,000 agents reproduced a formal proof of Fermat's Last Theorem in 28.7 hours using separate sandboxes, shared Git, and a SQL database for coordination. The experiment combined command screening and offline monitoring with restricted network access, and used one-third the output tokens of the earlier formalization.</div>",
+   "title": "Safely scaling multi-agent teams with Claude Fable 5.2 (12 minute read)",
+   "url": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://dropbox.tech/machine-learning/how-aiassisted-development-helped-us-build-the-new-dropbox-experience",
+   "issue_date": "2026-11-10",
+   "position": 1,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Dropbox used AI to trace platform dependencies, prototype integrations, and build shared React components for its web and desktop apps. Scoped agent tasks also delivered 22 accessibility improvements and completed a backlog of 53 test cleanup tasks in a week, with engineers reviewing the results.</div>",
+   "title": "How AI-assisted development helped us build the new Dropbox experience (8 minute read)",
+   "url": "https://dropbox.tech/machine-learning/how-aiassisted-development-helped-us-build-the-new-dropbox-experience"
+  },
+  {
+   "edition": "dev",
+   "id": "https://newsletter.posthog.com/p/decision-models",
+   "issue_date": "2026-11-10",
+   "position": 2,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">PostHog uses decision models to answer narrow questions with typed outputs and probability scores before calling larger models. Its personal-data filter skips 98.7% of LLM calls, while thresholds are chosen according to the cost of false positives and false negatives.</div>",
+   "title": "Not everything needs an LLM (6 minute read)",
+   "url": "https://newsletter.posthog.com/p/decision-models"
+  },
+  {
+   "edition": "dev",
+   "id": "https://x.com/ZKiihne/status/2119952199564599683",
+   "issue_date": "2026-11-10",
+   "position": 3,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">As AI makes finding and fixing bugs cheaper, deciding what software should do becomes the bottleneck. Real user feedback, simulated users, and deterministic testing each leave gaps in defining expected behavior. This article recommends smoke tests and realistic user journeys, established conventions for minor decisions, and human ownership of product choices.</div>",
+   "title": "The new bottleneck is intent (5 minute read)",
+   "url": "https://x.com/ZKiihne/status/2119952199564599683"
+  },
+  {
+   "edition": "dev",
+   "id": "https://martinalderson.com/posts/the-great-software-ip-writedown",
+   "issue_date": "2026-11-10",
+   "position": 4,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">AI agents are eroding the scarcity of engineering talent that supported software's high margins, while making products easier to copy and customers easier to migrate. Cheaper development could favor smaller, specialized products and shift acquisition value toward customers and distribution, as sales remain a bottleneck and code becomes less durable as an asset.</div>",
+   "title": "The great software IP writedown (7 minute read)",
+   "url": "https://martinalderson.com/posts/the-great-software-ip-writedown/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://claude.dev/blog/which-claude-model-should-you-build-with",
+   "issue_date": "2026-11-10",
+   "position": 5,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic recommends starting most coding and knowledge work on Opus 5.5 at medium effort, using smaller models for simpler tasks and Fable 5.2 for the hardest technical work. This guide explains how effort settings, prompt caching, and compatibility between models' thinking blocks affect the cost and reliability of switching models.</div>",
+   "title": "Which Claude model should you build with? Fable, Opus, Sonnet, or Haiku (15 minute read)",
+   "url": "https://claude.dev/blog/which-claude-model-should-you-build-with/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://research.meta.ai/blog/muse-ember",
+   "issue_date": "2026-11-10",
+   "position": 6,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Muse Ember is Meta's small multimodal model for repeated agent tasks such as tool calls, routing, extraction, and coding subtasks. Meta reports strong cost efficiency against Haiku 5.5 and GPT-6 Luna, although Haiku leads it on the FrontierCode 2.0 evaluation.</div>",
+   "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember (4 minute read)",
+   "url": "https://research.meta.ai/blog/muse-ember"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "issue_date": "2026-11-10",
+   "position": 7,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Claude Fable 5.2 and Mythos 5.2 share an underlying model with improvements in coding, reasoning, and vision, with output generation up to 30% faster than their predecessors. Standard pricing is $8 per million input tokens and $40 per million output tokens. Mythos access requires verification for cybersecurity or biomedical research.</div>",
+   "title": "Claude Fable 5.2 and Mythos 5.2 (Website)",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/expo/exact",
+   "issue_date": "2026-11-10",
+   "position": 8,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Exact is an experimental cross-platform runtime that compiles interfaces written in Contract for the web and native hosts, with application logic in TypeScript or Rust. A common set of agent operations supports inspection and testing across platforms, but the project is pre-1.0 and offers no API stability or backward compatibility.</div>",
+   "title": "Exact (GitHub Repo)",
+   "url": "https://github.com/expo/exact"
+  },
+  {
+   "edition": "dev",
+   "id": "https://zonderlabs.com/slop",
+   "issue_date": "2026-11-10",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">AI writing burdens readers when it hides who is acting, uses vague wording, or buries the point in empty statements and misplaced emphasis. This post compares articles and coding discussions using a clarity taxonomy, arguing that these faults matter more than familiar AI signatures such as stock phrases or punctuation.</div>",
+   "title": "Why is AI Slop so Frustrating to Read? (6 minute read)",
+   "url": "https://zonderlabs.com/slop"
+  },
+  {
+   "edition": "dev",
+   "id": "https://spectrum.ieee.org/find-my-ai-chip",
+   "issue_date": "2026-11-10",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Location verification could help detect advanced AI chips diverted to restricted destinations despite export controls. This article examines efforts to establish where chips are operating as US legislators push for verification requirements.</div>",
+   "title": "The Race to Build a \u201cFind My\u201d for AI Chips (4 minute read)",
+   "url": "https://spectrum.ieee.org/find-my-ai-chip"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.anthropic.com/research/claude-electronics-design",
+   "issue_date": "2026-11-10",
+   "position": 11,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Claude Fable 5.2 designed a speakerphone, a voice-assistant hub, and a virtual pet, covering circuit boards, enclosures, firmware, and assembly instructions. Human engineers built working prototypes without circuit fixes, but the devices have not undergone electrical validation, antenna tuning, thermal testing, or certification.</div>",
+   "title": "Testing Claude on real-world electronics design (6 minute read)",
+   "url": "https://www.anthropic.com/research/claude-electronics-design"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/reticlehq/reticle",
+   "issue_date": "2026-11-10",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Reticle gives coding agents runtime visibility into an app through a development SDK and MCP tools for interactions, network traffic, state, and console activity.</div>",
+   "title": "Reticle (GitHub Repo)",
+   "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+   "edition": "dev",
+   "id": "https://x.com/shaharglazner/status/2119796029256032278",
+   "issue_date": "2026-11-10",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Engineers retain value through problem framing, judgment, and tacit knowledge shaped by lived experience, even as agents take over more coding, debugging, and architectural work.</div>",
+   "title": "On Being an Engineer in 2026: Are We Still Needed? (6 minute read)",
+   "url": "https://x.com/shaharglazner/status/2119796029256032278"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/lochie/skullet",
+   "issue_date": "2026-11-10",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Skullet generates loading skeletons from real components rendered with sample data, so placeholders match the space the content will occupy.</div>",
+   "title": "Skullet (GitHub Repo)",
+   "url": "https://github.com/lochie/skullet"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at",
+   "issue_date": "2026-11-10",
+   "position": 15,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Nunebot is a reusable prompt that works through repositories and opens one small maintenance PR per repository after simplification, QA, adversarial review, and CI.</div>",
+   "title": "Don't Make a Human Do What AI Is Amazing At (17 minute read)",
+   "url": "https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx",
+   "issue_date": "2026-11-10",
+   "position": 0,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Google introduced TPU 8i Max for massive context windows and higher compute density, alongside TPU 8tx for secure and confidential inference.</div>",
+   "title": "Google's New TPU Lineup (4 minute read)",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://research.meta.ai/blog/muse-ember",
+   "issue_date": "2026-11-10",
+   "position": 1,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Meta introduced Muse Ember, a small reasoning model optimized for agent tasks such as tool calling, coding, and document parsing. Meta claims it matches Claude Haiku 5.5's highest reasoning score at roughly one-third the cost and outperforms GPT-6 Luna across reasoning settings.</div>",
+   "title": "Introducing Meta Ember (3 minute read)",
+   "url": "https://research.meta.ai/blog/muse-ember"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "issue_date": "2026-11-10",
+   "position": 2,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic released Claude Fable 5.2 and Mythos 5.2, featuring improvements in coding, reasoning, and vision, with up to 30% faster output generation and lower pricing. The models share the same underlying architecture.</div>",
+   "title": "Claude Fable 5.2 and Mythos 5.2 (12 minute read)",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+  },
+  {
+   "edition": "ai",
+   "id": "https://tomtunguz.com/when-does-the-us-become-a-net-importer-of-tokens",
+   "issue_date": "2026-11-10",
+   "position": 3,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">The US could become a net importer of AI tokens between 2028 and 2030. Domestic capacity can accommodate roughly 2.5x annual token growth, with faster demand growth or canceled data center projects pushing computation overseas.</div>",
+   "title": "When Does the US Become a Net Importer of Tokens? (3 minute read)",
+   "url": "https://tomtunguz.com/when-does-the-us-become-a-net-importer-of-tokens"
+  },
+  {
+   "edition": "ai",
+   "id": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards",
+   "issue_date": "2026-11-10",
+   "position": 4,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">AI is accelerating AI R&amp;D at Anthropic. The company is now estimated to be several months ahead of the AI 2027 timeline. We may be less than a year away from full RSI, and there are no clear bottlenecks in the way. We now need to prepare for scenarios where critical events happen in 2027 or 2028.</div>",
+   "title": "AI R&D Is Accelerating Towards Potential RSI in 2027 (62 minute read)",
+   "url": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards"
+  },
+  {
+   "edition": "ai",
+   "id": "https://x.com/OrnnExchange/status/2119839768355778637",
+   "issue_date": "2026-11-10",
+   "position": 5,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic needs an estimated roughly $200 billion in annual revenue to support its average compute commitments through 2030 at current spending ratios. Its $895 billion commitment total exposes it to demand shortfalls, margin compression, delivery delays, and expensive short-term capacity when demand exceeds forecasts.</div>",
+   "title": "Will Anthropic Grow Into Its Compute Bill? (13 minute read)",
+   "url": "https://x.com/OrnnExchange/status/2119839768355778637"
+  },
+  {
+   "edition": "ai",
+   "id": "https://arxiv.org/abs/2611.08290",
+   "issue_date": "2026-11-10",
+   "position": 6,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">NVIDIA's AutoCompress framework optimizes LLM pruning for hardware-specific latency, throughput, and memory constraints rather than parameter counts alone. It compressed Nemotron 3.5 Super from 120B to 74B parameters while retaining its performance.</div>",
+   "title": "NVIDIA Introduces Hardware-Aware LLM Compression (24 minute read)",
+   "url": "https://arxiv.org/abs/2611.08290"
+  },
+  {
+   "edition": "ai",
+   "id": "https://alexwang.ai/posts/reasoning-as-pathfinding",
+   "issue_date": "2026-11-10",
+   "position": 7,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Reasoning is pathfinding in token space. There are many paths from the problem to a correct answer, and the model traverses each of them with each sample. A path is not guaranteed to converge to the correct answer - it's only in aggregate, over the distribution of paths, do we get a high probability of success. RL training directly raises the success probability. The gains credited to 'thinking longer' come from the search paid for during training rather than at inference.</div>",
+   "title": "What objective is reasoning solving? (12 minute read)",
+   "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.forethought.org/research/two-kinds-of-test-time-scaling",
+   "issue_date": "2026-11-10",
+   "position": 8,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Test-time scaling trades compute for performance at test time. There are two types of test-time scaling: one allows researchers to trade more compute for more performance per task, but only up to the maximum quantity of per-task compute used during training; and the other lets researchers trade more compute for more performance per task, and lets them do so up to quantities of compute and performance that never occurred during training. Scaling methods that permit the latter change will have a larger impact than test-time scaling considered simply. This essay describes how this may impact the world.</div>",
+   "title": "Two Kinds of Test-Time Scaling (28 minute read)",
+   "url": "https://www.forethought.org/research/two-kinds-of-test-time-scaling"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+   "issue_date": "2026-11-10",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Apple now sells $49.99 Intelligence Usage Packs in Logic Pro to extend access to cloud-based AI features after users reach their limits. Unused capacity rolls over monthly but expires after 12 months, and purchases cannot be shared through Family Sharing.</div>",
+   "title": "Apple Introduces $50 AI Usage Packs in Logic Pro (2 minute read)",
+   "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
+  },
+  {
+   "edition": "ai",
+   "id": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
+   "issue_date": "2026-11-10",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic reportedly secured 1.7 gigawatts of Caterpillar gas generators for $3.4 billion, taking over equipment orders from supplier OnePWR. The purchase moves the AI lab deeper into physical infrastructure as power shortages and lengthy grid connection queues constrain data center expansion.</div>",
+   "title": "Anthropic Buys $3.4 Billion in Gas Generators (2 minute read)",
+   "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://openai.com/index/control-room",
+   "issue_date": "2026-11-10",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI's Control Room centrally authorizes research inference requests and can stop a workload's model output within 35 seconds of intervention.</div>",
+   "title": "OpenAI's Control Room Can Halt Research Model Output (6 minute read)",
+   "url": "https://openai.com/index/control-room/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update",
+   "issue_date": "2026-11-10",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The security incident involving unauthorized use of internal Fireworks credentials on October 6 has been traced to a financially motivated cybercriminal threat actor group that sells unauthorized access to large language models to illicit routing gateways.</div>",
+   "title": "Update on October 2026 security incident (4 minute read)",
+   "url": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update"
+  },
+  {
+   "edition": "ai",
+   "id": "https://research.nvidia.com/labs/gear/gr00t-2",
+   "issue_date": "2026-11-10",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">GR00T 2 is a new generation of foundation world-action models that can predict future video and robot actions together.</div>",
+   "title": "GR00T 2 (28 minute read)",
+   "url": "https://research.nvidia.com/labs/gear/gr00t-2/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://threadreaderapp.com/thread/2119192075505893695.html",
+   "issue_date": "2026-11-10",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Testing shows that the way Opus 5.5 does reasoning may have changed.</div>",
+   "title": "Is Opus 5.5 nerfed? (2 minute read)",
+   "url": "https://threadreaderapp.com/thread/2119192075505893695.html"
+  },
+  {
+   "edition": "ai",
+   "id": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "issue_date": "2026-11-10",
+   "position": 15,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI made ChatGPT Enterprise available through AWS Marketplace, allowing organizations to purchase and manage subscriptions through existing AWS billing relationships and apply eligible spending toward AWS commitments.</div>",
+   "title": "ChatGPT Enterprise on AWS Marketplace (1 minute read)",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace/"
   }
  ]
 }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/ai.xml</id>
   <title>TLDR AI</title>
-  <updated>2026-11-09T11:00:00+00:00</updated>
+  <updated>2026-11-10T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,166 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx</id>
+    <title>Google's New TPU Lineup (4 minute read)</title>
+    <updated>2026-11-10T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Google introduced TPU 8i Max for massive context windows and higher compute density, alongside TPU 8tx for secure and confidential inference.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-10"&gt;TLDR AI · 2026-11-10 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-10T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://research.meta.ai/blog/muse-ember</id>
+    <title>Introducing Meta Ember (3 minute read)</title>
+    <updated>2026-11-10T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Meta introduced Muse Ember, a small reasoning model optimized for agent tasks such as tool calling, coding, and document parsing. Meta claims it matches Claude Haiku 5.5's highest reasoning score at roughly one-third the cost and outperforms GPT-6 Luna across reasoning settings.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-10"&gt;TLDR AI · 2026-11-10 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://research.meta.ai/blog/muse-ember"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-10T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/claude-fable-and-mythos-5-2</id>
+    <title>Claude Fable 5.2 and Mythos 5.2 (12 minute read)</title>
+    <updated>2026-11-10T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic released Claude Fable 5.2 and Mythos 5.2, featuring improvements in coding, reasoning, and vision, with up to 30% faster output generation and lower pricing. The models share the same underlying architecture.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-10"&gt;TLDR AI · 2026-11-10 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/claude-fable-and-mythos-5-2"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-10T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tomtunguz.com/when-does-the-us-become-a-net-importer-of-tokens</id>
+    <title>When Does the US Become a Net Importer of Tokens? (3 minute read)</title>
+    <updated>2026-11-10T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The US could become a net importer of AI tokens between 2028 and 2030. Domestic capacity can accommodate roughly 2.5x annual token growth, with faster demand growth or canceled data center projects pushing computation overseas.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-10"&gt;TLDR AI · 2026-11-10 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://tomtunguz.com/when-does-the-us-become-a-net-importer-of-tokens"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-10T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards</id>
+    <title>AI R&amp;D Is Accelerating Towards Potential RSI in 2027 (62 minute read)</title>
+    <updated>2026-11-10T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI is accelerating AI R&amp;amp;D at Anthropic. The company is now estimated to be several months ahead of the AI 2027 timeline. We may be less than a year away from full RSI, and there are no clear bottlenecks in the way. We now need to prepare for scenarios where critical events happen in 2027 or 2028.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-10"&gt;TLDR AI · 2026-11-10 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-10T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.com/OrnnExchange/status/2119839768355778637</id>
+    <title>Will Anthropic Grow Into Its Compute Bill? (13 minute read)</title>
+    <updated>2026-11-10T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic needs an estimated roughly $200 billion in annual revenue to support its average compute commitments through 2030 at current spending ratios. Its $895 billion commitment total exposes it to demand shortfalls, margin compression, delivery delays, and expensive short-term capacity when demand exceeds forecasts.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-10"&gt;TLDR AI · 2026-11-10 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/OrnnExchange/status/2119839768355778637"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-10T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arxiv.org/abs/2611.08290</id>
+    <title>NVIDIA Introduces Hardware-Aware LLM Compression (24 minute read)</title>
+    <updated>2026-11-10T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;NVIDIA's AutoCompress framework optimizes LLM pruning for hardware-specific latency, throughput, and memory constraints rather than parameter counts alone. It compressed Nemotron 3.5 Super from 120B to 74B parameters while retaining its performance.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-10"&gt;TLDR AI · 2026-11-10 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arxiv.org/abs/2611.08290"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-10T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://alexwang.ai/posts/reasoning-as-pathfinding</id>
+    <title>What objective is reasoning solving? (12 minute read)</title>
+    <updated>2026-11-10T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Reasoning is pathfinding in token space. There are many paths from the problem to a correct answer, and the model traverses each of them with each sample. A path is not guaranteed to converge to the correct answer - it's only in aggregate, over the distribution of paths, do we get a high probability of success. RL training directly raises the success probability. The gains credited to 'thinking longer' come from the search paid for during training rather than at inference.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-10"&gt;TLDR AI · 2026-11-10 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://alexwang.ai/posts/reasoning-as-pathfinding/"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-10T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.forethought.org/research/two-kinds-of-test-time-scaling</id>
+    <title>Two Kinds of Test-Time Scaling (28 minute read)</title>
+    <updated>2026-11-10T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Test-time scaling trades compute for performance at test time. There are two types of test-time scaling: one allows researchers to trade more compute for more performance per task, but only up to the maximum quantity of per-task compute used during training; and the other lets researchers trade more compute for more performance per task, and lets them do so up to quantities of compute and performance that never occurred during training. Scaling methods that permit the latter change will have a larger impact than test-time scaling considered simply. This essay describes how this may impact the world.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-10"&gt;TLDR AI · 2026-11-10 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.forethought.org/research/two-kinds-of-test-time-scaling"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-10T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro</id>
+    <title>Apple Introduces $50 AI Usage Packs in Logic Pro (2 minute read)</title>
+    <updated>2026-11-10T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Apple now sells $49.99 Intelligence Usage Packs in Logic Pro to extend access to cloud-based AI features after users reach their limits. Unused capacity rolls over monthly but expires after 12 months, and purchases cannot be shared through Family Sharing.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-10"&gt;TLDR AI · 2026-11-10 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-10T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines</id>
+    <title>Anthropic Buys $3.4 Billion in Gas Generators (2 minute read)</title>
+    <updated>2026-11-10T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic reportedly secured 1.7 gigawatts of Caterpillar gas generators for $3.4 billion, taking over equipment orders from supplier OnePWR. The purchase moves the AI lab deeper into physical infrastructure as power shortages and lengthy grid connection queues constrain data center expansion.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-10"&gt;TLDR AI · 2026-11-10 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-10T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/control-room</id>
+    <title>OpenAI's Control Room Can Halt Research Model Output (6 minute read)</title>
+    <updated>2026-11-10T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI's Control Room centrally authorizes research inference requests and can stop a workload's model output within 35 seconds of intervention.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-10"&gt;TLDR AI · 2026-11-10 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openai.com/index/control-room/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-10T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://fireworks.ai/security/bulletins/october-2026-security-incident-update</id>
+    <title>Update on October 2026 security incident (4 minute read)</title>
+    <updated>2026-11-10T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The security incident involving unauthorized use of internal Fireworks credentials on October 6 has been traced to a financially motivated cybercriminal threat actor group that sells unauthorized access to large language models to illicit routing gateways.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-10"&gt;TLDR AI · 2026-11-10 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://fireworks.ai/security/bulletins/october-2026-security-incident-update"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-10T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://research.nvidia.com/labs/gear/gr00t-2</id>
+    <title>GR00T 2 (28 minute read)</title>
+    <updated>2026-11-10T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;GR00T 2 is a new generation of foundation world-action models that can predict future video and robot actions together.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-10"&gt;TLDR AI · 2026-11-10 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://research.nvidia.com/labs/gear/gr00t-2/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-10T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://threadreaderapp.com/thread/2119192075505893695.html</id>
+    <title>Is Opus 5.5 nerfed? (2 minute read)</title>
+    <updated>2026-11-10T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Testing shows that the way Opus 5.5 does reasoning may have changed.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-10"&gt;TLDR AI · 2026-11-10 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://threadreaderapp.com/thread/2119192075505893695.html"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-10T10:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/chatgpt-enterprise-aws-marketplace</id>
+    <title>ChatGPT Enterprise on AWS Marketplace (1 minute read)</title>
+    <updated>2026-11-10T10:59:45+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI made ChatGPT Enterprise available through AWS Marketplace, allowing organizations to purchase and manage subscriptions through existing AWS billing relationships and apply eligible spending toward AWS commitments.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-10"&gt;TLDR AI · 2026-11-10 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openai.com/index/chatgpt-enterprise-aws-marketplace/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-10T10:59:45+00:00</published>
+  </entry>
   <entry>
     <id>https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation</id>
     <title>OpenAI Reportedly Raises $11 Billion at $1.25 Trillion Valuation (3 minute read)</title>

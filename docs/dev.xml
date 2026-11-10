@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-11-09T11:00:00+00:00</updated>
+  <updated>2026-11-10T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,166 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2</id>
+    <title>Safely scaling multi-agent teams with Claude Fable 5.2 (12 minute read)</title>
+    <updated>2026-11-10T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A team of 1,000 agents reproduced a formal proof of Fermat's Last Theorem in 28.7 hours using separate sandboxes, shared Git, and a SQL database for coordination. The experiment combined command screening and offline monitoring with restricted network access, and used one-third the output tokens of the earlier formalization.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-10"&gt;TLDR Dev · 2026-11-10 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-10T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dropbox.tech/machine-learning/how-aiassisted-development-helped-us-build-the-new-dropbox-experience</id>
+    <title>How AI-assisted development helped us build the new Dropbox experience (8 minute read)</title>
+    <updated>2026-11-10T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Dropbox used AI to trace platform dependencies, prototype integrations, and build shared React components for its web and desktop apps. Scoped agent tasks also delivered 22 accessibility improvements and completed a backlog of 53 test cleanup tasks in a week, with engineers reviewing the results.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-10"&gt;TLDR Dev · 2026-11-10 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://dropbox.tech/machine-learning/how-aiassisted-development-helped-us-build-the-new-dropbox-experience"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-10T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://newsletter.posthog.com/p/decision-models</id>
+    <title>Not everything needs an LLM (6 minute read)</title>
+    <updated>2026-11-10T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;PostHog uses decision models to answer narrow questions with typed outputs and probability scores before calling larger models. Its personal-data filter skips 98.7% of LLM calls, while thresholds are chosen according to the cost of false positives and false negatives.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-10"&gt;TLDR Dev · 2026-11-10 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.posthog.com/p/decision-models"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-10T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.com/ZKiihne/status/2119952199564599683</id>
+    <title>The new bottleneck is intent (5 minute read)</title>
+    <updated>2026-11-10T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;As AI makes finding and fixing bugs cheaper, deciding what software should do becomes the bottleneck. Real user feedback, simulated users, and deterministic testing each leave gaps in defining expected behavior. This article recommends smoke tests and realistic user journeys, established conventions for minor decisions, and human ownership of product choices.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-10"&gt;TLDR Dev · 2026-11-10 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/ZKiihne/status/2119952199564599683"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-10T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://martinalderson.com/posts/the-great-software-ip-writedown</id>
+    <title>The great software IP writedown (7 minute read)</title>
+    <updated>2026-11-10T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI agents are eroding the scarcity of engineering talent that supported software's high margins, while making products easier to copy and customers easier to migrate. Cheaper development could favor smaller, specialized products and shift acquisition value toward customers and distribution, as sales remain a bottleneck and code becomes less durable as an asset.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-10"&gt;TLDR Dev · 2026-11-10 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://martinalderson.com/posts/the-great-software-ip-writedown/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-10T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.dev/blog/which-claude-model-should-you-build-with</id>
+    <title>Which Claude model should you build with? Fable, Opus, Sonnet, or Haiku (15 minute read)</title>
+    <updated>2026-11-10T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic recommends starting most coding and knowledge work on Opus 5.5 at medium effort, using smaller models for simpler tasks and Fable 5.2 for the hardest technical work. This guide explains how effort settings, prompt caching, and compatibility between models' thinking blocks affect the cost and reliability of switching models.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-10"&gt;TLDR Dev · 2026-11-10 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://claude.dev/blog/which-claude-model-should-you-build-with/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-10T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://research.meta.ai/blog/muse-ember</id>
+    <title>Introducing Our Smallest, Most Efficient Model: Muse Ember (4 minute read)</title>
+    <updated>2026-11-10T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Muse Ember is Meta's small multimodal model for repeated agent tasks such as tool calls, routing, extraction, and coding subtasks. Meta reports strong cost efficiency against Haiku 5.5 and GPT-6 Luna, although Haiku leads it on the FrontierCode 2.0 evaluation.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-10"&gt;TLDR Dev · 2026-11-10 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://research.meta.ai/blog/muse-ember"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-10T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/claude-fable-and-mythos-5-2</id>
+    <title>Claude Fable 5.2 and Mythos 5.2 (Website)</title>
+    <updated>2026-11-10T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Claude Fable 5.2 and Mythos 5.2 share an underlying model with improvements in coding, reasoning, and vision, with output generation up to 30% faster than their predecessors. Standard pricing is $8 per million input tokens and $40 per million output tokens. Mythos access requires verification for cybersecurity or biomedical research.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-10"&gt;TLDR Dev · 2026-11-10 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/claude-fable-and-mythos-5-2"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-10T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/expo/exact</id>
+    <title>Exact (GitHub Repo)</title>
+    <updated>2026-11-10T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Exact is an experimental cross-platform runtime that compiles interfaces written in Contract for the web and native hosts, with application logic in TypeScript or Rust. A common set of agent operations supports inspection and testing across platforms, but the project is pre-1.0 and offers no API stability or backward compatibility.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-10"&gt;TLDR Dev · 2026-11-10 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/expo/exact"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-10T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://zonderlabs.com/slop</id>
+    <title>Why is AI Slop so Frustrating to Read? (6 minute read)</title>
+    <updated>2026-11-10T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI writing burdens readers when it hides who is acting, uses vague wording, or buries the point in empty statements and misplaced emphasis. This post compares articles and coding discussions using a clarity taxonomy, arguing that these faults matter more than familiar AI signatures such as stock phrases or punctuation.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-10"&gt;TLDR Dev · 2026-11-10 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://zonderlabs.com/slop"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-10T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://spectrum.ieee.org/find-my-ai-chip</id>
+    <title>The Race to Build a “Find My” for AI Chips (4 minute read)</title>
+    <updated>2026-11-10T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Location verification could help detect advanced AI chips diverted to restricted destinations despite export controls. This article examines efforts to establish where chips are operating as US legislators push for verification requirements.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-10"&gt;TLDR Dev · 2026-11-10 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://spectrum.ieee.org/find-my-ai-chip"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-10T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/research/claude-electronics-design</id>
+    <title>Testing Claude on real-world electronics design (6 minute read)</title>
+    <updated>2026-11-10T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Claude Fable 5.2 designed a speakerphone, a voice-assistant hub, and a virtual pet, covering circuit boards, enclosures, firmware, and assembly instructions. Human engineers built working prototypes without circuit fixes, but the devices have not undergone electrical validation, antenna tuning, thermal testing, or certification.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-10"&gt;TLDR Dev · 2026-11-10 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/research/claude-electronics-design"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-10T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/reticlehq/reticle</id>
+    <title>Reticle (GitHub Repo)</title>
+    <updated>2026-11-10T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Reticle gives coding agents runtime visibility into an app through a development SDK and MCP tools for interactions, network traffic, state, and console activity.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-10"&gt;TLDR Dev · 2026-11-10 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/reticlehq/reticle"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-10T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.com/shaharglazner/status/2119796029256032278</id>
+    <title>On Being an Engineer in 2026: Are We Still Needed? (6 minute read)</title>
+    <updated>2026-11-10T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Engineers retain value through problem framing, judgment, and tacit knowledge shaped by lived experience, even as agents take over more coding, debugging, and architectural work.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-10"&gt;TLDR Dev · 2026-11-10 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/shaharglazner/status/2119796029256032278"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-10T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/lochie/skullet</id>
+    <title>Skullet (GitHub Repo)</title>
+    <updated>2026-11-10T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Skullet generates loading skeletons from real components rendered with sample data, so placeholders match the space the content will occupy.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-10"&gt;TLDR Dev · 2026-11-10 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/lochie/skullet"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-10T10:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at</id>
+    <title>Don't Make a Human Do What AI Is Amazing At (17 minute read)</title>
+    <updated>2026-11-10T10:59:45+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Nunebot is a reusable prompt that works through repositories and opens one small maintenance PR per repository after simplification, QA, adversarial review, and CI.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-10"&gt;TLDR Dev · 2026-11-10 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-10T10:59:45+00:00</published>
+  </entry>
   <entry>
     <id>https://www.smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex</id>
     <title>Modern CSS Might Make Your Front-End More Complex (22 minute read)</title>
