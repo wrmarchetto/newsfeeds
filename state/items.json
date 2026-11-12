@@ -20,6 +20,7 @@
   "ai/2026-11-09": "2026-11-09T20:46:26+00:00",
   "ai/2026-11-10": "2026-11-10T17:53:22+00:00",
   "ai/2026-11-11": "2026-11-11T17:54:44+00:00",
+  "ai/2026-11-12": "2026-11-12T18:21:10+00:00",
   "dev/2026-10-15": "2026-10-15T15:03:59+00:00",
   "dev/2026-10-16": "2026-10-16T14:53:40+00:00",
   "dev/2026-10-19": "2026-10-19T16:59:58+00:00",
@@ -40,6 +41,7 @@
   "dev/2026-11-09": "2026-11-09T20:46:24+00:00",
   "dev/2026-11-10": "2026-11-10T17:53:20+00:00",
   "dev/2026-11-11": "2026-11-11T17:54:42+00:00",
+  "dev/2026-11-12": "2026-11-12T18:21:08+00:00",
   "hardware/2026-10-16": "2026-10-16T14:53:45+00:00",
   "hardware/2026-10-19": "2026-10-19T17:00:03+00:00",
   "hardware/2026-10-21": "2026-10-21T15:18:22+00:00",
@@ -71,7 +73,8 @@
   "tech/2026-11-06": "2026-11-06T17:31:33+00:00",
   "tech/2026-11-09": "2026-11-09T20:46:22+00:00",
   "tech/2026-11-10": "2026-11-10T17:53:17+00:00",
-  "tech/2026-11-11": "2026-11-11T17:54:39+00:00"
+  "tech/2026-11-11": "2026-11-11T17:54:39+00:00",
+  "tech/2026-11-12": "2026-11-12T18:21:05+00:00"
  },
  "items": [
   {
@@ -5293,6 +5296,476 @@
    "summary_html": "<div class=\"newsletter-html\">SoftBank lost 1.12 trillion yen ($7 billion) last quarter, mostly from writing down non-refundable deposits it paid to lock in power-generation equipment for its 8-gigawatt Ohio project and other US data centers, plus Intel's share decline.</div>",
    "title": "SoftBank swings to a $7B quarterly loss after writing down advance payments for power equipment at its US AI datacenters (2 minute read)",
    "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+   "issue_date": "2026-11-12",
+   "position": 0,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">AWS Emulator gives coding agents a local copy of AWS to test against. It enables agents to build and check most software, leaving engineers to decide what gets built and when the work is correct. The code for the emulator is public.</div>",
+   "title": "AWS Emulator and the engineer's job when agents write the code (9 minute read)",
+   "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDQ1MzI3NywiZXhwIjoxNzk1MDU4MDc3LCJhcnRpY2xlSWQiOiJUT0QyVVlUOU5KTFowMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.3lL-Q7axdx6sxRwu_EPFLFGrydzg6tdbLqgUbMBlGLI&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-12",
+   "position": 1,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">Nvidia is searching for a potential replacement for its CEO following reports of multiple extramarital affairs by Jensen Huang. Its board is considering naming a temporary chief while it searches for a permanent one. Keeping Huang as CEO would likely subject Nvidia to scrutiny from lawmakers, investors, customers, and staff. Huang's potential exit will have impacts far beyond the company's operations.</div>",
+   "title": "Nvidia Working With Outside Firm to Identify CEO Candidates (4 minute read)",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDQ1MzI3NywiZXhwIjoxNzk1MDU4MDc3LCJhcnRpY2xlSWQiOiJUT0QyVVlUOU5KTFowMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.3lL-Q7axdx6sxRwu_EPFLFGrydzg6tdbLqgUbMBlGLI&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result",
+   "issue_date": "2026-11-12",
+   "position": 2,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Experts appointed by OpenAI have verified OpenAI's proof of the existence of the quantum Yang-Mills theory, a vital foundation for the Standard Model of particle physics. OpenAI created a committee to supervise the proof's release after backlash it received when it released a flood of more than 700 AI-generated proofs on a single day in October. This shepherding approach has riled some mathematicians, who see it as an act of needless gatekeeping. The experts do not claim to fully understand the proof yet, as it is too lengthy and complicated for human minds to immediately grasp.</div>",
+   "title": "OpenAI's \u2018shepherds' affirm blockbuster physics result (3 minute read)",
+   "url": "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.writingruxandrabio.com/p/handing-over-humanity",
+   "issue_date": "2026-11-12",
+   "position": 3,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Some AI experts believe that once we achieve superintelligence, humans will be permanently disempowered, and we shall all be ruled by an AI god. This might not be such a desirable outcome, as humans have a natural desire for freedom. The arrangement will probably not work, as keeping power responsive to human needs has required checks developed over centuries, sustained by repeated feedback from the real world and correction, and there's no reason to keep that equilibrium stable once humans have surrendered all control. Humans have the ability now to steer the technology in a way that will not lead to a complete replacement of human judgment.</div>",
+   "title": "Handing over humanity (22 minute read)",
+   "url": "https://www.writingruxandrabio.com/p/handing-over-humanity"
+  },
+  {
+   "edition": "tech",
+   "id": "https://nikvdp.com/notes/subagents-considered-harmful",
+   "issue_date": "2026-11-12",
+   "position": 4,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">There are several ways to delegate to subagents, and they all fail in different ways. This post covers the different approaches and why teaching agents to choose between them is difficult. Forking beats summarization in a lot of cases, but it can get expensive as context grows. The post presents a solution where a fork keeps the parts of a conversation it needs and drops the rest.</div>",
+   "title": "Subagents considered harmful? (11 minute read)",
+   "url": "https://nikvdp.com/notes/subagents-considered-harmful/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+   "issue_date": "2026-11-12",
+   "position": 5,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">The Gemini Decisions API can evaluate up to 1,000 yes/no, choice, and rubric-scoring questions in a fast, single pass. It can accept text, images, audio, video, and PDF input. Powered by Google's new Gemini Decision 1 model, the model is available through the Gemini API in Google AI Studio. It costs $0.10 per 2 million tokens - outputs are free.</div>",
+   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions (5 minute read)",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know",
+   "issue_date": "2026-11-12",
+   "position": 6,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">The returns from being social have gone up. Many well-connected people mix their work and personal lives. Sam Altman is a prime example of a well-connected person who mixes work and personal. He didn't make his connections because he knew they would pay off in his career - he's just a generous person who is innately curious about people and technology. The best strategy is to be your best and truest self.</div>",
+   "title": "The fall of \u201cwhat you can do\u201d and the rise of \u201cwho you know\u201d (5 minute read)",
+   "url": "https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.notboring.co/p/of-miracles-and-moats",
+   "issue_date": "2026-11-12",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">AI may simultaneously accelerate imitation and the accumulation of advantage. It is the presence or absence of durable competitive advantage, and the entry price, that determines whether a business and its investors will profit from the proliferation of a technology. More miraculous technologies require better moats. We are entering an age of consumer surplus the likes of which humanity has never seen.</div>",
+   "title": "Of Miracles and Moats (31 minute read)",
+   "url": "https://www.notboring.co/p/of-miracles-and-moats"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.a16z.news/p/welcome-to-the-b2a-economy",
+   "issue_date": "2026-11-12",
+   "position": 8,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Businesses that treat agents as first-class customers have a shot at a wave of growth.</div>",
+   "title": "Welcome to the B2A Economy (8 minute read)",
+   "url": "https://www.a16z.news/p/welcome-to-the-b2a-economy"
+  },
+  {
+   "edition": "tech",
+   "id": "https://rutgerbregman.substack.com/p/yes-you-should-panic-about-ai",
+   "issue_date": "2026-11-12",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Today's models could already transform science and medicine for decades, so a slowdown in AI research would cost much less than you'd think.</div>",
+   "title": "Yes, you should panic about AI (13 minute read)",
+   "url": "https://rutgerbregman.substack.com/p/yes-you-should-panic-about-ai"
+  },
+  {
+   "edition": "tech",
+   "id": "https://tomtunguz.com/who-captures-the-most-margin-in-ai",
+   "issue_date": "2026-11-12",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">At a 40% application margin, applications (40%), neoclouds (28%), and inference vendors (24%) capture 92% of total gross profit before GPU depreciation.</div>",
+   "title": "Who Captures the Most Margin in AI? (6 minute read)",
+   "url": "https://tomtunguz.com/who-captures-the-most-margin-in-ai"
+  },
+  {
+   "edition": "tech",
+   "id": "https://ghuntley.com/answer",
+   "issue_date": "2026-11-12",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Optimizing for incident response times speeds up build times too.</div>",
+   "title": "The answer to AI is engineering (20 minute read)",
+   "url": "https://ghuntley.com/answer/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://zachwills.net/levels-of-agentic-engineering",
+   "issue_date": "2026-11-12",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Look at what people are still doing by hand to figure out where your team is.</div>",
+   "title": "The levels of agentic engineering (6 minute read)",
+   "url": "https://zachwills.net/levels-of-agentic-engineering/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.wsj.com/tech/ai/companies-dole-out-mega-paydays-and-luxury-trips-to-compete-for-ai-talent-3b3a7792?st=S1fLDz&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-12",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">AI startup Serval is offering a $30,000 signing bonus and a $10,000 vacation to compete for software engineers and deployment strategists.</div>",
+   "title": "Companies Dole Out Mega Paydays and Luxury Trips to Compete for AI Talent (7 minute read)",
+   "url": "https://www.wsj.com/tech/ai/companies-dole-out-mega-paydays-and-luxury-trips-to-compete-for-ai-talent-3b3a7792?st=S1fLDz&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.langchain.com/blog/what-is-eval-driven-development",
+   "issue_date": "2026-11-12",
+   "position": 0,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Tweaking agents by hand-testing a few prompts makes it hard to tell whether a change helped or hurt, since outputs vary and several answers can be correct. LangChain proposes a test-driven-style loop: write a pass/fail spec for one behavior, build the dataset and evaluator before the change, then compare experiments example by example, since a higher average can hide regressions. It also urges keeping a held-out set to catch overfitting and running evals in CI and on live traffic, feeding production failures back into the dataset.</div>",
+   "title": "What Is Eval-Driven Development? How to Improve AI Agents (12 minute read)",
+   "url": "https://www.langchain.com/blog/what-is-eval-driven-development"
+  },
+  {
+   "edition": "dev",
+   "id": "https://hugovk.dev/blog/2026/lock-github-actions",
+   "issue_date": "2026-11-12",
+   "position": 1,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">GitHub Actions lockfiles let workflows keep readable version tags while recording the exact commits they resolve to. This walkthrough covers generating the lockfile, updating it with Renovate or Dependabot, and verifying it in CI so workflow changes cannot silently drift from their pins.</div>",
+   "title": "Lock Your GitHub Actions (4 minute read)",
+   "url": "https://hugovk.dev/blog/2026/lock-github-actions/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://rohitpotato.xyz/thoughts/ssr-requests-still-alive",
+   "issue_date": "2026-11-12",
+   "position": 2,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Zepto's Next.js pods sat at about 5 GB because react-query v3 starts a multi-minute cache timer for every query rendered on the server, and Node ties each timer to the request's AsyncLocalStorage context, keeping every finished request in memory. Building server-side queries with an infinite cache time stopped the timers and dropped pods to about 1.2 GB, and the same trap still applies on v5 when hooks set an explicit gcTime. The fix also exposed that autoscaling had been driven by the leak, so teams fixing memory issues should watch replica counts and latency afterward.</div>",
+   "title": "How we cut Next.js memory from ~5GB to ~1GB: the react-query timer holding every SSR request (9 minute read)",
+   "url": "https://rohitpotato.xyz/thoughts/ssr-requests-still-alive"
+  },
+  {
+   "edition": "dev",
+   "id": "https://blog.kizu.dev/partial-html-includes",
+   "issue_date": "2026-11-12",
+   "position": 3,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">The Fragment Includes proposal could let browsers stream reusable HTML snippets without a build step, but its separate MIME type limits what can be reused. This essay argues for ordinary HTML pages to opt into exposing specific fragments, while acknowledging parser, buffering, and cross-origin constraints.</div>",
+   "title": "My HTML Wishlist: Partial HTML Includes (5 minute read)",
+   "url": "https://blog.kizu.dev/partial-html-includes"
+  },
+  {
+   "edition": "dev",
+   "id": "https://commandlinesystems.com/magic.txt",
+   "issue_date": "2026-11-12",
+   "position": 4,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">AI coding tools are changing the value of editor mastery by making custom software cheap to create. That freedom encourages both useful personalization and elaborate reinventions of existing tools.</div>",
+   "title": "Emacs in the Age of Magic (9 minute read)",
+   "url": "https://commandlinesystems.com/magic.txt"
+  },
+  {
+   "edition": "dev",
+   "id": "https://developer.chrome.com/blog/modern-web-guidance-v1",
+   "issue_date": "2026-11-12",
+   "position": 5,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Coding agents produce web code that works but often falls short on accessibility, performance, and security, and they tend to reach for JavaScript where native HTML or CSS would do better. Chrome has shipped a skill pack that feeds agents expert-reviewed guidance and Baseline compatibility data and adds a workflow that scans existing codebases for safe upgrades. Firefox and Edge are co-maintainers.</div>",
+   "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing (8 minute read)",
+   "url": "https://developer.chrome.com/blog/modern-web-guidance-v1"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/shadcn/improve",
+   "issue_date": "2026-11-12",
+   "position": 6,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">This agent skill audits a codebase and writes prioritized implementation plans that another agent or developer can execute. It separates repository analysis and specification from implementation, with modes for focused audits, branch reviews, and refreshing a backlog.</div>",
+   "title": "improve (GitHub Repo)",
+   "url": "https://github.com/shadcn/improve"
+  },
+  {
+   "edition": "dev",
+   "id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+   "issue_date": "2026-11-12",
+   "position": 7,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Gemini Decision 1 scores bounded choices instead of generating text, evaluating up to 1,000 questions against shared text, images, audio, video, or PDFs in one pass. Google reports 150 to 250 ms end-to-end latency and charges $0.10 per million input tokens with no output-token fees, targeting model routing, policy checks, and rubric scoring.</div>",
+   "title": "Gemini Decision 1 and the Decisions API (5 minute read)",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter",
+   "issue_date": "2026-11-12",
+   "position": 8,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Construction dust triggered a smoke alarm that shut off cooling and pressurized the sprinkler pipes, leaving server heat to threaten a flood. Pulling power stopped the temperature rise. The incident led to fleet-wide temperature monitoring that could detect a cooling failure even when individual servers had not crossed their alert thresholds.</div>",
+   "title": "How a False Smoke Alarm Almost Drowned Jane Street's NYC Datacenter (7 minute read)",
+   "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://dropbox.tech/machine-learning/how-two-engineer-side-projects-became-the-agent-taking-action-inside-dropbox",
+   "issue_date": "2026-11-12",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Two Dropbox engineers, one building 3D models in a sandbox and one automating expense reports from the desktop app, hit the same problem of letting an agent change their files safely. Their prototypes merged into the agent in Dropbox's new experience, which runs each conversation in a fresh VM that boots in milliseconds, keeps credentials and permission checks outside the agent's reach, and asks for plan and folder approval. Every change is tied to its conversation, so users can trace why a file changed and undo just that agent's work without touching others' edits.</div>",
+   "title": "How two engineer side projects became the agent taking action inside Dropbox (10 minute read)",
+   "url": "https://dropbox.tech/machine-learning/how-two-engineer-side-projects-became-the-agent-taking-action-inside-dropbox"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/aws/aws-emulator",
+   "issue_date": "2026-11-12",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">AWS Emulator runs AWS APIs locally for development and CI without an AWS account.</div>",
+   "title": "AWS Emulator (GitHub Repo)",
+   "url": "https://github.com/aws/aws-emulator"
+  },
+  {
+   "edition": "dev",
+   "id": "https://blog.gaborkoos.com/posts/2026-11-12-Your-JS-Error-Is-Lying-to-You",
+   "issue_date": "2026-11-12",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">JavaScript errors can lose messages, causes, and stack details during serialization and logging, so explicit error records need bounded traversal of causes and aggregates.</div>",
+   "title": "Your JS Error Is Lying to You (72 minute read)",
+   "url": "https://blog.gaborkoos.com/posts/2026-11-12-Your-JS-Error-Is-Lying-to-You"
+  },
+  {
+   "edition": "dev",
+   "id": "https://av.github.io/safe-sand",
+   "issue_date": "2026-11-12",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">This WebGL2 sand simulator lets you push grains, draw, and use phone tilt or shaking to move sand in the browser.</div>",
+   "title": "Sand (Website)",
+   "url": "https://av.github.io/safe-sand/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+   "issue_date": "2026-11-12",
+   "position": 0,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Google's Gemini Decisions API enables fast, calibrated multimodal decision-making by analyzing inputs like images and text. It assesses scenarios and provides actionable insights, such as determining spill severity and recommending cleanup actions.</div>",
+   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions (1 minute read)",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://flaviocopes.com/grok-bot-1-0",
+   "issue_date": "2026-11-12",
+   "position": 1,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Grok Bot 1.0 adds Team Bots you can publish and share, Slack and Microsoft Teams, meetings on Meet and Zoom, shared connectors, and reviewed learnings. It is now a personal assistant that the whole team can talk to in the app, in Slack, in Microsoft Teams, and in video calls. This post covers how to create a Team Bot and publish it, how to bring the bot into Microsoft Teams, how to add a bot to a meeting, and more. It also looks at the new admin controls and what's possible without a team.</div>",
+   "title": "What's new in Grok Bot 1.0 (11 minute read)",
+   "url": "https://flaviocopes.com/grok-bot-1-0/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://runway.com/news/company-news/praxis-1-is-now-available",
+   "issue_date": "2026-11-12",
+   "position": 2,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Runway's Praxis-1, a 27B-parameter open-weight robotics model, is now available under Apache 2.0. The model excels in predicting video and actions, topping NVIDIA's RoboLab-120 leaderboard with a 46.2% success rate across 1,200 episodes. It's accessible on GitHub and Hugging Face, with support for full and LoRA fine-tuning, compatible with NVIDIA hardware, and adaptable for various robotic embodiments.</div>",
+   "title": "Runway Praxis-1 Is Now Available: Open-Weight Robotics Model (3 minute read)",
+   "url": "https://runway.com/news/company-news/praxis-1-is-now-available"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii",
+   "issue_date": "2026-11-12",
+   "position": 3,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Perplexity tested 12 models against its SPACE agent sandbox: none escaped VM-host isolation, but several bypassed network controls through DNS spoofing and shared-IP exploitation before the flaws were fixed. The experiments also found that capture-the-flag prompts distracted agents from the security boundary being tested.</div>",
+   "title": "Escaping SPACE: Part II (28 minute read)",
+   "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii"
+  },
+  {
+   "edition": "ai",
+   "id": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills",
+   "issue_date": "2026-11-12",
+   "position": 4,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">MCP servers significantly increase token use, adding thousands of input tokens per request, unlike CLI or skill methods. On Sonnet 5.5, a simple task showed MCP consuming 59,417 tokens with default tools against CLI's 1,421 and skill's 3,315, highlighting the high cost of tool-heavy MCP setups. Implementing Tool Search can cut token costs by deferring tool definitions, reducing upfront toolset costs to under 600 tokens for optimal efficiency.</div>",
+   "title": "MCP vs CLI vs Skills: What Each Costs in Context (11 minute read)",
+   "url": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2",
+   "issue_date": "2026-11-12",
+   "position": 5,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">By changing the training setup and applying LoRAs to Qwen3.6-35B-A3B and gpt-oss-20b, researchers taught models to do some multi-step tasks while emitting only filler tokens, beating an answer-only baseline on three of seven tasks. They also mapped theoretical layer-depth limits and showed empirical walls, with some tasks learned out to 60 steps and others failing after one to three. The work is meant to separate filler-token reasoning from steganographic hidden reasoning when interpreting chain-of-thought.</div>",
+   "title": "LLMs can learn some multi-step reasoning on filler tokens instead of visible CoT (9 minute read)",
+   "url": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2"
+  },
+  {
+   "edition": "ai",
+   "id": "https://muni.works/research/tang",
+   "issue_date": "2026-11-12",
+   "position": 6,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Current models rely on hand-written kernels specific to operators, chips, and fusions, limiting flexibility across devices and scenarios. Tang's IR enables on-the-fly derivation of kernels through constructs such as views and comprehensions, eliminating the need for pre-defined kernels.</div>",
+   "title": "Don't Write Kernels, Derive Them (63 minute read)",
+   "url": "https://muni.works/research/tang"
+  },
+  {
+   "edition": "ai",
+   "id": "https://threadreaderapp.com/thread/2120556423474028576.html",
+   "issue_date": "2026-11-12",
+   "position": 7,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Browser use in Antigravity closes the loop between researching, writing code, and verifying it live. Users control authentication, and downloads pause until they are approved. Agents can use the browser to run multiple tasks at once. A video demo is available in the post.</div>",
+   "title": "Browser use has been rolling out in Antigravity (1 minute read)",
+   "url": "https://threadreaderapp.com/thread/2120556423474028576.html"
+  },
+  {
+   "edition": "ai",
+   "id": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+   "issue_date": "2026-11-12",
+   "position": 8,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">AlphaGenome 2 improves prediction of DNA variant effects on specific cell types, aiding in disease understanding and research. It doubles variant identification compared to its predecessor and adapts to analyze new cell states without retraining. Available for non-commercial use, the tool bridges genetics and cell biology, pinpointing disease-relevant genetic mutations in primary human cells.</div>",
+   "title": "AlphaGenome 2: Predicting how DNA shapes cells and disease (9 minute read)",
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://github.com/openai/mcp-extensions",
+   "issue_date": "2026-11-12",
+   "position": 9,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">The TypeScript and Python packages add ChatGPT-specific features to MCP servers and apps, including sidebar entry points, custom file viewers, composer resource search, and thumbnail part pickers. The SDKs ship with a Bits &amp; Bolts demo plugin and a written spec.</div>",
+   "title": "OpenAI open-sources MCP Extensions for ChatGPT-native plugins (1 minute read)",
+   "url": "https://github.com/openai/mcp-extensions"
+  },
+  {
+   "edition": "ai",
+   "id": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences",
+   "issue_date": "2026-11-12",
+   "position": 10,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">A2UI is an open protocol for generative UI that lets agents answer with interactive screens. Open-source renderer SDKs are now available for the web, Android, iOS, and agent SDKs for Python, TypeScript, and Dart. A2UI enables apps to draw UIs with native components, securely. Users get the same low latency, high trust, and complete native fidelity whether they reach a company's agent in its own app or in a third-party AI assistant that hosts MCP apps.</div>",
+   "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences (11 minute read)",
+   "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://shopify.engineering/generative-discovery",
+   "issue_date": "2026-11-12",
+   "position": 11,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Shopify deployed a shared generative discovery model for search and recommendation, leveraging semantic-ID tokens to enhance product personalization and relevance. The model improved online and offline metrics, such as a 9.85% lift in conversion rate and significant gains in search relevance.</div>",
+   "title": "Shopify's generative discovery model (14 minute read)",
+   "url": "https://shopify.engineering/generative-discovery"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.cnbc.com/2026/11/11/united-airlines-ai-agents.html",
+   "issue_date": "2026-11-12",
+   "position": 12,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">United Airlines is moving to restrict AI-agent access across its platforms and agency channels, citing credential security and liability risks around tasks such as check-in. The restrictions contrast with travel companies including Expedia and Booking that are partnering with agents.</div>",
+   "title": "United moves to block AI agents (2 minute read)",
+   "url": "https://www.cnbc.com/2026/11/11/united-airlines-ai-agents.html"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know",
+   "issue_date": "2026-11-12",
+   "position": 13,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Professional relationships are becoming increasingly important in AI as coding agents commoditize technical execution, frontier research demands more compute resources, and closed-source development makes individual contributions harder to evaluate.</div>",
+   "title": "Why Connections Matter More in AI (5 minute read)",
+   "url": "https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know"
+  },
+  {
+   "edition": "ai",
+   "id": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+   "issue_date": "2026-11-12",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Google Labs' Tabletop turns links, files, and prompts into interactive itineraries, polls, expense splitters, and tournament brackets.</div>",
+   "title": "Google Tabletop Creates Shared Interactive Planning Spaces (1 minute read)",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop"
+  },
+  {
+   "edition": "ai",
+   "id": "https://elevenlabs.io/elevenai",
+   "issue_date": "2026-11-12",
+   "position": 15,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">ElevenAI is a desktop app that helps amplify work using agents.</div>",
+   "title": "ElevenAI (Website)",
+   "url": "https://elevenlabs.io/elevenai"
+  },
+  {
+   "edition": "ai",
+   "id": "https://joost.blog/agents-sharing-user-signals",
+   "issue_date": "2026-11-12",
+   "position": 16,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Two OpenAI engineers recently shared a proposal that suggests a change that will let agents pass user information along to websites to make them look like normal visitors rather than bots.</div>",
+   "title": "OpenAI wants agents to tell websites where you are (5 minute read)",
+   "url": "https://joost.blog/agents-sharing-user-signals/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china",
+   "issue_date": "2026-11-12",
+   "position": 17,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Nvidia's board is preparing to oust CEO Jensen Huang following his admission of an affair with a woman US intelligence agencies believe was recruited by Chinese intelligence.</div>",
+   "title": "Nvidia board reportedly preparing to oust Huang (3 minute read)",
+   "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307",
+   "issue_date": "2026-11-12",
+   "position": 18,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Airbnb's AI assistant cut support cost per booking by more than 17%, resolving about 40% of Q3 issues with no human agent.</div>",
+   "title": "Airbnb's AI assistant cut support cost per booking 17% (1 minute read)",
+   "url": "https://www.customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work",
+   "issue_date": "2026-11-12",
+   "position": 19,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Databricks Genie Agents can now analyze unstructured documents alongside database tables, connect to enterprise tools, and share insights externally with governance controls.</div>",
+   "title": "Databricks Genie Agents (13 minute read)",
+   "url": "https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work"
   }
  ]
 }

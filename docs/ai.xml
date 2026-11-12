@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/ai.xml</id>
   <title>TLDR AI</title>
-  <updated>2026-11-11T11:00:00+00:00</updated>
+  <updated>2026-11-12T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,206 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api</id>
+    <title>Gemini Decisions API: Fast, calibrated multimodal decisions (1 minute read)</title>
+    <updated>2026-11-12T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Google's Gemini Decisions API enables fast, calibrated multimodal decision-making by analyzing inputs like images and text. It assesses scenarios and provides actionable insights, such as determining spill severity and recommending cleanup actions.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-12T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://flaviocopes.com/grok-bot-1-0</id>
+    <title>What's new in Grok Bot 1.0 (11 minute read)</title>
+    <updated>2026-11-12T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Grok Bot 1.0 adds Team Bots you can publish and share, Slack and Microsoft Teams, meetings on Meet and Zoom, shared connectors, and reviewed learnings. It is now a personal assistant that the whole team can talk to in the app, in Slack, in Microsoft Teams, and in video calls. This post covers how to create a Team Bot and publish it, how to bring the bot into Microsoft Teams, how to add a bot to a meeting, and more. It also looks at the new admin controls and what's possible without a team.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://flaviocopes.com/grok-bot-1-0/"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-12T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://runway.com/news/company-news/praxis-1-is-now-available</id>
+    <title>Runway Praxis-1 Is Now Available: Open-Weight Robotics Model (3 minute read)</title>
+    <updated>2026-11-12T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Runway's Praxis-1, a 27B-parameter open-weight robotics model, is now available under Apache 2.0. The model excels in predicting video and actions, topping NVIDIA's RoboLab-120 leaderboard with a 46.2% success rate across 1,200 episodes. It's accessible on GitHub and Hugging Face, with support for full and LoRA fine-tuning, compatible with NVIDIA hardware, and adaptable for various robotic embodiments.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://runway.com/news/company-news/praxis-1-is-now-available"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-12T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.perplexity.ai/hub/blog/escaping-space-part-ii</id>
+    <title>Escaping SPACE: Part II (28 minute read)</title>
+    <updated>2026-11-12T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Perplexity tested 12 models against its SPACE agent sandbox: none escaped VM-host isolation, but several bypassed network controls through DNS spoofing and shared-IP exploitation before the flaws were fixed. The experiments also found that capture-the-flag prompts distracted agents from the security boundary being tested.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.perplexity.ai/hub/blog/escaping-space-part-ii"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-12T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills</id>
+    <title>MCP vs CLI vs Skills: What Each Costs in Context (11 minute read)</title>
+    <updated>2026-11-12T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;MCP servers significantly increase token use, adding thousands of input tokens per request, unlike CLI or skill methods. On Sonnet 5.5, a simple task showed MCP consuming 59,417 tokens with default tools against CLI's 1,421 and skill's 3,315, highlighting the high cost of tool-heavy MCP setups. Implementing Tool Search can cut token costs by deferring tool definitions, reducing upfront toolset costs to under 600 tokens for optimal efficiency.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-12T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2</id>
+    <title>LLMs can learn some multi-step reasoning on filler tokens instead of visible CoT (9 minute read)</title>
+    <updated>2026-11-12T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;By changing the training setup and applying LoRAs to Qwen3.6-35B-A3B and gpt-oss-20b, researchers taught models to do some multi-step tasks while emitting only filler tokens, beating an answer-only baseline on three of seven tasks. They also mapped theoretical layer-depth limits and showed empirical walls, with some tasks learned out to 60 steps and others failing after one to three. The work is meant to separate filler-token reasoning from steganographic hidden reasoning when interpreting chain-of-thought.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-12T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://muni.works/research/tang</id>
+    <title>Don't Write Kernels, Derive Them (63 minute read)</title>
+    <updated>2026-11-12T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Current models rely on hand-written kernels specific to operators, chips, and fusions, limiting flexibility across devices and scenarios. Tang's IR enables on-the-fly derivation of kernels through constructs such as views and comprehensions, eliminating the need for pre-defined kernels.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://muni.works/research/tang"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-12T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://threadreaderapp.com/thread/2120556423474028576.html</id>
+    <title>Browser use has been rolling out in Antigravity (1 minute read)</title>
+    <updated>2026-11-12T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Browser use in Antigravity closes the loop between researching, writing code, and verifying it live. Users control authentication, and downloads pause until they are approved. Agents can use the browser to run multiple tasks at once. A video demo is available in the post.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://threadreaderapp.com/thread/2120556423474028576.html"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-12T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease</id>
+    <title>AlphaGenome 2: Predicting how DNA shapes cells and disease (9 minute read)</title>
+    <updated>2026-11-12T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AlphaGenome 2 improves prediction of DNA variant effects on specific cell types, aiding in disease understanding and research. It doubles variant identification compared to its predecessor and adapts to analyze new cell states without retraining. Available for non-commercial use, the tool bridges genetics and cell biology, pinpointing disease-relevant genetic mutations in primary human cells.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-12T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/mcp-extensions</id>
+    <title>OpenAI open-sources MCP Extensions for ChatGPT-native plugins (1 minute read)</title>
+    <updated>2026-11-12T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The TypeScript and Python packages add ChatGPT-specific features to MCP servers and apps, including sidebar entry points, custom file viewers, composer resource search, and thumbnail part pickers. The SDKs ship with a Bits &amp;amp; Bolts demo plugin and a written spec.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/openai/mcp-extensions"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-12T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences</id>
+    <title>A2UI 1.0: Build delightful, fast, reliable, agentic experiences (11 minute read)</title>
+    <updated>2026-11-12T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A2UI is an open protocol for generative UI that lets agents answer with interactive screens. Open-source renderer SDKs are now available for the web, Android, iOS, and agent SDKs for Python, TypeScript, and Dart. A2UI enables apps to draw UIs with native components, securely. Users get the same low latency, high trust, and complete native fidelity whether they reach a company's agent in its own app or in a third-party AI assistant that hosts MCP apps.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-12T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://shopify.engineering/generative-discovery</id>
+    <title>Shopify's generative discovery model (14 minute read)</title>
+    <updated>2026-11-12T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Shopify deployed a shared generative discovery model for search and recommendation, leveraging semantic-ID tokens to enhance product personalization and relevance. The model improved online and offline metrics, such as a 9.85% lift in conversion rate and significant gains in search relevance.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://shopify.engineering/generative-discovery"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-12T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/11/united-airlines-ai-agents.html</id>
+    <title>United moves to block AI agents (2 minute read)</title>
+    <updated>2026-11-12T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;United Airlines is moving to restrict AI-agent access across its platforms and agency channels, citing credential security and liability risks around tasks such as check-in. The restrictions contrast with travel companies including Expedia and Booking that are partnering with agents.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cnbc.com/2026/11/11/united-airlines-ai-agents.html"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-12T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know</id>
+    <title>Why Connections Matter More in AI (5 minute read)</title>
+    <updated>2026-11-12T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Professional relationships are becoming increasingly important in AI as coding agents commoditize technical execution, frontier research demands more compute resources, and closed-source development makes individual contributions harder to evaluate.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-12T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop</id>
+    <title>Google Tabletop Creates Shared Interactive Planning Spaces (1 minute read)</title>
+    <updated>2026-11-12T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Google Labs' Tabletop turns links, files, and prompts into interactive itineraries, polls, expense splitters, and tournament brackets.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-12T10:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://elevenlabs.io/elevenai</id>
+    <title>ElevenAI (Website)</title>
+    <updated>2026-11-12T10:59:45+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;ElevenAI is a desktop app that helps amplify work using agents.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://elevenlabs.io/elevenai"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-12T10:59:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://joost.blog/agents-sharing-user-signals</id>
+    <title>OpenAI wants agents to tell websites where you are (5 minute read)</title>
+    <updated>2026-11-12T10:59:44+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Two OpenAI engineers recently shared a proposal that suggests a change that will let agents pass user information along to websites to make them look like normal visitors rather than bots.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://joost.blog/agents-sharing-user-signals/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-12T10:59:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china</id>
+    <title>Nvidia board reportedly preparing to oust Huang (3 minute read)</title>
+    <updated>2026-11-12T10:59:43+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Nvidia's board is preparing to oust CEO Jensen Huang following his admission of an affair with a woman US intelligence agencies believe was recruited by Chinese intelligence.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-12T10:59:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307</id>
+    <title>Airbnb's AI assistant cut support cost per booking 17% (1 minute read)</title>
+    <updated>2026-11-12T10:59:42+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Airbnb's AI assistant cut support cost per booking by more than 17%, resolving about 40% of Q3 issues with no human agent.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-12T10:59:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work</id>
+    <title>Databricks Genie Agents (13 minute read)</title>
+    <updated>2026-11-12T10:59:41+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Databricks Genie Agents can now analyze unstructured documents alongside database tables, connect to enterprise tools, and share insights externally with governance controls.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-12"&gt;TLDR AI · 2026-11-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-12T10:59:41+00:00</published>
+  </entry>
   <entry>
     <id>https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors</id>
     <title>Working with Claude Sheets, Whiteboards, and Interactive Connectors (5 minute read)</title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-11-11T11:00:00+00:00</updated>
+  <updated>2026-11-12T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,136 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.langchain.com/blog/what-is-eval-driven-development</id>
+    <title>What Is Eval-Driven Development? How to Improve AI Agents (12 minute read)</title>
+    <updated>2026-11-12T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Tweaking agents by hand-testing a few prompts makes it hard to tell whether a change helped or hurt, since outputs vary and several answers can be correct. LangChain proposes a test-driven-style loop: write a pass/fail spec for one behavior, build the dataset and evaluator before the change, then compare experiments example by example, since a higher average can hide regressions. It also urges keeping a held-out set to catch overfitting and running evals in CI and on live traffic, feeding production failures back into the dataset.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-12"&gt;TLDR Dev · 2026-11-12 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.langchain.com/blog/what-is-eval-driven-development"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-12T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://hugovk.dev/blog/2026/lock-github-actions</id>
+    <title>Lock Your GitHub Actions (4 minute read)</title>
+    <updated>2026-11-12T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;GitHub Actions lockfiles let workflows keep readable version tags while recording the exact commits they resolve to. This walkthrough covers generating the lockfile, updating it with Renovate or Dependabot, and verifying it in CI so workflow changes cannot silently drift from their pins.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-12"&gt;TLDR Dev · 2026-11-12 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://hugovk.dev/blog/2026/lock-github-actions/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-12T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://rohitpotato.xyz/thoughts/ssr-requests-still-alive</id>
+    <title>How we cut Next.js memory from ~5GB to ~1GB: the react-query timer holding every SSR request (9 minute read)</title>
+    <updated>2026-11-12T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Zepto's Next.js pods sat at about 5 GB because react-query v3 starts a multi-minute cache timer for every query rendered on the server, and Node ties each timer to the request's AsyncLocalStorage context, keeping every finished request in memory. Building server-side queries with an infinite cache time stopped the timers and dropped pods to about 1.2 GB, and the same trap still applies on v5 when hooks set an explicit gcTime. The fix also exposed that autoscaling had been driven by the leak, so teams fixing memory issues should watch replica counts and latency afterward.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-12"&gt;TLDR Dev · 2026-11-12 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://rohitpotato.xyz/thoughts/ssr-requests-still-alive"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-12T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.kizu.dev/partial-html-includes</id>
+    <title>My HTML Wishlist: Partial HTML Includes (5 minute read)</title>
+    <updated>2026-11-12T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Fragment Includes proposal could let browsers stream reusable HTML snippets without a build step, but its separate MIME type limits what can be reused. This essay argues for ordinary HTML pages to opt into exposing specific fragments, while acknowledging parser, buffering, and cross-origin constraints.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-12"&gt;TLDR Dev · 2026-11-12 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.kizu.dev/partial-html-includes"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-12T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://commandlinesystems.com/magic.txt</id>
+    <title>Emacs in the Age of Magic (9 minute read)</title>
+    <updated>2026-11-12T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI coding tools are changing the value of editor mastery by making custom software cheap to create. That freedom encourages both useful personalization and elaborate reinventions of existing tools.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-12"&gt;TLDR Dev · 2026-11-12 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://commandlinesystems.com/magic.txt"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-12T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://developer.chrome.com/blog/modern-web-guidance-v1</id>
+    <title>Modern Web Guidance 1.0: The web platform expertise your coding agent is missing (8 minute read)</title>
+    <updated>2026-11-12T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Coding agents produce web code that works but often falls short on accessibility, performance, and security, and they tend to reach for JavaScript where native HTML or CSS would do better. Chrome has shipped a skill pack that feeds agents expert-reviewed guidance and Baseline compatibility data and adds a workflow that scans existing codebases for safe upgrades. Firefox and Edge are co-maintainers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-12"&gt;TLDR Dev · 2026-11-12 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://developer.chrome.com/blog/modern-web-guidance-v1"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-12T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/shadcn/improve</id>
+    <title>improve (GitHub Repo)</title>
+    <updated>2026-11-12T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This agent skill audits a codebase and writes prioritized implementation plans that another agent or developer can execute. It separates repository analysis and specification from implementation, with modes for focused audits, branch reviews, and refreshing a backlog.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-12"&gt;TLDR Dev · 2026-11-12 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/shadcn/improve"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-12T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api</id>
+    <title>Gemini Decision 1 and the Decisions API (5 minute read)</title>
+    <updated>2026-11-12T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Gemini Decision 1 scores bounded choices instead of generating text, evaluating up to 1,000 questions against shared text, images, audio, video, or PDFs in one pass. Google reports 150 to 250 ms end-to-end latency and charges $0.10 per million input tokens with no output-token fees, targeting model routing, policy checks, and rubric scoring.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-12"&gt;TLDR Dev · 2026-11-12 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-12T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter</id>
+    <title>How a False Smoke Alarm Almost Drowned Jane Street's NYC Datacenter (7 minute read)</title>
+    <updated>2026-11-12T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Construction dust triggered a smoke alarm that shut off cooling and pressurized the sprinkler pipes, leaving server heat to threaten a flood. Pulling power stopped the temperature rise. The incident led to fleet-wide temperature monitoring that could detect a cooling failure even when individual servers had not crossed their alert thresholds.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-12"&gt;TLDR Dev · 2026-11-12 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-12T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dropbox.tech/machine-learning/how-two-engineer-side-projects-became-the-agent-taking-action-inside-dropbox</id>
+    <title>How two engineer side projects became the agent taking action inside Dropbox (10 minute read)</title>
+    <updated>2026-11-12T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Two Dropbox engineers, one building 3D models in a sandbox and one automating expense reports from the desktop app, hit the same problem of letting an agent change their files safely. Their prototypes merged into the agent in Dropbox's new experience, which runs each conversation in a fresh VM that boots in milliseconds, keeps credentials and permission checks outside the agent's reach, and asks for plan and folder approval. Every change is tied to its conversation, so users can trace why a file changed and undo just that agent's work without touching others' edits.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-12"&gt;TLDR Dev · 2026-11-12 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://dropbox.tech/machine-learning/how-two-engineer-side-projects-became-the-agent-taking-action-inside-dropbox"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-12T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-emulator</id>
+    <title>AWS Emulator (GitHub Repo)</title>
+    <updated>2026-11-12T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AWS Emulator runs AWS APIs locally for development and CI without an AWS account.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-12"&gt;TLDR Dev · 2026-11-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/aws/aws-emulator"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-12T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.gaborkoos.com/posts/2026-11-12-Your-JS-Error-Is-Lying-to-You</id>
+    <title>Your JS Error Is Lying to You (72 minute read)</title>
+    <updated>2026-11-12T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;JavaScript errors can lose messages, causes, and stack details during serialization and logging, so explicit error records need bounded traversal of causes and aggregates.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-12"&gt;TLDR Dev · 2026-11-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.gaborkoos.com/posts/2026-11-12-Your-JS-Error-Is-Lying-to-You"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-12T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://av.github.io/safe-sand</id>
+    <title>Sand (Website)</title>
+    <updated>2026-11-12T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This WebGL2 sand simulator lets you push grains, draw, and use phone tilt or shaking to move sand in the browser.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-12"&gt;TLDR Dev · 2026-11-12 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://av.github.io/safe-sand/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-12T10:59:48+00:00</published>
+  </entry>
   <entry>
     <id>https://read.engineerscodex.com/p/the-codebase-rewrite-is-back</id>
     <title>The Codebase Rewrite Is Back (8 minute read)</title>
