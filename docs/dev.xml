@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-11-12T11:00:00+00:00</updated>
+  <updated>2026-11-13T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://resend.com/blog/migrating-our-email-api-to-go</id>
+    <title>Migrating Our Email API to Go (7 minute read)</title>
+    <updated>2026-11-13T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Resend moved its email API from Node.js to Go in seven weeks, testing compatibility across responses, stored data, idempotency, and email contents. During a 50% rollout, median email latency fell from 58 ms to 31 ms and memory per task dropped from about 1.3 GB to 180 MB, though burst capacity and storage timeouts still needed tuning.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-13"&gt;TLDR Dev · 2026-11-13 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://resend.com/blog/migrating-our-email-api-to-go"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-13T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec</id>
+    <title>Announcing the GraphQL over HTTP Specification (4 minute read)</title>
+    <updated>2026-11-13T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The first GraphQL over HTTP specification standardizes how requests and responses travel over HTTP while keeping the core GraphQL specification transport agnostic. Its application/graphql-response+json media type lets clients recognize a valid GraphQL response independently of the status code, improving interoperability and observability.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-13"&gt;TLDR Dev · 2026-11-13 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-13T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.dnsimple.com/2026/11/rails-8-1-vue-and-jquery-to-stimulus</id>
+    <title>The Path to Rails 8.1: From Vue and jQuery to Stimulus (6 minute read)</title>
+    <updated>2026-11-13T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;DNSimple replaced about 50 Vue components and its jQuery code with native HTML, server-rendered Turbo Frames, and small Stimulus controllers. A DNS-check example shows how moving permissions, pricing, and failure-state rendering back to Ruby reduced duplicated logic and eliminated three extra queries from pages that displayed the control.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-13"&gt;TLDR Dev · 2026-11-13 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.dnsimple.com/2026/11/rails-8-1-vue-and-jquery-to-stimulus"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-13T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://folklore.org/Switcher.html</id>
+    <title>Switcher (15 minute read)</title>
+    <updated>2026-11-13T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The story of the Macintosh's early application switcher connects technical tradeoffs with the difficulty of pricing strategically valuable software. A quick prototype led to months of compatibility debugging, while negotiations with Microsoft and Apple exposed the gap between valuing a program by development time and by what it enables for users.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-13"&gt;TLDR Dev · 2026-11-13 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://folklore.org/Switcher.html"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-13T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://naftiko.io/blog/put-mcp-next-to-your-api-not-on-top</id>
+    <title>Put MCP Next to Your API, Not on Top of It (5 minute read)</title>
+    <updated>2026-11-13T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This architecture argument favors REST and MCP adapters over shared application flows, avoiding a second implementation of business logic and an extra internal HTTP hop. A worked example shows incremental migration from a legacy API, while distinguishing current support from proposed elicitation and durable-task features.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-13"&gt;TLDR Dev · 2026-11-13 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://naftiko.io/blog/put-mcp-next-to-your-api-not-on-top"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-13T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/QwenLM/qwen-code</id>
+    <title>Qwen Code (GitHub Repo)</title>
+    <updated>2026-11-13T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Qwen Code is an open-source coding agent with terminal, editor, desktop, and browser interfaces, plus headless execution and SDKs. It supports multiple provider protocols and local models, with built-in memory, skills, agent teams, and MCP integration.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-13"&gt;TLDR Dev · 2026-11-13 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/QwenLM/qwen-code"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-13T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-13T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-13"&gt;TLDR Dev · 2026-11-13 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-13T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen</id>
+    <title>Introducing Gemini 4 Hydrogen (14 minute read)</title>
+    <updated>2026-11-13T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Gemini 4 Hydrogen targets fast coding and agent execution, with a one-million-token context window priced at $1.50 per million input tokens and $7.50 per million output tokens. Google is also introducing Antigravity Orchestrator, which switches models within a session and reportedly achieved near-Carbon task success on Terminal-Bench 4.0 while using 24% less quota and finishing 19% faster.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-13"&gt;TLDR Dev · 2026-11-13 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-13T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ui-sdk.dev/</id>
+    <title>UI SDK (Website)</title>
+    <updated>2026-11-13T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;UI SDK packages more than 50 interface behaviors, including focus management, selection, popups, and keyboard navigation, for coding agents to compose into components. Its component examples work across React, Vue, Svelte, Solid, and Web Components, with a skill that teaches agents how the behaviors fit together.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-13"&gt;TLDR Dev · 2026-11-13 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://ui-sdk.dev"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-13T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/simpsoka/zigzag</id>
+    <title>ZigZag (GitHub Repo)</title>
+    <updated>2026-11-13T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;ZigZag is a free Rust-based embroidery editor for macOS and Windows that turns SVG artwork into stitches and exports common machine formats. A built-in MCP interface lets agents create and edit designs, while supported Brother Skitch machines can receive designs over Bluetooth.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-13"&gt;TLDR Dev · 2026-11-13 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/simpsoka/zigzag"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-13T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://brave.com/privacy-updates/40-remove-tracking-metadata</id>
+    <title>Brave Removes Tracking Metadata from Instagram and Facebook Photos (5 minute read)</title>
+    <updated>2026-11-13T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Brave desktop 1.98 strips the hidden FBMD identifier from downloaded photos and uploads a cleaned copy when an existing file contains it. The identifier can persist across reuploads and could link copies of a photo, although Meta has not disclosed its purpose and Brave does not establish that it is used for tracking.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-13"&gt;TLDR Dev · 2026-11-13 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://brave.com/privacy-updates/40-remove-tracking-metadata"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-13T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://makepad.github.io/relax</id>
+    <title>Relax (Website)</title>
+    <updated>2026-11-13T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This experimental Rust JIT compiles functions on demand and patches edits into a running program, trading memory and optimized execution speed for faster development iteration.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-13"&gt;TLDR Dev · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://makepad.github.io/relax/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/ashhart/TensorFold</id>
+    <title>TensorFold (GitHub Repo)</title>
+    <updated>2026-11-13T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TensorFold serves language models from a Zig binary using Metal or CUDA kernels.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-13"&gt;TLDR Dev · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/ashhart/TensorFold"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0</id>
+    <title>Rust 1.100.0 (8 minute read)</title>
+    <updated>2026-11-13T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Rust 1.100 stabilizes the never type, core custom-allocator APIs, and DropGuard, while Cargo adds unused-dependency reporting and optional dependency cooldowns.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-13"&gt;TLDR Dev · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://marmelab.com/blog/2026/11/12/remix-v3-fast-pages-thin-ecosystem.html</id>
+    <title>Remix v3: Fast Pages, Thin Ecosystem (15 minute read)</title>
+    <updated>2026-11-13T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A Remix v3 and TanStack Start comparison finds that Remix ships less JavaScript but has tooling and ecosystem gaps that currently favor small standalone projects.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-13"&gt;TLDR Dev · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://marmelab.com/blog/2026/11/12/remix-v3-fast-pages-thin-ecosystem.html"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://www.langchain.com/blog/what-is-eval-driven-development</id>
     <title>What Is Eval-Driven Development? How to Improve AI Agents (12 minute read)</title>

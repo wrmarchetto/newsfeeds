@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/ai.xml</id>
   <title>TLDR AI</title>
-  <updated>2026-11-12T11:00:00+00:00</updated>
+  <updated>2026-11-13T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,166 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen</id>
+    <title>Gemini 4 Hydrogen (14 minute read)</title>
+    <updated>2026-11-13T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Google introduced Gemini 4 Hydrogen, a fast, efficient model optimized for coding and agentic workflows. It scored 51 on the Artificial Analysis Intelligence Index, surpassing Gemini 4 Argon, and is priced at $1.50 per million input tokens and $7.50 per million output tokens.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-13"&gt;TLDR AI · 2026-11-13 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-13T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/resources/articles/self-hosted-claude-managed-agents</id>
+    <title>Operate Claude Managed Agents inside your security perimeter (4 minute read)</title>
+    <updated>2026-11-13T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Self-hosted Claude Managed Agents offers private beta for developers to build and run agents directly within their company's own infrastructure. This setup allows for a complete in-house deployment of the Managed Agents' services, including sandboxes, credential handling, and session history. Organizations benefit from enhanced security and control over agent operations, with the ability to integrate with existing cloud providers and comply with zero data retention policies.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-13"&gt;TLDR AI · 2026-11-13 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://claude.com/resources/articles/self-hosted-claude-managed-agents"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-13T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://replit.com/blog/replit-agent-ads-commerce</id>
+    <title>Replit Agent can now buy for your business and help you reach customers (5 minute read)</title>
+    <updated>2026-11-13T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Replit Agent now helps businesses with supply purchases and running Google Ads. It leverages Link with Visa and Stripe for secure, controlled transactions and simplifies ad campaigns by analyzing content and suggesting strategies.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-13"&gt;TLDR AI · 2026-11-13 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://replit.com/blog/replit-agent-ads-commerce"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-13T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://unemploymentlabs.com/checkpoint-forensics</id>
+    <title>Top Chinese Frontier AI Models Carry the Fingerprint of Export-Controlled NVIDIA Blackwell GPUs (37 minute read)</title>
+    <updated>2026-11-13T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A forensic analysis of publicly released AI models found evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group have gained access to Nvidia's Blackwell GPUs. Six models released by these companies since April contain numerical patterns that match Blackwell hardware. Several leading Chinese AI developers have likely begun using Blackwell to train their newest models. While the analysis provides technical evidence of access to advanced computing hardware, it doesn't establish where the chips were located, how access was obtained, or whether export controls were violated.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-13"&gt;TLDR AI · 2026-11-13 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://unemploymentlabs.com/checkpoint-forensics"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-13T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://nathan.rs/posts/detllm</id>
+    <title>Eliminating Nondeterminism in LLM Inference with Integer-Only Arithmetic (15 minute read)</title>
+    <updated>2026-11-13T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A floating-point number stores a fixed number of significant digits and a separate exponent. When two numbers with very different exponents are added, the small one has to be shifted to line up with the big one, and the digits that fall off on the end are gone. That means that (a+b)+c is not always equal to a+(b+c). This post looks at what happens when integer addition, which is exact, is used.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-13"&gt;TLDR AI · 2026-11-13 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://nathan.rs/posts/detllm/"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-13T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write</id>
+    <title>How Agent Anomaly Detection scores on benchmarks we didn't write (8 minute read)</title>
+    <updated>2026-11-13T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Agent Anomaly Detection, tested against external benchmarks, flagged 87% of executed harmful instructions, highlighting strengths in identifying goal hijack and tool misuse but weaknesses with poisoned memory. It demonstrated varying false alarm rates, with the highest at 16% for tasks involving high-impact tools. Ongoing improvements focus on detecting small, potentially harmful actions, distinguishing normal use from misuse, and providing quicker full coverage for new agents.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-13"&gt;TLDR AI · 2026-11-13 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-13T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-13T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-13"&gt;TLDR AI · 2026-11-13 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-13T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://worldlabs.ai/atlas</id>
+    <title>Atlas (Website)</title>
+    <updated>2026-11-13T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Atlas is an omni model that natively operates on text, images, video, and 3D. All inputs are combined into a shared spatial context. Atlas can perform a broad range of tasks spanning world generation, reconstruction, and simulation. Examples of scenes generated with the model are available.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-13"&gt;TLDR AI · 2026-11-13 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://worldlabs.ai/atlas"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-13T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.perplexity.ai/hub/blog/perplexity-decider</id>
+    <title>Perplexity Decider (26 minute read)</title>
+    <updated>2026-11-13T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Perplexity has released updates to two models inspired by Jev, TypeSafe AI's System One model. Perplexity Decider supports binary and multi-class classification with ordered or unordered labels. It returns probabilities that applications can use to classify, route, rank, and evaluate inputs. Both new models, Decider v1.3 and Decider Flash v1.3, improve performance and robustness across a broad range of text and vision tasks. They also have a new feature that highlights selected content for named entity recognition, personal information identification, and extractive question-answering tasks.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-13"&gt;TLDR AI · 2026-11-13 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.perplexity.ai/hub/blog/perplexity-decider"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-13T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition</id>
+    <title>NVIDIA Announces CEO Transition (3 minute read)</title>
+    <updated>2026-11-13T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Jensen Huang has resigned as Nvidia's CEO. Finance chief Colette Kress will serve as interim CEO until a permanent successor is named. The board is considering both internal and external candidates. Nvidia's board has appointed long-time director Harvey C. Jones as its first ever chair. The company will report its third-quarter fiscal 2027 results on November 17 as previously scheduled.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-13"&gt;TLDR AI · 2026-11-13 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-13T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.karthiktadepalli.com/p/hugging-face</id>
+    <title>Everyone is learning the wrong lesson from Hugging Face (9 minute read)</title>
+    <updated>2026-11-13T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Hugging Face incident is commonly viewed as a cybersecurity incident. People see it as an example of how AI could be used to break into critical infrastructure and cause enormous damage. However, this isn't anything new: we have known about AI's hacking capabilities for a while. The real lesson is that frontier AIs want things we don't intend, and they will pursue those wants relentlessly.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-13"&gt;TLDR AI · 2026-11-13 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.karthiktadepalli.com/p/hugging-face"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-13T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.lesswrong.com/posts/biFHYdJnMSCmW9Xou/orienting-to-1-year-agi-timelines</id>
+    <title>Orienting to 1 year AGI timelines (22 minute read)</title>
+    <updated>2026-11-13T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Timelines to artificial superintelligence are now very short, with some predicting that it will be achieved within the next two years.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-13"&gt;TLDR AI · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.lesswrong.com/posts/biFHYdJnMSCmW9Xou/orienting-to-1-year-agi-timelines"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://support.claude.com/en/articles/18325154-use-claude-meetings</id>
+    <title>Use Claude Meetings (4 minute read)</title>
+    <updated>2026-11-13T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Claude can now be added to Google Meet as a visible participant to take notes, answer questions, and build artifacts live during the call.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-13"&gt;TLDR AI · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://support.claude.com/en/articles/18325154-use-claude-meetings"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels</id>
+    <title>Fast by Default: Compile-Time Heuristics for Helion Kernels (15 minute read)</title>
+    <updated>2026-11-13T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Helion's new compile-time heuristics boost kernel performance significantly without the need for time-consuming autotuning.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-13"&gt;TLDR AI · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.liquid.ai/blog/liquidcodec</id>
+    <title>LiquidCodec: High-Fidelity Audio Tokenization Optimized for Speed (17 minute read)</title>
+    <updated>2026-11-13T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;LiquidCodec features fast speech generation with a small memory footprint, making it easier to build applications that can sustain a conversation while running locally.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-13"&gt;TLDR AI · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.liquid.ai/blog/liquidcodec"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay</id>
+    <title>Meta's Muse Can Now Call Businesses (1 minute read)</title>
+    <updated>2026-11-13T10:59:45+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Meta expanded Muse's AI-powered calling feature to all paid subscribers, letting the assistant contact US businesses on users' behalf.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-13"&gt;TLDR AI · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:45+00:00</published>
+  </entry>
   <entry>
     <id>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api</id>
     <title>Gemini Decisions API: Fast, calibrated multimodal decisions (1 minute read)</title>

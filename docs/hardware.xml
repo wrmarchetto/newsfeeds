@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/hardware.xml</id>
   <title>TLDR Hardware</title>
-  <updated>2026-11-11T11:00:00+00:00</updated>
+  <updated>2026-11-13T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,126 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12</id>
+    <title>Nvidia says its product roadmap is unaffected after Huang resigns, with CFO Colette Kress as interim CEO (3 minute read)</title>
+    <updated>2026-11-13T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Nvidia's board says operations, customer commitments, and the product roadmap will continue without interruption while it searches internally and externally for a permanent CEO, and it named Synopsys veteran Harvey Jones its first board chair. Analysts note the roadmap is largely visible through 2028, with Vera Rubin ramping now and Rubin Ultra due in 2027, so the open risk is the next architecture bets and new deals.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-13"&gt;TLDR Hardware · 2026-11-13 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-11-13T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at</id>
+    <title>AMD's Mike Clark says Zen 6c is now the top-IPC core, with 4MB of L3 per core and double the vector loads (3 minute read)</title>
+    <updated>2026-11-13T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AMD now treats the dense Zen 6c as its performance core, with 32 cores sharing 128MB of L3, and gives it bigger queues because its lower frequency target leaves timing slack. Across Zen 6, integer multipliers drop from three to two to enable distributed schedulers, vector loads double to four for 128 and 256-bit, two VNNI pipes were squeezed in late for inference, and L2 now sustains 64 bytes per cycle by cutting prefetch contention.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-13"&gt;TLDR Hardware · 2026-11-13 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-11-13T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://semiengineering.com/ucie-connectivity-for-2-5d-and-3d-multi-die-designs</id>
+    <title>UCIe Connectivity for 2.5D and 3D Multi-Die Designs (1 minute read)</title>
+    <updated>2026-11-13T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;UCIe connectivity differs in 2.5D and 3D designs due to package channel challenges and connection density advantages, respectively. In 2.5D, factors like insertion loss and crosstalk influence PHY and package design, while 3D benefits from shorter vertical connections and fine-pitch bonding.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-13"&gt;TLDR Hardware · 2026-11-13 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://semiengineering.com/ucie-connectivity-for-2-5d-and-3d-multi-die-designs/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-11-13T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/rai-opensource/spot_basic</id>
+    <title>SpotBasic: A ROS 2 Interface for Boston Dynamics Spot (4 minute read)</title>
+    <updated>2026-11-13T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;SpotBasic is a Python library and intuitive wrapper that simplifies controlling Boston Dynamics Spot robots through ROS 2. It wraps low-level gRPC communications and complex Spot SDK abstractions into straightforward synchronous and asynchronous APIs for robot motion, payload control, and camera streaming.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-13"&gt;TLDR Hardware · 2026-11-13 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/rai-opensource/spot_basic"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-11-13T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://linchangyi1.github.io/ART-Glove</id>
+    <title>ART-Glove: Articulated Tactile Glove for Contact-Grounded Dexterous Interaction Capture (2 minute read)</title>
+    <updated>2026-11-13T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;ART-Glove is a wearable articulated glove that captures human hand movements and contact forces without sacrificing natural finger dexterity. The design incorporates twenty-two joint encoders along with dense piezoresistive tactile sensor arrays across sixteen rigid functional surfaces to capture synchronized kinematic and contact data at 120 Hz. This technology offers an effective way to record high-fidelity real-world human demonstrations required for training imitation learning and dexterous manipulation policies.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-13"&gt;TLDR Hardware · 2026-11-13 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://linchangyi1.github.io/ART-Glove/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-11-13T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl</id>
+    <title>NVIDIA Launches GR00T 2 and Isaac Lab 3.0 at CoRL (5 minute read)</title>
+    <updated>2026-11-13T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;At the Conference on Robot Learning in Austin, NVIDIA unveiled GR00T 2, an updated open world action model trained on vast multimodal datasets, alongside Isaac Lab 3.0 for large-scale robot learning. The updated release integrates the Newton physics engine to support deformable object simulation and provides automated evaluation benchmarks like DexBench for industrial tasks.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-13"&gt;TLDR Hardware · 2026-11-13 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-11-13T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt</id>
+    <title>Ukraine says Starshield is capped at 161 km/h for moving terminals, breaking drone interception, which SpaceX denies (2 minute read)</title>
+    <updated>2026-11-13T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Zelenskyy says "systematic speed restrictions" limit Starshield to 161 km/h (100 mph), which is a limit on how fast a terminal can move, not internet speed, so interceptors faster than that lose their link. SpaceX told Axios there has been no change, and who imposed any limit is unresolved, with Musk earlier saying Starshield is government-controlled.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-13"&gt;TLDR Hardware · 2026-11-13 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-13T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tomshardware.com/tech-industry/data-centers/elon-musk-wants-to-build-a-new-gas-powered-data-center-in-starbase-texas-usd24-billion-site-goes-up-for-approval-in-december-but-could-face-headwinds-from-new-governor</id>
+    <title>Elon Musk wants to build a s $24 billion gas-powered AI supercomputer in Texas company town (3 minute read)</title>
+    <updated>2026-11-13T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Elon Musk is planning to build a $24 billion gas-powered AI supercomputer in Starbase, Texas, with an initial phase up for approval in December. The project could face opposition from Texas Governor Gina Hinojosa, who opposes new data centers without stronger legislative protections. This venture aligns with SpaceX's goal to build 10 gigawatts of compute power by 2027 and might expand if local regulations remain favorable.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-13"&gt;TLDR Hardware · 2026-11-13 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tomshardware.com/tech-industry/data-centers/elon-musk-wants-to-build-a-new-gas-powered-data-center-in-starbase-texas-usd24-billion-site-goes-up-for-approval-in-december-but-could-face-headwinds-from-new-governor"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-13T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tomshardware.com/pc-components/thermal-paste/noctua-brings-space-grade-carbon-nanotube-thermal-pad-to-amd-am5-and-am4-processors-promises-years-of-maintenance-free-performance-for-usd24-95</id>
+    <title>Noctua brings space-grade carbon nanotube thermal pad to AMD AM5 and AM4 processors (3 minute read)</title>
+    <updated>2026-11-13T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Noctua has released the NT-CP1 carbon nanotube thermal pad for AMD AM4 and AM5 processors, priced at $24.95.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-13"&gt;TLDR Hardware · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tomshardware.com/pc-components/thermal-paste/noctua-brings-space-grade-carbon-nanotube-thermal-pad-to-amd-am5-and-am4-processors-promises-years-of-maintenance-free-performance-for-usd24-95"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-delivers-record-revenue-third-quarter-2026</id>
+    <title>Cerebras' WSE-5 went from tape-out to system testing in under 5 months, as cloud revenue grew 265% and hardware sales fell (3 minute read)</title>
+    <updated>2026-11-13T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Cerebras says WSE-5 is back from the fab and in system testing, targeting the CS-5 for early summer 2027 at up to 10,000 tokens per second per user.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-13"&gt;TLDR Hardware · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-delivers-record-revenue-third-quarter-2026"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theregister.com/systems/2026/11/10/a-closer-look-at-verano-amds-first-step-toward-a-zen-based-superchip-to-rival-nvidias-vera-rubin/5308523</id>
+    <title>AMD's Verano host CPU trades memory bandwidth for 112 Gbps xGMI links and LPDDR5X to feed Instinct GPUs (4 minute read)</title>
+    <updated>2026-11-13T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Verano comes as 72 cores at 5.3 GHz or 192 dense cores at 4.1 GHz, with custom I/O dies driving 24 channels of LPDDR5X (SOCAMM2) at up to 8,533 MT/s, which cuts power 30 to 40% versus RDIMMs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-13"&gt;TLDR Hardware · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.theregister.com/systems/2026/11/10/a-closer-look-at-verano-amds-first-step-toward-a-zen-based-superchip-to-rival-nvidias-vera-rubin/5308523"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html</id>
+    <title>Cisco raises its hyperscaler AI infrastructure forecast to $9B as 800G-ZR optics overtake 400G-ZR (3 minute read)</title>
+    <updated>2026-11-13T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Networking revenue rose 43% to $11.13 billion, and Cisco's FY27 hyperscaler AI forecast, which excludes neoclouds, rose from $7.5 billion to $9 billion.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-13"&gt;TLDR Hardware · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:49+00:00</published>
+  </entry>
   <entry>
     <id>https://pr.tsmc.com/english/news/3352</id>
     <title>TSMC's board approves about $40.9B in capital appropriations for advanced-node, packaging, and fab buildout (2 minute read)</title>

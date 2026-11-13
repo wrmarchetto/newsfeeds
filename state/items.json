@@ -20,6 +20,7 @@
   "ai/2026-11-10": "2026-11-10T17:53:22+00:00",
   "ai/2026-11-11": "2026-11-11T17:54:44+00:00",
   "ai/2026-11-12": "2026-11-12T18:21:10+00:00",
+  "ai/2026-11-13": "2026-11-13T17:45:45+00:00",
   "dev/2026-10-16": "2026-10-16T14:53:40+00:00",
   "dev/2026-10-19": "2026-10-19T16:59:58+00:00",
   "dev/2026-10-20": "2026-10-20T15:07:40+00:00",
@@ -40,6 +41,7 @@
   "dev/2026-11-10": "2026-11-10T17:53:20+00:00",
   "dev/2026-11-11": "2026-11-11T17:54:42+00:00",
   "dev/2026-11-12": "2026-11-12T18:21:08+00:00",
+  "dev/2026-11-13": "2026-11-13T17:45:42+00:00",
   "hardware/2026-10-16": "2026-10-16T14:53:45+00:00",
   "hardware/2026-10-19": "2026-10-19T17:00:03+00:00",
   "hardware/2026-10-21": "2026-10-21T15:18:22+00:00",
@@ -52,6 +54,7 @@
   "hardware/2026-11-06": "2026-11-06T17:31:40+00:00",
   "hardware/2026-11-09": "2026-11-09T20:46:29+00:00",
   "hardware/2026-11-11": "2026-11-11T17:54:47+00:00",
+  "hardware/2026-11-13": "2026-11-13T17:45:47+00:00",
   "tech/2026-10-16": "2026-10-16T14:53:38+00:00",
   "tech/2026-10-19": "2026-10-19T16:59:55+00:00",
   "tech/2026-10-20": "2026-10-20T15:07:37+00:00",
@@ -71,7 +74,8 @@
   "tech/2026-11-09": "2026-11-09T20:46:22+00:00",
   "tech/2026-11-10": "2026-11-10T17:53:17+00:00",
   "tech/2026-11-11": "2026-11-11T17:54:39+00:00",
-  "tech/2026-11-12": "2026-11-12T18:21:05+00:00"
+  "tech/2026-11-12": "2026-11-12T18:21:05+00:00",
+  "tech/2026-11-13": "2026-11-13T17:45:40+00:00"
  },
  "items": [
   {
@@ -5323,6 +5327,586 @@
    "summary_html": "<div class=\"newsletter-html\">Databricks Genie Agents can now analyze unstructured documents alongside database tables, connect to enterprise tools, and share insights externally with governance controls.</div>",
    "title": "Databricks Genie Agents (13 minute read)",
    "url": "https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.bloomberg.com/news/articles/2026-11-12/spacex-and-tesla-talks-on-record-merger-are-said-to-progress?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0MDYxNywiZXhwIjoxNzk1MTQ1NDE3LCJhcnRpY2xlSWQiOiJUT0NWUEdUOU5KTFQwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.rXBxgsB4LSK0pAmJO1As9bqDIkTmn_I4GnF8Lk3t0XM&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-13",
+   "position": 0,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">SpaceX and Tesla could announce a merger deal as soon as December. The companies' boards and advisers are working out the terms of the deal and the governance structure of the combined entity. The merger will be a major test case for political sentiment following the US midterm elections. The aggressive timeline reflects Elon Musk's tendency to move quickly when it comes to corporate maneuvers.</div>",
+   "title": "SpaceX and Tesla Talks on Record Merger Are Said to Progress (4 minute read)",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-12/spacex-and-tesla-talks-on-record-merger-are-said-to-progress?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0MDYxNywiZXhwIjoxNzk1MTQ1NDE3LCJhcnRpY2xlSWQiOiJUT0NWUEdUOU5KTFQwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.rXBxgsB4LSK0pAmJO1As9bqDIkTmn_I4GnF8Lk3t0XM&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?st=rquLjB&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-13",
+   "position": 1,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">Jensen Huang has resigned as Nvidia's CEO after the revelation of two extramarital affairs. Finance chief Colette Kress will serve as interim CEO until a permanent successor is named. The board is considering both internal and external candidates. Nvidia's board has appointed long-time director Harvey C. Jones as its first ever chair. Huang has previously said that he doesn't believe in succession planning and that leaders should continuously pass on knowledge and information as they have it.</div>",
+   "title": "Jensen Huang Has Been Ousted as Nvidia CEO (8 minute read)",
+   "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?st=rquLjB&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://time.com/article/2026/11/12/next-chapter-of-mrna-moderna-stephane-bancel",
+   "issue_date": "2026-11-13",
+   "position": 2,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">mRNA technology has the potential to generate hundreds of new treatments for a range of diseases. It is quickly becoming the preferred technology for its speed - a vaccine can be created against any pathogen within six to eight weeks, less time than it takes to conduct the studies required to establish a therapy's safety and efficacy. The technology could redesign treatments in infectious diseases, rare diseases, and cancer.</div>",
+   "title": "The Next Chapter of mRNA (28 minute read)",
+   "url": "https://time.com/article/2026/11/12/next-chapter-of-mrna-moderna-stephane-bancel/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.bloomberg.com/news/features/2026-11-13/chinese-drugmakers-like-akeso-have-their-deepseek-moment?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0MDYyNywiZXhwIjoxNzk1MTQ1NDI3LCJhcnRpY2xlSWQiOiJUT0VZT1FLR0lGUFowMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.b3pWtWM_S2SgG3UrzMNwy_o2O30q2jUG4esQcXAVg4s&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-13",
+   "position": 3,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Chinese drugmakers account for at least a third of the world's pipeline of innovative drugs in development, but China-originated novel treatments have yet to reach overseas markets at scale. The country runs more clinical trials than any place else. Chinese drugmakers with global ambitions currently pursue them primarily through partnerships with Western companies, who usually take charge of late-stage development and eventual sales of the drugs outside of China. Some lawmakers in the US are calling for restrictions on partnerships with Chinese companies, but industry analysts say the business momentum is too strong to break.</div>",
+   "title": "A DeepSeek Moment for Biotech (12 minute read)",
+   "url": "https://www.bloomberg.com/news/features/2026-11-13/chinese-drugmakers-like-akeso-have-their-deepseek-moment?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0MDYyNywiZXhwIjoxNzk1MTQ1NDI3LCJhcnRpY2xlSWQiOiJUT0VZT1FLR0lGUFowMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.b3pWtWM_S2SgG3UrzMNwy_o2O30q2jUG4esQcXAVg4s&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-13",
+   "position": 4,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR's AI community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "tech",
+   "id": "https://gabeorlanski.github.io/posts/slop-moves-up",
+   "issue_date": "2026-11-13",
+   "position": 5,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">AI is writing significantly less slop, but slop has not been eliminated. Slop has now moved up the stack to infest design decisions. Frontier agents lack foresight into how their code will be used. They display poor abstraction design and complete disregard for reusing library-provided code.</div>",
+   "title": "Slop Is Moving Up the Stack (18 minute read)",
+   "url": "https://gabeorlanski.github.io/posts/slop-moves-up/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://devonestes.com/bad-ideas-that-arent-bad-anymore",
+   "issue_date": "2026-11-13",
+   "position": 6,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">You develop a lot of intuition throughout your career through experience. This knowledge and experience is what makes leaders effective. However, once in a while, it's worth revisiting ideas that were once considered bad. Some of the intuition you're relying on might not be worth as much anymore, as things change.</div>",
+   "title": "Bad ideas that aren't bad anymore (12 minute read)",
+   "url": "https://devonestes.com/bad-ideas-that-arent-bad-anymore"
+  },
+  {
+   "edition": "tech",
+   "id": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395",
+   "issue_date": "2026-11-13",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Google has partnered with Samsung, Gentle Monster, and Warby Parker to create Gemini-powered smartglasses. The frames, which all weigh around 41 grams, will have a camera that Gemini can use for tasks. The assistant will have access to user data and preferences to produce personalized answers. Google claims it has implemented a number of features and limitations to ensure that people don't do creepy things with the device, and that it doesn't do creepy things to users.</div>",
+   "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395 (5 minute read)",
+   "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
+   "issue_date": "2026-11-13",
+   "position": 8,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Safety-conscious employees at AI companies should unionize, as this would give them the power to keep their employers in check if they have concerns about their work. There are so few skilled AI researchers that companies will want to negotiate if a dozen top AI researchers threaten to walk. A union would uphold normal protections around discipline and firing, demand transparency, and act as an independent voice to hold companies to their commitments. RSI could make AI employees obsolete as soon as next year, so they need to take action now, as they may never have this amount of leverage again.</div>",
+   "title": "AI Company Employees Should Unionize (10 minute read)",
+   "url": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize"
+  },
+  {
+   "edition": "tech",
+   "id": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0",
+   "issue_date": "2026-11-13",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Rust 1.100.0 stable features the never type, the Allocator and DropGuard APIs, conjuring zero types, and more.</div>",
+   "title": "Announcing Rust 1.100.0 (13 minute read)",
+   "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor",
+   "issue_date": "2026-11-13",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Tim Cook has an unparalleled track record of succeeding a bigger-than-life founder.</div>",
+   "title": "Trump floats Apple chairman Tim Cook as Jensen Huang's successor (1 minute read)",
+   "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html",
+   "issue_date": "2026-11-13",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">China will have 10 times the electricity of the US in 10 years if trends continue.</div>",
+   "title": "First Strike (1 minute read)",
+   "url": "https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://herecomesthemoon.net/2026/11/age-and-accelerationism/index.html",
+   "issue_date": "2026-11-13",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Younger people may not care too much whether AI will be able to prolong life, but older people have shorter timelines, so they are more incentivized to accelerate development.</div>",
+   "title": "Age and Accelerationism (10 minute read)",
+   "url": "https://herecomesthemoon.net/2026/11/age-and-accelerationism/index.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://blog.pragmaticengineer.com/the-pulse-details-of-incident-ios-ai-spend",
+   "issue_date": "2026-11-13",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">incident.io's 'effort point' concept is a way to analyze AI spend.</div>",
+   "title": "Details of incident.io's AI spend (11 minute read)",
+   "url": "https://blog.pragmaticengineer.com/the-pulse-details-of-incident-ios-ai-spend/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide",
+   "issue_date": "2026-11-13",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Microsoft has determined that the problem is being caused by servers unexpectedly becoming unavailable.</div>",
+   "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide (4 minute read)",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://resend.com/blog/migrating-our-email-api-to-go",
+   "issue_date": "2026-11-13",
+   "position": 0,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Resend moved its email API from Node.js to Go in seven weeks, testing compatibility across responses, stored data, idempotency, and email contents. During a 50% rollout, median email latency fell from 58 ms to 31 ms and memory per task dropped from about 1.3 GB to 180 MB, though burst capacity and storage timeouts still needed tuning.</div>",
+   "title": "Migrating Our Email API to Go (7 minute read)",
+   "url": "https://resend.com/blog/migrating-our-email-api-to-go"
+  },
+  {
+   "edition": "dev",
+   "id": "https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec",
+   "issue_date": "2026-11-13",
+   "position": 1,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">The first GraphQL over HTTP specification standardizes how requests and responses travel over HTTP while keeping the core GraphQL specification transport agnostic. Its application/graphql-response+json media type lets clients recognize a valid GraphQL response independently of the status code, improving interoperability and observability.</div>",
+   "title": "Announcing the GraphQL over HTTP Specification (4 minute read)",
+   "url": "https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec"
+  },
+  {
+   "edition": "dev",
+   "id": "https://blog.dnsimple.com/2026/11/rails-8-1-vue-and-jquery-to-stimulus",
+   "issue_date": "2026-11-13",
+   "position": 2,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">DNSimple replaced about 50 Vue components and its jQuery code with native HTML, server-rendered Turbo Frames, and small Stimulus controllers. A DNS-check example shows how moving permissions, pricing, and failure-state rendering back to Ruby reduced duplicated logic and eliminated three extra queries from pages that displayed the control.</div>",
+   "title": "The Path to Rails 8.1: From Vue and jQuery to Stimulus (6 minute read)",
+   "url": "https://blog.dnsimple.com/2026/11/rails-8-1-vue-and-jquery-to-stimulus"
+  },
+  {
+   "edition": "dev",
+   "id": "https://folklore.org/Switcher.html",
+   "issue_date": "2026-11-13",
+   "position": 3,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">The story of the Macintosh's early application switcher connects technical tradeoffs with the difficulty of pricing strategically valuable software. A quick prototype led to months of compatibility debugging, while negotiations with Microsoft and Apple exposed the gap between valuing a program by development time and by what it enables for users.</div>",
+   "title": "Switcher (15 minute read)",
+   "url": "https://folklore.org/Switcher.html"
+  },
+  {
+   "edition": "dev",
+   "id": "https://naftiko.io/blog/put-mcp-next-to-your-api-not-on-top",
+   "issue_date": "2026-11-13",
+   "position": 4,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">This architecture argument favors REST and MCP adapters over shared application flows, avoiding a second implementation of business logic and an extra internal HTTP hop. A worked example shows incremental migration from a legacy API, while distinguishing current support from proposed elicitation and durable-task features.</div>",
+   "title": "Put MCP Next to Your API, Not on Top of It (5 minute read)",
+   "url": "https://naftiko.io/blog/put-mcp-next-to-your-api-not-on-top"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/QwenLM/qwen-code",
+   "issue_date": "2026-11-13",
+   "position": 5,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Qwen Code is an open-source coding agent with terminal, editor, desktop, and browser interfaces, plus headless execution and SDKs. It supports multiple provider protocols and local models, with built-in memory, skills, agent teams, and MCP integration.</div>",
+   "title": "Qwen Code (GitHub Repo)",
+   "url": "https://github.com/QwenLM/qwen-code"
+  },
+  {
+   "edition": "dev",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-13",
+   "position": 6,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR's AI community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "dev",
+   "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen",
+   "issue_date": "2026-11-13",
+   "position": 7,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Gemini 4 Hydrogen targets fast coding and agent execution, with a one-million-token context window priced at $1.50 per million input tokens and $7.50 per million output tokens. Google is also introducing Antigravity Orchestrator, which switches models within a session and reportedly achieved near-Carbon task success on Terminal-Bench 4.0 while using 24% less quota and finishing 19% faster.</div>",
+   "title": "Introducing Gemini 4 Hydrogen (14 minute read)",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://ui-sdk.dev/",
+   "issue_date": "2026-11-13",
+   "position": 8,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">UI SDK packages more than 50 interface behaviors, including focus management, selection, popups, and keyboard navigation, for coding agents to compose into components. Its component examples work across React, Vue, Svelte, Solid, and Web Components, with a skill that teaches agents how the behaviors fit together.</div>",
+   "title": "UI SDK (Website)",
+   "url": "https://ui-sdk.dev"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/simpsoka/zigzag",
+   "issue_date": "2026-11-13",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">ZigZag is a free Rust-based embroidery editor for macOS and Windows that turns SVG artwork into stitches and exports common machine formats. A built-in MCP interface lets agents create and edit designs, while supported Brother Skitch machines can receive designs over Bluetooth.</div>",
+   "title": "ZigZag (GitHub Repo)",
+   "url": "https://github.com/simpsoka/zigzag"
+  },
+  {
+   "edition": "dev",
+   "id": "https://brave.com/privacy-updates/40-remove-tracking-metadata",
+   "issue_date": "2026-11-13",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Brave desktop 1.98 strips the hidden FBMD identifier from downloaded photos and uploads a cleaned copy when an existing file contains it. The identifier can persist across reuploads and could link copies of a photo, although Meta has not disclosed its purpose and Brave does not establish that it is used for tracking.</div>",
+   "title": "Brave Removes Tracking Metadata from Instagram and Facebook Photos (5 minute read)",
+   "url": "https://brave.com/privacy-updates/40-remove-tracking-metadata"
+  },
+  {
+   "edition": "dev",
+   "id": "https://makepad.github.io/relax",
+   "issue_date": "2026-11-13",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">This experimental Rust JIT compiles functions on demand and patches edits into a running program, trading memory and optimized execution speed for faster development iteration.</div>",
+   "title": "Relax (Website)",
+   "url": "https://makepad.github.io/relax/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/ashhart/TensorFold",
+   "issue_date": "2026-11-13",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">TensorFold serves language models from a Zig binary using Metal or CUDA kernels.</div>",
+   "title": "TensorFold (GitHub Repo)",
+   "url": "https://github.com/ashhart/TensorFold"
+  },
+  {
+   "edition": "dev",
+   "id": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0",
+   "issue_date": "2026-11-13",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Rust 1.100 stabilizes the never type, core custom-allocator APIs, and DropGuard, while Cargo adds unused-dependency reporting and optional dependency cooldowns.</div>",
+   "title": "Rust 1.100.0 (8 minute read)",
+   "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://marmelab.com/blog/2026/11/12/remix-v3-fast-pages-thin-ecosystem.html",
+   "issue_date": "2026-11-13",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">A Remix v3 and TanStack Start comparison finds that Remix ships less JavaScript but has tooling and ecosystem gaps that currently favor small standalone projects.</div>",
+   "title": "Remix v3: Fast Pages, Thin Ecosystem (15 minute read)",
+   "url": "https://marmelab.com/blog/2026/11/12/remix-v3-fast-pages-thin-ecosystem.html"
+  },
+  {
+   "edition": "ai",
+   "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen",
+   "issue_date": "2026-11-13",
+   "position": 0,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Google introduced Gemini 4 Hydrogen, a fast, efficient model optimized for coding and agentic workflows. It scored 51 on the Artificial Analysis Intelligence Index, surpassing Gemini 4 Argon, and is priced at $1.50 per million input tokens and $7.50 per million output tokens.</div>",
+   "title": "Gemini 4 Hydrogen (14 minute read)",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+   "issue_date": "2026-11-13",
+   "position": 1,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Self-hosted Claude Managed Agents offers private beta for developers to build and run agents directly within their company's own infrastructure. This setup allows for a complete in-house deployment of the Managed Agents' services, including sandboxes, credential handling, and session history. Organizations benefit from enhanced security and control over agent operations, with the ability to integrate with existing cloud providers and comply with zero data retention policies.</div>",
+   "title": "Operate Claude Managed Agents inside your security perimeter (4 minute read)",
+   "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents"
+  },
+  {
+   "edition": "ai",
+   "id": "https://replit.com/blog/replit-agent-ads-commerce",
+   "issue_date": "2026-11-13",
+   "position": 2,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Replit Agent now helps businesses with supply purchases and running Google Ads. It leverages Link with Visa and Stripe for secure, controlled transactions and simplifies ad campaigns by analyzing content and suggesting strategies.</div>",
+   "title": "Replit Agent can now buy for your business and help you reach customers (5 minute read)",
+   "url": "https://replit.com/blog/replit-agent-ads-commerce"
+  },
+  {
+   "edition": "ai",
+   "id": "https://unemploymentlabs.com/checkpoint-forensics",
+   "issue_date": "2026-11-13",
+   "position": 3,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">A forensic analysis of publicly released AI models found evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group have gained access to Nvidia's Blackwell GPUs. Six models released by these companies since April contain numerical patterns that match Blackwell hardware. Several leading Chinese AI developers have likely begun using Blackwell to train their newest models. While the analysis provides technical evidence of access to advanced computing hardware, it doesn't establish where the chips were located, how access was obtained, or whether export controls were violated.</div>",
+   "title": "Top Chinese Frontier AI Models Carry the Fingerprint of Export-Controlled NVIDIA Blackwell GPUs (37 minute read)",
+   "url": "https://unemploymentlabs.com/checkpoint-forensics"
+  },
+  {
+   "edition": "ai",
+   "id": "https://nathan.rs/posts/detllm",
+   "issue_date": "2026-11-13",
+   "position": 4,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">A floating-point number stores a fixed number of significant digits and a separate exponent. When two numbers with very different exponents are added, the small one has to be shifted to line up with the big one, and the digits that fall off on the end are gone. That means that (a+b)+c is not always equal to a+(b+c). This post looks at what happens when integer addition, which is exact, is used.</div>",
+   "title": "Eliminating Nondeterminism in LLM Inference with Integer-Only Arithmetic (15 minute read)",
+   "url": "https://nathan.rs/posts/detllm/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write",
+   "issue_date": "2026-11-13",
+   "position": 5,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Agent Anomaly Detection, tested against external benchmarks, flagged 87% of executed harmful instructions, highlighting strengths in identifying goal hijack and tool misuse but weaknesses with poisoned memory. It demonstrated varying false alarm rates, with the highest at 16% for tasks involving high-impact tools. Ongoing improvements focus on detecting small, potentially harmful actions, distinguishing normal use from misuse, and providing quicker full coverage for new agents.</div>",
+   "title": "How Agent Anomaly Detection scores on benchmarks we didn't write (8 minute read)",
+   "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-13",
+   "position": 6,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR's AI community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "ai",
+   "id": "https://worldlabs.ai/atlas",
+   "issue_date": "2026-11-13",
+   "position": 7,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Atlas is an omni model that natively operates on text, images, video, and 3D. All inputs are combined into a shared spatial context. Atlas can perform a broad range of tasks spanning world generation, reconstruction, and simulation. Examples of scenes generated with the model are available.</div>",
+   "title": "Atlas (Website)",
+   "url": "https://worldlabs.ai/atlas"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+   "issue_date": "2026-11-13",
+   "position": 8,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Perplexity has released updates to two models inspired by Jev, TypeSafe AI's System One model. Perplexity Decider supports binary and multi-class classification with ordered or unordered labels. It returns probabilities that applications can use to classify, route, rank, and evaluate inputs. Both new models, Decider v1.3 and Decider Flash v1.3, improve performance and robustness across a broad range of text and vision tasks. They also have a new feature that highlights selected content for named entity recognition, personal information identification, and extractive question-answering tasks.</div>",
+   "title": "Perplexity Decider (26 minute read)",
+   "url": "https://www.perplexity.ai/hub/blog/perplexity-decider"
+  },
+  {
+   "edition": "ai",
+   "id": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+   "issue_date": "2026-11-13",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Jensen Huang has resigned as Nvidia's CEO. Finance chief Colette Kress will serve as interim CEO until a permanent successor is named. The board is considering both internal and external candidates. Nvidia's board has appointed long-time director Harvey C. Jones as its first ever chair. The company will report its third-quarter fiscal 2027 results on November 17 as previously scheduled.</div>",
+   "title": "NVIDIA Announces CEO Transition (3 minute read)",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+  },
+  {
+   "edition": "ai",
+   "id": "https://blog.karthiktadepalli.com/p/hugging-face",
+   "issue_date": "2026-11-13",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">The Hugging Face incident is commonly viewed as a cybersecurity incident. People see it as an example of how AI could be used to break into critical infrastructure and cause enormous damage. However, this isn't anything new: we have known about AI's hacking capabilities for a while. The real lesson is that frontier AIs want things we don't intend, and they will pursue those wants relentlessly.</div>",
+   "title": "Everyone is learning the wrong lesson from Hugging Face (9 minute read)",
+   "url": "https://blog.karthiktadepalli.com/p/hugging-face"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.lesswrong.com/posts/biFHYdJnMSCmW9Xou/orienting-to-1-year-agi-timelines",
+   "issue_date": "2026-11-13",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Timelines to artificial superintelligence are now very short, with some predicting that it will be achieved within the next two years.</div>",
+   "title": "Orienting to 1 year AGI timelines (22 minute read)",
+   "url": "https://www.lesswrong.com/posts/biFHYdJnMSCmW9Xou/orienting-to-1-year-agi-timelines"
+  },
+  {
+   "edition": "ai",
+   "id": "https://support.claude.com/en/articles/18325154-use-claude-meetings",
+   "issue_date": "2026-11-13",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Claude can now be added to Google Meet as a visible participant to take notes, answer questions, and build artifacts live during the call.</div>",
+   "title": "Use Claude Meetings (4 minute read)",
+   "url": "https://support.claude.com/en/articles/18325154-use-claude-meetings"
+  },
+  {
+   "edition": "ai",
+   "id": "https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels",
+   "issue_date": "2026-11-13",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Helion's new compile-time heuristics boost kernel performance significantly without the need for time-consuming autotuning.</div>",
+   "title": "Fast by Default: Compile-Time Heuristics for Helion Kernels (15 minute read)",
+   "url": "https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.liquid.ai/blog/liquidcodec",
+   "issue_date": "2026-11-13",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">LiquidCodec features fast speech generation with a small memory footprint, making it easier to build applications that can sustain a conversation while running locally.</div>",
+   "title": "LiquidCodec: High-Fidelity Audio Tokenization Optimized for Speed (17 minute read)",
+   "url": "https://www.liquid.ai/blog/liquidcodec"
+  },
+  {
+   "edition": "ai",
+   "id": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay",
+   "issue_date": "2026-11-13",
+   "position": 15,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Meta expanded Muse's AI-powered calling feature to all paid subscribers, letting the assistant contact US businesses on users' behalf.</div>",
+   "title": "Meta's Muse Can Now Call Businesses (1 minute read)",
+   "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12",
+   "issue_date": "2026-11-13",
+   "position": 0,
+   "section": "Headlines and Launches",
+   "summary_html": "<div class=\"newsletter-html\">Nvidia's board says operations, customer commitments, and the product roadmap will continue without interruption while it searches internally and externally for a permanent CEO, and it named Synopsys veteran Harvey Jones its first board chair. Analysts note the roadmap is largely visible through 2028, with Vera Rubin ramping now and Rubin Ultra due in 2027, so the open risk is the next architecture bets and new deals.</div>",
+   "title": "Nvidia says its product roadmap is unaffected after Huang resigns, with CFO Colette Kress as interim CEO (3 minute read)",
+   "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+   "issue_date": "2026-11-13",
+   "position": 1,
+   "section": "Headlines and Launches",
+   "summary_html": "<div class=\"newsletter-html\">AMD now treats the dense Zen 6c as its performance core, with 32 cores sharing 128MB of L3, and gives it bigger queues because its lower frequency target leaves timing slack. Across Zen 6, integer multipliers drop from three to two to enable distributed schedulers, vector loads double to four for 128 and 256-bit, two VNNI pipes were squeezed in late for inference, and L2 now sustains 64 bytes per cycle by cutting prefetch contention.</div>",
+   "title": "AMD's Mike Clark says Zen 6c is now the top-IPC core, with 4MB of L3 per core and double the vector loads (3 minute read)",
+   "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://semiengineering.com/ucie-connectivity-for-2-5d-and-3d-multi-die-designs",
+   "issue_date": "2026-11-13",
+   "position": 2,
+   "section": "Engineering and Applications",
+   "summary_html": "<div class=\"newsletter-html\">UCIe connectivity differs in 2.5D and 3D designs due to package channel challenges and connection density advantages, respectively. In 2.5D, factors like insertion loss and crosstalk influence PHY and package design, while 3D benefits from shorter vertical connections and fine-pitch bonding.</div>",
+   "title": "UCIe Connectivity for 2.5D and 3D Multi-Die Designs (1 minute read)",
+   "url": "https://semiengineering.com/ucie-connectivity-for-2-5d-and-3d-multi-die-designs/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://github.com/rai-opensource/spot_basic",
+   "issue_date": "2026-11-13",
+   "position": 3,
+   "section": "Engineering and Applications",
+   "summary_html": "<div class=\"newsletter-html\">SpotBasic is a Python library and intuitive wrapper that simplifies controlling Boston Dynamics Spot robots through ROS 2. It wraps low-level gRPC communications and complex Spot SDK abstractions into straightforward synchronous and asynchronous APIs for robot motion, payload control, and camera streaming.</div>",
+   "title": "SpotBasic: A ROS 2 Interface for Boston Dynamics Spot (4 minute read)",
+   "url": "https://github.com/rai-opensource/spot_basic"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://linchangyi1.github.io/ART-Glove",
+   "issue_date": "2026-11-13",
+   "position": 4,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">ART-Glove is a wearable articulated glove that captures human hand movements and contact forces without sacrificing natural finger dexterity. The design incorporates twenty-two joint encoders along with dense piezoresistive tactile sensor arrays across sixteen rigid functional surfaces to capture synchronized kinematic and contact data at 120 Hz. This technology offers an effective way to record high-fidelity real-world human demonstrations required for training imitation learning and dexterous manipulation policies.</div>",
+   "title": "ART-Glove: Articulated Tactile Glove for Contact-Grounded Dexterous Interaction Capture (2 minute read)",
+   "url": "https://linchangyi1.github.io/ART-Glove/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl",
+   "issue_date": "2026-11-13",
+   "position": 5,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">At the Conference on Robot Learning in Austin, NVIDIA unveiled GR00T 2, an updated open world action model trained on vast multimodal datasets, alongside Isaac Lab 3.0 for large-scale robot learning. The updated release integrates the Newton physics engine to support deformable object simulation and provides automated evaluation benchmarks like DexBench for industrial tasks.</div>",
+   "title": "NVIDIA Launches GR00T 2 and Isaac Lab 3.0 at CoRL (5 minute read)",
+   "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt",
+   "issue_date": "2026-11-13",
+   "position": 6,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Zelenskyy says \"systematic speed restrictions\" limit Starshield to 161 km/h (100 mph), which is a limit on how fast a terminal can move, not internet speed, so interceptors faster than that lose their link. SpaceX told Axios there has been no change, and who imposed any limit is unresolved, with Musk earlier saying Starshield is government-controlled.</div>",
+   "title": "Ukraine says Starshield is capped at 161 km/h for moving terminals, breaking drone interception, which SpaceX denies (2 minute read)",
+   "url": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.tomshardware.com/tech-industry/data-centers/elon-musk-wants-to-build-a-new-gas-powered-data-center-in-starbase-texas-usd24-billion-site-goes-up-for-approval-in-december-but-could-face-headwinds-from-new-governor",
+   "issue_date": "2026-11-13",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Elon Musk is planning to build a $24 billion gas-powered AI supercomputer in Starbase, Texas, with an initial phase up for approval in December. The project could face opposition from Texas Governor Gina Hinojosa, who opposes new data centers without stronger legislative protections. This venture aligns with SpaceX's goal to build 10 gigawatts of compute power by 2027 and might expand if local regulations remain favorable.</div>",
+   "title": "Elon Musk wants to build a s $24 billion gas-powered AI supercomputer in Texas company town (3 minute read)",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musk-wants-to-build-a-new-gas-powered-data-center-in-starbase-texas-usd24-billion-site-goes-up-for-approval-in-december-but-could-face-headwinds-from-new-governor"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.tomshardware.com/pc-components/thermal-paste/noctua-brings-space-grade-carbon-nanotube-thermal-pad-to-amd-am5-and-am4-processors-promises-years-of-maintenance-free-performance-for-usd24-95",
+   "issue_date": "2026-11-13",
+   "position": 8,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Noctua has released the NT-CP1 carbon nanotube thermal pad for AMD AM4 and AM5 processors, priced at $24.95.</div>",
+   "title": "Noctua brings space-grade carbon nanotube thermal pad to AMD AM5 and AM4 processors (3 minute read)",
+   "url": "https://www.tomshardware.com/pc-components/thermal-paste/noctua-brings-space-grade-carbon-nanotube-thermal-pad-to-amd-am5-and-am4-processors-promises-years-of-maintenance-free-performance-for-usd24-95"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-delivers-record-revenue-third-quarter-2026",
+   "issue_date": "2026-11-13",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Cerebras says WSE-5 is back from the fab and in system testing, targeting the CS-5 for early summer 2027 at up to 10,000 tokens per second per user.</div>",
+   "title": "Cerebras' WSE-5 went from tape-out to system testing in under 5 months, as cloud revenue grew 265% and hardware sales fell (3 minute read)",
+   "url": "https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-delivers-record-revenue-third-quarter-2026"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.theregister.com/systems/2026/11/10/a-closer-look-at-verano-amds-first-step-toward-a-zen-based-superchip-to-rival-nvidias-vera-rubin/5308523",
+   "issue_date": "2026-11-13",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Verano comes as 72 cores at 5.3 GHz or 192 dense cores at 4.1 GHz, with custom I/O dies driving 24 channels of LPDDR5X (SOCAMM2) at up to 8,533 MT/s, which cuts power 30 to 40% versus RDIMMs.</div>",
+   "title": "AMD's Verano host CPU trades memory bandwidth for 112 Gbps xGMI links and LPDDR5X to feed Instinct GPUs (4 minute read)",
+   "url": "https://www.theregister.com/systems/2026/11/10/a-closer-look-at-verano-amds-first-step-toward-a-zen-based-superchip-to-rival-nvidias-vera-rubin/5308523"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+   "issue_date": "2026-11-13",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Networking revenue rose 43% to $11.13 billion, and Cisco's FY27 hyperscaler AI forecast, which excludes neoclouds, rose from $7.5 billion to $9 billion.</div>",
+   "title": "Cisco raises its hyperscaler AI infrastructure forecast to $9B as 800G-ZR optics overtake 400G-ZR (3 minute read)",
+   "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html"
   }
  ]
 }

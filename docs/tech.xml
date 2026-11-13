@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/tech.xml</id>
   <title>TLDR</title>
-  <updated>2026-11-12T11:00:00+00:00</updated>
+  <updated>2026-11-13T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2026-11-12/spacex-and-tesla-talks-on-record-merger-are-said-to-progress?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0MDYxNywiZXhwIjoxNzk1MTQ1NDE3LCJhcnRpY2xlSWQiOiJUT0NWUEdUOU5KTFQwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.rXBxgsB4LSK0pAmJO1As9bqDIkTmn_I4GnF8Lk3t0XM&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>SpaceX and Tesla Talks on Record Merger Are Said to Progress (4 minute read)</title>
+    <updated>2026-11-13T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;SpaceX and Tesla could announce a merger deal as soon as December. The companies' boards and advisers are working out the terms of the deal and the governance structure of the combined entity. The merger will be a major test case for political sentiment following the US midterm elections. The aggressive timeline reflects Elon Musk's tendency to move quickly when it comes to corporate maneuvers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-13"&gt;TLDR · 2026-11-13 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-12/spacex-and-tesla-talks-on-record-merger-are-said-to-progress?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0MDYxNywiZXhwIjoxNzk1MTQ1NDE3LCJhcnRpY2xlSWQiOiJUT0NWUEdUOU5KTFQwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.rXBxgsB4LSK0pAmJO1As9bqDIkTmn_I4GnF8Lk3t0XM&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-13T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?st=rquLjB&amp;amp%3Breflink=desktopwebshare_permalink&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>Jensen Huang Has Been Ousted as Nvidia CEO (8 minute read)</title>
+    <updated>2026-11-13T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Jensen Huang has resigned as Nvidia's CEO after the revelation of two extramarital affairs. Finance chief Colette Kress will serve as interim CEO until a permanent successor is named. The board is considering both internal and external candidates. Nvidia's board has appointed long-time director Harvey C. Jones as its first ever chair. Huang has previously said that he doesn't believe in succession planning and that leaders should continuously pass on knowledge and information as they have it.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-13"&gt;TLDR · 2026-11-13 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?st=rquLjB&amp;amp%3Breflink=desktopwebshare_permalink&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-13T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://time.com/article/2026/11/12/next-chapter-of-mrna-moderna-stephane-bancel</id>
+    <title>The Next Chapter of mRNA (28 minute read)</title>
+    <updated>2026-11-13T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;mRNA technology has the potential to generate hundreds of new treatments for a range of diseases. It is quickly becoming the preferred technology for its speed - a vaccine can be created against any pathogen within six to eight weeks, less time than it takes to conduct the studies required to establish a therapy's safety and efficacy. The technology could redesign treatments in infectious diseases, rare diseases, and cancer.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-13"&gt;TLDR · 2026-11-13 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://time.com/article/2026/11/12/next-chapter-of-mrna-moderna-stephane-bancel/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-13T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/features/2026-11-13/chinese-drugmakers-like-akeso-have-their-deepseek-moment?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0MDYyNywiZXhwIjoxNzk1MTQ1NDI3LCJhcnRpY2xlSWQiOiJUT0VZT1FLR0lGUFowMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.b3pWtWM_S2SgG3UrzMNwy_o2O30q2jUG4esQcXAVg4s&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>A DeepSeek Moment for Biotech (12 minute read)</title>
+    <updated>2026-11-13T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Chinese drugmakers account for at least a third of the world's pipeline of innovative drugs in development, but China-originated novel treatments have yet to reach overseas markets at scale. The country runs more clinical trials than any place else. Chinese drugmakers with global ambitions currently pursue them primarily through partnerships with Western companies, who usually take charge of late-stage development and eventual sales of the drugs outside of China. Some lawmakers in the US are calling for restrictions on partnerships with Chinese companies, but industry analysts say the business momentum is too strong to break.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-13"&gt;TLDR · 2026-11-13 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/features/2026-11-13/chinese-drugmakers-like-akeso-have-their-deepseek-moment?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0MDYyNywiZXhwIjoxNzk1MTQ1NDI3LCJhcnRpY2xlSWQiOiJUT0VZT1FLR0lGUFowMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.b3pWtWM_S2SgG3UrzMNwy_o2O30q2jUG4esQcXAVg4s&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-13T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-13T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-13"&gt;TLDR · 2026-11-13 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-13T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://gabeorlanski.github.io/posts/slop-moves-up</id>
+    <title>Slop Is Moving Up the Stack (18 minute read)</title>
+    <updated>2026-11-13T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI is writing significantly less slop, but slop has not been eliminated. Slop has now moved up the stack to infest design decisions. Frontier agents lack foresight into how their code will be used. They display poor abstraction design and complete disregard for reusing library-provided code.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-13"&gt;TLDR · 2026-11-13 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://gabeorlanski.github.io/posts/slop-moves-up/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-13T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://devonestes.com/bad-ideas-that-arent-bad-anymore</id>
+    <title>Bad ideas that aren't bad anymore (12 minute read)</title>
+    <updated>2026-11-13T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;You develop a lot of intuition throughout your career through experience. This knowledge and experience is what makes leaders effective. However, once in a while, it's worth revisiting ideas that were once considered bad. Some of the intuition you're relying on might not be worth as much anymore, as things change.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-13"&gt;TLDR · 2026-11-13 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://devonestes.com/bad-ideas-that-arent-bad-anymore"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-13T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395</id>
+    <title>Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395 (5 minute read)</title>
+    <updated>2026-11-13T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Google has partnered with Samsung, Gentle Monster, and Warby Parker to create Gemini-powered smartglasses. The frames, which all weigh around 41 grams, will have a camera that Gemini can use for tasks. The assistant will have access to user data and preferences to produce personalized answers. Google claims it has implemented a number of features and limitations to ensure that people don't do creepy things with the device, and that it doesn't do creepy things to users.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-13"&gt;TLDR · 2026-11-13 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-13T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.astralcodexten.com/p/ai-company-employees-should-unionize</id>
+    <title>AI Company Employees Should Unionize (10 minute read)</title>
+    <updated>2026-11-13T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Safety-conscious employees at AI companies should unionize, as this would give them the power to keep their employers in check if they have concerns about their work. There are so few skilled AI researchers that companies will want to negotiate if a dozen top AI researchers threaten to walk. A union would uphold normal protections around discipline and firing, demand transparency, and act as an independent voice to hold companies to their commitments. RSI could make AI employees obsolete as soon as next year, so they need to take action now, as they may never have this amount of leverage again.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-13"&gt;TLDR · 2026-11-13 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.astralcodexten.com/p/ai-company-employees-should-unionize"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-13T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0</id>
+    <title>Announcing Rust 1.100.0 (13 minute read)</title>
+    <updated>2026-11-13T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Rust 1.100.0 stable features the never type, the Allocator and DropGuard APIs, conjuring zero types, and more.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-13"&gt;TLDR · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor</id>
+    <title>Trump floats Apple chairman Tim Cook as Jensen Huang's successor (1 minute read)</title>
+    <updated>2026-11-13T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Tim Cook has an unparalleled track record of succeeding a bigger-than-life founder.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-13"&gt;TLDR · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html</id>
+    <title>First Strike (1 minute read)</title>
+    <updated>2026-11-13T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;China will have 10 times the electricity of the US in 10 years if trends continue.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-13"&gt;TLDR · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://herecomesthemoon.net/2026/11/age-and-accelerationism/index.html</id>
+    <title>Age and Accelerationism (10 minute read)</title>
+    <updated>2026-11-13T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Younger people may not care too much whether AI will be able to prolong life, but older people have shorter timelines, so they are more incentivized to accelerate development.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-13"&gt;TLDR · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://herecomesthemoon.net/2026/11/age-and-accelerationism/index.html"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.pragmaticengineer.com/the-pulse-details-of-incident-ios-ai-spend</id>
+    <title>Details of incident.io's AI spend (11 minute read)</title>
+    <updated>2026-11-13T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;incident.io's 'effort point' concept is a way to analyze AI spend.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-13"&gt;TLDR · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.pragmaticengineer.com/the-pulse-details-of-incident-ios-ai-spend/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide</id>
+    <title>Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide (4 minute read)</title>
+    <updated>2026-11-13T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Microsoft has determined that the problem is being caused by servers unexpectedly becoming unavailable.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-13"&gt;TLDR · 2026-11-13 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-13T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html</id>
     <title>AWS Emulator and the engineer's job when agents write the code (9 minute read)</title>
