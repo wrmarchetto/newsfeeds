@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/hardware.xml</id>
   <title>TLDR Hardware</title>
-  <updated>2026-11-13T11:00:00+00:00</updated>
+  <updated>2026-11-16T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,96 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang</id>
+    <title>A petition backed by Musk, Replit's Masad, and Epic's Sweeney asks Nvidia to reinstate Jensen Huang during the investigation (2 minute read)</title>
+    <updated>2026-11-16T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The petition says it has over 115,000 signatures, including 5,965 current Nvidia employees and 63,063 shareholders, and argues Huang was removed without due process, asking the board to restore him while an independent investigation establishes the facts. Huang resigned Thursday after admitting a relationship with an executive US intelligence suspects of spying for China. CFO Colette Kress is interim CEO. Nvidia fell 2% on Friday.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-16"&gt;TLDR Hardware · 2026-11-16 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-11-16T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-14-2026-starship-first-double-landing-attempt</id>
+    <title>SpaceX catches Ship 42 on Flight 15, but Booster 22 aborts its catch on a low-fuel-mass alarm during boostback (4 minute read)</title>
+    <updated>2026-11-16T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;After 14 orbits, Ship 42 made a 10-second single-engine deorbit burn and was caught by the tower's chopsticks 22.5 hours after launch, the first upper-stage catch. It deployed 26 Starlink V3 satellites and had its heat shield checked using satellite cameras. The V3 booster's boostback ended early on a low-fuel-mass alarm, so guidance detected it was off-position and diverted to a Gulf splashdown, with the root cause still under investigation.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-16"&gt;TLDR Hardware · 2026-11-16 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-14-2026-starship-first-double-landing-attempt"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-11-16T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee</id>
+    <title>Tesla opens Cybercab pre-orders to select customers at $29,990 plus $299 per month, geofenced to Robotaxi's areas (2 minute read)</title>
+    <updated>2026-11-16T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Tesla says the Cybercab will run unsupervised only inside the same geofences as its Robotaxi service, with delivery limited to a handful of Texas cities and an estimated date of December. Musk called the $299 monthly fee too high, saying it should match the roughly $115 per month for FSD and connectivity, and that nationwide availability depends on regulatory approval.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-16"&gt;TLDR Hardware · 2026-11-16 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-11-16T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites</id>
+    <title>ULA's Vulcan loses 40 Amazon Leo satellites about 10 minutes in, with Centaur's burn the suspect (3 minute read)</title>
+    <updated>2026-11-16T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This was ULA's first total failure since 2006 and the first Vulcan flight in nine months after its solid booster nozzle fixes. The BE-4s had been retrofitted for the oxygen valve issue behind New Glenn's May pad explosion.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-16"&gt;TLDR Hardware · 2026-11-16 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-16T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots</id>
+    <title>OpenAI restructures its standalone robotics team after general models like GPT-6 Astra start running robots directly (3 minute read)</title>
+    <updated>2026-11-16T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI moved its robotics researchers into its main research org and its applied robotics and hardware teams into Applied, betting general models can control robots without specialized “robot brains.” OpenAI still plans its own humanoid, with a demo targeted for 2027, while robotics startups argue real-world deployment data remains their edge.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-16"&gt;TLDR Hardware · 2026-11-16 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-16T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://siliconangle.com/2026/11/12/applied-materials-posts-an-impressive-53-jump-in-revenue-as-it-beats-expectations-again</id>
+    <title>Applied Materials' systems revenue jumps 64% to $7.99B as chipmakers expand fabs, with a $5B EPIC Center for shared R&amp;D (3 minute read)</title>
+    <updated>2026-11-16T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Total revenue rose 53% to $10.41 billion, with the semiconductor systems unit up from $4.88 billion to $7.99 billion.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-16"&gt;TLDR Hardware · 2026-11-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://siliconangle.com/2026/11/12/applied-materials-posts-an-impressive-53-jump-in-revenue-as-it-beats-expectations-again"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-16T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide</id>
+    <title>A copper-to-fiber upgrade at a remote site caused a router to overload FAA's network, grounding US flights (3 minute read)</title>
+    <updated>2026-11-16T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Officials say an L3Harris upgrade of copper wire to fiber optic cable left a router overloading a critical communication system, grounding thousands of US flights.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-16"&gt;TLDR Hardware · 2026-11-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-16T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-hits-100-electron-launches-fastest-commercial-rocket</id>
+    <title>Rocket Lab's 100th Electron launch deploys iQPS's YAMATSUMI-II radar satellite to a 575 km orbit (2 minute read)</title>
+    <updated>2026-11-16T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Electron, the carbon-composite rocket with 3D-printed engines, flew its 100th mission from New Zealand, which Rocket Lab says is the fastest any commercially developed rocket has reached that count since its first launch in 2017.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-16"&gt;TLDR Hardware · 2026-11-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-hits-100-electron-launches-fastest-commercial-rocket"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-16T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge</id>
+    <title>Judge keeps DRAM price-fixing suit alive, calling the chipmakers' alleged behavior “hawks flying in formation” (3 minute read)</title>
+    <updated>2026-11-16T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A federal judge denied Samsung, SK hynix, and Micron's motion to dismiss in full, finding a plausible claim that they restricted conventional DRAM supply and drove prices up 697% over 18 months.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-16"&gt;TLDR Hardware · 2026-11-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-16T10:59:52+00:00</published>
+  </entry>
   <entry>
     <id>https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12</id>
     <title>Nvidia says its product roadmap is unaffected after Huang resigns, with CFO Colette Kress as interim CEO (3 minute read)</title>
@@ -729,135 +819,5 @@
     <category term="TLDR Hardware"/>
     <category term="Quick Links"/>
     <published>2026-11-02T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform</id>
-    <title>PsiQuantum shows an 8×8 optical circuit switch with 1.2 dB loss for AI data center networks (3 minute read)</title>
-    <updated>2026-10-30T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;PsiQuantum unveiled an 8×8 optical circuit switch built on the silicon photonics platform it developed for quantum computing, measuring typical insertion loss of 1.2 dB, 40 dB crosstalk, and under 3 ms reconfiguration without amplification. Samples are going to select customers, with commercial products promised in the coming months. A 64×64 barium titanate switch used in its quantum systems isn't needed for this first version but offers a path to faster future parts.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-30"&gt;TLDR Hardware · 2026-10-30 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform"/>
-    <category term="TLDR Hardware"/>
-    <category term="Headlines and Launches"/>
-    <published>2026-10-30T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display</id>
-    <title>Apple's tandem OLED MacBook Pro adds an in-panel touch sensor, 2,000 nits, and a 3-pound 14-inch (5 minute read)</title>
-    <updated>2026-10-30T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Apple's new 14- and 16-inch MacBook Pro uses a tandem OLED panel rated at 2,000 nits peak HDR and SDR brightness with a 10,000,000:1 contrast ratio and 10 to 120Hz refresh, with the touch sensor built into the panel rather than layered on top. It drops to 3 and 4 pounds, adds a Dynamic Island, and runs M5 Pro or M5 Max with up to 128GB of memory. Pricing starts at $2,899, shipping November 6.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-30"&gt;TLDR Hardware · 2026-10-30 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/"/>
-    <category term="TLDR Hardware"/>
-    <category term="Headlines and Launches"/>
-    <published>2026-10-30T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.altera.com/newsroom/agilex-2x</id>
-    <title>Altera's Agilex 2X FPGAs claim 1.8x performance per watt, with 256 Gbps transceivers and PCIe 7.0 (3 minute read)</title>
-    <updated>2026-10-30T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Altera announced Agilex 2X, four FPGA families spanning high-end to I/O-centric parts, led by Agilex 27 with a third-generation HyperFlex fabric claiming 1.8x performance per watt over Agilex 7. It adds a chip-wide HyperFlow data network, transceivers up to 256 Gbps, hardened 800GbE and 1.6TbE, PCIe 6.0 and 7.0, LPDDR6, UCIe, and post-quantum-ready secure boot. Quartus support starts in mid-November, with engineering samples in the second half of 2027.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-30"&gt;TLDR Hardware · 2026-10-30 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.altera.com/newsroom/agilex-2x"/>
-    <category term="TLDR Hardware"/>
-    <category term="Engineering and Applications"/>
-    <published>2026-10-30T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cybersecuritydive.com/news/ai-hardware-model-tampering-eclypsium/873177</id>
-    <title>Eclypsium shows AI model weights can be altered in memory after integrity checks pass (3 minute read)</title>
-    <updated>2026-10-30T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Eclypsium demonstrated changing a model's weights in memory after integrity checks pass, so the model file, container, hash, and signatures on disk all stay valid. Attack paths run through host firmware, management controllers, and DPUs, and the report says Nvidia, AMD, Intel, and Arm systems are all exposed. Its fix is DPUs that enforce security policy independently of the AI system, plus full component inventories.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-30"&gt;TLDR Hardware · 2026-10-30 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.cybersecuritydive.com/news/ai-hardware-model-tampering-eclypsium/873177/"/>
-    <category term="TLDR Hardware"/>
-    <category term="Engineering and Applications"/>
-    <published>2026-10-30T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://news.mit.edu/2026/soft-robot-could-help-doctors-diagnose-treat-small-intestine-disorders-1028</id>
-    <title>MIT's snake-inspired soft robot crawls the small intestine using kirigami traction sleeves (4 minute read)</title>
-    <updated>2026-10-30T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;MIT built a tethered soft enteroscope to cover the small intestine, a 20- to 25-foot tube that double balloon enteroscopy currently covers slowly by hand. Four-chamber inflatable actuators bend and extend the body, anchoring balloons at the head and tail take turns gripping, and kirigami sleeves pop out needles for traction. In animal tests, it advanced about 6.5 feet and used its camera, drug sprayer, and biopsy clips.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-30"&gt;TLDR Hardware · 2026-10-30 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://news.mit.edu/2026/soft-robot-could-help-doctors-diagnose-treat-small-intestine-disorders-1028"/>
-    <category term="TLDR Hardware"/>
-    <category term="Research and Prototypes"/>
-    <published>2026-10-30T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.ajupress.com/view/20261028171670308</id>
-    <title>Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs (3 minute read)</title>
-    <updated>2026-10-30T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Seoul Biosys has started producing rare earth-free white micro LEDs using WICOP technology, which eliminates the need for traditional packaging. The new LEDs measure 25µm x 10µm and achieve 0.015 lumens, with plans to double light efficiency to 200 lumens per watt. This innovation aims to reduce manufacturing costs and environmental impact, targeting applications in smart glasses, AR displays, and AI data transmission.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-30"&gt;TLDR Hardware · 2026-10-30 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.ajupress.com/view/20261028171670308"/>
-    <category term="TLDR Hardware"/>
-    <category term="Research and Prototypes"/>
-    <published>2026-10-30T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency</id>
-    <title>SpaceX no longer needs NASA, and NASA's leverage is shrinking as a result (6 minute read)</title>
-    <updated>2026-10-30T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;SpaceX no longer depends on NASA contracts to survive, while NASA depends heavily on SpaceX's rockets and capsules, which cuts the agency's negotiating leverage. SpaceX told NASA it will stop flying Crew Dragon by or before 2030 and has stopped selling commercial Falcon 9 launches for missions after 2028. That would leave NASA's ISS crew transport and station deorbit plans exposed.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-30"&gt;TLDR Hardware · 2026-10-30 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency"/>
-    <category term="TLDR Hardware"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-30T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.reuters.com/business/marvell-advanced-talks-buy-lumentum-bloomberg-news-reports-2026-10-28</id>
-    <title>Marvell is reportedly in advanced talks to buy laser maker Lumentum at a roughly $91B valuation (2 minute read)</title>
-    <updated>2026-10-30T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Marvell is in advanced talks to buy Lumentum, which makes the lasers and optical modules that move data between AI servers, with an announcement possible as soon as next week. Lumentum rose about 11% after hours to a roughly $91 billion valuation, while Marvell fell more than 8%. Marvell held only about $3.9 billion in cash last quarter. Neither company has confirmed the talks.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-30"&gt;TLDR Hardware · 2026-10-30 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.reuters.com/business/marvell-advanced-talks-buy-lumentum-bloomberg-news-reports-2026-10-28/"/>
-    <category term="TLDR Hardware"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-30T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.sdxcentral.com/news/intel-trials-open-robotics-architecture-with-sap-in-chinese-demo</id>
-    <title>Intel trials open robotics architecture with SAP in Chinese demo (4 minute read)</title>
-    <updated>2026-10-30T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Intel, in partnership with SAP, tested an open robotics architecture at its Chengdu site, integrating SAP's Warehouse Management with AI and autonomous mobile robots.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-30"&gt;TLDR Hardware · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.sdxcentral.com/news/intel-trials-open-robotics-architecture-with-sap-in-chinese-demo/"/>
-    <category term="TLDR Hardware"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://a16zfrontier.substack.com/p/talking-hardware-with-palmer-luckey</id>
-    <title>Palmer Luckey on why ceiling fans broke inside-out VR tracking and how Oculus secured its screens (8 minute read)</title>
-    <updated>2026-10-30T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Inside-out tracking took years to survive real rooms, where glass, reflections, moving people, curtains, and ceiling fans break the scene model.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-30"&gt;TLDR Hardware · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://a16zfrontier.substack.com/p/talking-hardware-with-palmer-luckey"/>
-    <category term="TLDR Hardware"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.google/products-and-platforms/platforms/android/xreal-aura</id>
-    <title>XREAL AURA launches as the first wired Android XR glasses, with a 70-degree field of view (4 minute read)</title>
-    <updated>2026-10-30T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Google and XREAL launched AURA, transparent-lens glasses that run Android XR and project apps across a 70-degree view.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-30"&gt;TLDR Hardware · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.google/products-and-platforms/platforms/android/xreal-aura/"/>
-    <category term="TLDR Hardware"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tomshardware.com/tech-industry/artificial-intelligence/dept-of-justice-reportedly-probes-nvidia-over-usd13-billion-hugging-face-ai-platform-acquisition-concerns-raised-over-competition-in-ai-and-pressure-on-customers</id>
-    <title>DOJ reportedly questions Nvidia's $12.9B Hugging Face deal over control of open-model distribution (3 minute read)</title>
-    <updated>2026-10-30T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Reuters reports the DOJ is questioning whether owning the main distribution hub for open models would let Nvidia disadvantage rival chip and AI companies or gain leverage in negotiations.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-30"&gt;TLDR Hardware · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.tomshardware.com/tech-industry/artificial-intelligence/dept-of-justice-reportedly-probes-nvidia-over-usd13-billion-hugging-face-ai-platform-acquisition-concerns-raised-over-competition-in-ai-and-pressure-on-customers"/>
-    <category term="TLDR Hardware"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://app.dealroom.co/news/note/furiosaai-raises-620m-series-d-quadruples-valuation-to-2-9b-in-nvidia-challenge</id>
-    <title>FuriosaAI raises $620M at a $2.9B valuation to scale its 180 W RNGD inference chip (3 minute read)</title>
-    <updated>2026-10-30T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;FuriosaAI raised $620 million at a $2.9 billion valuation, about four times its prior round, to scale its RNGD inference chip, a 180 W part it claims matches GPU throughput at half the power or less.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-10-30"&gt;TLDR Hardware · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://app.dealroom.co/news/note/furiosaai-raises-620m-series-d-quadruples-valuation-to-2-9b-in-nvidia-challenge"/>
-    <category term="TLDR Hardware"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:48+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/ai.xml</id>
   <title>TLDR AI</title>
-  <updated>2026-11-13T11:00:00+00:00</updated>
+  <updated>2026-11-16T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,166 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://devin.ai/blog/devin-apps</id>
+    <title>Devin Apps (3 minute read)</title>
+    <updated>2026-11-16T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Devin Apps are private web apps that Devin builds and hosts from a description, such as dashboards and approval queues. Apps can use a team's existing integrations and codebase, and viewers must sign in to Devin.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-16"&gt;TLDR AI · 2026-11-16 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://devin.ai/blog/devin-apps"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-16T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/introducing-chatgpt-wallet</id>
+    <title>ChatGPT Wallet (5 minute read)</title>
+    <updated>2026-11-16T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI introduced ChatGPT Wallet, allowing AI agents to make purchases without accessing users' actual card details while requiring a security check for every transaction.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-16"&gt;TLDR AI · 2026-11-16 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openai.com/index/introducing-chatgpt-wallet/"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-16T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://empero.org/writing/quark</id>
+    <title>Quark: our whole training stack, end to end, for $4,200 (7 minute read)</title>
+    <updated>2026-11-16T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Quark is a language model with about 165 million parameters trained for about $4,200 of compute (about 1,300 H-100-hours). It has the best benchmark average among open models of its size trained on similar token budgets. The model was created to explore every part of the training stack the team was using before spending serious money on a large model. This post looks at the model's data, architecture, pretraining at scale, context extension, reinforcement learning, evaluation, and release.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-16"&gt;TLDR AI · 2026-11-16 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://empero.org/writing/quark"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-16T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://bosoncutter.substack.com/p/on-the-brutality-of-amdahls-law</id>
+    <title>On the Brutality of Amdahl's Law (12 minute read)</title>
+    <updated>2026-11-16T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The world is far too slow to see the high double-digit or more economic growth and seismic transformations in the economy that AI is predicted to bring. Intelligence isn't the only technology curve to go quasi-infinite in the last century and a half. Electricity, communication, computers, transportation, and agriculture have all experienced extreme growth and transformation. Despite this, we've only seen 2% GDP per capita growth for nearly 150 years.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-16"&gt;TLDR AI · 2026-11-16 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://bosoncutter.substack.com/p/on-the-brutality-of-amdahls-law"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-16T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://thinkingmachines.ai/blog/end-to-end-4-bit-training</id>
+    <title>End-to-End 4-Bit AI Training (9 minute read)</title>
+    <updated>2026-11-16T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Thinking Machines explored the technical challenges of training language models using 4-bit precision, including quantization errors and their effects on model accuracy. The deep dive examines BF16, MXFP8, and NVFP4 formats.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-16"&gt;TLDR AI · 2026-11-16 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://thinkingmachines.ai/blog/end-to-end-4-bit-training/"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-16T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://research.nvidia.com/labs/sil/projects/birddreams</id>
+    <title>BirdDreams: A Driving World Model (4 minute read)</title>
+    <updated>2026-11-16T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;BirdDreams is an Nvidia driving world model that turns a single camera image into driving video and a bird's-eye view of the scene.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-16"&gt;TLDR AI · 2026-11-16 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://research.nvidia.com/labs/sil/projects/birddreams/"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-16T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-16T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-16"&gt;TLDR AI · 2026-11-16 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-16T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://sevren.ai/blog/embla-1</id>
+    <title>Embla 1 (5 minute read)</title>
+    <updated>2026-11-16T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Embla 1 is a reasoning model built for phones. It is designed to be fast and to use few tokens per answer. The model can run on a phone, privately, offline, for free. At 4 bits, Embla 1 averages 57.4 on BFCL, IFBench, AA-Omniscience, GPQA, and MATH-500 and answers in 1.77 seconds end-to-end on an iPhone 18 Pro.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-16"&gt;TLDR AI · 2026-11-16 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://sevren.ai/blog/embla-1"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-16T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://qwen.ai/blog?id=qwen4-max&amp;amp%3Butm_source=tldrai</id>
+    <title>Qwen4-Max: Your New Teammate Has Arrived (16 minute read)</title>
+    <updated>2026-11-16T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Qwen4-Max can take on a wide range of creative and professional work in the fields of 3D modeling, game development, precision manufacturing, finance, law, healthcare, and frontier scientific discovery. It demonstrates strong 3D creation capabilities and can use Blender to carry out geometry modeling, scene assembly, material setup, lighting, and rendering. The model works fluently with leading game engines and can handle scene construction, gameplay logic, integration of external assets, material setup, HUD design, and visual effects, and deliver a playable game. Smaller models in the family are coming to open source.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-16"&gt;TLDR AI · 2026-11-16 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://qwen.ai/blog?id=qwen4-max&amp;amp%3Butm_source=tldrai"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-16T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://unbundling.github.io/</id>
+    <title>Meta's Vision Encoders in Multimodal Models (7 minute read)</title>
+    <updated>2026-11-16T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Meta researchers explored which components of vision encoders are essential for multimodal models, finding that dedicated visual processing capacity matters more than pretraining.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-16"&gt;TLDR AI · 2026-11-16 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://unbundling.github.io/"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-16T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://sierra.ai/blog/releasing-poppy</id>
+    <title>Releasing Personal Agent Protocol 1.0 (5 minute read)</title>
+    <updated>2026-11-16T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Personal Agent Protocol enables personal agents to interact with companies through business agents, websites, and APIs. v.0 of the protocol is now available. The protocol defines how personal agents connect with companies that implement it. Customers control what personal agents can and can't do, and can manage their access over time.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-16"&gt;TLDR AI · 2026-11-16 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://sierra.ai/blog/releasing-poppy"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-16T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/step-toward-defining-the-standard-model</id>
+    <title>GPT-6 Astra Tackles a Fundamental Physics Problem (15 minute read)</title>
+    <updated>2026-11-16T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Physicist Nathaniel Craig worked with GPT-6 Astra to develop a candidate lattice formulation of the Standard Model, addressing a longstanding challenge in defining the theory without relying on perturbative approximations. Astra helped construct the mathematical framework and develop a detailed proof supporting the proposed approach.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-16"&gt;TLDR AI · 2026-11-16 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openai.com/index/step-toward-defining-the-standard-model/"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-16T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://threadreaderapp.com/thread/2121375309287301360.html</id>
+    <title>We've made some big updates to Projects in Claude Code! (3 minute read)</title>
+    <updated>2026-11-16T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The coordinator is now more proactive and can answer questions in the project chat while providing updates on the status of ongoing threads.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-16"&gt;TLDR AI · 2026-11-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://threadreaderapp.com/thread/2121375309287301360.html"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-16T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang</id>
+    <title>Petition Calls for Nvidia to Reinstate Jensen Huang (1 minute read)</title>
+    <updated>2026-11-16T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Elon Musk and other technology executives signed a petition calling for Nvidia to reinstate former CEO Jensen Huang following his resignation amid allegations involving a suspected Chinese spy.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-16"&gt;TLDR AI · 2026-11-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-16T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/resources/articles/building-always-on-agents</id>
+    <title>Building always-on agents (13 minute read)</title>
+    <updated>2026-11-16T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Always-on agents, revived by recent advancements, now manage context and act without direct supervision, running on a core loop enhanced with event inboxes, timers, memory, permissions, and outboxes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-16"&gt;TLDR AI · 2026-11-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://claude.com/resources/articles/building-always-on-agents"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-16T10:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/research/building-strong-safety-evaluations</id>
+    <title>Building strong safety evaluations (23 minute read)</title>
+    <updated>2026-11-16T10:59:45+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic emphasizes the importance of robust safety evaluations for AI models, which inform deployment and training decisions.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-16"&gt;TLDR AI · 2026-11-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/research/building-strong-safety-evaluations"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-16T10:59:45+00:00</published>
+  </entry>
   <entry>
     <id>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen</id>
     <title>Gemini 4 Hydrogen (14 minute read)</title>
@@ -1609,155 +1769,5 @@
     <category term="TLDR AI"/>
     <category term="Quick Links"/>
     <published>2026-11-02T10:59:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/updated-model-spec</id>
-    <title>OpenAI Updates Its Model Spec Around Five Core Values (7 minute read)</title>
-    <updated>2026-10-30T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI updated its Model Spec to organize model behavior around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-30"&gt;TLDR AI · 2026-10-30 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://openai.com/index/updated-model-spec/"/>
-    <category term="TLDR AI"/>
-    <category term="Headlines &amp; Launches"/>
-    <published>2026-10-30T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://mistral.ai/news/mistral-large-4-oss</id>
-    <title>Mistral Releases Weights for Its Trillion-Parameter Model (4 minute read)</title>
-    <updated>2026-10-30T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Mistral has released the weights for Mistral Large 4, a trillion-parameter model designed for self-hosted deployment and cybersecurity applications. The company claims leading open-weight performance on agentic coding benchmarks and comparable cybersecurity capabilities to GLM-5.3.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-30"&gt;TLDR AI · 2026-10-30 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://mistral.ai/news/mistral-large-4-oss/"/>
-    <category term="TLDR AI"/>
-    <category term="Headlines &amp; Launches"/>
-    <published>2026-10-30T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://epoch.ai/publications/open-weight-models-patch-gap</id>
-    <title>AI can turn security fixes into working exploits before users receive an update (16 minute read)</title>
-    <updated>2026-10-30T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;GLM 5.3 can identify and exploit vulnerabilities in recent versions of the Mozilla Firefox browser using security fixes that have been published but not yet shipped to users. Widely available open-weight models can now do much, or even all, of this work on their own. Open-source projects are particularly vulnerable to this kind of attack as their code is publicly available. This threat vector will likely worsen as open-weight cyber capabilities continue to improve.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-30"&gt;TLDR AI · 2026-10-30 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://epoch.ai/publications/open-weight-models-patch-gap"/>
-    <category term="TLDR AI"/>
-    <category term="Deep Dives &amp; Analysis"/>
-    <published>2026-10-30T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.raindrop.ai/blog/agent-swarm-leadership</id>
-    <title>The surprising leadership dynamics in agent swarms (17 minute read)</title>
-    <updated>2026-10-30T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Agent swarms are groups of agents that work together to accomplish a task. Researchers created an experiment in which eight agents from four different models worked together to resolve simulated outages to understand how agents organize themselves in a swarm without a designated leader. They discovered two factors that could influence an agent's potential leadership: the agent's underlying models, and the order in which their name was listed in a prompt. This suggests that even seemingly minor details in how an agent swarm is configured can affect how agents coordinate.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-30"&gt;TLDR AI · 2026-10-30 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.raindrop.ai/blog/agent-swarm-leadership/"/>
-    <category term="TLDR AI"/>
-    <category term="Deep Dives &amp; Analysis"/>
-    <published>2026-10-30T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.lesswrong.com/posts/TJGPL5FAk9sCioPbE/leaking-muse-s-charter-meta-s-model-spec</id>
-    <title>Leaking Muse's Charter, Meta's model spec (13 minute read)</title>
-    <updated>2026-10-30T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Muse Spark Open often mentions a 'Charter' in its chain of thought. This post reconstructs that document using the chain of thought. Everything is reconstructed from model outputs and not from a leaked document, so it might not be completely accurate.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-30"&gt;TLDR AI · 2026-10-30 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.lesswrong.com/posts/TJGPL5FAk9sCioPbE/leaking-muse-s-charter-meta-s-model-spec"/>
-    <category term="TLDR AI"/>
-    <category term="Deep Dives &amp; Analysis"/>
-    <published>2026-10-30T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale</id>
-    <title>How Meta Catches Bugs Before Code Ships (9 minute read)</title>
-    <updated>2026-10-30T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Meta details how it scaled its LLM-powered Just-in-Time Testing system from a research prototype into production infrastructure. The article explores how AI-generated tests catch bugs before code changes land, how the system operates at scale, and what Meta learned about reducing false positives and testing overhead.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-30"&gt;TLDR AI · 2026-10-30 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/"/>
-    <category term="TLDR AI"/>
-    <category term="Engineering &amp; Research"/>
-    <published>2026-10-30T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.figma.com/blog/training-a-figma-fluent-editing-model</id>
-    <title>How we're training a Figma-fluent editing model (6 minute read)</title>
-    <updated>2026-10-30T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Post-trained models can compete with frontier models on specialized tasks like Figma editing. Starting with a focused problem can turn progress into meaningful product updates. This post explains how Figma trained a Figma-fluent editing model.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-30"&gt;TLDR AI · 2026-10-30 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.figma.com/blog/training-a-figma-fluent-editing-model/"/>
-    <category term="TLDR AI"/>
-    <category term="Engineering &amp; Research"/>
-    <published>2026-10-30T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://factory.com/news/frontier-harness</id>
-    <title>Droid 1.0: Building a Frontier Harness (15 minute read)</title>
-    <updated>2026-10-30T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Droid is an agent harness that lets agents run hundreds of tool calls in a single model request. Building a harness optimized for many models makes the harness better. It's hard to separate real progress from adaptations to that model's quirks when you tune against a single model. Working across models ensures the strongest improvements generalize and hold up beyond the model that inspired them.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-30"&gt;TLDR AI · 2026-10-30 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://factory.com/news/frontier-harness"/>
-    <category term="TLDR AI"/>
-    <category term="Engineering &amp; Research"/>
-    <published>2026-10-30T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single</id>
-    <title>Why Sam Altman is against a single superintelligence (64 minute read)</title>
-    <updated>2026-10-30T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Sam Altman would rather have a trillion AIs of slightly superhuman intelligence join society than one AI of 1 trillion IQ join society. Swarms of agents match a lot of the properties of a resilient society. They keep each other in check and collaborate to work towards goals. AI research shouldn't lead in a centralized direction because agents pushing against each other creates a dynamic equilibrium.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-30"&gt;TLDR AI · 2026-10-30 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single"/>
-    <category term="TLDR AI"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-30T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://institute.deepmind.com/essays/the-economics-of-intelligence</id>
-    <title>The Economics of Intelligence: How and when does AGI lead to economic transformation? (24 minute read)</title>
-    <updated>2026-10-30T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;AI models are getting exponentially better in individual competence while lagging behind in coordination. Models already match or outperform experienced specialists on self-contained deliverables across dozens of professions. The labor market reflects the current capabilities of AI systems. Wages and job roles will be the earliest signals of change.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-30"&gt;TLDR AI · 2026-10-30 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://institute.deepmind.com/essays/the-economics-of-intelligence/"/>
-    <category term="TLDR AI"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-30T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://x.com/fishaudio/status/2115836725184667833</id>
-    <title>Drama 3 just leveled up (1 minute read)</title>
-    <updated>2026-10-30T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Fish Audio Drama 3 is the #1 open-weight model on both Artificial Analysis Speech Arenas.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-30"&gt;TLDR AI · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://x.com/fishaudio/status/2115836725184667833"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.natural.com/blog/direct</id>
-    <title>Introducing Natural Direct (6 minute read)</title>
-    <updated>2026-10-30T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Natural introduces Direct, enabling agents to choose among ACH, Wire, Realtime, and soon paper checks, for diverse financial transactions.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-30"&gt;TLDR AI · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.natural.com/blog/direct"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox</id>
-    <title>The fx adapter now runs the harness on the host (1 minute read)</title>
-    <updated>2026-10-30T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The fx adapter now runs the harness on the host using libfx, separating host and sandbox operations.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-30"&gt;TLDR AI · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://x.com/nicholasachow/status/2115839602749849840</id>
-    <title>The Escape Room Economy (10 minute read)</title>
-    <updated>2026-10-30T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Reinforcement learning environments combine tools, tasks, and verifiers to train agents through repeated attempts.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-30"&gt;TLDR AI · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://x.com/nicholasachow/status/2115839602749849840"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://pika.art/blog/pika-h3-flex</id>
-    <title>Introducing Pika H3 Flex (6 minute read)</title>
-    <updated>2026-10-30T10:59:46+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Pika H3 Flex is a video generation model that works with up to 12 references, exports five separate audio stems, and finishes at up to 4K.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-10-30"&gt;TLDR AI · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://pika.art/blog/pika-h3-flex"/>
-    <category term="TLDR AI"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:46+00:00</published>
   </entry>
 </feed>

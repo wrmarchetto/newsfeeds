@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-11-13T11:00:00+00:00</updated>
+  <updated>2026-11-16T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,146 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.freecodecamp.org/news/speed-up-ci-in-the-age-of-ai-written-code</id>
+    <title>How to Speed Up CI in the Age of AI-Written Code (8 minute read)</title>
+    <updated>2026-11-16T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI coding agents produce code faster than CI pipelines can check it, turning long pipelines into queues for developers and agents. Five fixes target the bottleneck: measure slow steps, cache dependencies, use faster runners, parallelize jobs and tests, and skip redundant work with path filters and cancellation. Change one thing at a time and check vendor speed claims against your own pipeline.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-16"&gt;TLDR Dev · 2026-11-16 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.freecodecamp.org/news/speed-up-ci-in-the-age-of-ai-written-code/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-16T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://beyondloom.com/blog/postscript.html</id>
+    <title>Let's Write a PostScript Interpreter (14 minute read)</title>
+    <updated>2026-11-16T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Build a small PostScript interpreter in JavaScript, starting with tokenization, operand and dictionary stacks, and representations for names, arrays, and procedures. This tutorial adds execution and an interactive REPL, then explores recursion, iteration, and dynamic scope. It deliberately omits graphics, strings, most error handling, and other parts of the full language.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-16"&gt;TLDR Dev · 2026-11-16 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://beyondloom.com/blog/postscript.html"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-16T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.langchain.com/blog/goal-engineering</id>
+    <title>Goal Engineering: How to Design Goals (5 minute read)</title>
+    <updated>2026-11-16T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Agent feedback becomes a bottleneck when expert knowledge and subjective preferences live only in people's heads. Scope goals around what humans can review efficiently, rather than simply giving each agent more context. In the Actively AI case study, agents organized by job type across accounts let salespeople review similar tasks together and share lessons across their work.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-16"&gt;TLDR Dev · 2026-11-16 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.langchain.com/blog/goal-engineering"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-16T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://jakub.jankiewicz.org/blog/ai-code-open-source</id>
+    <title>All AI-generated code should be Open Source (2 minute read)</title>
+    <updated>2026-11-16T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This essay argues that AI-generated code should be released under open-source licenses or dedicated to the public domain because models depend on collectively produced code. It also raises copyright questions while acknowledging that jurisdictions differ and that human involvement varies. The proposal is an argument about how developers should share generated work.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-16"&gt;TLDR Dev · 2026-11-16 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://jakub.jankiewicz.org/blog/ai-code-open-source/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-16T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.logrocket.com/teach-ai-assistants-design-system</id>
+    <title>Teach AI coding assistants your design system with Markdown (9 minute read)</title>
+    <updated>2026-11-16T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Document tokens, component APIs, and composition patterns in Markdown beside the code, then use AGENTS.md to tell coding assistants what to read. A React and Tailwind demo illustrates how automated checks can flag hardcoded colors, unsupported variants, and spacing drift. The examples are constructed rather than a controlled AI experiment, and Markdown guidance still needs maintenance and accessibility review.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-16"&gt;TLDR Dev · 2026-11-16 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.logrocket.com/teach-ai-assistants-design-system/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-16T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-16T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-16"&gt;TLDR Dev · 2026-11-16 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-16T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</id>
+    <title>DeepSeek V3 in pure JAX (GitHub Repo)</title>
+    <updated>2026-11-16T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A 190-line JAX implementation recreates DeepSeek V3 architecture features, including latent attention, routed experts, auxiliary-loss-free balancing, and multi-token prediction. The reported MacBook Air run trained a 36.2-million-parameter model on detective fiction in about 2.6 hours. It is an educational architecture demo rather than a production language model.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-16"&gt;TLDR Dev · 2026-11-16 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-16T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ui-sdk.dev/docs/core/changelog/introducing-ui-sdk</id>
+    <title>Introducing UI SDK (2 minute read)</title>
+    <updated>2026-11-16T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;UI SDK provides more than 50 TypeScript behaviors for keyboard navigation, focus, selection, popups, drag and drop, and the associated ARIA attributes. Developers and agents can compose them into custom components or use ready-made libraries for React, Vue, Svelte, Solid, and Web Components. Agent interaction can be limited through developer-defined permissions, and the library remains in beta.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-16"&gt;TLDR Dev · 2026-11-16 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://ui-sdk.dev/docs/core/changelog/introducing-ui-sdk"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-16T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://textjs.org/</id>
+    <title>The Console Framework (Website)</title>
+    <updated>2026-11-16T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Text.js lets developers build React applications that render inside the browser's DevTools console. One app can run in the browser console, in a terminal, or through MCP for coding agents.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-16"&gt;TLDR Dev · 2026-11-16 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://textjs.org/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-16T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles</id>
+    <title>A Family Tree of Software Job Titles (5 minute read)</title>
+    <updated>2026-11-16T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;An interactive family tree traces 104 software job titles from human computers to AI agent and context engineers across seven role families. It highlights how responsibilities split, recombine, and reappear under new names, including the overlap among DevOps, SRE, and platform engineering. Dates indicate roughly when titles became common and are estimates rather than a sourced chronology.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-16"&gt;TLDR Dev · 2026-11-16 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-16T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://declarative-dragging.github.io/</id>
+    <title>Declarative Dragging (Website)</title>
+    <updated>2026-11-16T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Declarative dragging lets developers specify which future application states an element should reach, then renders those states to synthesize drop zones and animated interactions. Dragology implements the approach for SVG interfaces on the web, with composable behaviors and modifiers for snapping and transitions. The project received a UIST 2026 Best Paper award.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-16"&gt;TLDR Dev · 2026-11-16 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://declarative-dragging.github.io/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-16T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.pypi.org/posts/2026-11-06-ui-updates-complete</id>
+    <title>PyPI's redesigned project pages with clearer security signals (6 minute read)</title>
+    <updated>2026-11-16T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;PyPI's redesigned pages add a security tab for release-file attestations and warnings about missing, inconsistent, changed, or lost provenance, while making clear that absent provenance alone does not mean a package is malicious.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-16"&gt;TLDR Dev · 2026-11-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-16T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/eclipse-mosquitto/mosquitto</id>
+    <title>Eclipse Mosquitto (GitHub Repo)</title>
+    <updated>2026-11-16T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Mosquitto implements MQTT 5.0, 3.1.1, and 3.1, with C and C++ client libraries plus command-line tools for publishing, subscribing, and broker administration.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-16"&gt;TLDR Dev · 2026-11-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/eclipse-mosquitto/mosquitto"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-16T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://bruceroettgers.eu/blog/protomaps</id>
+    <title>Protomaps: Self-hosting map tiles has gotten cheap and easy (4 minute read)</title>
+    <updated>2026-11-16T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This post walks through how to deploy a single PMTiles archive to object storage and serve map tiles through HTTP Range requests.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-16"&gt;TLDR Dev · 2026-11-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://bruceroettgers.eu/blog/protomaps/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-16T10:59:47+00:00</published>
+  </entry>
   <entry>
     <id>https://resend.com/blog/migrating-our-email-api-to-go</id>
     <title>Migrating Our Email API to Go (7 minute read)</title>
@@ -1529,155 +1669,5 @@
     <category term="TLDR Dev"/>
     <category term="Quick Links"/>
     <published>2026-11-02T10:59:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture</id>
-    <title>The Web Can't Afford a JavaScript Runtime Monoculture (6 minute read)</title>
-    <updated>2026-10-30T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Deno's planned end of runtime development narrows the major server-side JavaScript choices to Node.js, Bun, and Cloudflare's workerd. Historical examples from Internet Explorer and the io.js fork show how independent implementations can prevent stagnation and push features into competing runtimes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-30"&gt;TLDR Dev · 2026-10-30 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture/"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-30T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.sentry.io/measuring-soft-navigation-web-vitals</id>
-    <title>Measuring Soft Navigation Web Vitals (11 minute read)</title>
-    <updated>2026-10-30T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Sentry's JavaScript SDK v11 measures LCP, CLS, and INP for client-side navigations, exposing slow routes that initial page-load metrics miss. Support currently requires Chromium 151 or later, and the scores should be filtered separately from page loads because their clocks start at different points.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-30"&gt;TLDR Dev · 2026-10-30 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.sentry.io/measuring-soft-navigation-web-vitals/"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-30T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://sarthakmishra.com/blog/optimizing-tanstack-start</id>
-    <title>Optimizing the sh*t out of TanStack Start (17 minute read)</title>
-    <updated>2026-10-30T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A TanStack Start site improved its mobile Lighthouse score from 73 to 100 and reduced LCP from 5.2 seconds to 1.7 seconds by removing unnecessary JavaScript, images, and font data. More complex changes added maintenance without clearly explaining the final score, making basic asset reductions and regression budgets the more useful starting point.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-30"&gt;TLDR Dev · 2026-10-30 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://sarthakmishra.com/blog/optimizing-tanstack-start"/>
-    <category term="TLDR Dev"/>
-    <category term="Articles &amp; Tutorials"/>
-    <published>2026-10-30T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://x.com/jsnnsa/status/2115623382721126826</id>
-    <title>How I Built the Most AI-Pilled Company in the World (18 minute read)</title>
-    <updated>2026-10-30T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Spawn reports shipping 77,000 substantial changes in 30 days with a ten-person team and $3.1 million in token spending, using permanent agents that own parts of the company. Its approach combines direct production feedback, frequent tests, hourly deployments, and fast recovery, with hard-coded gates for irreversible actions. Humans focus on product taste and ambitious changes that agents rarely propose themselves.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-30"&gt;TLDR Dev · 2026-10-30 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://x.com/jsnnsa/status/2115623382721126826"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-30T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://denodell.com/blog/design-systems-should-be-fast-by-default</id>
-    <title>Design Systems Should Be Fast by Default (18 minute read)</title>
-    <updated>2026-10-30T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Benchmarks of large dropdowns and checkbox lists across ten design systems trace slow interactions to repeated layout work, slot handling, and per-checkbox animations. Published Playwright tests enforce timing budgets so shared components can catch performance regressions before they reach every consuming app.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-30"&gt;TLDR Dev · 2026-10-30 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://denodell.com/blog/design-systems-should-be-fast-by-default"/>
-    <category term="TLDR Dev"/>
-    <category term="Opinions &amp; Advice"/>
-    <published>2026-10-30T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://sparkjs.dev/radix</id>
-    <title>Radix: 3D Gaussian Splats for the Web (Website)</title>
-    <updated>2026-10-30T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Radix stores 3D Gaussian splats in typed-array tables on the CPU and GPU and renders them through three.js. Its examples run on WebGPU with a WebGL2 fallback, and the site includes source code, documentation, and ready-to-run scenes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-30"&gt;TLDR Dev · 2026-10-30 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://sparkjs.dev/radix/"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-30T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://wterm.dev/</id>
-    <title>wterm (Website)</title>
-    <updated>2026-10-30T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;wterm renders a terminal into the DOM, providing native text selection, browser find, and screen reader support. It offers React, Vue, and Svelte bindings, pluggable Zig/WASM or Ghostty cores, and WebSocket transport for connecting to a PTY backend.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-30"&gt;TLDR Dev · 2026-10-30 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://wterm.dev/"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-30T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://elementary.codes/</id>
-    <title>ElementaryUI (Website)</title>
-    <updated>2026-10-30T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;ElementaryUI brings declarative Swift interfaces to the browser through WebAssembly, with SwiftUI-inspired syntax and reactive state. It supports Embedded Swift for small bundles and uses Vite for hot reload during development.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-30"&gt;TLDR Dev · 2026-10-30 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://elementary.codes/"/>
-    <category term="TLDR Dev"/>
-    <category term="Launches &amp; Tools"/>
-    <published>2026-10-30T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://github.com/picocss/pico/discussions/754</id>
-    <title>Pico CSS Is No Longer Maintained (1 minute read)</title>
-    <updated>2026-10-30T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Pico CSS has been archived, with version 2.1.1 designated as the final release. Existing npm packages, the CDN, and documentation remain available, while the MIT license allows community forks under different names.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-30"&gt;TLDR Dev · 2026-10-30 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://github.com/picocss/pico/discussions/754"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-30T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://building.owner.com/project-speed</id>
-    <title>Project Speed (10 minute read)</title>
-    <updated>2026-10-30T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Owner rebuilt infrastructure serving more than 10,000 restaurant websites with Astro, selective React, and edge caching. Menu-page p75 LCP fell from 5.4 seconds to 0.7 seconds, while the rollout raised per-restaurant revenue by more than 4%.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-30"&gt;TLDR Dev · 2026-10-30 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://building.owner.com/project-speed"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-30T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://paagman.dev/how-fast-can-you-patch-ruby</id>
-    <title>How fast can you actually patch Ruby? (7 minute read)</title>
-    <updated>2026-10-30T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;A comparison of Ruby 4.0.9 availability tracks the gap between a security release and its arrival in installers, container images, CI providers, and hosting platforms. Core-team tools shipped within minutes, while the default Docker image took almost 16 hours and some cloud runtimes took days, showing why teams need to audit the entire update path.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-30"&gt;TLDR Dev · 2026-10-30 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://paagman.dev/how-fast-can-you-patch-ruby/"/>
-    <category term="TLDR Dev"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-30T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.julik.nl/2026/10/thanks-but-i-prefer-it-my-way</id>
-    <title>Thank you, but I prefer it my way (22 minute read)</title>
-    <updated>2026-10-30T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;LLMs make rewriting libraries easier than collaborating on them, raising the risk of fragmented projects, and weakening the incentives to contribute improvements upstream.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-30"&gt;TLDR Dev · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://blog.julik.nl/2026/10/thanks-but-i-prefer-it-my-way"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://vercel.com/changelog/node-js-26-lts-is-now-generally-available-on-vercel</id>
-    <title>Node.js 26 LTS Is Generally Available on Vercel (1 minute read)</title>
-    <updated>2026-10-30T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Node.js 26 is now Vercel's default for new projects, and existing projects whose engines.node range permits it upgrade on their next deployment.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-30"&gt;TLDR Dev · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://vercel.com/changelog/node-js-26-lts-is-now-generally-available-on-vercel"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://iptrust.co/blog/if-ipv4-were-land</id>
-    <title>If IPv4 Were Land (Website)</title>
-    <updated>2026-10-30T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;An interactive cartogram resizes countries by their share of locatable IPv4 addresses, using October 2026 geolocation data.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-30"&gt;TLDR Dev · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://iptrust.co/blog/if-ipv4-were-land"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tempertemper.net/blog/a-better-way-to-handle-select-behaviour</id>
-    <title>A Better Way to Handle Select Behaviour (4 minute read)</title>
-    <updated>2026-10-30T10:59:46+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The customizable native select introduces a shared interaction model through appearance: base-select, reducing the need to reproduce conflicting Mac and Windows conventions.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-10-30"&gt;TLDR Dev · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.tempertemper.net/blog/a-better-way-to-handle-select-behaviour"/>
-    <category term="TLDR Dev"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:46+00:00</published>
   </entry>
 </feed>

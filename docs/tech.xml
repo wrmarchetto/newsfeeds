@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/tech.xml</id>
   <title>TLDR</title>
-  <updated>2026-11-13T11:00:00+00:00</updated>
+  <updated>2026-11-16T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html</id>
+    <title>Tech world's calls for Jensen Huang to return to Nvidia are growing (7 minute read)</title>
+    <updated>2026-11-16T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;An online petition calling for Jensen Huang's reinstatement as CEO of Nvidia has received more than 160,000 signatures. It has reportedly attracted support from Tesla CEO Elon Musk, Epic Games CEO Tim Sweeney, and Y Combinator CEO Garry Tan. Huang is currently under investigation into how his actions may have damaged America's AI dominance, the national security implications, and his close relationship with President Trump and his Cabinet. Huang has discussed the possibility of returning, but the investigations surrounding him will likely prevent that from happening.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-16"&gt;TLDR · 2026-11-16 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-16T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDgwMzUxNSwiZXhwIjoxNzk1NDA4MzE1LCJhcnRpY2xlSWQiOiJUT0pUTzFLSVVQU0IwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.F4kCAMHwyEjSSET-07buU5rxHigBfIXPCp6e111N86A&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses (14 minute read)</title>
+    <updated>2026-11-16T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Apple rolled out its new Siri AI earlier as it needs software makers to begin preparing for its smart glasses, which it plans to ship in 2027. The company is counting on integration with apps people already use on their iPhones as a key differentiator for the glasses. Its large developer ecosystem could give it an advantage over Meta and Google's offerings as it potentially provides countless third-party integrations on launch. The hardware for the glasses won't be dramatically different from rival offerings, which makes it more crucial for Apple to nail the developer ecosystem.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-16"&gt;TLDR · 2026-11-16 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDgwMzUxNSwiZXhwIjoxNzk1NDA4MzE1LCJhcnRpY2xlSWQiOiJUT0pUTzFLSVVQU0IwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.F4kCAMHwyEjSSET-07buU5rxHigBfIXPCp6e111N86A&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-16T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://konvoy.beehiiv.com/p/one-proton-away</id>
+    <title>One Proton Away (6 minute read)</title>
+    <updated>2026-11-16T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Marathon Fusion, a San Francisco-based fusion startup, claims it has created gold from mercury. The startup has not published how much gold it made, and the process requires a fusion plant that does not exist yet. Many fields currently rely on isotopes from aging reactors. Marathon Fusion's process could unlock a world of abundant isotopes, opening up many markets and possibilities.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-16"&gt;TLDR · 2026-11-16 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://konvoy.beehiiv.com/p/one-proton-away"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-16T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2026-11-14/spacex-to-attempt-first-full-recovery-of-new-starship-rocket?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDgwMzU2NSwiZXhwIjoxNzk1NDA4MzY1LCJhcnRpY2xlSWQiOiJUT0dJOEpLSUpIOTQwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.NrVZWmopPeBEKMN8K4AWG1ZaJ2iOF45JpdpkRSGMnEw&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>SpaceX Catches Starship in Midair at Texas Site After Space Trip (4 minute read)</title>
+    <updated>2026-11-16T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;SpaceX successfully caught Starship using the vehicle's launch tower's mechanical arms on Saturday afternoon. The midair capture serves as a major proof of concept for Starship. SpaceX has now captured both sections of the launch system during different missions. It aborted an attempt to catch Super Heavy during the recent flight due to a slight underperformance of the engines.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-16"&gt;TLDR · 2026-11-16 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-14/spacex-to-attempt-first-full-recovery-of-new-starship-rocket?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDgwMzU2NSwiZXhwIjoxNzk1NDA4MzY1LCJhcnRpY2xlSWQiOiJUT0dJOEpLSUpIOTQwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.NrVZWmopPeBEKMN8K4AWG1ZaJ2iOF45JpdpkRSGMnEw&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-16T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://alfonsocampodonico.com/posts/making-a-programming-language</id>
+    <title>Making a programming language (7 minute read)</title>
+    <updated>2026-11-16T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A compiler is a line of small programs. Each turns one shape into the next. The programs transform text into tokens and tokens into a tree, then the tree gets checked, and either an interpreter runs it or it becomes a native binary. No single stage is hard - the work is in making errors useful and keeping two backends in agreement.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-16"&gt;TLDR · 2026-11-16 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://alfonsocampodonico.com/posts/making-a-programming-language"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-16T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/resources/articles/building-always-on-agents</id>
+    <title>Building always-on agents (14 minute read)</title>
+    <updated>2026-11-16T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Always-on agents run indefinitely, managing context across sessions and taking action without direct supervision. They have surged in popularity lately, largely due to recent model advancements that have made them more practical to run. Models now have better judgment and are more reliable, and intelligence is becoming cheaper. This post breaks down the primitives behind always-on agents and walks through how they fit together.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-16"&gt;TLDR · 2026-11-16 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://claude.com/resources/articles/building-always-on-agents"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-16T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-16T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-16"&gt;TLDR · 2026-11-16 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-16T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.stripeeconomics.com/p/ai-work-from-home-and-the-young-graduate</id>
+    <title>AI, work from home, and the young-graduate job market (15 minute read)</title>
+    <updated>2026-11-16T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;New college graduates are employed less than a few years ago. While AI may be a factor, there's growing evidence that work from home is an important factor moving the needle on young-graduate employment. AI exposure and teleworkability are highly correlated with each other, making it hard to distinguish definitively between the two factors. The full extent of AI's effects on the labor market might not manifest until the next recession.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-16"&gt;TLDR · 2026-11-16 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.stripeeconomics.com/p/ai-work-from-home-and-the-young-graduate"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-16T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.dwarkesh.com/p/rsi</id>
+    <title>The avalanche that hit math is coming for AI development (50 minute read)</title>
+    <updated>2026-11-16T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI's capabilities in mathematics exploded quickly. Current AIs can now complete well-scoped problems in mathematics easily. This ability to solve well-scoped problems is going to be an even bigger deal for machine learning research than for mathematics. AI labs mainly care about how any new algorithmic recipe empirically makes training more efficient or elicits smarter models - they don't care about theory for its own sake.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-16"&gt;TLDR · 2026-11-16 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.dwarkesh.com/p/rsi"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-16T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2026-11-13/china-fires-researchers-after-child-dies-in-gene-editing-trial?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDgwMzU5NiwiZXhwIjoxNzk1NDA4Mzk2LCJhcnRpY2xlSWQiOiJUS084T1hUOTZPU04wMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.VlJCulFYSNjqQ3Hk4C1CjN_Noo6U6JW9Dx2lUMGecZ8&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>China Fires Researchers After Child Dies in Gene-Editing Trial (3 minute read)</title>
+    <updated>2026-11-16T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The researchers failed to flag warning signals from a non-human-primate study and didn't disclose the child's death in the published research paper.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-16"&gt;TLDR · 2026-11-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-13/china-fires-researchers-after-child-dies-in-gene-editing-trial?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDgwMzU5NiwiZXhwIjoxNzk1NDA4Mzk2LCJhcnRpY2xlSWQiOiJUS084T1hUOTZPU04wMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.VlJCulFYSNjqQ3Hk4C1CjN_Noo6U6JW9Dx2lUMGecZ8&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-16T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://johnhempton.substack.com/p/ai-and-hiring-bad-for-employees-bad</id>
+    <title>AI and hiring: bad for employees, bad for employers (6 minute read)</title>
+    <updated>2026-11-16T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI is flooding processes that require input from the public, causing many to break.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-16"&gt;TLDR · 2026-11-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://johnhempton.substack.com/p/ai-and-hiring-bad-for-employees-bad"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-16T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnet.com/health/apple-launches-ai-health-app-study</id>
+    <title>Apple Launches New App to Study How People Use AI for Health (7 minute read)</title>
+    <updated>2026-11-16T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Apple Health AI study will examine comprehension, response quality, the drivers of user trust, and everyday health actions to inform the responsible design of health AI experiences and to explore how health AI might help people prepare for doctor's visits.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-16"&gt;TLDR · 2026-11-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cnet.com/health/apple-launches-ai-health-app-study/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-16T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.cosmos-institute.org/p/recursive-self-improvement</id>
+    <title>Recursive, Self, Improvement (24 minute read)</title>
+    <updated>2026-11-16T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This post disentangles the three components involved in recursive self-improvement and shows how the deep learning paradigm forces researchers to consider what counts as the 'self' undergoing improvement.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-16"&gt;TLDR · 2026-11-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.cosmos-institute.org/p/recursive-self-improvement"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-16T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://benjamintodd.substack.com/p/ai-trend-extrapolation</id>
+    <title>Trend extrapolation gets us to AGI in 1-4 years (20 minute read)</title>
+    <updated>2026-11-16T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;If recursive self-improvement has started, a broadly beyond-human AGI may arrive in just six to 18 months.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-16"&gt;TLDR · 2026-11-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://benjamintodd.substack.com/p/ai-trend-extrapolation"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-16T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee</id>
+    <title>Tesla opens Cybercab pre-orders ‘for personal use,' with geo restrictions and a $299 monthly fee (1 minute read)</title>
+    <updated>2026-11-16T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Select customers can now pre-order the golden Cybercab for $29,990, with an estimated delivery in December.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-16"&gt;TLDR · 2026-11-16 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-16T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://www.bloomberg.com/news/articles/2026-11-12/spacex-and-tesla-talks-on-record-merger-are-said-to-progress?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0MDYxNywiZXhwIjoxNzk1MTQ1NDE3LCJhcnRpY2xlSWQiOiJUT0NWUEdUOU5KTFQwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.rXBxgsB4LSK0pAmJO1As9bqDIkTmn_I4GnF8Lk3t0XM&amp;amp%3Butm_source=tldrnewsletter</id>
     <title>SpaceX and Tesla Talks on Record Merger Are Said to Progress (4 minute read)</title>
@@ -1429,145 +1579,5 @@
     <category term="TLDR"/>
     <category term="Quick Links"/>
     <published>2026-11-02T10:59:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html?unlocked_article_code=1.MlE.xFQp.UMIf7vCNQ-Sh&amp;amp%3Bsmid=url-share&amp;amp%3Butm_source=tldrnewsletter</id>
-    <title>DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants (7 minute read)</title>
-    <updated>2026-10-30T11:00:00+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;DoorDash will acquire Instacart for $17 billion. Instacart shareholders will receive $65 per share, 26% over the company's price on October 22. Combining the companies' technology and infrastructure will result in faster deliveries and more affordable prices. The deal is expected to close late next year or in 2028.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-30"&gt;TLDR · 2026-10-30 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html?unlocked_article_code=1.MlE.xFQp.UMIf7vCNQ-Sh&amp;amp%3Bsmid=url-share&amp;amp%3Butm_source=tldrnewsletter"/>
-    <category term="TLDR"/>
-    <category term="Big Tech &amp; Startups"/>
-    <published>2026-10-30T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms</id>
-    <title>Reddit is moving to “a logged-in-only experience,” CEO says (2 minute read)</title>
-    <updated>2026-10-30T10:59:59+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Reddit will start testing a logged-in-only experience in select non-US markets in Q4. The company's CEO says the login requirement will help Reddit retain new users. It will also provide more signals for ads targeting and help protect access to the site's data. The changes will make it significantly easier for Reddit to understand who uses Reddit and why, which will help the site manage things like AI scraping and evolving search habits.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-30"&gt;TLDR · 2026-10-30 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/"/>
-    <category term="TLDR"/>
-    <category term="Big Tech &amp; Startups"/>
-    <published>2026-10-30T10:59:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.noahpinion.blog/p/a-golden-age-of-science-is-coming</id>
-    <title>A golden age of science is coming (16 minute read)</title>
-    <updated>2026-10-30T10:59:58+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Progress has started to accelerate in science in the last two years. AI can send hordes of superhumanly fast, well-read, and mathematically gifted researchers to accelerate scientific research. It is possible AI will enable new types of discovery and ways of understanding the natural world that no network of humans would ever be able to discover. Unless humans have actually somehow discovered most of the actual exploitable regularities in the Universe, we're about to enter a new golden age of science.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-30"&gt;TLDR · 2026-10-30 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.noahpinion.blog/p/a-golden-age-of-science-is-coming"/>
-    <category term="TLDR"/>
-    <category term="Science &amp; Futuristic Technology"/>
-    <published>2026-10-30T10:59:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://teslanorth.com/2026/10/29/elon-blindsight-ready-2-years-after-fda-breakthrough</id>
-    <title>Elon Says Blindsight Is Ready 2 Years After FDA Breakthrough (2 minute read)</title>
-    <updated>2026-10-30T10:59:57+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Neuralink's Blindsight implant is now ready from an engineering standpoint. The device is designed to help blind people see. It is currently waiting on regulatory approval before it can be sold to customers. It has already received Breakthrough Device Designation from the US FDA, which will help speed review of the device.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-30"&gt;TLDR · 2026-10-30 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://teslanorth.com/2026/10/29/elon-blindsight-ready-2-years-after-fda-breakthrough/"/>
-    <category term="TLDR"/>
-    <category term="Science &amp; Futuristic Technology"/>
-    <published>2026-10-30T10:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://cra.mr/a-little-determinism</id>
-    <title>A Little Determinism (16 minute read)</title>
-    <updated>2026-10-30T10:59:56+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Adding constraints to AI agents usually makes them less capable. Sometimes the solution is to create a template or a complete multi-stage workflow. The challenge is in creating the deterministic behavior while retaining the agent's freedom to use the best tools for the job. This post discusses a solution that uses a man-in-the-middle egress proxy that forces behavior by denying actions and forces reactions via automated messages.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-30"&gt;TLDR · 2026-10-30 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://cra.mr/a-little-determinism"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-30T10:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://martinalderson.com/posts/making-agents-fast</id>
-    <title>Making agents fast - what I've learnt over the last 12 months (12 minute read)</title>
-    <updated>2026-10-30T10:59:55+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Knowing what part of inference a project relies on for speed is important. Check thinking budgets, and read traces, as they often contain valuable insight into what an agent wants to do. Give agents the tools they want rather than what you think they need. Faster hardware still matters, sandboxing and microVMs add complexity, parallelization helps, and classic software performance optimization is still relevant.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-30"&gt;TLDR · 2026-10-30 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://martinalderson.com/posts/making-agents-fast/"/>
-    <category term="TLDR"/>
-    <category term="Programming, Design &amp; Data Science"/>
-    <published>2026-10-30T10:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?st=DuF3aP&amp;amp%3Breflink=desktopwebshare_permalink&amp;amp%3Butm_source=tldrnewsletter</id>
-    <title>Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist (5 minute read)</title>
-    <updated>2026-10-30T10:59:54+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;Binance has suspended transactions after a hack that the exchange said totaled around $6.3 billion. Stablecoin providers Tether and Circle moved quickly to freeze some of the stolen assets. The heist appears to have been conducted by a North Korean hacking group. Binance's founder said in a post on social media that users' funds are safe.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-30"&gt;TLDR · 2026-10-30 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?st=DuF3aP&amp;amp%3Breflink=desktopwebshare_permalink&amp;amp%3Butm_source=tldrnewsletter"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-30T10:59:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://borretti.me/article/we-wont-just-hang-out</id>
-    <title>We Won't “Just Hang Out” (3 minute read)</title>
-    <updated>2026-10-30T10:59:53+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The standard answer for what humans will do after the Singularity is that people 'will just hang out'. However, AI will destroy the processes by which people come together and build relationships. With unlimited entertainment, people might not even want to socialize with other people. The people in the AI utopia will have no skills, education, or accomplishments, so they'll likely not be worth talking to, and you probably wouldn't want to hang out with them.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-30"&gt;TLDR · 2026-10-30 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://borretti.me/article/we-wont-just-hang-out"/>
-    <category term="TLDR"/>
-    <category term="Miscellaneous"/>
-    <published>2026-10-30T10:59:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://martinfowler.com/bliki/LLM-Voice.html</id>
-    <title>LLM Voice (6 minute read)</title>
-    <updated>2026-10-30T10:59:52+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;If you want to communicate with humans, your humanity has to be visible in your prose.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-30"&gt;TLDR · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://martinfowler.com/bliki/LLM-Voice.html"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://commanding-heights.com/</id>
-    <title>The Commanding Heights (Book)</title>
-    <updated>2026-10-30T10:59:51+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The Commanding Heights are scarce, controllable positions of economic power whose holders durably capture the gains of increasingly capable and diffused intelligence.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-30"&gt;TLDR · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://commanding-heights.com/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MlE.9yIw.MnY2tnfkRyLr&amp;amp%3Bsmid=url-share&amp;amp%3Butm_source=tldrnewsletter</id>
-    <title>Nvidia Chief Seen as Target of Chinese Spy Plot (18 minute read)</title>
-    <updated>2026-10-30T10:59:50+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;American officials have concluded that Alice Huang, a top executive at a Singapore-based data center company suspected of steering Nvidia chips to China, was a Chinese intelligence asset feeding information directly to Beijing.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-30"&gt;TLDR · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MlE.9yIw.MnY2tnfkRyLr&amp;amp%3Bsmid=url-share&amp;amp%3Butm_source=tldrnewsletter"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://x.com/nateliason/status/2115803497773904292?s=12</id>
-    <title>How to Build an AI Writing System That Actually Sounds Like You (15 minute read)</title>
-    <updated>2026-10-30T10:59:49+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;This post discusses how to build an AI writing pipeline that turns rambling recordings into drafts.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-30"&gt;TLDR · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://x.com/nateliason/status/2115803497773904292?s=12"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.seangoedecke.com/you-can-just-ask-ai-to-do-things</id>
-    <title>You can just ask AI to do things (5 minute read)</title>
-    <updated>2026-10-30T10:59:48+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;AI models are improving so quickly that many people don't realise that AI agents can now help automate particular tasks that it previously couldn't do.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-30"&gt;TLDR · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://www.seangoedecke.com/you-can-just-ask-ai-to-do-things/"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://danielmiessler.com/blog/general-hill-climbing</id>
-    <title>General Hill-Climbing: The One Main Loop in AI (11 minute read)</title>
-    <updated>2026-10-30T10:59:47+00:00</updated>
-    <content type="html">&lt;div class="newsletter-html"&gt;The General Hill-climbing System, combined with AI, is a problem-solving framework that works on pretty much anything you throw at it.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-10-30"&gt;TLDR · 2026-10-30 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
-    <link href="https://danielmiessler.com/blog/general-hill-climbing"/>
-    <category term="TLDR"/>
-    <category term="Quick Links"/>
-    <published>2026-10-30T10:59:47+00:00</published>
   </entry>
 </feed>
