@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-11-16T11:00:00+00:00</updated>
+  <updated>2026-11-17T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,166 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start</id>
+    <title>Staggering Scroll-Driven Animations with animation-range-start (7 minute read)</title>
+    <updated>2026-11-17T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Staggered scroll animations can use animation-range-start and sibling-index() instead of a custom progress formula. This post contains a worked example that replaces the complicated stagger calculation with one CSS declaration while retaining the browser's built-in easing behavior.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-17"&gt;TLDR Dev · 2026-11-17 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-17T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://valkey.io/blog/from-skiplist-to-b+tree</id>
+    <title>From Skiplists to B+ Trees: Making Valkey Sorted Sets More Memory Efficient (7 minute read)</title>
+    <updated>2026-11-17T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Valkey 9.2 replaces large sorted sets' skiplist index with a B+ tree that packs entries together and uses SIMD-assisted searches. In a five-million-member test, per-member index overhead fell by 36% to 43%, while command behavior stayed the same. The release is still in candidate testing.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-17"&gt;TLDR Dev · 2026-11-17 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://valkey.io/blog/from-skiplist-to-b+tree/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-17T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://linebender.org/wiki/curves/squircle</id>
+    <title>Squircles (6 minute read)</title>
+    <updated>2026-11-17T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Squircles that look similar can have very different curvature, and Figma's approximation contains discontinuities where its curves join. This article contains an interactive comparison that explains the tradeoffs between Apple, Figma, clothoid, and superellipse shapes, along with the CSS for approximating Apple's corners using corner-shape.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-17"&gt;TLDR Dev · 2026-11-17 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://linebender.org/wiki/curves/squircle/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-17T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://brooker.co.za/blog/2026/11/16/understanding.html</id>
+    <title>What Does It Mean to Understand What We Built? (2 minute read)</title>
+    <updated>2026-11-17T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Understanding individual lines of code does not necessarily explain a system's behavior, especially emergent failures. AI could help engineers focus on system properties and develop better tools for understanding what they actually built.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-17"&gt;TLDR Dev · 2026-11-17 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://brooker.co.za/blog/2026/11/16/understanding.html"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-17T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.langchain.com/blog/from-tasks-to-goals</id>
+    <title>From Tasks to Goals (6 minute read)</title>
+    <updated>2026-11-17T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Giving an agent an ongoing goal means delegating decisions about which tasks to do and when to act. That requires tool boundaries, feedback, persistent memory, and ways to ask questions, plus stopping rules that let the agent do nothing when no action is useful.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-17"&gt;TLDR Dev · 2026-11-17 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.langchain.com/blog/from-tasks-to-goals"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-17T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.startifact.com/posts/how-rust-changed-me</id>
+    <title>How Rust Changed Me as a Developer (10 minute read)</title>
+    <updated>2026-11-17T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Rust's enums make variants explicit and let the compiler enforce that every case is handled. This essay explores how sum types and static dispatch change abstraction choices, including when a straightforward enum is more useful than designing an interface.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-17"&gt;TLDR Dev · 2026-11-17 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.startifact.com/posts/how-rust-changed-me/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-17T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://browserpod.io/blog/browserpod-40</id>
+    <title>BrowserPod 4.0 (9 minute read)</title>
+    <updated>2026-11-17T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;BrowserPod runs a Linux-like WebAssembly microVM on the user's device, with tools including Node.js, git, bash, and Rust programs. Version 4.0 makes the CDN-loaded runtime free for commercial and production use without an account, while unrestricted networking is a separate service and self-hosting the runtime requires an enterprise license.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-17"&gt;TLDR Dev · 2026-11-17 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://browserpod.io/blog/browserpod-40"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-17T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dusk.bot/</id>
+    <title>dusk bot (Website)</title>
+    <updated>2026-11-17T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;dusk bot runs a crew of AI helpers, each with its own chat, computer, and memory, using models or subscriptions you already have. Bots can work in parallel, hand off tasks in group chats, and run scheduled routines locally, on your own server, or through dusk's hosted cloud.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-17"&gt;TLDR Dev · 2026-11-17 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://dusk.bot/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-17T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://jolt-lang.net/</id>
+    <title>Jolt (Website)</title>
+    <updated>2026-11-17T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Jolt is a self-hosted Clojure implementation that compiles through Scheme and can produce a standalone native binary with statically linked C dependencies. It supports persistent collections, native C interop, and OS-thread concurrency, but does not provide general JVM interop.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-17"&gt;TLDR Dev · 2026-11-17 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://jolt-lang.net/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-17T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR’s AI community (2 minute form)</title>
+    <updated>2026-11-17T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-17"&gt;TLDR Dev · 2026-11-17 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-17T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://artemlegotin.com/golden-board</id>
+    <title>Golden Board: Teaching Chess Without a Shared Language (25 minute read)</title>
+    <updated>2026-11-17T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Golden Board packs a visual introduction to chess into a 512 KiB binary message, starting with a bootstrap that teaches the recipient how to decode it. The message includes lessons, exercises, and complete games, while its LLM trials explore ambiguities rather than proving an unknown intelligence would understand it.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-17"&gt;TLDR Dev · 2026-11-17 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://artemlegotin.com/golden-board/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-17T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.amazon.science/blog/benchproofer-formally-verified-coding-benchmarks-on-demand</id>
+    <title>BenchProofer: Formally Verified Coding Benchmarks, on Demand (11 minute read)</title>
+    <updated>2026-11-17T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;BenchProofer adds formal specifications, verified reference implementations, and audits to coding benchmarks, with SWE-Proof covering all 500 SWE-Bench Verified tasks. Its audit flagged behavioral differences in 134 test-passing Opus 4.8 patches, but human review found actual bugs in only 21 of 41 sampled flags. The distinction matters because a different implementation can still be a valid fix.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-17"&gt;TLDR Dev · 2026-11-17 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.amazon.science/blog/benchproofer-formally-verified-coding-benchmarks-on-demand"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-17T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xyflow.com/blog/react-flow-13-major-release</id>
+    <title>React Flow 13 (5 minute read)</title>
+    <updated>2026-11-17T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;React Flow 13 splits its internal store into specialized subscriptions to reduce unnecessary renders in large node-based interfaces.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-17"&gt;TLDR Dev · 2026-11-17 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://xyflow.com/blog/react-flow-13-major-release"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-17T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pub.cba.mit.edu/863.26/site</id>
+    <title>How to Make (Almost) Anything (Website)</title>
+    <updated>2026-11-17T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;MIT's 2026 fabrication course links lessons and recitations on CAD, electronics, embedded programming, machining, networking, and system integration.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-17"&gt;TLDR Dev · 2026-11-17 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://pub.cba.mit.edu/863.26/site/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-17T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://turso.tech/blog/turso-sync-local-first-sqlite-with-push-and-pull</id>
+    <title>Turso Sync: Local-First SQLite with Push and Pull (9 minute read)</title>
+    <updated>2026-11-17T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Turso Sync keeps writes local and replicates logical row changes through separate push and pull calls.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-17"&gt;TLDR Dev · 2026-11-17 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://turso.tech/blog/turso-sync-local-first-sqlite-with-push-and-pull"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-17T10:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ngrok.com/blog/mcp</id>
+    <title>Coding Agent, Meet ngrok: The ngrok MCP Server Is Live (6 minute read)</title>
+    <updated>2026-11-17T10:59:45+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;ngrok's MCP server lets coding agents inspect traffic, configure connectivity, and validate Traffic Policy rules before applying them.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-17"&gt;TLDR Dev · 2026-11-17 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://ngrok.com/blog/mcp"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-17T10:59:45+00:00</published>
+  </entry>
   <entry>
     <id>https://www.freecodecamp.org/news/speed-up-ci-in-the-age-of-ai-written-code</id>
     <title>How to Speed Up CI in the Age of AI-Written Code (8 minute read)</title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/ai.xml</id>
   <title>TLDR AI</title>
-  <updated>2026-11-16T11:00:00+00:00</updated>
+  <updated>2026-11-17T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://blogs.nvidia.com/blog/rubin-hpc</id>
+    <title>NVIDIA's Rubin HPC (2 minute read)</title>
+    <updated>2026-11-17T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Rubin HPC is a new Nvidia GPU designed to speed up the simulations AI agents use in science, engineering, and analytics. It has more than 50,000 cores, a record for a single GPU. It is expected to be available in 2028.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-17"&gt;TLDR AI · 2026-11-17 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blogs.nvidia.com/blog/rubin-hpc/"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-17T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows</id>
+    <title>Tencent Launches Hy4 flash (4 minute read)</title>
+    <updated>2026-11-17T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Tencent has released Hy4 flash, a fast, low-cost AI model for everyday workflows. In a blind test with Tencent's internal users, its satisfaction scores came close to Claude Haiku 5.5.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-17"&gt;TLDR AI · 2026-11-17 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-17T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences</id>
+    <title>Claude was trained on protein sequences at scale (26 minute read)</title>
+    <updated>2026-11-17T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Tests show that the latest Claude models were trained on protein sequences at scale. The models can predict the next amino acid if given the start of little-studied bacterial proteins. No other model tested can do this, and the models fail to predict the sequence if the protein is shuffled. Fable 5.2 beats every open protein language model tested.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-17"&gt;TLDR AI · 2026-11-17 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-17T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells</id>
+    <title>Measuring alignment eval tells (16 minute read)</title>
+    <updated>2026-11-17T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Investigator agents can increasingly distinguish alignment evals from capabilities evals, identifying them as artificial or "honeypot" environments designed to test bad behavior. Opus 5.5 and Astra agents differentiate these by noticing unrealistic scenarios and specific task-level cues. The study's findings suggest that while current models can identify common alignment evaluations, making them less detectable can refine their efficacy.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-17"&gt;TLDR AI · 2026-11-17 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-17T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://world-2030.pages.dev/</id>
+    <title>World 2030 (8 minute read)</title>
+    <updated>2026-11-17T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Predicting how AI will affect the economy requires looking at all of the different components of that economy and figuring out how they might affect each other. World 2030 is a study that sets up nine groups (AI labs, big employers, banks and insurers, utilities, startups, universities, workers, governments, and the Fed) and runs the US economy forward in six-month turns to 2030. It aimed to identify both the invariants and the boundaries of what can change as these powerful forces interact with each other. The study predicts that AI will break per-seat software pricing and cut US junior desk hiring.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-17"&gt;TLDR AI · 2026-11-17 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://world-2030.pages.dev/"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-17T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.liquid.ai/blog/d1-2</id>
+    <title>d1.2: State-of-the-Art Omnimodal Decision Models (5 minute read)</title>
+    <updated>2026-11-17T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;d1.2 and d1.2-ultra are decision models that support audio input. They can also read a value from the input, find every passage of a kind in a text, locate things in a picture, estimate a number, and pick every option that applies. d1.2-ultra ranks first among decision models on the Artificial Analysis Decision Index v2.1. Both models are available on the Liquid API at $0.02 per million input tokens for d1.2 and $0.042 per million input tokens for d1.2-ultra.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-17"&gt;TLDR AI · 2026-11-17 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.liquid.ai/blog/d1-2"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-17T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://huggingface.co/blog/openrouter</id>
+    <title>Hugging Face and OpenRouter Join Forces (6 minute read)</title>
+    <updated>2026-11-17T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Hugging Face now routes language-model requests from its Inference Providers service through OpenRouter, which picks the best provider for each call. A single Hugging Face access token works for any open-weight model a provider serves.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-17"&gt;TLDR AI · 2026-11-17 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://huggingface.co/blog/openrouter"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-17T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-17T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-17"&gt;TLDR AI · 2026-11-17 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-17T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch</id>
+    <title>Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch (7 minute read)</title>
+    <updated>2026-11-17T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Google's ZERO-TIM implementation, verified across 64 TPU v5p chips, achieves bitwise-identical logprobs for sampler and trainer, ensuring true on-policy stability in RL training by eliminating numerical discrepancies. This solution addresses floating-point addition errors in separate serving and training paths, using consistent arithmetic operations and standardized reduction orders across TPU meshes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-17"&gt;TLDR AI · 2026-11-17 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-17T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/our-first-phase-of-embedded-assessments</id>
+    <title>OpenAI's first phase of embedded assessments (11 minute read)</title>
+    <updated>2026-11-17T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Embedded assessments give independent experts deep access to a lab's internal models and systems so they can assess model alignment and the effectiveness of safeguards over an extended period. The access gives assessors the evidence and context to pursue independent evaluations and uncover unanticipated failures. Public reporting from independent assessments can give the public a clearer view of how labs are evaluating and managing risks. OpenAI has signed agreements with four independent assessors for its first phase of embedded assessments.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-17"&gt;TLDR AI · 2026-11-17 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openai.com/index/our-first-phase-of-embedded-assessments/"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-17T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://research.perplexity.ai/</id>
+    <title>The frontier is still open (16 minute read)</title>
+    <updated>2026-11-17T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Perplexity Frontier Research is a new initiative at Perplexity that aims to build new algorithms, models, and evaluations in the open, with the mission of building an automated scientist. Applications are now open until December 5. The research effort will be supported by 10,000 GPUs. Results from the initiative will ship as papers, blog posts, model weights, and open repositories.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-17"&gt;TLDR AI · 2026-11-17 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://research.perplexity.ai/"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-17T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents</id>
+    <title>California state AG sues OpenAI over rogue agent incidents (5 minute read)</title>
+    <updated>2026-11-17T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The complaint centers on the Hugging Face incident, but it also cites other incidents as evidence that the underlying behavior is ongoing.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-17"&gt;TLDR AI · 2026-11-17 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-17T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification</id>
+    <title>How the Claude Code team thinks about verification (14 minute read)</title>
+    <updated>2026-11-17T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Strong automated checks are what let teams run dozens or hundreds of coding agents in parallel.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-17"&gt;TLDR AI · 2026-11-17 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-17T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites</id>
+    <title>Gemini Notebook Turns Sources Into Interactive Sites (1 minute read)</title>
+    <updated>2026-11-17T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Gemini Notebook can now turn uploaded sources into shareable interactive sites.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-17"&gt;TLDR AI · 2026-11-17 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-17T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/advancing-computer-use-for-healthcare-teams</id>
+    <title>Advancing computer-use agents for healthcare teams (8 minute read)</title>
+    <updated>2026-11-17T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI's computer-use agents streamline healthcare workflows by automating repetitive tasks like MRI authorizations and administrative processes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-17"&gt;TLDR AI · 2026-11-17 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openai.com/index/advancing-computer-use-for-healthcare-teams"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-17T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://devin.ai/blog/devin-apps</id>
     <title>Devin Apps (3 minute read)</title>

@@ -20,6 +20,7 @@
   "ai/2026-11-12": "2026-11-12T18:21:10+00:00",
   "ai/2026-11-13": "2026-11-13T17:45:45+00:00",
   "ai/2026-11-16": "2026-11-16T20:31:20+00:00",
+  "ai/2026-11-17": "2026-11-17T19:11:49+00:00",
   "dev/2026-10-20": "2026-10-20T15:07:40+00:00",
   "dev/2026-10-21": "2026-10-21T15:18:17+00:00",
   "dev/2026-10-22": "2026-10-22T15:19:00+00:00",
@@ -40,6 +41,7 @@
   "dev/2026-11-12": "2026-11-12T18:21:08+00:00",
   "dev/2026-11-13": "2026-11-13T17:45:42+00:00",
   "dev/2026-11-16": "2026-11-16T20:31:18+00:00",
+  "dev/2026-11-17": "2026-11-17T19:11:46+00:00",
   "hardware/2026-10-21": "2026-10-21T15:18:22+00:00",
   "hardware/2026-10-23": "2026-10-23T15:07:14+00:00",
   "hardware/2026-10-26": "2026-10-26T16:48:41+00:00",
@@ -71,7 +73,8 @@
   "tech/2026-11-11": "2026-11-11T17:54:39+00:00",
   "tech/2026-11-12": "2026-11-12T18:21:05+00:00",
   "tech/2026-11-13": "2026-11-13T17:45:40+00:00",
-  "tech/2026-11-16": "2026-11-16T20:31:15+00:00"
+  "tech/2026-11-16": "2026-11-16T20:31:15+00:00",
+  "tech/2026-11-17": "2026-11-17T19:11:44+00:00"
  },
  "items": [
   {
@@ -5303,6 +5306,466 @@
    "summary_html": "<div class=\"newsletter-html\">A federal judge denied Samsung, SK hynix, and Micron's motion to dismiss in full, finding a plausible claim that they restricted conventional DRAM supply and drove prices up 697% over 18 months.</div>",
    "title": "Judge keeps DRAM price-fixing suit alive, calling the chipmakers' alleged behavior \u201chawks flying in formation\u201d (3 minute read)",
    "url": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram",
+   "issue_date": "2026-11-17",
+   "position": 0,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">Direct is a standalone app from Meta that brings Instagram's inbox to a separate app. It doesn't require an existing Instagram account to use. People can sign up using email or a phone number. The app is currently being tested in Thailand and Turkey only.</div>",
+   "title": "Meta is testing Direct, a standalone messaging app for Instagram (2 minute read)",
+   "url": "https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.bloomberg.com/news/articles/2026-11-16/trump-backs-calls-for-huang-to-be-reinstated-as-nvidia-ceo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDg4OTM2MCwiZXhwIjoxNzk1NDk0MTYwLCJhcnRpY2xlSWQiOiJUT0xKQUJUOU5KTFowMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.V6w_XcskylaKxeGVyh1V6-Ye_R0dAJumV-UGZj1M-0w&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-17",
+   "position": 1,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">President Trump says he doesn't mind if Jensen Huang were reinstated as Nvidia's CEO. He played down concerns about Huang's relationship with a woman suspected of being a Chinese spy, saying that she has yet to be proven to be a spy. Huang has discussed the possibility of returning to his position, and reports say a war room of Silicon Valley executives is being organized to lobby for Huang and get the White House's backing. Nvidia's board is reportedly not considering Huang's return and is searching for a new CEO.</div>",
+   "title": "Trump Backs Huang Comeback While Nvidia Board Seeks New CEO (5 minute read)",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-16/trump-backs-calls-for-huang-to-be-reinstated-as-nvidia-ceo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDg4OTM2MCwiZXhwIjoxNzk1NDk0MTYwLCJhcnRpY2xlSWQiOiJUT0xKQUJUOU5KTFowMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.V6w_XcskylaKxeGVyh1V6-Ye_R0dAJumV-UGZj1M-0w&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship",
+   "issue_date": "2026-11-17",
+   "position": 2,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Starship is now rapidly moving toward rapid reusability, but all estimates of human spaceflight on the vehicle should be taken with a gigantic grain of salt. There will be different timelines for humans flying aboard Starship and landing on Earth. The first people to fly on Starship probably won't launch from or land on Earth, as they will probably be NASA's lunar astronauts. Humans will likely not land on Earth in Starship before 2030.</div>",
+   "title": "When will humans actually fly on Starship? (3 minute read)",
+   "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
+   "issue_date": "2026-11-17",
+   "position": 3,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">EchoMotion is a technology that can track the movement of a person's entire body using ultrasonic sound waves with just an off-the-shelf smartwatch and a lightweight AI model. The system uses the built-in speaker and microphone on a commercial smartwatch to determine a person's body position using a sonar-like sensing system. The technology could potentially be used for tracking workouts, daily activities, and progress on physical rehabilitation. The EchoMotion team is currently developing the technology for use in fitness tracking and exploring the use of the technology in combination with first-person vision on smart glasses to efficiently track the objects that a person handles.</div>",
+   "title": "Researchers track whole body movement with just a smartwatch (6 minute read)",
+   "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch"
+  },
+  {
+   "edition": "tech",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-17",
+   "position": 4,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR's AI community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "tech",
+   "id": "https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview",
+   "issue_date": "2026-11-17",
+   "position": 5,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">There has been a dramatic rise in the number of websites showing 3D content in the last few years. Spatial web standards should support designing for browsers wherever they run. Safari on visionOS 27.3 comes with a limited feature preview of the proposed spatial CSS API. This article demonstrates how to use the first components of spatial CSS through a case study.</div>",
+   "title": "Introducing spatial CSS: A developer preview (9 minute read)",
+   "url": "https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable",
+   "issue_date": "2026-11-17",
+   "position": 6,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">AI has made formal verification go mainstream. People mean lots of different things when they say something is 'formally verified'. This post attempts to break these down. Formally verified systems can still have bugs, so not all formal verification systems are correct. However, formal verification produces well-defined, reviewable, understandable objects, so it is fairly reliable at finding bugs.</div>",
+   "title": "Formal Verification is Not Verifiable (8 minute read)",
+   "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://stratechery.com/2026/obituaries",
+   "issue_date": "2026-11-17",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Jensen Huang's recent resignation as CEO of Nvidia may spell the end for the company. This could pop the AI bubble, and the US chip ecosystem could pay the ultimate price. Huang's departure will also have impacts on tech company independence and American exceptionalism.</div>",
+   "title": "Obituaries (27 minute read)",
+   "url": "https://stratechery.com/2026/obituaries/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips",
+   "issue_date": "2026-11-17",
+   "position": 8,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">The US Commerce Department is closing a loophole that previously allowed foreign rivals to bypass export restrictions on advanced computer chips by renting access to them from data centers in Indonesia, Malaysia, Singapore, Thailand, and Brazil. Companies headquartered in countries deemed to present a higher-than-normal risk of diversion to China, Russia, and Iran must now apply for a license with strict know-your-customer controls when transferring high volumes of advanced chips. Companies with a license must submit monthly reports on transactions that thoroughly detail all parties involved. The rule change will take effect 90 days after it's posted to the Federal Register.</div>",
+   "title": "US moves to cut China's remote access to AI chips (9 minute read)",
+   "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://brooker.co.za/blog/2026/11/16/understanding.html",
+   "issue_date": "2026-11-17",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">AI gives us an incredible lookup tool, allowing us to free up mental capacity from having to understand everything in a system.</div>",
+   "title": "What does it mean to understand what we built? (4 minute read)",
+   "url": "https://brooker.co.za/blog/2026/11/16/understanding.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://aifoc.us/voice-harness",
+   "issue_date": "2026-11-17",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">This post discusses a web runtime that allows developers to use voice to control their machines using a new operating layer in the browser through mini-apps.</div>",
+   "title": "My voice harness is my new operating system (15 minute read)",
+   "url": "https://aifoc.us/voice-harness/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://tomtunguz.com/two-pricing-strategies-in-enterprise-ai",
+   "issue_date": "2026-11-17",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic captures most of the frontier state-of-the-art tokens and proprietary spend, while OpenAI captures most low-end tokens.</div>",
+   "title": "Strategic Decision or Structural Advantage? (4 minute read)",
+   "url": "https://tomtunguz.com/two-pricing-strategies-in-enterprise-ai"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade",
+   "issue_date": "2026-11-17",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">More access will start with the 200GB iCloud plan, and free limits are per device, not per account.</div>",
+   "title": "iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades (3 minute read)",
+   "url": "https://www.macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million",
+   "issue_date": "2026-11-17",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Production is scheduled to start in 2029.</div>",
+   "title": "Tesla confirms \u20ac3B Cybercab factory at Giga Berlin for up to 1M a year (6 minute read)",
+   "url": "https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDg4OTM0OSwiZXhwIjoxNzk1NDk0MTQ5LCJhcnRpY2xlSWQiOiJUTlgwN1VUOTZPU0kwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.zwL0aGfEosV9DV716HT6f5oE-3y2Vx2GzMzFVRH2Mjo&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-17",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">China's top AI developers are stifling their models' ability to aid online attacks following a government proposal to ban such technology from being exported.</div>",
+   "title": "China's Top AI Firms Limit Cyber Capabilities in Latest Models (5 minute read)",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDg4OTM0OSwiZXhwIjoxNzk1NDk0MTQ5LCJhcnRpY2xlSWQiOiJUTlgwN1VUOTZPU0kwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.zwL0aGfEosV9DV716HT6f5oE-3y2Vx2GzMzFVRH2Mjo&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "dev",
+   "id": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start",
+   "issue_date": "2026-11-17",
+   "position": 0,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Staggered scroll animations can use animation-range-start and sibling-index() instead of a custom progress formula. This post contains a worked example that replaces the complicated stagger calculation with one CSS declaration while retaining the browser's built-in easing behavior.</div>",
+   "title": "Staggering Scroll-Driven Animations with animation-range-start (7 minute read)",
+   "url": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://valkey.io/blog/from-skiplist-to-b+tree",
+   "issue_date": "2026-11-17",
+   "position": 1,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Valkey 9.2 replaces large sorted sets' skiplist index with a B+ tree that packs entries together and uses SIMD-assisted searches. In a five-million-member test, per-member index overhead fell by 36% to 43%, while command behavior stayed the same. The release is still in candidate testing.</div>",
+   "title": "From Skiplists to B+ Trees: Making Valkey Sorted Sets More Memory Efficient (7 minute read)",
+   "url": "https://valkey.io/blog/from-skiplist-to-b+tree/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://linebender.org/wiki/curves/squircle",
+   "issue_date": "2026-11-17",
+   "position": 2,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Squircles that look similar can have very different curvature, and Figma's approximation contains discontinuities where its curves join. This article contains an interactive comparison that explains the tradeoffs between Apple, Figma, clothoid, and superellipse shapes, along with the CSS for approximating Apple's corners using corner-shape.</div>",
+   "title": "Squircles (6 minute read)",
+   "url": "https://linebender.org/wiki/curves/squircle/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://brooker.co.za/blog/2026/11/16/understanding.html",
+   "issue_date": "2026-11-17",
+   "position": 3,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Understanding individual lines of code does not necessarily explain a system's behavior, especially emergent failures. AI could help engineers focus on system properties and develop better tools for understanding what they actually built.</div>",
+   "title": "What Does It Mean to Understand What We Built? (2 minute read)",
+   "url": "https://brooker.co.za/blog/2026/11/16/understanding.html"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.langchain.com/blog/from-tasks-to-goals",
+   "issue_date": "2026-11-17",
+   "position": 4,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Giving an agent an ongoing goal means delegating decisions about which tasks to do and when to act. That requires tool boundaries, feedback, persistent memory, and ways to ask questions, plus stopping rules that let the agent do nothing when no action is useful.</div>",
+   "title": "From Tasks to Goals (6 minute read)",
+   "url": "https://www.langchain.com/blog/from-tasks-to-goals"
+  },
+  {
+   "edition": "dev",
+   "id": "https://blog.startifact.com/posts/how-rust-changed-me",
+   "issue_date": "2026-11-17",
+   "position": 5,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Rust's enums make variants explicit and let the compiler enforce that every case is handled. This essay explores how sum types and static dispatch change abstraction choices, including when a straightforward enum is more useful than designing an interface.</div>",
+   "title": "How Rust Changed Me as a Developer (10 minute read)",
+   "url": "https://blog.startifact.com/posts/how-rust-changed-me/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://browserpod.io/blog/browserpod-40",
+   "issue_date": "2026-11-17",
+   "position": 6,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">BrowserPod runs a Linux-like WebAssembly microVM on the user's device, with tools including Node.js, git, bash, and Rust programs. Version 4.0 makes the CDN-loaded runtime free for commercial and production use without an account, while unrestricted networking is a separate service and self-hosting the runtime requires an enterprise license.</div>",
+   "title": "BrowserPod 4.0 (9 minute read)",
+   "url": "https://browserpod.io/blog/browserpod-40"
+  },
+  {
+   "edition": "dev",
+   "id": "https://dusk.bot/",
+   "issue_date": "2026-11-17",
+   "position": 7,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">dusk bot runs a crew of AI helpers, each with its own chat, computer, and memory, using models or subscriptions you already have. Bots can work in parallel, hand off tasks in group chats, and run scheduled routines locally, on your own server, or through dusk's hosted cloud.</div>",
+   "title": "dusk bot (Website)",
+   "url": "https://dusk.bot/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://jolt-lang.net/",
+   "issue_date": "2026-11-17",
+   "position": 8,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Jolt is a self-hosted Clojure implementation that compiles through Scheme and can produce a standalone native binary with statically linked C dependencies. It supports persistent collections, native C interop, and OS-thread concurrency, but does not provide general JVM interop.</div>",
+   "title": "Jolt (Website)",
+   "url": "https://jolt-lang.net/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-17",
+   "position": 9,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR\u2019s AI community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "dev",
+   "id": "https://artemlegotin.com/golden-board",
+   "issue_date": "2026-11-17",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Golden Board packs a visual introduction to chess into a 512 KiB binary message, starting with a bootstrap that teaches the recipient how to decode it. The message includes lessons, exercises, and complete games, while its LLM trials explore ambiguities rather than proving an unknown intelligence would understand it.</div>",
+   "title": "Golden Board: Teaching Chess Without a Shared Language (25 minute read)",
+   "url": "https://artemlegotin.com/golden-board/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.amazon.science/blog/benchproofer-formally-verified-coding-benchmarks-on-demand",
+   "issue_date": "2026-11-17",
+   "position": 11,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">BenchProofer adds formal specifications, verified reference implementations, and audits to coding benchmarks, with SWE-Proof covering all 500 SWE-Bench Verified tasks. Its audit flagged behavioral differences in 134 test-passing Opus 4.8 patches, but human review found actual bugs in only 21 of 41 sampled flags. The distinction matters because a different implementation can still be a valid fix.</div>",
+   "title": "BenchProofer: Formally Verified Coding Benchmarks, on Demand (11 minute read)",
+   "url": "https://www.amazon.science/blog/benchproofer-formally-verified-coding-benchmarks-on-demand"
+  },
+  {
+   "edition": "dev",
+   "id": "https://xyflow.com/blog/react-flow-13-major-release",
+   "issue_date": "2026-11-17",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">React Flow 13 splits its internal store into specialized subscriptions to reduce unnecessary renders in large node-based interfaces.</div>",
+   "title": "React Flow 13 (5 minute read)",
+   "url": "https://xyflow.com/blog/react-flow-13-major-release"
+  },
+  {
+   "edition": "dev",
+   "id": "https://pub.cba.mit.edu/863.26/site",
+   "issue_date": "2026-11-17",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">MIT's 2026 fabrication course links lessons and recitations on CAD, electronics, embedded programming, machining, networking, and system integration.</div>",
+   "title": "How to Make (Almost) Anything (Website)",
+   "url": "https://pub.cba.mit.edu/863.26/site/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://turso.tech/blog/turso-sync-local-first-sqlite-with-push-and-pull",
+   "issue_date": "2026-11-17",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Turso Sync keeps writes local and replicates logical row changes through separate push and pull calls.</div>",
+   "title": "Turso Sync: Local-First SQLite with Push and Pull (9 minute read)",
+   "url": "https://turso.tech/blog/turso-sync-local-first-sqlite-with-push-and-pull"
+  },
+  {
+   "edition": "dev",
+   "id": "https://ngrok.com/blog/mcp",
+   "issue_date": "2026-11-17",
+   "position": 15,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">ngrok's MCP server lets coding agents inspect traffic, configure connectivity, and validate Traffic Policy rules before applying them.</div>",
+   "title": "Coding Agent, Meet ngrok: The ngrok MCP Server Is Live (6 minute read)",
+   "url": "https://ngrok.com/blog/mcp"
+  },
+  {
+   "edition": "ai",
+   "id": "https://blogs.nvidia.com/blog/rubin-hpc",
+   "issue_date": "2026-11-17",
+   "position": 0,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Rubin HPC is a new Nvidia GPU designed to speed up the simulations AI agents use in science, engineering, and analytics. It has more than 50,000 cores, a record for a single GPU. It is expected to be available in 2028.</div>",
+   "title": "NVIDIA's Rubin HPC (2 minute read)",
+   "url": "https://blogs.nvidia.com/blog/rubin-hpc/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows",
+   "issue_date": "2026-11-17",
+   "position": 1,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Tencent has released Hy4 flash, a fast, low-cost AI model for everyday workflows. In a blind test with Tencent's internal users, its satisfaction scores came close to Claude Haiku 5.5.</div>",
+   "title": "Tencent Launches Hy4 flash (4 minute read)",
+   "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences",
+   "issue_date": "2026-11-17",
+   "position": 2,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Tests show that the latest Claude models were trained on protein sequences at scale. The models can predict the next amino acid if given the start of little-studied bacterial proteins. No other model tested can do this, and the models fail to predict the sequence if the protein is shuffled. Fable 5.2 beats every open protein language model tested.</div>",
+   "title": "Claude was trained on protein sequences at scale (26 minute read)",
+   "url": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells",
+   "issue_date": "2026-11-17",
+   "position": 3,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Investigator agents can increasingly distinguish alignment evals from capabilities evals, identifying them as artificial or \"honeypot\" environments designed to test bad behavior. Opus 5.5 and Astra agents differentiate these by noticing unrealistic scenarios and specific task-level cues. The study's findings suggest that while current models can identify common alignment evaluations, making them less detectable can refine their efficacy.</div>",
+   "title": "Measuring alignment eval tells (16 minute read)",
+   "url": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://world-2030.pages.dev/",
+   "issue_date": "2026-11-17",
+   "position": 4,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Predicting how AI will affect the economy requires looking at all of the different components of that economy and figuring out how they might affect each other. World 2030 is a study that sets up nine groups (AI labs, big employers, banks and insurers, utilities, startups, universities, workers, governments, and the Fed) and runs the US economy forward in six-month turns to 2030. It aimed to identify both the invariants and the boundaries of what can change as these powerful forces interact with each other. The study predicts that AI will break per-seat software pricing and cut US junior desk hiring.</div>",
+   "title": "World 2030 (8 minute read)",
+   "url": "https://world-2030.pages.dev/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.liquid.ai/blog/d1-2",
+   "issue_date": "2026-11-17",
+   "position": 5,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">d1.2 and d1.2-ultra are decision models that support audio input. They can also read a value from the input, find every passage of a kind in a text, locate things in a picture, estimate a number, and pick every option that applies. d1.2-ultra ranks first among decision models on the Artificial Analysis Decision Index v2.1. Both models are available on the Liquid API at $0.02 per million input tokens for d1.2 and $0.042 per million input tokens for d1.2-ultra.</div>",
+   "title": "d1.2: State-of-the-Art Omnimodal Decision Models (5 minute read)",
+   "url": "https://www.liquid.ai/blog/d1-2"
+  },
+  {
+   "edition": "ai",
+   "id": "https://huggingface.co/blog/openrouter",
+   "issue_date": "2026-11-17",
+   "position": 6,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Hugging Face now routes language-model requests from its Inference Providers service through OpenRouter, which picks the best provider for each call. A single Hugging Face access token works for any open-weight model a provider serves.</div>",
+   "title": "Hugging Face and OpenRouter Join Forces (6 minute read)",
+   "url": "https://huggingface.co/blog/openrouter"
+  },
+  {
+   "edition": "ai",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-17",
+   "position": 7,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR's AI community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "ai",
+   "id": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch",
+   "issue_date": "2026-11-17",
+   "position": 8,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Google's ZERO-TIM implementation, verified across 64 TPU v5p chips, achieves bitwise-identical logprobs for sampler and trainer, ensuring true on-policy stability in RL training by eliminating numerical discrepancies. This solution addresses floating-point addition errors in separate serving and training paths, using consistent arithmetic operations and standardized reduction orders across TPU meshes.</div>",
+   "title": "Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train\u2013Inference Mismatch (7 minute read)",
+   "url": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch"
+  },
+  {
+   "edition": "ai",
+   "id": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+   "issue_date": "2026-11-17",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Embedded assessments give independent experts deep access to a lab's internal models and systems so they can assess model alignment and the effectiveness of safeguards over an extended period. The access gives assessors the evidence and context to pursue independent evaluations and uncover unanticipated failures. Public reporting from independent assessments can give the public a clearer view of how labs are evaluating and managing risks. OpenAI has signed agreements with four independent assessors for its first phase of embedded assessments.</div>",
+   "title": "OpenAI's first phase of embedded assessments (11 minute read)",
+   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://research.perplexity.ai/",
+   "issue_date": "2026-11-17",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Perplexity Frontier Research is a new initiative at Perplexity that aims to build new algorithms, models, and evaluations in the open, with the mission of building an automated scientist. Applications are now open until December 5. The research effort will be supported by 10,000 GPUs. Results from the initiative will ship as papers, blog posts, model weights, and open repositories.</div>",
+   "title": "The frontier is still open (16 minute read)",
+   "url": "https://research.perplexity.ai/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents",
+   "issue_date": "2026-11-17",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The complaint centers on the Hugging Face incident, but it also cites other incidents as evidence that the underlying behavior is ongoing.</div>",
+   "title": "California state AG sues OpenAI over rogue agent incidents (5 minute read)",
+   "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification",
+   "issue_date": "2026-11-17",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Strong automated checks are what let teams run dozens or hundreds of coding agents in parallel.</div>",
+   "title": "How the Claude Code team thinks about verification (14 minute read)",
+   "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites",
+   "issue_date": "2026-11-17",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Gemini Notebook can now turn uploaded sources into shareable interactive sites.</div>",
+   "title": "Gemini Notebook Turns Sources Into Interactive Sites (1 minute read)",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+   "issue_date": "2026-11-17",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI's computer-use agents streamline healthcare workflows by automating repetitive tasks like MRI authorizations and administrative processes.</div>",
+   "title": "Advancing computer-use agents for healthcare teams (8 minute read)",
+   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
   }
  ]
 }

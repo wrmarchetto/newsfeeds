@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/tech.xml</id>
   <title>TLDR</title>
-  <updated>2026-11-16T11:00:00+00:00</updated>
+  <updated>2026-11-17T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram</id>
+    <title>Meta is testing Direct, a standalone messaging app for Instagram (2 minute read)</title>
+    <updated>2026-11-17T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Direct is a standalone app from Meta that brings Instagram's inbox to a separate app. It doesn't require an existing Instagram account to use. People can sign up using email or a phone number. The app is currently being tested in Thailand and Turkey only.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-17"&gt;TLDR · 2026-11-17 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-17T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2026-11-16/trump-backs-calls-for-huang-to-be-reinstated-as-nvidia-ceo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDg4OTM2MCwiZXhwIjoxNzk1NDk0MTYwLCJhcnRpY2xlSWQiOiJUT0xKQUJUOU5KTFowMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.V6w_XcskylaKxeGVyh1V6-Ye_R0dAJumV-UGZj1M-0w&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>Trump Backs Huang Comeback While Nvidia Board Seeks New CEO (5 minute read)</title>
+    <updated>2026-11-17T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;President Trump says he doesn't mind if Jensen Huang were reinstated as Nvidia's CEO. He played down concerns about Huang's relationship with a woman suspected of being a Chinese spy, saying that she has yet to be proven to be a spy. Huang has discussed the possibility of returning to his position, and reports say a war room of Silicon Valley executives is being organized to lobby for Huang and get the White House's backing. Nvidia's board is reportedly not considering Huang's return and is searching for a new CEO.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-17"&gt;TLDR · 2026-11-17 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-16/trump-backs-calls-for-huang-to-be-reinstated-as-nvidia-ceo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDg4OTM2MCwiZXhwIjoxNzk1NDk0MTYwLCJhcnRpY2xlSWQiOiJUT0xKQUJUOU5KTFowMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.V6w_XcskylaKxeGVyh1V6-Ye_R0dAJumV-UGZj1M-0w&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-17T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship</id>
+    <title>When will humans actually fly on Starship? (3 minute read)</title>
+    <updated>2026-11-17T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Starship is now rapidly moving toward rapid reusability, but all estimates of human spaceflight on the vehicle should be taken with a gigantic grain of salt. There will be different timelines for humans flying aboard Starship and landing on Earth. The first people to fly on Starship probably won't launch from or land on Earth, as they will probably be NASA's lunar astronauts. Humans will likely not land on Earth in Starship before 2030.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-17"&gt;TLDR · 2026-11-17 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-17T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch</id>
+    <title>Researchers track whole body movement with just a smartwatch (6 minute read)</title>
+    <updated>2026-11-17T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;EchoMotion is a technology that can track the movement of a person's entire body using ultrasonic sound waves with just an off-the-shelf smartwatch and a lightweight AI model. The system uses the built-in speaker and microphone on a commercial smartwatch to determine a person's body position using a sonar-like sensing system. The technology could potentially be used for tracking workouts, daily activities, and progress on physical rehabilitation. The EchoMotion team is currently developing the technology for use in fitness tracking and exploring the use of the technology in combination with first-person vision on smart glasses to efficiently track the objects that a person handles.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-17"&gt;TLDR · 2026-11-17 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-17T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-17T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-17"&gt;TLDR · 2026-11-17 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-17T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview</id>
+    <title>Introducing spatial CSS: A developer preview (9 minute read)</title>
+    <updated>2026-11-17T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;There has been a dramatic rise in the number of websites showing 3D content in the last few years. Spatial web standards should support designing for browsers wherever they run. Safari on visionOS 27.3 comes with a limited feature preview of the proposed spatial CSS API. This article demonstrates how to use the first components of spatial CSS through a case study.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-17"&gt;TLDR · 2026-11-17 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-17T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://alperenkeles.com/posts/formal-verification-is-not-verifiable</id>
+    <title>Formal Verification is Not Verifiable (8 minute read)</title>
+    <updated>2026-11-17T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI has made formal verification go mainstream. People mean lots of different things when they say something is 'formally verified'. This post attempts to break these down. Formally verified systems can still have bugs, so not all formal verification systems are correct. However, formal verification produces well-defined, reviewable, understandable objects, so it is fairly reliable at finding bugs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-17"&gt;TLDR · 2026-11-17 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://alperenkeles.com/posts/formal-verification-is-not-verifiable/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-17T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://stratechery.com/2026/obituaries</id>
+    <title>Obituaries (27 minute read)</title>
+    <updated>2026-11-17T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Jensen Huang's recent resignation as CEO of Nvidia may spell the end for the company. This could pop the AI bubble, and the US chip ecosystem could pay the ultimate price. Huang's departure will also have impacts on tech company independence and American exceptionalism.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-17"&gt;TLDR · 2026-11-17 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://stratechery.com/2026/obituaries/"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-17T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips</id>
+    <title>US moves to cut China's remote access to AI chips (9 minute read)</title>
+    <updated>2026-11-17T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The US Commerce Department is closing a loophole that previously allowed foreign rivals to bypass export restrictions on advanced computer chips by renting access to them from data centers in Indonesia, Malaysia, Singapore, Thailand, and Brazil. Companies headquartered in countries deemed to present a higher-than-normal risk of diversion to China, Russia, and Iran must now apply for a license with strict know-your-customer controls when transferring high volumes of advanced chips. Companies with a license must submit monthly reports on transactions that thoroughly detail all parties involved. The rule change will take effect 90 days after it's posted to the Federal Register.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-17"&gt;TLDR · 2026-11-17 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-17T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://brooker.co.za/blog/2026/11/16/understanding.html</id>
+    <title>What does it mean to understand what we built? (4 minute read)</title>
+    <updated>2026-11-17T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI gives us an incredible lookup tool, allowing us to free up mental capacity from having to understand everything in a system.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-17"&gt;TLDR · 2026-11-17 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://brooker.co.za/blog/2026/11/16/understanding.html"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-17T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://aifoc.us/voice-harness</id>
+    <title>My voice harness is my new operating system (15 minute read)</title>
+    <updated>2026-11-17T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This post discusses a web runtime that allows developers to use voice to control their machines using a new operating layer in the browser through mini-apps.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-17"&gt;TLDR · 2026-11-17 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://aifoc.us/voice-harness/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-17T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tomtunguz.com/two-pricing-strategies-in-enterprise-ai</id>
+    <title>Strategic Decision or Structural Advantage? (4 minute read)</title>
+    <updated>2026-11-17T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic captures most of the frontier state-of-the-art tokens and proprietary spend, while OpenAI captures most low-end tokens.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-17"&gt;TLDR · 2026-11-17 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://tomtunguz.com/two-pricing-strategies-in-enterprise-ai"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-17T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade</id>
+    <title>iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades (3 minute read)</title>
+    <updated>2026-11-17T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;More access will start with the 200GB iCloud plan, and free limits are per device, not per account.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-17"&gt;TLDR · 2026-11-17 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-17T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million</id>
+    <title>Tesla confirms €3B Cybercab factory at Giga Berlin for up to 1M a year (6 minute read)</title>
+    <updated>2026-11-17T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Production is scheduled to start in 2029.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-17"&gt;TLDR · 2026-11-17 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-17T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDg4OTM0OSwiZXhwIjoxNzk1NDk0MTQ5LCJhcnRpY2xlSWQiOiJUTlgwN1VUOTZPU0kwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.zwL0aGfEosV9DV716HT6f5oE-3y2Vx2GzMzFVRH2Mjo&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>China's Top AI Firms Limit Cyber Capabilities in Latest Models (5 minute read)</title>
+    <updated>2026-11-17T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;China's top AI developers are stifling their models' ability to aid online attacks following a government proposal to ban such technology from being exported.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-17"&gt;TLDR · 2026-11-17 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDg4OTM0OSwiZXhwIjoxNzk1NDk0MTQ5LCJhcnRpY2xlSWQiOiJUTlgwN1VUOTZPU0kwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.zwL0aGfEosV9DV716HT6f5oE-3y2Vx2GzMzFVRH2Mjo&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-17T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html</id>
     <title>Tech world's calls for Jensen Huang to return to Nvidia are growing (7 minute read)</title>
