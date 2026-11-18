@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/ai.xml</id>
   <title>TLDR AI</title>
-  <updated>2026-11-17T11:00:00+00:00</updated>
+  <updated>2026-11-18T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://openai.com/index/introducing-gpt-6-2-astra-sol</id>
+    <title>Introducing GPT-6.2 Astra and Sol (14 minute read)</title>
+    <updated>2026-11-18T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI released GPT-6.2 Astra, a frontier model for the hardest projects, and GPT-6.2 Sol, an efficient everyday model. Both are available now in ChatGPT Work, Codex, and the API.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-18"&gt;TLDR AI · 2026-11-18 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openai.com/index/introducing-gpt-6-2-astra-sol/"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-18T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://microsoft.ai/news/microsoft-ignite-2026</id>
+    <title>Microsoft's Seven New Models (4 minute read)</title>
+    <updated>2026-11-18T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Microsoft AI released seven new models built for strong performance at low prices. Its MAI Code 2 coding model, now in GitHub Copilot, reaches 98% of GPT-6.1 Sol's coding quality at about 40% of the price. The lineup also covers cybersecurity, image editing, and real-time voice.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-18"&gt;TLDR AI · 2026-11-18 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://microsoft.ai/news/microsoft-ignite-2026/"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-18T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://replit.com/blog/introducing-replit-missions</id>
+    <title>Introducing Replit Missions (8 minute read)</title>
+    <updated>2026-11-18T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Replit launched Missions, a tool for coordinating swarms of AI agents to tackle complex projects like winning enterprise clients or developing software, within specified budgets. Their mission-built DataCat, an application monitoring platform that achieved faster performance benchmarks and surpassed a competing platform in API compatibility tests. This system enables small teams to pursue ambitious projects by defining goals and constraints, while agents execute tasks, providing businesses with a foundation for innovation at scale.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-18"&gt;TLDR AI · 2026-11-18 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://replit.com/blog/introducing-replit-missions"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-18T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://horizon-labs.ai/</id>
+    <title>Horizon Labs (12 minute read)</title>
+    <updated>2026-11-18T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Horizon is an agent based on Opus 5.5. Researchers gave it full access to a blank Hugging Face account and compute with the main goal of enabling real adoption on Hugging Face. Horizon used over 600 GPU hours and autonomously created 38 models. These models are now housed in over 100 GitHub repositories and have been downloaded more than 50,000 times.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-18"&gt;TLDR AI · 2026-11-18 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://horizon-labs.ai/"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-18T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://notesbylex.com/weight-space-programming-1990s.html</id>
+    <title>Weight-Space Programming builds neural networks like a 1990s researcher (20 minute read)</title>
+    <updated>2026-11-18T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Frontier models can read, write, and edit the weights of neural networks. This could present new ways to train networks. This researcher ran a weight-writing experiment with Claude Fable 5.2 on a familiar image classification problem. The way the model worked resembled the work of researchers from the 1990s, who used hand-crafted, pre-deep-learning techniques.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-18"&gt;TLDR AI · 2026-11-18 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://notesbylex.com/weight-space-programming-1990s.html"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-18T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://vercel.com/blog/eve-is-now-generally-available</id>
+    <title>Vercel's eve 1.0 (10 minute read)</title>
+    <updated>2026-11-18T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Vercel released eve 1.0, its open-source framework for building production-ready AI agents. It manages the loop that calls models and runs tools, along with memory, approvals, and monitoring.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-18"&gt;TLDR AI · 2026-11-18 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://vercel.com/blog/eve-is-now-generally-available"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-18T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference</id>
+    <title>Co-Designing Sparse Attention for Efficient Long-Context Inference (17 minute read)</title>
+    <updated>2026-11-18T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;NVIDIA's sparse attention technique reduces compute and memory costs for transformers, solving bottlenecks in long-context inference by focusing on selective attention. Indexers in sparse attention score a subset of keys efficiently, aided by techniques like speculative decoding, cross-head reduction, and block-level selection to optimize performance on NVIDIA GPUs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-18"&gt;TLDR AI · 2026-11-18 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-18T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-18T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-18"&gt;TLDR AI · 2026-11-18 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-18T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://runta.com/blog/introducing-frontierharness-eval-v1-1</id>
+    <title>FrontierHarness Eval v1.1 (14 minute read)</title>
+    <updated>2026-11-18T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The best coding-agent harness, the software that runs a model on a task, depends on the model. Harness choice alone can change cost per task by up to five times.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-18"&gt;TLDR AI · 2026-11-18 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://runta.com/blog/introducing-frontierharness-eval-v1-1/"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-18T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference</id>
+    <title>Cerebras launches disaggregated inference (6 minute read)</title>
+    <updated>2026-11-18T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Cerebras' disaggregated inference service lets GPUs handle prompt processing while the company's systems handle output generation. The solution delivers five times more tokens per megawatt at the same ultrafast speeds. It allows Cerebras and partners to serve many more ultrafast tokens. Disaggregated inference is now in early access, and access is being expanded.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-18"&gt;TLDR AI · 2026-11-18 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-18T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.redwoodresearch.org/p/how-should-we-define-capabilities</id>
+    <title>How should we define “capabilities activities” for the purpose of pacing? (21 minute read)</title>
+    <updated>2026-11-18T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;There is an urgent need to pace the frontier. This requires good, publicly verified measures of how much compute is being spent on pushing the frontier forward. Anthropic has already published estimates of how much of its AI R&amp;amp;D is safety research. AI developers should let third-party auditors measure and report how much compute AI companies are allocating to capabilities and non-capabilities activities.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-18"&gt;TLDR AI · 2026-11-18 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.redwoodresearch.org/p/how-should-we-define-capabilities"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-18T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://commandline.microsoft.com/microsoft-decision-model-ga</id>
+    <title>Microsoft-Decision-1.1 is now generally available for fast, low-cost decision making (34 minute read)</title>
+    <updated>2026-11-18T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Microsoft's decision models are designed to make calibrated decisions in the face of uncertainty across a wide range of real-world software use cases.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-18"&gt;TLDR AI · 2026-11-18 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://commandline.microsoft.com/microsoft-decision-model-ga/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-18T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features</id>
+    <title>Gemini Can Now Make Calls and Pay Bills (6 minute read)</title>
+    <updated>2026-11-18T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Google's Gemini app can now handle tasks like calling businesses, booking appointments, and shopping within a spending limit.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-18"&gt;TLDR AI · 2026-11-18 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-18T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.perplexity.ai/hub/blog/introducing-computer-multiagent</id>
+    <title>Introducing Computer's Multiagent effort level (4 minute read)</title>
+    <updated>2026-11-18T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Computer's Multiagent, a new effort level, enhances complex problem-solving by using multiple agents working in parallel.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-18"&gt;TLDR AI · 2026-11-18 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.perplexity.ai/hub/blog/introducing-computer-multiagent"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-18T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://jacobstrauss.bearblog.dev/experiments-in-weight-space-programming</id>
+    <title>Experiments in Weight-Space Programming (15 minute read)</title>
+    <updated>2026-11-18T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;GPT-6 Astra can look at an AI model, identify what task the network was built for just by looking at its raw weights, write the weights of a game-playing policy network from scratch, and improve models by editing model weights directly.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-18"&gt;TLDR AI · 2026-11-18 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://jacobstrauss.bearblog.dev/experiments-in-weight-space-programming/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-18T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://blogs.nvidia.com/blog/rubin-hpc</id>
     <title>NVIDIA's Rubin HPC (2 minute read)</title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-11-17T11:00:00+00:00</updated>
+  <updated>2026-11-18T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,176 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://playfulprogramming.com/posts/writable-derived-state</id>
+    <title>Writable Derived State: Stop Synchronizing State (4 minute read)</title>
+    <updated>2026-11-18T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Copying server data into React state with an effect can overwrite unsaved edits whenever a refetch completes. Keep user edits in separate nullable state and fall back to server data only when no edit exists, a pattern that also works with TanStack Query.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-18"&gt;TLDR Dev · 2026-11-18 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://playfulprogramming.com/posts/writable-derived-state"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-18T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://simonwillison.net/2026/Nov/17/datasette-lite</id>
+    <title>Running Datasette in the Browser with Service Workers and Pyodide (6 minute read)</title>
+    <updated>2026-11-18T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A rewrite of Datasette Lite uses service workers to serve the Python application's HTML, JavaScript, and CSS entirely in the browser. URL parameters select databases, plugins, Datasette revisions, and SQLite versions, making it possible to share bug reproductions and feature demos without hosting a server.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-18"&gt;TLDR Dev · 2026-11-18 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://simonwillison.net/2026/Nov/17/datasette-lite"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-18T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams</id>
+    <title>Should You Actually Add AI to That? (15 minute read)</title>
+    <updated>2026-11-18T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;An AI feature should return more value through reduced effort, fewer errors, or greater consistency than users spend adapting to and verifying it. A four-question audit checks total effort, performance against the existing method, whether users can catch errors, and whether they retain that judgment after prolonged use.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-18"&gt;TLDR Dev · 2026-11-18 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-18T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.com/addyosmani/status/2122590683055993308?a=S5WdDueZTW6NMfT57qc&amp;s=46</id>
+    <title>How the Claude Code Team Thinks About Verification (9 minute read)</title>
+    <updated>2026-11-18T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Claude Code team treats verification as running the changed system and collecting evidence, with end-to-end, property, and differential tests providing complementary checks. Its workflow keeps review rules outside the change being judged, runs cheap checks before shared CI, and turns recurring failures into rules evaluated against past incidents and stable changes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-18"&gt;TLDR Dev · 2026-11-18 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/addyosmani/status/2122590683055993308?a=S5WdDueZTW6NMfT57qc&amp;s=46"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-18T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://newsletter.posthog.com/p/decision-models</id>
+    <title>Not Everything Needs an LLM (7 minute read)</title>
+    <updated>2026-11-18T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;PostHog uses decision models to gate expensive LLM calls, route requests, and rerank search results with explicit probability scores. Its personal-information checks let 98.7% of session summaries skip a rewriting call, but thresholds need calibration for each task and model because false positives and false negatives carry different costs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-18"&gt;TLDR Dev · 2026-11-18 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.posthog.com/p/decision-models"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-18T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://naildrivin5.com/blog/2026/11/11/how-can-you-be-responsible-for-code-you-don-t-understand.html</id>
+    <title>How Can You Be Responsible for Code You Don't Understand? (5 minute read)</title>
+    <updated>2026-11-18T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Teams delegating all coding and review to AI gradually lose the familiarity and skills needed to maintain that code themselves. Treat accountability as responsibility for measurable system outcomes. Reversing an AI mandate will not instantly restore those skills.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-18"&gt;TLDR Dev · 2026-11-18 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://naildrivin5.com/blog/2026/11/11/how-can-you-be-responsible-for-code-you-don-t-understand.html"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-18T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://itsmeduncan.com/2026/11/17/only-the-human-merges</id>
+    <title>Only the Human Merges (4 minute read)</title>
+    <updated>2026-11-18T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Written instructions failed to stop agents from adding comments or merging changes, while server-enforced permissions stopped unauthorized merges. The workflow reserves prioritization, acceptance, and final decisions for a person, with agent reviews providing evidence rather than approval.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-18"&gt;TLDR Dev · 2026-11-18 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://itsmeduncan.com/2026/11/17/only-the-human-merges"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-18T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-18T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-18"&gt;TLDR Dev · 2026-11-18 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-18T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://vercel.com/blog/eve-is-now-generally-available</id>
+    <title>Introducing eve 1.0 (10 minute read)</title>
+    <updated>2026-11-18T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;eve is an open-source framework for durable agents with configurable models, tools, approvals, and memory. Its 1.0 release adds multiplayer sessions, broader framework integrations, and OpenTelemetry traces, with Workflow-based checkpointing allowing interrupted work to resume.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-18"&gt;TLDR Dev · 2026-11-18 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://vercel.com/blog/eve-is-now-generally-available"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-18T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.solidjs.com/blog/solid-2-0-the-long-hold</id>
+    <title>Solid 2.0: The Long Hold (8 minute read)</title>
+    <updated>2026-11-18T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Solid 2.0 brings promises and async iterators into its reactive graph, with server functions supporting request-response calls and persistent streams. Development diagnostics report reactive mistakes with stable codes, source locations, and repair guidance, helping people and coding agents detect problems that otherwise look like working applications.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-18"&gt;TLDR Dev · 2026-11-18 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.solidjs.com/blog/solid-2-0-the-long-hold/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-18T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://alloyhtml.com/</id>
+    <title>Alloy CSS (Website)</title>
+    <updated>2026-11-18T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Alloy provides a stylesheet for server-rendered HTML, including dialogs, menus, drawers, tabs, and toasts that work with JavaScript disabled. It uses native browser features, needs no build step, and includes a checker that flags classes outside its defined vocabulary.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-18"&gt;TLDR Dev · 2026-11-18 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://alloyhtml.com/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-18T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://developer.chrome.com/blog/modern-web-guidance-v1</id>
+    <title>Modern Web Guidance 1.0 (9 minute read)</title>
+    <updated>2026-11-18T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Modern Web Guidance supplies coding agents with expert-reviewed web practices and browser compatibility data, covering gaps in accessibility, performance, security, and user experience. Version 1.0 adds a codebase modernization workflow and public evaluations, with Firefox and Edge joining Chrome in supporting the project.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-18"&gt;TLDR Dev · 2026-11-18 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://developer.chrome.com/blog/modern-web-guidance-v1"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-18T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pietromiotti.com/latest/maya-site</id>
+    <title>My AI Agents (Re)discovered a Maya Site in 72 Hours (5 minute read)</title>
+    <updated>2026-11-18T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A group of 48 agents inspected images derived from public NASA lidar data and flagged a Maya site missing from Mexico's official register. A later literature check showed archaeologists had already mapped it in 2025, making this a rediscovery and exposing a gap in the agents' research.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-18"&gt;TLDR Dev · 2026-11-18 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://pietromiotti.com/latest/maya-site/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-18T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://browser.engineering/</id>
+    <title>Web Browser Engineering (Website)</title>
+    <updated>2026-11-18T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This free online book builds a browser in a few thousand lines of Python, progressing from HTTP and layout to JavaScript, compositing, accessibility, and security.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-18"&gt;TLDR Dev · 2026-11-18 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://browser.engineering/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-18T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch</id>
+    <title>jQuery 4.1.0 and 3.8.0 Released (6 minute read)</title>
+    <updated>2026-11-18T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;jQuery 4.1.0 adds form-associated custom element serialization and linear-time duplicate removal, while 3.8.0 is the final planned feature release before the 3.x branch moves to critical fixes only.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-18"&gt;TLDR Dev · 2026-11-18 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-18T10:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://oxc.rs/blog/2026-11-17-faster-type-aware-linting-with-tsrs</id>
+    <title>Faster Type-Aware Linting with tsrs (2 minute read)</title>
+    <updated>2026-11-18T10:59:45+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Oxlint's new tsrs backend shares TypeScript analysis between typechecking and type-aware linting.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-18"&gt;TLDR Dev · 2026-11-18 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://oxc.rs/blog/2026-11-17-faster-type-aware-linting-with-tsrs"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-18T10:59:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.com/GergelyOrosz/status/2122428797647769970</id>
+    <title>Inside Microsoft's Outage: A Latent Bug, Not AI-Written Code (2 minute read)</title>
+    <updated>2026-11-18T10:59:44+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;An account based on a Microsoft incident-team conversation attributes the outage to a months-old, human-written Windows change that saturated machines.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-18"&gt;TLDR Dev · 2026-11-18 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/GergelyOrosz/status/2122428797647769970"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-18T10:59:44+00:00</published>
+  </entry>
   <entry>
     <id>https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start</id>
     <title>Staggering Scroll-Driven Animations with animation-range-start (7 minute read)</title>

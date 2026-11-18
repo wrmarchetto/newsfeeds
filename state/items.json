@@ -20,6 +20,7 @@
   "ai/2026-11-13": "2026-11-13T17:45:45+00:00",
   "ai/2026-11-16": "2026-11-16T20:31:20+00:00",
   "ai/2026-11-17": "2026-11-17T19:11:49+00:00",
+  "ai/2026-11-18": "2026-11-18T18:52:34+00:00",
   "dev/2026-10-21": "2026-10-21T15:18:17+00:00",
   "dev/2026-10-22": "2026-10-22T15:19:00+00:00",
   "dev/2026-10-23": "2026-10-23T15:07:09+00:00",
@@ -40,6 +41,7 @@
   "dev/2026-11-13": "2026-11-13T17:45:42+00:00",
   "dev/2026-11-16": "2026-11-16T20:31:18+00:00",
   "dev/2026-11-17": "2026-11-17T19:11:46+00:00",
+  "dev/2026-11-18": "2026-11-18T18:52:31+00:00",
   "hardware/2026-10-21": "2026-10-21T15:18:22+00:00",
   "hardware/2026-10-23": "2026-10-23T15:07:14+00:00",
   "hardware/2026-10-26": "2026-10-26T16:48:41+00:00",
@@ -52,6 +54,7 @@
   "hardware/2026-11-11": "2026-11-11T17:54:47+00:00",
   "hardware/2026-11-13": "2026-11-13T17:45:47+00:00",
   "hardware/2026-11-16": "2026-11-16T20:31:23+00:00",
+  "hardware/2026-11-18": "2026-11-18T18:52:37+00:00",
   "tech/2026-10-21": "2026-10-21T15:18:15+00:00",
   "tech/2026-10-22": "2026-10-22T15:18:58+00:00",
   "tech/2026-10-23": "2026-10-23T15:07:07+00:00",
@@ -71,7 +74,8 @@
   "tech/2026-11-12": "2026-11-12T18:21:05+00:00",
   "tech/2026-11-13": "2026-11-13T17:45:40+00:00",
   "tech/2026-11-16": "2026-11-16T20:31:15+00:00",
-  "tech/2026-11-17": "2026-11-17T19:11:44+00:00"
+  "tech/2026-11-17": "2026-11-17T19:11:44+00:00",
+  "tech/2026-11-18": "2026-11-18T18:52:29+00:00"
  },
  "items": [
   {
@@ -5293,6 +5297,586 @@
    "summary_html": "<div class=\"newsletter-html\">OpenAI's computer-use agents streamline healthcare workflows by automating repetitive tasks like MRI authorizations and administrative processes.</div>",
    "title": "Advancing computer-use agents for healthcare teams (8 minute read)",
    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36?st=TA1XEe&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-18",
+   "position": 0,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">Jensen Huang says he is willing to return as Nvidia CEO if asked by the directors to do so. Huang has seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for him to return as CEO. He resigned from the company after admitting to extramarital affairs, including one with a suspected Chinese spy. President Trump said he would support Huang being reinstated and that he believed Huang had learned a big lesson.</div>",
+   "title": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO (6 minute read)",
+   "url": "https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36?st=TA1XEe&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.testingcatalog.com/openai-launches-gpt-6-2-astra-and-sol-on-chatgpt-and-apis",
+   "issue_date": "2026-11-18",
+   "position": 1,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI has launched a new model pair built for professional work. GPT-6.2 Astra is a frontier model designed to handle the hardest projects, and GPT-6.2 Sol is an efficient, versatile model for everyday tasks. Both models are now rolling out to Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex, and to developers through the API. Both models produce better results with fewer output tokens compared to previous releases, so users will be able to get more done with the same usage limits.</div>",
+   "title": "OpenAI launches GPT-6.2 Astra and Sol on ChatGPT and APIs (4 minute read)",
+   "url": "https://www.testingcatalog.com/openai-launches-gpt-6-2-astra-and-sol-on-chatgpt-and-apis/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow",
+   "issue_date": "2026-11-18",
+   "position": 2,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Zipline and Uber Eats have launched a commercial drone food delivery service in Spring, Texas. Drone delivery will be limited to participating restaurants at launch. The drones can carry orders that weigh up to eight pounds. They can fly at about 300 feet above the ground at speeds of up to 70 miles per hour. The companies plan to expand drone delivery to dozens of additional cities in the US by the end of 2029.</div>",
+   "title": "Uber and Zipline's drone delivery service takes off in Texas, with dozens of cities to follow (3 minute read)",
+   "url": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.wsj.com/business/energy-oil/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-dbd66d05?st=pcDNHv&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-18",
+   "position": 3,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Houston-based geothermal startup Quaise Energy plans to use its technology to vaporize stone, drill at superhot depths, and produce clean power. The company has signed a deal with Google valued at more than $500 million for 50 megawatts of power. Quaise is building a site in central Oregon. The electricity produced at the site will support Google's existing data center operations in the state.</div>",
+   "title": "Google Embraces Geothermal Technology to Vaporize Rock for Clean Power (3 minute read)",
+   "url": "https://www.wsj.com/business/energy-oil/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-dbd66d05?st=pcDNHv&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.approachwithalacrity.com/p/how-do-you-become-known-as-a-good",
+   "issue_date": "2026-11-18",
+   "position": 4,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">Being a good engineer requires more than just writing code all day. The best engineers are part of a network of experts who they can work together with or ask advice from. Larger networks enable them to do better work. Being well known has other benefits too, like not having to apply for jobs.</div>",
+   "title": "How do you become known as a good engineer? (11 minute read)",
+   "url": "https://www.approachwithalacrity.com/p/how-do-you-become-known-as-a-good"
+  },
+  {
+   "edition": "tech",
+   "id": "https://claude.dev/blog/chaos-loop-claude-docs-launch",
+   "issue_date": "2026-11-18",
+   "position": 5,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">Claude Docs was used to create over 4.6 million docs just 6 days after launch. Anthropic only saw 60 server errors across 2 billion requests, and it never had to roll back. The whole Docs service ran on about 50 memory-optimized pods. This article discusses how Anthropic used a chaos loop to harden Claude Docs at launch.</div>",
+   "title": "Using a \"chaos loop\" to harden the Claude Docs launch: 60 server errors across billions of requests (9 minute read)",
+   "url": "https://claude.dev/blog/chaos-loop-claude-docs-launch/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-18",
+   "position": 6,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR's AI community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "tech",
+   "id": "https://invertedpassion.substack.com/p/making-sense-of-recursive-self-improvement",
+   "issue_date": "2026-11-18",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">The rate of progress in AI R&amp;D has roughly doubled at Anthropic since October 2025. Most of the acceleration is attributed to Anthropic's own use of AI in R&amp;D. Recursive improvement in AI models is already happening. ASI will likely have unfathomably large improvements over the best human in verifiable domains and only fathomably large improvements in hard-to-verify domains.</div>",
+   "title": "Making sense of Recursive Self Improvement (17 minute read)",
+   "url": "https://invertedpassion.substack.com/p/making-sense-of-recursive-self-improvement"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
+   "issue_date": "2026-11-18",
+   "position": 8,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Outages disrupted Microsoft services, the FAA, JPMorgan Chase transactions, and Apple over four days. The Director of National Intelligence has dismissed suspicions that the outages were caused by malicious activity. Security researchers say that AI is accelerating vulnerability discovery. In response, businesses are patching more software vulnerabilities than ever before and updating systems, and the industry appears to be struggling to implement these updates without disrupting services.</div>",
+   "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything (4 minute read)",
+   "url": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote",
+   "issue_date": "2026-11-18",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Microsoft CEO Satya Nadella announced the general availability of Word, Excel, and PowerPoint inside Copilot on Tuesday.</div>",
+   "title": "Copilot is \u201cthe new OS for work,\u201d and now Office runs inside of it (3 minute read)",
+   "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://geohot.github.io//blog/jekyll/update/2026/11/18/my-empire-of-sunshine-and-roses.html",
+   "issue_date": "2026-11-18",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Nobody knows what a future with AI will look like, and the best we can hope for is fair markets.</div>",
+   "title": "My Empire of Sunshine and Roses (3 minute read)",
+   "url": "https://geohot.github.io//blog/jekyll/update/2026/11/18/my-empire-of-sunshine-and-roses.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.semafor.com/article/11/17/2026/some-nvidia-directors-push-to-bring-huang-back-despite-board-opposition",
+   "issue_date": "2026-11-18",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Former Nvidia CEO Jensen Huang has met with a number of tech executives and spoken with at least one board member about the possibility of his return.</div>",
+   "title": "Some Nvidia directors continue push to bring Huang back (1 minute read)",
+   "url": "https://www.semafor.com/article/11/17/2026/some-nvidia-directors-push-to-bring-huang-back-despite-board-opposition"
+  },
+  {
+   "edition": "tech",
+   "id": "https://vercel.com/blog/eve-is-now-generally-available",
+   "issue_date": "2026-11-18",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">eve is an open-source framework for building production-ready agents that can turn requests into tested pull requests and answer from business data.</div>",
+   "title": "Introducing eve 1.0 (10 minute read)",
+   "url": "https://vercel.com/blog/eve-is-now-generally-available"
+  },
+  {
+   "edition": "tech",
+   "id": "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories",
+   "issue_date": "2026-11-18",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Another Build File Service (ABFS), a full suite of software created by Google designed to address bottlenecks in Android development, is now open source on GitHub.</div>",
+   "title": "Accelerating development for massive Git repositories (11 minute read)",
+   "url": "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust",
+   "issue_date": "2026-11-18",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">curl is extremely well documented, so it was only a matter of time before someone used AI to rewrite the project in rust.</div>",
+   "title": "Actual curl rewrites in rust (4 minute read)",
+   "url": "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://playfulprogramming.com/posts/writable-derived-state",
+   "issue_date": "2026-11-18",
+   "position": 0,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Copying server data into React state with an effect can overwrite unsaved edits whenever a refetch completes. Keep user edits in separate nullable state and fall back to server data only when no edit exists, a pattern that also works with TanStack Query.</div>",
+   "title": "Writable Derived State: Stop Synchronizing State (4 minute read)",
+   "url": "https://playfulprogramming.com/posts/writable-derived-state"
+  },
+  {
+   "edition": "dev",
+   "id": "https://simonwillison.net/2026/Nov/17/datasette-lite",
+   "issue_date": "2026-11-18",
+   "position": 1,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">A rewrite of Datasette Lite uses service workers to serve the Python application's HTML, JavaScript, and CSS entirely in the browser. URL parameters select databases, plugins, Datasette revisions, and SQLite versions, making it possible to share bug reproductions and feature demos without hosting a server.</div>",
+   "title": "Running Datasette in the Browser with Service Workers and Pyodide (6 minute read)",
+   "url": "https://simonwillison.net/2026/Nov/17/datasette-lite"
+  },
+  {
+   "edition": "dev",
+   "id": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams",
+   "issue_date": "2026-11-18",
+   "position": 2,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">An AI feature should return more value through reduced effort, fewer errors, or greater consistency than users spend adapting to and verifying it. A four-question audit checks total effort, performance against the existing method, whether users can catch errors, and whether they retain that judgment after prolonged use.</div>",
+   "title": "Should You Actually Add AI to That? (15 minute read)",
+   "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://x.com/addyosmani/status/2122590683055993308?a=S5WdDueZTW6NMfT57qc&s=46",
+   "issue_date": "2026-11-18",
+   "position": 3,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">The Claude Code team treats verification as running the changed system and collecting evidence, with end-to-end, property, and differential tests providing complementary checks. Its workflow keeps review rules outside the change being judged, runs cheap checks before shared CI, and turns recurring failures into rules evaluated against past incidents and stable changes.</div>",
+   "title": "How the Claude Code Team Thinks About Verification (9 minute read)",
+   "url": "https://x.com/addyosmani/status/2122590683055993308?a=S5WdDueZTW6NMfT57qc&s=46"
+  },
+  {
+   "edition": "dev",
+   "id": "https://newsletter.posthog.com/p/decision-models",
+   "issue_date": "2026-11-18",
+   "position": 4,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">PostHog uses decision models to gate expensive LLM calls, route requests, and rerank search results with explicit probability scores. Its personal-information checks let 98.7% of session summaries skip a rewriting call, but thresholds need calibration for each task and model because false positives and false negatives carry different costs.</div>",
+   "title": "Not Everything Needs an LLM (7 minute read)",
+   "url": "https://newsletter.posthog.com/p/decision-models"
+  },
+  {
+   "edition": "dev",
+   "id": "https://naildrivin5.com/blog/2026/11/11/how-can-you-be-responsible-for-code-you-don-t-understand.html",
+   "issue_date": "2026-11-18",
+   "position": 5,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Teams delegating all coding and review to AI gradually lose the familiarity and skills needed to maintain that code themselves. Treat accountability as responsibility for measurable system outcomes. Reversing an AI mandate will not instantly restore those skills.</div>",
+   "title": "How Can You Be Responsible for Code You Don't Understand? (5 minute read)",
+   "url": "https://naildrivin5.com/blog/2026/11/11/how-can-you-be-responsible-for-code-you-don-t-understand.html"
+  },
+  {
+   "edition": "dev",
+   "id": "https://itsmeduncan.com/2026/11/17/only-the-human-merges",
+   "issue_date": "2026-11-18",
+   "position": 6,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Written instructions failed to stop agents from adding comments or merging changes, while server-enforced permissions stopped unauthorized merges. The workflow reserves prioritization, acceptance, and final decisions for a person, with agent reviews providing evidence rather than approval.</div>",
+   "title": "Only the Human Merges (4 minute read)",
+   "url": "https://itsmeduncan.com/2026/11/17/only-the-human-merges"
+  },
+  {
+   "edition": "dev",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-18",
+   "position": 7,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR's AI community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "dev",
+   "id": "https://vercel.com/blog/eve-is-now-generally-available",
+   "issue_date": "2026-11-18",
+   "position": 8,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">eve is an open-source framework for durable agents with configurable models, tools, approvals, and memory. Its 1.0 release adds multiplayer sessions, broader framework integrations, and OpenTelemetry traces, with Workflow-based checkpointing allowing interrupted work to resume.</div>",
+   "title": "Introducing eve 1.0 (10 minute read)",
+   "url": "https://vercel.com/blog/eve-is-now-generally-available"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.solidjs.com/blog/solid-2-0-the-long-hold",
+   "issue_date": "2026-11-18",
+   "position": 9,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Solid 2.0 brings promises and async iterators into its reactive graph, with server functions supporting request-response calls and persistent streams. Development diagnostics report reactive mistakes with stable codes, source locations, and repair guidance, helping people and coding agents detect problems that otherwise look like working applications.</div>",
+   "title": "Solid 2.0: The Long Hold (8 minute read)",
+   "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://alloyhtml.com/",
+   "issue_date": "2026-11-18",
+   "position": 10,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Alloy provides a stylesheet for server-rendered HTML, including dialogs, menus, drawers, tabs, and toasts that work with JavaScript disabled. It uses native browser features, needs no build step, and includes a checker that flags classes outside its defined vocabulary.</div>",
+   "title": "Alloy CSS (Website)",
+   "url": "https://alloyhtml.com/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://developer.chrome.com/blog/modern-web-guidance-v1",
+   "issue_date": "2026-11-18",
+   "position": 11,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Modern Web Guidance supplies coding agents with expert-reviewed web practices and browser compatibility data, covering gaps in accessibility, performance, security, and user experience. Version 1.0 adds a codebase modernization workflow and public evaluations, with Firefox and Edge joining Chrome in supporting the project.</div>",
+   "title": "Modern Web Guidance 1.0 (9 minute read)",
+   "url": "https://developer.chrome.com/blog/modern-web-guidance-v1"
+  },
+  {
+   "edition": "dev",
+   "id": "https://pietromiotti.com/latest/maya-site",
+   "issue_date": "2026-11-18",
+   "position": 12,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">A group of 48 agents inspected images derived from public NASA lidar data and flagged a Maya site missing from Mexico's official register. A later literature check showed archaeologists had already mapped it in 2025, making this a rediscovery and exposing a gap in the agents' research.</div>",
+   "title": "My AI Agents (Re)discovered a Maya Site in 72 Hours (5 minute read)",
+   "url": "https://pietromiotti.com/latest/maya-site/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://browser.engineering/",
+   "issue_date": "2026-11-18",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">This free online book builds a browser in a few thousand lines of Python, progressing from HTTP and layout to JavaScript, compositing, accessibility, and security.</div>",
+   "title": "Web Browser Engineering (Website)",
+   "url": "https://browser.engineering/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch",
+   "issue_date": "2026-11-18",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">jQuery 4.1.0 adds form-associated custom element serialization and linear-time duplicate removal, while 3.8.0 is the final planned feature release before the 3.x branch moves to critical fixes only.</div>",
+   "title": "jQuery 4.1.0 and 3.8.0 Released (6 minute read)",
+   "url": "https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch"
+  },
+  {
+   "edition": "dev",
+   "id": "https://oxc.rs/blog/2026-11-17-faster-type-aware-linting-with-tsrs",
+   "issue_date": "2026-11-18",
+   "position": 15,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Oxlint's new tsrs backend shares TypeScript analysis between typechecking and type-aware linting.</div>",
+   "title": "Faster Type-Aware Linting with tsrs (2 minute read)",
+   "url": "https://oxc.rs/blog/2026-11-17-faster-type-aware-linting-with-tsrs"
+  },
+  {
+   "edition": "dev",
+   "id": "https://x.com/GergelyOrosz/status/2122428797647769970",
+   "issue_date": "2026-11-18",
+   "position": 16,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">An account based on a Microsoft incident-team conversation attributes the outage to a months-old, human-written Windows change that saturated machines.</div>",
+   "title": "Inside Microsoft's Outage: A Latent Bug, Not AI-Written Code (2 minute read)",
+   "url": "https://x.com/GergelyOrosz/status/2122428797647769970"
+  },
+  {
+   "edition": "ai",
+   "id": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "issue_date": "2026-11-18",
+   "position": 0,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI released GPT-6.2 Astra, a frontier model for the hardest projects, and GPT-6.2 Sol, an efficient everyday model. Both are available now in ChatGPT Work, Codex, and the API.</div>",
+   "title": "Introducing GPT-6.2 Astra and Sol (14 minute read)",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://microsoft.ai/news/microsoft-ignite-2026",
+   "issue_date": "2026-11-18",
+   "position": 1,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Microsoft AI released seven new models built for strong performance at low prices. Its MAI Code 2 coding model, now in GitHub Copilot, reaches 98% of GPT-6.1 Sol's coding quality at about 40% of the price. The lineup also covers cybersecurity, image editing, and real-time voice.</div>",
+   "title": "Microsoft's Seven New Models (4 minute read)",
+   "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://replit.com/blog/introducing-replit-missions",
+   "issue_date": "2026-11-18",
+   "position": 2,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Replit launched Missions, a tool for coordinating swarms of AI agents to tackle complex projects like winning enterprise clients or developing software, within specified budgets. Their mission-built DataCat, an application monitoring platform that achieved faster performance benchmarks and surpassed a competing platform in API compatibility tests. This system enables small teams to pursue ambitious projects by defining goals and constraints, while agents execute tasks, providing businesses with a foundation for innovation at scale.</div>",
+   "title": "Introducing Replit Missions (8 minute read)",
+   "url": "https://replit.com/blog/introducing-replit-missions"
+  },
+  {
+   "edition": "ai",
+   "id": "https://horizon-labs.ai/",
+   "issue_date": "2026-11-18",
+   "position": 3,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Horizon is an agent based on Opus 5.5. Researchers gave it full access to a blank Hugging Face account and compute with the main goal of enabling real adoption on Hugging Face. Horizon used over 600 GPU hours and autonomously created 38 models. These models are now housed in over 100 GitHub repositories and have been downloaded more than 50,000 times.</div>",
+   "title": "Horizon Labs (12 minute read)",
+   "url": "https://horizon-labs.ai/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://notesbylex.com/weight-space-programming-1990s.html",
+   "issue_date": "2026-11-18",
+   "position": 4,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Frontier models can read, write, and edit the weights of neural networks. This could present new ways to train networks. This researcher ran a weight-writing experiment with Claude Fable 5.2 on a familiar image classification problem. The way the model worked resembled the work of researchers from the 1990s, who used hand-crafted, pre-deep-learning techniques.</div>",
+   "title": "Weight-Space Programming builds neural networks like a 1990s researcher (20 minute read)",
+   "url": "https://notesbylex.com/weight-space-programming-1990s.html"
+  },
+  {
+   "edition": "ai",
+   "id": "https://vercel.com/blog/eve-is-now-generally-available",
+   "issue_date": "2026-11-18",
+   "position": 5,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Vercel released eve 1.0, its open-source framework for building production-ready AI agents. It manages the loop that calls models and runs tools, along with memory, approvals, and monitoring.</div>",
+   "title": "Vercel's eve 1.0 (10 minute read)",
+   "url": "https://vercel.com/blog/eve-is-now-generally-available"
+  },
+  {
+   "edition": "ai",
+   "id": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference",
+   "issue_date": "2026-11-18",
+   "position": 6,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">NVIDIA's sparse attention technique reduces compute and memory costs for transformers, solving bottlenecks in long-context inference by focusing on selective attention. Indexers in sparse attention score a subset of keys efficiently, aided by techniques like speculative decoding, cross-head reduction, and block-level selection to optimize performance on NVIDIA GPUs.</div>",
+   "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference (17 minute read)",
+   "url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-18",
+   "position": 7,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR's AI community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "ai",
+   "id": "https://runta.com/blog/introducing-frontierharness-eval-v1-1",
+   "issue_date": "2026-11-18",
+   "position": 8,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">The best coding-agent harness, the software that runs a model on a task, depends on the model. Harness choice alone can change cost per task by up to five times.</div>",
+   "title": "FrontierHarness Eval v1.1 (14 minute read)",
+   "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+   "issue_date": "2026-11-18",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Cerebras' disaggregated inference service lets GPUs handle prompt processing while the company's systems handle output generation. The solution delivers five times more tokens per megawatt at the same ultrafast speeds. It allows Cerebras and partners to serve many more ultrafast tokens. Disaggregated inference is now in early access, and access is being expanded.</div>",
+   "title": "Cerebras launches disaggregated inference (6 minute read)",
+   "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
+  },
+  {
+   "edition": "ai",
+   "id": "https://blog.redwoodresearch.org/p/how-should-we-define-capabilities",
+   "issue_date": "2026-11-18",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">There is an urgent need to pace the frontier. This requires good, publicly verified measures of how much compute is being spent on pushing the frontier forward. Anthropic has already published estimates of how much of its AI R&amp;D is safety research. AI developers should let third-party auditors measure and report how much compute AI companies are allocating to capabilities and non-capabilities activities.</div>",
+   "title": "How should we define \u201ccapabilities activities\u201d for the purpose of pacing? (21 minute read)",
+   "url": "https://blog.redwoodresearch.org/p/how-should-we-define-capabilities"
+  },
+  {
+   "edition": "ai",
+   "id": "https://commandline.microsoft.com/microsoft-decision-model-ga",
+   "issue_date": "2026-11-18",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Microsoft's decision models are designed to make calibrated decisions in the face of uncertainty across a wide range of real-world software use cases.</div>",
+   "title": "Microsoft-Decision-1.1 is now generally available for fast, low-cost decision making (34 minute read)",
+   "url": "https://commandline.microsoft.com/microsoft-decision-model-ga/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
+   "issue_date": "2026-11-18",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Google's Gemini app can now handle tasks like calling businesses, booking appointments, and shopping within a spending limit.</div>",
+   "title": "Gemini Can Now Make Calls and Pay Bills (6 minute read)",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.perplexity.ai/hub/blog/introducing-computer-multiagent",
+   "issue_date": "2026-11-18",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Computer's Multiagent, a new effort level, enhances complex problem-solving by using multiple agents working in parallel.</div>",
+   "title": "Introducing Computer's Multiagent effort level (4 minute read)",
+   "url": "https://www.perplexity.ai/hub/blog/introducing-computer-multiagent"
+  },
+  {
+   "edition": "ai",
+   "id": "https://jacobstrauss.bearblog.dev/experiments-in-weight-space-programming",
+   "issue_date": "2026-11-18",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">GPT-6 Astra can look at an AI model, identify what task the network was built for just by looking at its raw weights, write the weights of a game-playing policy network from scratch, and improve models by editing model weights directly.</div>",
+   "title": "Experiments in Weight-Space Programming (15 minute read)",
+   "url": "https://jacobstrauss.bearblog.dev/experiments-in-weight-space-programming/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo",
+   "issue_date": "2026-11-18",
+   "position": 0,
+   "section": "Headlines and Launches",
+   "summary_html": "<div class=\"newsletter-html\">In his first statement since resigning, Jensen Huang said he made serious mistakes, will cooperate with the board's independent investigation, and would return if the board decides it serves shareholders and the company. Nvidia has formed an executive committee to oversee export control compliance, and Huang will testify before Congress on December 1. A source on Nvidia's board told the Washington Post that there are no plans to reinstate him, and one senator called the idea among the worst he'd heard.</div>",
+   "title": "Jensen Huang says he would be \u201chonored\u201d to return as Nvidia CEO if the board decides it is in the company's best interest (2 minute read)",
+   "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+   "issue_date": "2026-11-18",
+   "position": 1,
+   "section": "Headlines and Launches",
+   "summary_html": "<div class=\"newsletter-html\">Nvidia's Q3 revenue hit $115.8 billion, with data center up 110% to $107.6 billion and Vera Rubin NVL72 racks shipping to CoreWeave, Google Cloud, Azure, Oracle, and Nebius. Q4 guidance of $130 billion, plus or minus 3%, assumes no China data center compute revenue, and gross margin dips to 71% to 72%. On the call, board chair Harvey Jones said the board does not intend to reinstate Jensen Huang, and a search firm is leading the CEO hunt.</div>",
+   "title": "Nvidia guides Q4 to $130B with no China data center revenue as Vera Rubin ramps, and the board rules out Huang's return (3 minute read)",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://backplane.works/",
+   "issue_date": "2026-11-18",
+   "position": 2,
+   "section": "Engineering and Applications",
+   "summary_html": "<div class=\"newsletter-html\">Agents drive KiCad directly through kicad_ipc and kicad-cli instead of rewriting files, so every board stays human-editable. Persistent bots run in threads with memory, routines, and webhooks. The built-in KiStack adds 11 auto-updating skills for schematics, placement, layout, panelization, BOMs, and fab outputs, with the export skill running ERC and DRC and generating gerbers, drill, pick-and-place, STEP, and renders. The demo is an STM32N657 SoM, and it ships with a 199-footprint library.</div>",
+   "title": "Backplane is an alpha, open-source KiCad fork where AI agents design boards through KiCad's IPC and CLI (1 minute read)",
+   "url": "https://backplane.works/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link",
+   "issue_date": "2026-11-18",
+   "position": 3,
+   "section": "Engineering and Applications",
+   "summary_html": "<div class=\"newsletter-html\">Powercore uses silicon carbide power electronics to replace the low-voltage inverters and oil-filled iron-core transformer in a solar or battery site. It's rated 7.4 MW (9 MVA) continuous at 34.5 kV with grid-forming support up to 10 MVA peak, made in the US, operating in 2027. That's about 50% more than the 5 MW Heron Link from ex-Tesla exec Drew Baglino's startup, which claims 98.6% efficiency, a Morgan Hill factory, and customers like Vantage and Intersect. Tesla hasn't shared efficiency or pricing.</div>",
+   "title": "Tesla's Powercore packs transformer, inverter, and breaker into one 7.4 MW solid-state unit, taking on Heron Link (3 minute read)",
+   "url": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.bloomberg.com/news/articles/2026-11-17/sequoia-greenoaks-lead-isomorphic-lab-s-5-billion-funding-round?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDk3MjM4MiwiZXhwIjoxNzk1NTc3MTgyLCJhcnRpY2xlSWQiOiJUT05BN0ZLR1pBSVowMCIsImJjb25uZWN0SWQiOiI0NUZGMzc2RThENDg0NzYxQTkwQ0JEMzc4OTMzQjg2RiJ9.nqsCLKSsAax3Gumj8Z-XHnAeTYquyxTCH0cSllfp66s%3Futm_source%3Dtldrhardware",
+   "issue_date": "2026-11-18",
+   "position": 4,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">The Alphabet-backed company raised a Series C co-led by Greenoaks and Sequoia, six months after a $2.1 billion Series B, and Bloomberg earlier reported a roughly $50 billion valuation. The money funds IsoDDE, its proprietary design engine, plus new foundational biology models and its first therapeutic programs moving toward clinical trials. Isomorphic reports positive preclinical results in oncology and immunology, with partners including Eli Lilly, Novartis, and Johnson &amp; Johnson.</div>",
+   "title": "Isomorphic Labs raises $5B to scale its IsoDDE drug-design engine and foundational biology models toward clinical trials (2 minute read)",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-17/sequoia-greenoaks-lead-isomorphic-lab-s-5-billion-funding-round?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDk3MjM4MiwiZXhwIjoxNzk1NTc3MTgyLCJhcnRpY2xlSWQiOiJUT05BN0ZLR1pBSVowMCIsImJjb25uZWN0SWQiOiI0NUZGMzc2RThENDg0NzYxQTkwQ0JEMzc4OTMzQjg2RiJ9.nqsCLKSsAax3Gumj8Z-XHnAeTYquyxTCH0cSllfp66s%3Futm_source%3Dtldrhardware"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://phys.org/news/2026-11-quantum-teleportation-method-weaker-entanglement.html",
+   "issue_date": "2026-11-18",
+   "position": 5,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">Teleporting a protected qubit between quantum processors needs a good-enough entanglement link, and below a certain quality it fails. By balancing the two kinds of errors in the code, researchers made their 125-qubit chip tolerate a much weaker link, raising the threshold from 0.122\u03c0 to 0.175\u03c0. Theory suggests even very weak entanglement could eventually work, which would make linking error-corrected quantum computers easier.</div>",
+   "title": "A 125-qubit chip teleports an error-corrected qubit using weaker entanglement than expected (3 minute read)",
+   "url": "https://phys.org/news/2026-11-quantum-teleportation-method-weaker-entanglement.html"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.theregister.com/systems/2026/11/16/marvell-and-penguin-solutions-aim-to-end-the-rampocalypse-with-photonic-memory-fabric/5309921",
+   "issue_date": "2026-11-18",
+   "position": 6,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Marvell's module, from its $3.5B Celestial AI acquisition, stacks 72 GB of HBM3e and eight DDR5 channels on a silicon photonic interposer with 900 GB/s bidirectional bandwidth. Penguin's box holds 16 modules behind a 57.6 Tbps optical shuffle, serving up to 16 servers over NICs or CPO and NPO optics, bypassing CXL for the optical modes. An HBM cache-through mode gives HBM speed with DDR5 capacity, aimed at KV cache offload, with systems due in the second half of next year.</div>",
+   "title": "Marvell and Penguin's photonic memory appliance pools 16 TB of DDR5 and 1 TB of HBM across 16 servers over optical links (3 minute read)",
+   "url": "https://www.theregister.com/systems/2026/11/16/marvell-and-penguin-solutions-aim-to-end-the-rampocalypse-with-photonic-memory-fabric/5309921"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order",
+   "issue_date": "2026-11-18",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">California's DMV restricted Waymo's freeway operations on November 11 after three robotaxis entered an active construction closure on US-101 near Burlingame and a separate incident involved CHP vehicles on Highway 280. The DMV calls it an imminent hazard, since similar incidents on May 18 led to a prior restriction and fixes. Waymo has halted freeway service in every market while it evaluates performance, and surface-street rides, over half a million trips a week, continue. The restriction will stay until the DMV sees effective corrective action.</div>",
+   "title": "Waymo halts freeway rides in all 15 cities after California DMV cites recurring construction-zone incursions (3 minute read)",
+   "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex",
+   "issue_date": "2026-11-18",
+   "position": 8,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">ULA says the solid boosters were nominal and the problem began in the first stage, while Centaur's RL-10C engines did their job but couldn't make up the loss.</div>",
+   "title": "ULA says Vulcan's first-stage booster lost performance, and Centaur couldn't recover, as investigators weigh the BE-4 (3 minute read)",
+   "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.reuters.com/business/finance/french-robot-maker-genesis-raises-500-million-35-billion-valuation-2026-11-17",
+   "issue_date": "2026-11-18",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Eno skips the humanoid form for three card-like body segments on a rotating wheeled base, and Genesis designs its own actuators, motors, gearboxes, and hands while running on Nvidia chips.</div>",
+   "title": "Genesis AI raises $500M at $3.5B to build Eno, a headless wheeled robot with in-house actuators, gearboxes, and hands (3 minute read)",
+   "url": "https://www.reuters.com/business/finance/french-robot-maker-genesis-raises-500-million-35-billion-valuation-2026-11-17/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta",
+   "issue_date": "2026-11-18",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The feature uses the outer display's ordinary camera instead of Face ID hardware, so it only unlocks the closed phone and still needs Touch ID after about 45 minutes or for Apple Pay.</div>",
+   "title": "iPhone Duo's thin foldable body has no room for a TrueDepth array, so Apple adds front-camera face unlock in iOS 27.3 beta 2 (2 minute read)",
+   "url": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta"
   }
  ]
 }

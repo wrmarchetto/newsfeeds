@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/tech.xml</id>
   <title>TLDR</title>
-  <updated>2026-11-17T11:00:00+00:00</updated>
+  <updated>2026-11-18T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36?st=TA1XEe&amp;amp%3Breflink=desktopwebshare_permalink&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO (6 minute read)</title>
+    <updated>2026-11-18T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Jensen Huang says he is willing to return as Nvidia CEO if asked by the directors to do so. Huang has seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for him to return as CEO. He resigned from the company after admitting to extramarital affairs, including one with a suspected Chinese spy. President Trump said he would support Huang being reinstated and that he believed Huang had learned a big lesson.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-18"&gt;TLDR · 2026-11-18 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36?st=TA1XEe&amp;amp%3Breflink=desktopwebshare_permalink&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-18T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.testingcatalog.com/openai-launches-gpt-6-2-astra-and-sol-on-chatgpt-and-apis</id>
+    <title>OpenAI launches GPT-6.2 Astra and Sol on ChatGPT and APIs (4 minute read)</title>
+    <updated>2026-11-18T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI has launched a new model pair built for professional work. GPT-6.2 Astra is a frontier model designed to handle the hardest projects, and GPT-6.2 Sol is an efficient, versatile model for everyday tasks. Both models are now rolling out to Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex, and to developers through the API. Both models produce better results with fewer output tokens compared to previous releases, so users will be able to get more done with the same usage limits.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-18"&gt;TLDR · 2026-11-18 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.testingcatalog.com/openai-launches-gpt-6-2-astra-and-sol-on-chatgpt-and-apis/"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-18T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow</id>
+    <title>Uber and Zipline's drone delivery service takes off in Texas, with dozens of cities to follow (3 minute read)</title>
+    <updated>2026-11-18T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Zipline and Uber Eats have launched a commercial drone food delivery service in Spring, Texas. Drone delivery will be limited to participating restaurants at launch. The drones can carry orders that weigh up to eight pounds. They can fly at about 300 feet above the ground at speeds of up to 70 miles per hour. The companies plan to expand drone delivery to dozens of additional cities in the US by the end of 2029.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-18"&gt;TLDR · 2026-11-18 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-18T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wsj.com/business/energy-oil/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-dbd66d05?st=pcDNHv&amp;amp%3Breflink=desktopwebshare_permalink&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>Google Embraces Geothermal Technology to Vaporize Rock for Clean Power (3 minute read)</title>
+    <updated>2026-11-18T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Houston-based geothermal startup Quaise Energy plans to use its technology to vaporize stone, drill at superhot depths, and produce clean power. The company has signed a deal with Google valued at more than $500 million for 50 megawatts of power. Quaise is building a site in central Oregon. The electricity produced at the site will support Google's existing data center operations in the state.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-18"&gt;TLDR · 2026-11-18 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/business/energy-oil/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-dbd66d05?st=pcDNHv&amp;amp%3Breflink=desktopwebshare_permalink&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-18T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.approachwithalacrity.com/p/how-do-you-become-known-as-a-good</id>
+    <title>How do you become known as a good engineer? (11 minute read)</title>
+    <updated>2026-11-18T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Being a good engineer requires more than just writing code all day. The best engineers are part of a network of experts who they can work together with or ask advice from. Larger networks enable them to do better work. Being well known has other benefits too, like not having to apply for jobs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-18"&gt;TLDR · 2026-11-18 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.approachwithalacrity.com/p/how-do-you-become-known-as-a-good"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-18T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.dev/blog/chaos-loop-claude-docs-launch</id>
+    <title>Using a "chaos loop" to harden the Claude Docs launch: 60 server errors across billions of requests (9 minute read)</title>
+    <updated>2026-11-18T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Claude Docs was used to create over 4.6 million docs just 6 days after launch. Anthropic only saw 60 server errors across 2 billion requests, and it never had to roll back. The whole Docs service ran on about 50 memory-optimized pods. This article discusses how Anthropic used a chaos loop to harden Claude Docs at launch.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-18"&gt;TLDR · 2026-11-18 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://claude.dev/blog/chaos-loop-claude-docs-launch/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-18T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-18T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-18"&gt;TLDR · 2026-11-18 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-18T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://invertedpassion.substack.com/p/making-sense-of-recursive-self-improvement</id>
+    <title>Making sense of Recursive Self Improvement (17 minute read)</title>
+    <updated>2026-11-18T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The rate of progress in AI R&amp;amp;D has roughly doubled at Anthropic since October 2025. Most of the acceleration is attributed to Anthropic's own use of AI in R&amp;amp;D. Recursive improvement in AI models is already happening. ASI will likely have unfathomably large improvements over the best human in verifiable domains and only fathomably large improvements in hard-to-verify domains.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-18"&gt;TLDR · 2026-11-18 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://invertedpassion.substack.com/p/making-sense-of-recursive-self-improvement"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-18T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html</id>
+    <title>Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything (4 minute read)</title>
+    <updated>2026-11-18T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Outages disrupted Microsoft services, the FAA, JPMorgan Chase transactions, and Apple over four days. The Director of National Intelligence has dismissed suspicions that the outages were caused by malicious activity. Security researchers say that AI is accelerating vulnerability discovery. In response, businesses are patching more software vulnerabilities than ever before and updating systems, and the industry appears to be struggling to implement these updates without disrupting services.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-18"&gt;TLDR · 2026-11-18 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-18T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote</id>
+    <title>Copilot is “the new OS for work,” and now Office runs inside of it (3 minute read)</title>
+    <updated>2026-11-18T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Microsoft CEO Satya Nadella announced the general availability of Word, Excel, and PowerPoint inside Copilot on Tuesday.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-18"&gt;TLDR · 2026-11-18 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-18T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://geohot.github.io//blog/jekyll/update/2026/11/18/my-empire-of-sunshine-and-roses.html</id>
+    <title>My Empire of Sunshine and Roses (3 minute read)</title>
+    <updated>2026-11-18T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Nobody knows what a future with AI will look like, and the best we can hope for is fair markets.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-18"&gt;TLDR · 2026-11-18 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://geohot.github.io//blog/jekyll/update/2026/11/18/my-empire-of-sunshine-and-roses.html"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-18T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.semafor.com/article/11/17/2026/some-nvidia-directors-push-to-bring-huang-back-despite-board-opposition</id>
+    <title>Some Nvidia directors continue push to bring Huang back (1 minute read)</title>
+    <updated>2026-11-18T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Former Nvidia CEO Jensen Huang has met with a number of tech executives and spoken with at least one board member about the possibility of his return.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-18"&gt;TLDR · 2026-11-18 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.semafor.com/article/11/17/2026/some-nvidia-directors-push-to-bring-huang-back-despite-board-opposition"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-18T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://vercel.com/blog/eve-is-now-generally-available</id>
+    <title>Introducing eve 1.0 (10 minute read)</title>
+    <updated>2026-11-18T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;eve is an open-source framework for building production-ready agents that can turn requests into tested pull requests and answer from business data.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-18"&gt;TLDR · 2026-11-18 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://vercel.com/blog/eve-is-now-generally-available"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-18T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://developers.googleblog.com/accelerating-development-for-massive-git-repositories</id>
+    <title>Accelerating development for massive Git repositories (11 minute read)</title>
+    <updated>2026-11-18T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Another Build File Service (ABFS), a full suite of software created by Google designed to address bottlenecks in Android development, is now open source on GitHub.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-18"&gt;TLDR · 2026-11-18 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-18T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust</id>
+    <title>Actual curl rewrites in rust (4 minute read)</title>
+    <updated>2026-11-18T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;curl is extremely well documented, so it was only a matter of time before someone used AI to rewrite the project in rust.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-18"&gt;TLDR · 2026-11-18 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-18T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram</id>
     <title>Meta is testing Direct, a standalone messaging app for Instagram (2 minute read)</title>
