@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-11-18T11:00:00+00:00</updated>
+  <updated>2026-11-19T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,186 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://jimmyhmiller.com/magic-of-partial-evaluation</id>
+    <title>The Magic of Partial Evaluation (12 minute read)</title>
+    <updated>2026-11-19T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Partial evaluation executes the parts of a program whose inputs are already known and leaves specialized code for the remaining work. This post has examples that build from arithmetic and schema validation to the Futamura projections, showing how specializing an interpreter can produce compiled programs and even a compiler.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-19"&gt;TLDR Dev · 2026-11-19 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://jimmyhmiller.com/magic-of-partial-evaluation"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-19T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://piccalil.li/blog/understanding-css-random</id>
+    <title>Understanding CSS random() (15 minute read)</title>
+    <updated>2026-11-19T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;CSS random() can give elements distinct values that stay consistent across breakpoints and animations. This worked example explains how cache keys, property positions, and explicit scopes determine whether random values are shared, regenerated, or fixed for debugging.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-19"&gt;TLDR Dev · 2026-11-19 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://piccalil.li/blog/understanding-css-random/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-19T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://cloud.google.com/blog/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system</id>
+    <title>Sashiko: Lessons from Building an Agentic Code Review System for Linux (10 minute read)</title>
+    <updated>2026-11-19T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Sashiko separates specialist bug discovery from verification, requiring code evidence for both findings and dismissals. Its review pipeline gathers surrounding context, investigates uncertain cases individually, and publishes its reasoning, with production data showing a correlation between clean reviews and fewer follow-up fixes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-19"&gt;TLDR Dev · 2026-11-19 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://cloud.google.com/blog/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-19T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://evilmartians.com/chronicles/we-stopped-a-railway-migration-3-weeks-out-how-to-know-to-stop-or-go</id>
+    <title>We Stopped a Railway Migration Three Weeks Out (10 minute read)</title>
+    <updated>2026-11-19T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A production migration was canceled after database import times and operational constraints made the cutover too difficult to predict. The retrospective argues for pricing recovery, observability, storage limits, and maintenance work alongside compute, while noting that its import runs were not a controlled within-tier benchmark.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-19"&gt;TLDR Dev · 2026-11-19 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://evilmartians.com/chronicles/we-stopped-a-railway-migration-3-weeks-out-how-to-know-to-stop-or-go"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-19T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://jonathannen.com/codebase-is-the-harness</id>
+    <title>The Codebase Is the Harness (2 minute read)</title>
+    <updated>2026-11-19T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Agent tooling, instructions, review processes, and product code can evolve together inside one repository. One workflow uses session recordings to diagnose user-facing bugs and then updates instructions after fixes, with a person still setting the broader direction.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-19"&gt;TLDR Dev · 2026-11-19 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://jonathannen.com/codebase-is-the-harness"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-19T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://brooker.co.za/blog/2026/11/18/workload-mix.html</id>
+    <title>Traffic Mix Matters (2 minute read)</title>
+    <updated>2026-11-19T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A load test can miss production failures when it reproduces request volume without reproducing workload distribution. Interactive simulations show key concentration reducing throughput in a lock-based system but improving it in a cached system, so the same skew can move performance in opposite directions.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-19"&gt;TLDR Dev · 2026-11-19 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://brooker.co.za/blog/2026/11/18/workload-mix.html"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-19T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://factory.mastra.ai/</id>
+    <title>Mastra Factory (Website)</title>
+    <updated>2026-11-19T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Mastra Factory is an open-source software factory that turns repository issues into plans, implementations, and reviewed pull requests. Teams configure the stages, skills, and approvals, with options to use Mastra's platform, run the server locally, or self-host the supporting infrastructure.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-19"&gt;TLDR Dev · 2026-11-19 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://factory.mastra.ai/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-19T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon</id>
+    <title>Introducing Gemini 4 Neon (10 minute read)</title>
+    <updated>2026-11-19T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Gemini 4 Neon targets faster end-to-end coding, analytical, and agent workflows with a one-million-token context window and four thinking levels. Google prices it at $3 per million input tokens and $15 per million output tokens, with rollout through the Gemini API, enterprise products, Antigravity, and paid Gemini app plans.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-19"&gt;TLDR Dev · 2026-11-19 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-19T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://searchbrowser.app/</id>
+    <title>Search Browser (Website)</title>
+    <updated>2026-11-19T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Search is a free, open-source Mac browser built on the WebKit engine already supplied by macOS. It combines spaces, pinned tabs, reading mode, and built-in blocking. The Chrome Web Store extension requires macOS 15.4 or later.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-19"&gt;TLDR Dev · 2026-11-19 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://searchbrowser.app/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-19T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-19T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-19"&gt;TLDR Dev · 2026-11-19 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-19T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long</id>
+    <title>Why Is Gemini 4 Carbon Taking So Long? (5 minute read)</title>
+    <updated>2026-11-19T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Traces from a private bug-fixing evaluation attribute Carbon's long runtimes to slower inference, unnecessary investigation, and repeated file reads. About half its steps addressed work outside the tickets, while periodic check-ins shortened one trial from 37 to 28 minutes, suggesting that stopping behavior contributes to the gap.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-19"&gt;TLDR Dev · 2026-11-19 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-19T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/advancing-chip-design-with-our-models</id>
+    <title>Advancing Chip Design with OpenAI Models (5 minute read)</title>
+    <updated>2026-11-19T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI reports model-written RTL improvements across its Jalapeño chip and AMD designs, including up to 14% improvement in power, performance, and area relative to heavily optimized GPU baselines. Separate RISC-V evaluations found stronger results when models were designed from specifications, though omitted features and simplified timing checks limit how directly those scores transfer to production.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-19"&gt;TLDR Dev · 2026-11-19 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openai.com/index/advancing-chip-design-with-our-models/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-19T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering</id>
+    <title>LLM-Assisted Reverse Engineering (7 minute read)</title>
+    <updated>2026-11-19T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This reverse-engineering workflow combines agents with Ghidra, command-line disassemblers, runtime debugging, and persistent notes. When static analysis stalls, it shifts to one recorded hypothesis at a time, using probes or logs to prove or disprove explanations instead of letting the agent keep guessing.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-19"&gt;TLDR Dev · 2026-11-19 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-19T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://developers.cloudflare.com/changelog/post/2026-11-17-release-candidate</id>
+    <title>Cloudflare CLI 1.0 Release Candidate (5 minute read)</title>
+    <updated>2026-11-19T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The cf release candidate stabilizes its configuration and build formats while adding features such as live JSON log streams, deployment previews, and temporary accounts that can be claimed later.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-19"&gt;TLDR Dev · 2026-11-19 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://developers.cloudflare.com/changelog/post/2026-11-17-release-candidate"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-19T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model</id>
+    <title>Gemini 4 Neon Looks Like an Opus 5.5 Competitor (2 minute read)</title>
+    <updated>2026-11-19T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;An Agent Duel model projects Neon near Opus 5.5 by combining Carbon-level quality with faster generation, but the estimate is a speed-based projection with a wide uncertainty interval rather than a measured Neon leaderboard result.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-19"&gt;TLDR Dev · 2026-11-19 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-19T10:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</id>
+    <title>Unauthenticated Remote Code Execution in NGINX (12 minute read)</title>
+    <updated>2026-11-19T10:59:45+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Two critical HTTP/2 memory-safety flaws can allow unauthenticated code execution in affected NGINX deployments.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-19"&gt;TLDR Dev · 2026-11-19 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-19T10:59:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://polypane.app/blog/polypane-32-automation-webmcp-panel-speculation-rule-insights-and-chromium-160</id>
+    <title>Polypane 32 (17 minute read)</title>
+    <updated>2026-11-19T10:59:44+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Polypane 32 adds MCP and CLI automation for multi-viewport testing and accessibility checks, plus a panel for inspecting and validating WebMCP tools.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-19"&gt;TLDR Dev · 2026-11-19 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://polypane.app/blog/polypane-32-automation-webmcp-panel-speculation-rule-insights-and-chromium-160"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-19T10:59:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.dbos.dev/blog/workflow-suspend</id>
+    <title>How to Give Millions of Workflows Quality Sleep (3 minute read)</title>
+    <updated>2026-11-19T10:59:43+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;DBOS suspends waiting workflows into database records instead of retaining threads or memory, then uses indexed deadlines and notifications to resume them from checkpoints.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-19"&gt;TLDR Dev · 2026-11-19 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.dbos.dev/blog/workflow-suspend"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-19T10:59:43+00:00</published>
+  </entry>
   <entry>
     <id>https://playfulprogramming.com/posts/writable-derived-state</id>
     <title>Writable Derived State: Stop Synchronizing State (4 minute read)</title>
