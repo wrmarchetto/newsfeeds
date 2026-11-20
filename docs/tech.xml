@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/tech.xml</id>
   <title>TLDR</title>
-  <updated>2026-11-19T11:00:00+00:00</updated>
+  <updated>2026-11-20T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.wsj.com/business/media/just-how-big-is-grand-theft-auto-vi-the-multibillion-dollar-frenzy-in-charts-7c6a3893?st=HU1vvY&amp;amp%3Breflink=desktopwebshare_permalink&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>Just How Big Is ‘Grand Theft Auto VI'? The Multibillion-Dollar Frenzy in Charts (4 minute read)</title>
+    <updated>2026-11-20T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;GTA VI is widely expected to be the biggest-ever launch for a video game. Estimates project that more than 30 million copies will be sold by the end of Rockstar Games' fiscal year in March. The game cost an estimated $1.4 billion to make. Presales for the game were at $1.65 billion as of Wednesday. The previous installment has sold nearly 230 million copies and generated $10.78 billion of revenue since its 2013 launch.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-20"&gt;TLDR · 2026-11-20 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/business/media/just-how-big-is-grand-theft-auto-vi-the-multibillion-dollar-frenzy-in-charts-7c6a3893?st=HU1vvY&amp;amp%3Breflink=desktopwebshare_permalink&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-20T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTE1Mjg1OSwiZXhwIjoxNzk1NzU3NjU5LCJhcnRpY2xlSWQiOiJUT1I5MEtLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.DNgJTKuQu7QIBBw3KLL5QMx5EfNQt2XAf4UlPajQr2U&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding (4 minute read)</title>
+    <updated>2026-11-20T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Apple is developing an autonomous AI agent that can get things done on behalf of users similar to offerings by OpenAI, Anthropic, Meta, and others. The company is currently seeking a senior engineering manager for a proactive, agentic AI assistant that can write code, browse the web, control apps, and navigate devices on a user's behalf. Apple is working on agents that can plan and carry out multi-step tasks across apps, browsers, command lines, code, and APIs while coordinating specialized subagents along the way. The company's App Store has been dominated by AI agents, so it has introduced a new warning in the upcoming macOS 27.3 update that prompts users to reconsider granting third-party agents permission to control their Macs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-20"&gt;TLDR · 2026-11-20 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTE1Mjg1OSwiZXhwIjoxNzk1NzU3NjU5LCJhcnRpY2xlSWQiOiJUT1I5MEtLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.DNgJTKuQu7QIBBw3KLL5QMx5EfNQt2XAf4UlPajQr2U&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-20T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains</id>
+    <title>Google turns to Blue Origin for a rocket, but its long-term problem remains (4 minute read)</title>
+    <updated>2026-11-20T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Blue Origin's New Glenn rocket will launch data center satellites for Google in 2029. Google's Project Suncatcher program is a long-term moonshot that aims to scale AI infrastructure in space by tapping into solar power. Its satellites each have the computing capacity of roughly the scale of a data center rack. The mission on New Glenn will deploy satellites into a Sun-synchronous orbit, where they will be able to receive nearly continuous solar energy.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-20"&gt;TLDR · 2026-11-20 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-20T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo</id>
+    <title>Spacecraft reaches Mercury on second-ever mission to enter its orbit (4 minute read)</title>
+    <updated>2026-11-20T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The BepiColombo mission is now preparing to swing into orbit around Mercury. The joint European-Japanese space mission aims to help scientists understand how Mercury formed so close to the Sun, why it has a magnetic field, and what makes up the frozen ice under the planet's permanently shadowed craters. The spacecraft will separate into two orbiters in early December. The orbiters will maneuver to different polar orbits around the planet, and science operations will begin in April next year.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-20"&gt;TLDR · 2026-11-20 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-20T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dylanamartin.com/2026/11/19/moving-into-ai-product-engineering.html</id>
+    <title>Moving into AI Product Engineering (7 minute read)</title>
+    <updated>2026-11-20T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The move from product engineering into AI product engineering is not that big of a change. Success in any engineering role requires you to understand systems, failure modes, and how to prove correctness, and these skills transfer. This article shares lessons learned and advice from someone who made the transition at PostHog.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-20"&gt;TLDR · 2026-11-20 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://dylanamartin.com/2026/11/19/moving-into-ai-product-engineering.html"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-20T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-20T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-20"&gt;TLDR · 2026-11-20 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-20T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.postgresql.org/about/news/postgresql-19-released-3449</id>
+    <title>PostgreSQL 19 Released! (11 minute read)</title>
+    <updated>2026-11-20T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;PostgreSQL 19 simplifies both administration and development for mission-critical workloads at scale. The release introduces the `REPACK (CONCURRENTLY)` command, which enables users to optimize tables for their current workload without disruption to ongoing operations. It also gives users better control over plan stability and query performance with the new pg_plan_advice extension. PostgreSQL 19 gives users new ways to manage their workloads without disruption and build applications that span multiple systems.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-20"&gt;TLDR · 2026-11-20 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.postgresql.org/about/news/postgresql-19-released-3449/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-20T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://asteriskmag.substack.com/p/the-most-important-number-in-ai</id>
+    <title>The most important number in AI (42 minute read)</title>
+    <updated>2026-11-20T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Epoch Capabilities Index (ECI) is a measure of AI progress developed by Epoch AI, a nonprofit research organization. It provides a single number that summarizes how well AI models do on benchmarks. It is designed to be continuously updatable, and researchers can use it to look at trends going back years and forecast things for future models. This post covers how the ECI is constructed, the challenges of benchmark selection, whether it makes sense to talk about 'model IQ', whether static benchmarks stay relevant as models get better, and much more.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-20"&gt;TLDR · 2026-11-20 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://asteriskmag.substack.com/p/the-most-important-number-in-ai"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-20T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.astralcodexten.com/p/the-ai-forecasting-agenda</id>
+    <title>The AI Forecasting Agenda (21 minute read)</title>
+    <updated>2026-11-20T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI forecasters now equal or beat top human performance at traditional forecasting questions. Researchers now need to study how this success decays as the technology is applied to different types of non-traditional forecasting questions. This post looks at how AI performs in other types of forecasting.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-20"&gt;TLDR · 2026-11-20 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.astralcodexten.com/p/the-ai-forecasting-agenda"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-20T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://serce.me/posts/2026-11-19-how-to-become-a-10x-engineer-in-2027-and-beyond</id>
+    <title>How to Be a 10x Engineer in 2027 and Beyond (6 minute read)</title>
+    <updated>2026-11-20T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Identify opportunities that were previously too expensive, too difficult, or simply impossible to pursue, and make them happen.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-20"&gt;TLDR · 2026-11-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://serce.me/posts/2026-11-19-how-to-become-a-10x-engineer-in-2027-and-beyond"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-20T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering</id>
+    <title>LLM-assisted reverse engineering (8 minute read)</title>
+    <updated>2026-11-20T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI has helped significantly speed up the process of hacking both hardware and software.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-20"&gt;TLDR · 2026-11-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-20T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer</id>
+    <title>A game you cannot win unless you have a quantum computer (11 minute read)</title>
+    <updated>2026-11-20T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The magic square game demonstrates the potential power of contextuality.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-20"&gt;TLDR · 2026-11-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-20T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://curiousbits.nl/blog/do-not-buy-ram-compress</id>
+    <title>Do not buy RAM, compress! (4 minute read)</title>
+    <updated>2026-11-20T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Compressing memory requires more CPU and adds latency to some processes, but it results in gigantic amounts of extra capacity.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-20"&gt;TLDR · 2026-11-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://curiousbits.nl/blog/do-not-buy-ram-compress/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-20T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html</id>
+    <title>Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI (37 minute read)</title>
+    <updated>2026-11-20T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic's stock closed at $97.17 per share yesterday after debuting on the Nasdaq at $111.50.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-20"&gt;TLDR · 2026-11-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-20T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://restofworld.org/2026/ai-jobs-skills-gig-work</id>
+    <title>AI isn't replacing your job. It's turning it into low-paid gig work (7 minute read)</title>
+    <updated>2026-11-20T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Data companies are now paying medical professionals to generate and annotate data, rank model answers, and verify model outputs&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-20"&gt;TLDR · 2026-11-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://restofworld.org/2026/ai-jobs-skills-gig-work/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-20T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html</id>
     <title>Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX (5 minute read)</title>

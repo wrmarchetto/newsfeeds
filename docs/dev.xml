@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-11-19T11:00:00+00:00</updated>
+  <updated>2026-11-20T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,166 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</id>
+    <title>How OpenAI's Performance Factory Keeps ChatGPT Fast (15 minute read)</title>
+    <updated>2026-11-20T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;When ChatGPT slows down, one Codex session investigates and a second tries to rule out its explanation before a fix is proposed. In one case, the reviewer reopened an investigation after noticing that the service blamed for failed image downloads had already recovered while the downloads were still failing. Engineers decide what ships, and Codex checks whether performance returns to baseline after deployment.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-20"&gt;TLDR Dev · 2026-11-20 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-20T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://stripe.dev/blog/stripe-integration-evals-methodology?amp%3Butm_medium=community</id>
+    <title>Stripe Evals for Real-World Coding Agent Performance (13 minute read)</title>
+    <updated>2026-11-20T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Stripe tested coding agents on one-time payments, subscriptions, and Connect integrations. Agents met 78.1% of required criteria on average, but only 29.4% of runs met every required criterion. All 14 agent setups scored higher with Stripe's plugin.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-20"&gt;TLDR Dev · 2026-11-20 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://stripe.dev/blog/stripe-integration-evals-methodology?amp%3Butm_medium=community"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-20T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://zerodha.tech/blog/high-performance-distributed-blob-storage</id>
+    <title>Distributed, High-Performance Blob Storage on SQLite (12 minute read)</title>
+    <updated>2026-11-20T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Zerodha built Blobasaur, a Redis-compatible store that shards compressed UI preferences across SQLite files and batches writes per shard. In a memory-backed benchmark with 64 KiB JSON payloads, moving from one shard to 16 raised write throughput from about 7,700 to 25,300 operations per second. Cluster slots are configured statically, with offline resharding and no automatic failover.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-20"&gt;TLDR Dev · 2026-11-20 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://zerodha.tech/blog/high-performance-distributed-blob-storage/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-20T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://developer.chrome.com/blog/top-10-things-ai-gets-wrong-in-web-dev</id>
+    <title>Top 10 Things AI Gets Wrong in Web Development (10 minute read)</title>
+    <updated>2026-11-20T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Coding agents passed 52% of Chrome's web development checks on their own and 91% with Modern Web Guidance installed. Common misses included restoring keyboard focus when a dialog closes, respecting reduced-motion preferences during smooth scrolling, and reserving space for content that loads later.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-20"&gt;TLDR Dev · 2026-11-20 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://developer.chrome.com/blog/top-10-things-ai-gets-wrong-in-web-dev"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-20T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://engineering.atspotify.com/2026/11/when-can-you-ship-on-offline-evals-alone</id>
+    <title>When Can You Ship on Offline Evals Alone? (10 minute read)</title>
+    <updated>2026-11-20T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Spotify explores when offline AI evaluations can support a launch decision without an A/B test. In its working example, measurement noise makes the offline eval appear to explain 24% of the variance in online effects when the modeled value is 60%. The proposed rule sends borderline changes to A/B tests and randomly audits some other decisions to detect drift.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-20"&gt;TLDR Dev · 2026-11-20 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://engineering.atspotify.com/2026/11/when-can-you-ship-on-offline-evals-alone"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-20T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.postgresql.org/about/news/postgresql-19-released-3449</id>
+    <title>PostgreSQL 19 Released (6 minute read)</title>
+    <updated>2026-11-20T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;PostgreSQL 19 introduces concurrent table repacking to reclaim space while reads and writes continue. It also lets applications wait for a standby to replay a specific write and return an existing row directly when an insert conflicts, simplifying get-or-create queries.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-20"&gt;TLDR Dev · 2026-11-20 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.postgresql.org/about/news/postgresql-19-released-3449/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-20T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust</id>
+    <title>Meet the New Docker, Built to Run on Trust (5 minute read)</title>
+    <updated>2026-11-20T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Docker unveiled a new brand focused on running AI agents with isolation and oversight. The announcement points to Docker Sandboxes for isolated coding environments and Docker AI Governance for managing agent access and activity.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-20"&gt;TLDR Dev · 2026-11-20 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-20T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/replit/datacat</id>
+    <title>DataCat (GitHub Repo)</title>
+    <updated>2026-11-20T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Replit's self-hosted observability stack collects metrics, logs, and distributed traces and provides dashboards and alerts. It accepts OpenTelemetry and Datadog-compatible traffic, with PostgreSQL as the default store and ClickHouse as an option for telemetry.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-20"&gt;TLDR Dev · 2026-11-20 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/replit/datacat"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-20T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR’s AI community (2 minute form)</title>
+    <updated>2026-11-20T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-20"&gt;TLDR Dev · 2026-11-20 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-20T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline</id>
+    <title>Rebuilding My Voice Assistant Pipeline (6 minute read)</title>
+    <updated>2026-11-20T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Platypush swaps in microWakeWord for wake-word detection and uses Silero with an adaptive noise floor to tell when someone has finished speaking. In synthetic tests with background chatter and bursts of noise, the old pipeline waited 6 to 10 seconds after the last word, while the new one waited 1 to 1.6 seconds.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-20"&gt;TLDR Dev · 2026-11-20 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-20T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://maxmart.github.io/posts/chrome-old-ip-after-hosts-file-edit</id>
+    <title>Why Chrome Still Uses the Old IP After You Edit Your Hosts File (4 minute read)</title>
+    <updated>2026-11-20T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Chrome can reuse a connection to the old IP after a hosts file edit because it pools connections by hostname and port. A used socket can stay open for five idle minutes, and flushing Chrome's socket pools forces a fresh lookup but also closes unrelated connections in the same profile.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-20"&gt;TLDR Dev · 2026-11-20 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://maxmart.github.io/posts/chrome-old-ip-after-hosts-file-edit/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-20T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://davenporter.com/writings/agent-harnesses-cheap-to-swap-behavior-isnt</id>
+    <title>Coding Harnesses Are Cheap to Swap Now. Model Behavior Isn't. (5 minute read)</title>
+    <updated>2026-11-20T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Hosted agent APIs and shared formats make harnesses easier to swap, while model choices still change how agents work. With the same repository instructions and tools, Gemini queried a code graph while Claude generally searched from the shell, illustrating why teams should retest behavior after a model swap.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-20"&gt;TLDR Dev · 2026-11-20 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://davenporter.com/writings/agent-harnesses-cheap-to-swap-behavior-isnt"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-20T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://git-aarvin.github.io/mei</id>
+    <title>Models Engineering Index (Website)</title>
+    <updated>2026-11-20T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The index combines public engineering benchmark results to rank language models and lets you compare their scores against cost and token usage.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-20"&gt;TLDR Dev · 2026-11-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://git-aarvin.github.io/mei/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-20T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://xusheng.dev/posts/windows-coding-agent-telemetry</id>
+    <title>Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use (7 minute read)</title>
+    <updated>2026-11-20T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A Windows 11 component records which coding agents and categories of developer tools have run, with reports that include usage flags for tools like Codex and categories like compilers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-20"&gt;TLDR Dev · 2026-11-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://xusheng.dev/posts/windows-coding-agent-telemetry/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-20T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/pmndre/pine</id>
+    <title>PINE, a Reactive Harness for Agents (GitHub Repo)</title>
+    <updated>2026-11-20T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;PINE is an open-source agent harness for macOS and Linux that responds to events such as file changes, webhooks, and Telegram messages.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-20"&gt;TLDR Dev · 2026-11-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/pmndre/pine"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-20T10:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://firebase.blog/posts/2026/11/crashlytics-web-public-preview</id>
+    <title>Crashlytics for Web Is Now in Public Preview (3 minute read)</title>
+    <updated>2026-11-20T10:59:45+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Firebase Crashlytics can now group browser JavaScript errors and alert teams when a new issue appears or a fixed one returns.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-20"&gt;TLDR Dev · 2026-11-20 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://firebase.blog/posts/2026/11/crashlytics-web-public-preview"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-20T10:59:45+00:00</published>
+  </entry>
   <entry>
     <id>https://jimmyhmiller.com/magic-of-partial-evaluation</id>
     <title>The Magic of Partial Evaluation (12 minute read)</title>
