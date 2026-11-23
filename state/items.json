@@ -20,6 +20,7 @@
   "ai/2026-11-18": "2026-11-18T18:52:34+00:00",
   "ai/2026-11-19": "2026-11-19T19:00:44+00:00",
   "ai/2026-11-20": "2026-11-20T18:38:19+00:00",
+  "ai/2026-11-23": "2026-11-23T22:03:49+00:00",
   "dev/2026-10-26": "2026-10-26T16:48:36+00:00",
   "dev/2026-10-27": "2026-10-27T15:54:01+00:00",
   "dev/2026-10-28": "2026-10-28T16:40:12+00:00",
@@ -40,6 +41,7 @@
   "dev/2026-11-18": "2026-11-18T18:52:31+00:00",
   "dev/2026-11-19": "2026-11-19T19:00:42+00:00",
   "dev/2026-11-20": "2026-11-20T18:38:16+00:00",
+  "dev/2026-11-23": "2026-11-23T22:03:47+00:00",
   "hardware/2026-10-26": "2026-10-26T16:48:41+00:00",
   "hardware/2026-10-28": "2026-10-28T16:40:17+00:00",
   "hardware/2026-10-30": "2026-10-30T16:42:41+00:00",
@@ -52,6 +54,7 @@
   "hardware/2026-11-16": "2026-11-16T20:31:23+00:00",
   "hardware/2026-11-18": "2026-11-18T18:52:37+00:00",
   "hardware/2026-11-20": "2026-11-20T18:38:21+00:00",
+  "hardware/2026-11-23": "2026-11-23T22:03:51+00:00",
   "tech/2026-10-26": "2026-10-26T16:48:34+00:00",
   "tech/2026-10-27": "2026-10-27T15:53:59+00:00",
   "tech/2026-10-28": "2026-10-28T16:40:10+00:00",
@@ -71,7 +74,8 @@
   "tech/2026-11-17": "2026-11-17T19:11:44+00:00",
   "tech/2026-11-18": "2026-11-18T18:52:29+00:00",
   "tech/2026-11-19": "2026-11-19T19:00:40+00:00",
-  "tech/2026-11-20": "2026-11-20T18:38:14+00:00"
+  "tech/2026-11-20": "2026-11-20T18:38:14+00:00",
+  "tech/2026-11-23": "2026-11-23T22:03:44+00:00"
  },
  "items": [
   {
@@ -5403,6 +5407,576 @@
    "summary_html": "<div class=\"newsletter-html\">The IEA projects data centers going from about 120 GW today to roughly 1,000 TWh a year by 2030.</div>",
    "title": "IEA says datacenter electricity use doubles by 2030 while US gas and Chinese coal push emissions up 70% (3 minute read)",
    "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns"
+  },
+  {
+   "edition": "tech",
+   "id": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view",
+   "issue_date": "2026-11-23",
+   "position": 0,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">The release notes for Tesla's Full Self-Driving v15 read like a list of the feature's biggest current weaknesses. The update includes improvements to sign detection, potholes, and speed handling in school zones. It also adds an impressive-looking live visualization. FSD can now slow down for speed cameras. The update is currently being rolled out.</div>",
+   "title": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes (10 minute read)",
+   "url": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.wsj.com/tech/ai/anthropic-mathematician-says-claude-has-solved-the-most-famous-problem-in-math-9361920b?st=F4ennL&reflink=desktopwebshare_permalink",
+   "issue_date": "2026-11-23",
+   "position": 1,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">An Anthropic researcher claims he worked with AI to discover a proof of the Riemann Hypothesis. The conjecture in number theory predicts how primes are distributed. Mathematicians have been trying to crack it for 167 years, without success. The researcher's proof passed verification with proof-checking software.</div>",
+   "title": "Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math (5 minute read)",
+   "url": "https://www.wsj.com/tech/ai/anthropic-mathematician-says-claude-has-solved-the-most-famous-problem-in-math-9361920b?st=F4ennL&reflink=desktopwebshare_permalink"
+  },
+  {
+   "edition": "tech",
+   "id": "https://new.life.com/stories-details/neuralink-noland-arbaugh-cover-story",
+   "issue_date": "2026-11-23",
+   "position": 2,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Neuralink has increased the rate of surgeries and extended its clinical trials to Canada and the UK. The first participants in the company's studies now hold video chats with new participants to coach them on how to adjust to the technology. The terms of their trials don't include the option for upgrades. Unless Neuralink comes up with a commercial device, they will have to return to their pre-cyborg lives.</div>",
+   "title": "The Merge (58 minute read)",
+   "url": "https://new.life.com/stories-details/neuralink-noland-arbaugh-cover-story"
+  },
+  {
+   "edition": "tech",
+   "id": "https://combine-lab.github.io/blog/2026/11/22/ai-bio-data.html",
+   "issue_date": "2026-11-23",
+   "position": 3,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">How far AI gets in biology will depend largely on how much data we have. It will also depend on what is measured and the quality of that data. An abundance of systematically incomplete measurements is unlikely to lead to a comprehensive understanding of many of the complex systems that occur in biology. AI will likely become a powerful tool that will contribute to the study of biology, but there is still no clear path to documenting a comprehensive account of how a whole cell or tissue works.</div>",
+   "title": "AI x Bio is not _just_ a data problem (14 minute read)",
+   "url": "https://combine-lab.github.io/blog/2026/11/22/ai-bio-data.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://ankitg.me/blog/vibecoding-inference-chip",
+   "issue_date": "2026-11-23",
+   "position": 4,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">AI allows developers to work in entirely new domains by giving them access to new programming languages and paradigms. This developer vibe-coded an FPGA into running an LLM. The article details the experience. The experiment shows what is now possible with a large token budget and interesting problems to point them at.</div>",
+   "title": "Vibecoding an inference chip (22 minute read)",
+   "url": "https://ankitg.me/blog/vibecoding-inference-chip/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-23",
+   "position": 5,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR's AI community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.nikolasgoebel.com/2026/11/22/informal-verification.html",
+   "issue_date": "2026-11-23",
+   "position": 6,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">Verification is an exercise in building trust. A formal approach may be sufficient, but not necessary. This post explores the use of System One models as informal proof checkers. Informal methods can play a complementary role in establishing trust in agentic software engineering flows.</div>",
+   "title": "Informal Verification (12 minute read)",
+   "url": "https://www.nikolasgoebel.com/2026/11/22/informal-verification.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://blog.karthiktadepalli.com/p/asi-2027",
+   "issue_date": "2026-11-23",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">The industry seems to have a preference towards believing in extremely short timelines. We are probably about 60% of the way towards superintelligence relative to where we were in 2022. Superintelligence will likely arrive in 2029 rather than in 2027. While this seems like a tiny difference, it changes what the industry should prioritize. The current push towards deprioritizing 'long-timeline' work is not a good idea.</div>",
+   "title": "I don't expect superintelligence in 2027 (12 minute read)",
+   "url": "https://blog.karthiktadepalli.com/p/asi-2027"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?st=15h1mX&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-23",
+   "position": 8,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Li Ming, a 52-year-old Chinese national, was reportedly a central operator of a web of companies that smuggled restricted Nvidia AI chips to China. The web included Megaspeed, a Singapore-based company led by Alice Huang, with whom Jensen Huang had an affair. Li is currently out on bail in Singapore, living in a luxury villa down the street from the Chinese embassy. Li was charged with fraud in February 2025 in a case tied to the alleged transshipment of Nvidia chips. His criminal case is ongoing.</div>",
+   "title": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China (6 minute read)",
+   "url": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?st=15h1mX&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://lethain.com/passing-100-prs-in-a-week",
+   "issue_date": "2026-11-23",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">While many of the merged PRs are simple, the increase in production is a sign of how the fundamentals of software development have changed.</div>",
+   "title": "Shipping 100+ PRs to production in a week (12 minute read)",
+   "url": "https://lethain.com/passing-100-prs-in-a-week/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://manassaloi.com/2026/11/21/why-china-won-ai-video.html",
+   "issue_date": "2026-11-23",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">More than 95% of new micro dramas released in China are now made with AI.</div>",
+   "title": "Why China Won AI Video (11 minute read)",
+   "url": "https://manassaloi.com/2026/11/21/why-china-won-ai-video.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+   "issue_date": "2026-11-23",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The researchers discovered an ecosystem that leaked highly sensitive data like a sieve.</div>",
+   "title": "Researchers plant 2m canaries into the AI supply chain. A privacy disaster surfaced (9 minute read)",
+   "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://tufalabs.ai/research/tufazip",
+   "issue_date": "2026-11-23",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">This researcher compressed one billion bytes of Wikipedia into 105,388,353 bytes, including the offline-trained weights and decoder, using a 12-layer, 163M-parameter Transformer initialized from a 34M-parameter offline model quantized to 4.33 MB.</div>",
+   "title": "tufazip: Learning to Compress a Billion Bytes of Wikipedia (27 minute read)",
+   "url": "https://tufalabs.ai/research/tufazip/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://danielmiessler.com/blog/autonomous-media-2027",
+   "issue_date": "2026-11-23",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">AI voices and AI video are getting good, and this will have serious impacts on media.</div>",
+   "title": "Autonomous Media in 2027? (4 minute read)",
+   "url": "https://danielmiessler.com/blog/autonomous-media-2027"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.bloomberg.com/news/articles/2026-11-20/microsoft-to-pay-top-cloud-workers-more-crack-down-on-others?srnd=phx-technology&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-23",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Employees who receive top marks will get additional stock awards, while workers with lower results will have formal meetings with their managers.</div>",
+   "title": "Microsoft to Pay Top Cloud Workers More, Crack Down on Others (3 minute read)",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-20/microsoft-to-pay-top-cloud-workers-more-crack-down-on-others?srnd=phx-technology&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "dev",
+   "id": "https://danholloran.me/posts/streaming-llm-responses-tokens-arrive-faster-than-you-should-render-them",
+   "issue_date": "2026-11-23",
+   "position": 0,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Give your streaming relay explicit completion and error events, and abort upstream generation when the client disconnects. Buffer incoming tokens and render at most once per animation frame so the browser can keep up.</div>",
+   "title": "Streaming LLM Responses Without Rendering Every Token (3 minute read)",
+   "url": "https://danholloran.me/posts/streaming-llm-responses-tokens-arrive-faster-than-you-should-render-them"
+  },
+  {
+   "edition": "dev",
+   "id": "https://aleahim.com/blog/swiftui-has-no-list",
+   "issue_date": "2026-11-23",
+   "position": 1,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Runtime inspection found that SwiftUI's List wraps NSOutlineView on macOS and UICollectionView on iPhone and iPad. SwiftUI still computes its own diffs and hosts each row in a SwiftUI view, so using the same underlying container leaves room for different update costs.</div>",
+   "title": "SwiftUI Doesn't Have a List. It Wraps Someone Else's (14 minute read)",
+   "url": "https://aleahim.com/blog/swiftui-has-no-list/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://newsletter.chainofthought.show/p/the-state-of-agent-memory-how-it",
+   "issue_date": "2026-11-23",
+   "position": 2,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Persistent memory can feed stale facts back to an agent after circumstances change. This piece covers background passes that review and rewrite stored memories and asks how systems should handle corrections, forgetting, and portability.</div>",
+   "title": "Your AI Agent Remembers Everything. That's the Problem (19 minute read)",
+   "url": "https://newsletter.chainofthought.show/p/the-state-of-agent-memory-how-it"
+  },
+  {
+   "edition": "dev",
+   "id": "https://x.com/alexandr_wang/status/2124636606959345776",
+   "issue_date": "2026-11-23",
+   "position": 3,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">A reported AI-assisted proof of the Riemann hypothesis is a sign that superintelligence is approaching. The industry should build AI that expands human agency and keeps people in control.</div>",
+   "title": "Superintelligence Is Arriving (2 minute read)",
+   "url": "https://x.com/alexandr_wang/status/2124636606959345776"
+  },
+  {
+   "edition": "dev",
+   "id": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post",
+   "issue_date": "2026-11-23",
+   "position": 4,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Open by telling readers who needs to pay attention so everyone else can move on. In Slack or Teams, put the essentials in the first three to five lines and leave the details in the thread.</div>",
+   "title": "Assume People Are Not Interested in Your Blog Post (1 minute read)",
+   "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://thinkingmachines.ai/news/inkling-2-mini",
+   "issue_date": "2026-11-23",
+   "position": 5,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Thinking Machines Lab released an open-weight model that runs its middle layers three times per token and uses about 20 GB of memory. The lab reports a 48.2% score on DeepSWE v1.1, with evaluation setups varying across models.</div>",
+   "title": "Introducing Inkling 2 Mini (18 minute read)",
+   "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/croffasia/itsaplan",
+   "issue_date": "2026-11-23",
+   "position": 6,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">It's a Plan is a self-hosted issue tracker where teams can assign work to AI agents alongside human teammates. Agents have their own roles and permissions, and an assignment, mention, or schedule can start a run.</div>",
+   "title": "It's a Plan (GitHub Repo)",
+   "url": "https://github.com/croffasia/itsaplan"
+  },
+  {
+   "edition": "dev",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-23",
+   "position": 7,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR's AI community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "dev",
+   "id": "https://kamathhrishi.substack.com/p/i-analyzed-the-ai-stack-used-by-40000",
+   "issue_date": "2026-11-23",
+   "position": 8,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">An analysis of vendor disclosures found that 44.8% of companies naming an AI model provider listed at least two. Anthropic and OpenAI led the counts, while routers grew fastest over the month studied, driven mainly by OpenRouter.</div>",
+   "title": "I Analyzed the AI Stack Used by 40,000+ Companies (5 minute read)",
+   "url": "https://kamathhrishi.substack.com/p/i-analyzed-the-ai-stack-used-by-40000"
+  },
+  {
+   "edition": "dev",
+   "id": "https://openai.com/index/perplexity-and-intelligence",
+   "issue_date": "2026-11-23",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI reports that log perplexity on its held-out dataset fell from about 0.99 for GPT-3.5 to 0.91 for GPT-4. It proposes using perplexity alongside other measures to set shared safety thresholds, while acknowledging that different evaluation datasets make cross-lab comparisons difficult.</div>",
+   "title": "Perplexity and Intelligence (7 minute read)",
+   "url": "https://openai.com/index/perplexity-and-intelligence/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://dennisforbes.ca/blog/2026/11/reading_a_chess_board_from_a_picture",
+   "issue_date": "2026-11-23",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">This browser demo reconstructs a chess position from a screenshot in about a quarter of a second using a 131 KB model and plain JavaScript. Inference stays on the device. The system is designed for flat screenshots and diagrams.</div>",
+   "title": "Teaching a Web Page to Read a Chess Board (43 minute read)",
+   "url": "https://dennisforbes.ca/blog/2026/11/reading_a_chess_board_from_a_picture/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://frn.sh/postgres-io",
+   "issue_date": "2026-11-23",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Postgres read streams combine adjacent disk pages into a single read, but a page already in shared buffers can split the range into two requests.</div>",
+   "title": "A Short History of Read Streams in Postgres (5 minute read)",
+   "url": "https://frn.sh/postgres-io/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://revyl.com/blog/pattern-engineering",
+   "issue_date": "2026-11-23",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Engineering teams can make coding agents more reliable by turning recurring workflows into reusable patterns and giving agents ways to verify their work.</div>",
+   "title": "Pattern Engineering (3 minute read)",
+   "url": "https://revyl.com/blog/pattern-engineering/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis",
+   "issue_date": "2026-11-23",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">After a bug discarded newly rotated OAuth refresh tokens and forced users to reconnect, Nango began saving replacement tokens immediately and allowing only one refresh at a time per connection.</div>",
+   "title": "What We Learned Operating Auth for 1,000+ APIs (6 minute read)",
+   "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "issue_date": "2026-11-23",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Set up Unsloth Desktop on Windows, pick a quantized Inkling or Qwen model that leaves enough GPU memory for your context window, and share it over your home network.</div>",
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth (11 minute read)",
+   "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+  },
+  {
+   "edition": "ai",
+   "id": "https://openai.com/index/perplexity-and-intelligence",
+   "issue_date": "2026-11-23",
+   "position": 0,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Perplexity measures how well a model predicts the next token on average. Lower perplexity means better predictions. Perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing. It will likely play an important role in standardizing how AI progress is discussed as it continues to deliver consistent gains in general intelligence.</div>",
+   "title": "Perplexity and Intelligence (9 minute read)",
+   "url": "https://openai.com/index/perplexity-and-intelligence/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://thinkingmachines.ai/news/inkling-2-mini",
+   "issue_date": "2026-11-23",
+   "position": 1,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Thinking Machines released Inkling 2 Mini, a 26.4B-parameter open-weight model that does extra internal computation to reason more before it answers. It leads every open-weight model under 100B parameters on the DeepSWE coding benchmark.</div>",
+   "title": "Inkling 2 Mini (9 minute read)",
+   "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://metr.org/blog/2026-11-20-q4-2026-capability-update",
+   "issue_date": "2026-11-23",
+   "position": 2,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Frontier AI models often match or beat skilled humans on well-defined coding and optimization tasks. The length of tasks they can complete doubles about every 3.6 months. METR says public evidence can't rule out a drastic speedup in AI research within the next couple of years.</div>",
+   "title": "AI R&D-Relevant Model Capabilities Are Improving Rapidly (29 minute read)",
+   "url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are",
+   "issue_date": "2026-11-23",
+   "position": 3,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">AI capabilities are starting to become impressive. However, they are still dramatically inferior to what influential AI forecasts and benchmarks have predicted. These forecasts and benchmarks say that we are imminently close to reaching super-intelligence, but the gap between the real world and forecasts keeps growing larger. Now that real-world data exists, it's time to shift from being AI theorists to becoming AI empiricists.</div>",
+   "title": "The Most Important Charts in AI are Wrong (35 minute read)",
+   "url": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.lesswrong.com/posts/CoRJ9saddvsXti4m2/post-training-is-fundamentally-dangerous",
+   "issue_date": "2026-11-23",
+   "position": 4,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Penalizing detected reward hacking during post-training could select for behavior that evades monitors. The industry needs stronger training sandboxes, better-audited tasks and graders, and empirical research into whether interventions improve alignment or merely conceal undesirable behavior.</div>",
+   "title": "Why Post-Training Could Teach Models to Evade Monitoring (3 minute read)",
+   "url": "https://www.lesswrong.com/posts/CoRJ9saddvsXti4m2/post-training-is-fundamentally-dangerous"
+  },
+  {
+   "edition": "ai",
+   "id": "https://huggingface.co/tencent/Hy4",
+   "issue_date": "2026-11-23",
+   "position": 5,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Tencent's open-weight Hy4 supports text, image, and video understanding with a 770-billion-parameter backbone activating 49 billion parameters per token. It combines million-token context, sparse attention, and a speculative-decoding drafter, targeting coding, computer use, finance, research, and long-running assistant workflows.</div>",
+   "title": "Tencent Releases Hy4 With Multimodal Input and Million-Token Context (10 minute read)",
+   "url": "https://huggingface.co/tencent/Hy4"
+  },
+  {
+   "edition": "ai",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-23",
+   "position": 6,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR's AI community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "ai",
+   "id": "https://research.nvidia.com/labs/genair/sigma",
+   "issue_date": "2026-11-23",
+   "position": 7,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Nemotron-Labs-Sigma is a family of 14 open checkpoints at 3B and 8B that generate text by denoising compact token embeddings instead of predicting one token at a time. The 8B model supports few-step generation and self-speculative decoding, reaching a 3.46x average throughput speedup over autoregressive decoding on a GB200.</div>",
+   "title": "NVIDIA Releases Nemotron-Labs-Sigma Continuous Diffusion Language Models (5 minute read)",
+   "url": "https://research.nvidia.com/labs/genair/sigma/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://huggingface.co/blog/harness-adapters-at-scale",
+   "issue_date": "2026-11-23",
+   "position": 8,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Hugging Face has introduced harness adapters, allowing models like Qwen3.8-27B to optimize performance in specific harness-task combinations. By incorporating RL-trained LoRA adapters, the models achieve higher accuracy and efficiency, reducing token usage significantly.</div>",
+   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost (22 minute read)",
+   "url": "https://huggingface.co/blog/harness-adapters-at-scale"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?st=7jDMAY&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrai",
+   "issue_date": "2026-11-23",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic embraces being atypical because it believes the artificial intelligence future will be anything but normal. Dario Amodei, 43, the company's chief executive, is Anthropic's ideological leader. He has one direct report, his chief of staff and sister, Daniela Amodei, 29. The company has made some unusual choices, and it screens out new hires with culture interviews. This article looks at the Amodeis and how they created a company culture in their likeness.</div>",
+   "title": "The Brother-Sister Duo Who Want to Keep Anthropic Weird (15 minute read)",
+   "url": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?st=7jDMAY&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrai"
+  },
+  {
+   "edition": "ai",
+   "id": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis",
+   "issue_date": "2026-11-23",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Levent Alp\u00f6ge released a proof of the Riemann Hypothesis as a Lean library comprising 17 million lines of code on November 20. The Lean and Mathlib communities have full confidence that Alp\u00f6ge's proof of the Riemann Hypothesis is correct. Alp\u00f6ge's library compiles correctly, and the code proves the correct statement. It is expected that the mathematical community will help explain the ideas in the proof in the coming weeks.</div>",
+   "title": "Lean verification of the Riemann Hypothesis (3 minute read)",
+   "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://x.com/geminiapp/status/2123813017855103449",
+   "issue_date": "2026-11-23",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Gemini Omni 1.2 Flash can create GIFs with smooth motion and consistent quality across every frame.</div>",
+   "title": "Say hello to GIFs in Gemini (1 minute read)",
+   "url": "https://x.com/geminiapp/status/2123813017855103449"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.theinformation.com/briefings/amazon-nearing-7-5-billion-purchase-decart",
+   "issue_date": "2026-11-23",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Amazon is reportedly nearing a $7.5 billion deal to buy Decart, a three-year-old AI startup.</div>",
+   "title": "Amazon Nearing $7.5 Billion Purchase of Decart (2 minute read)",
+   "url": "https://www.theinformation.com/briefings/amazon-nearing-7-5-billion-purchase-decart"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.baseten.co/blog/meet-bison-1-and-groundhog-1",
+   "issue_date": "2026-11-23",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">bison-1 and groundhog-1 are built on Google's Gemma 4 and are designed for teams that want an American base model.</div>",
+   "title": "Meet bison-1 and groundhog-1, frontier American decision models (5 minute read)",
+   "url": "https://www.baseten.co/blog/meet-bison-1-and-groundhog-1/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://openai.com/index/combatting-adversarial-distillation",
+   "issue_date": "2026-11-23",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI is stepping up defenses against adversarial distillation, where outsiders train models on its outputs to copy its capabilities.</div>",
+   "title": "Combatting adversarial distillation (13 minute read)",
+   "url": "https://openai.com/index/combatting-adversarial-distillation"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.reuters.com/technology/trump-says-us-penalize-firms-building-data-centers-abroad-2026-11-20",
+   "issue_date": "2026-11-23",
+   "position": 0,
+   "section": "Headlines and Launches",
+   "summary_html": "<div class=\"newsletter-html\">At a White House press conference, Trump promised a \"tremendous tax\" on US firms building data centers overseas, specifically naming a proposed Google facility in Finland. Chinese firms rent restricted GPUs from data centers in countries that can legally import them, which is the route Commerce's new licensing rule targets. Operators like Equinix and Digital Realty run facilities abroad partly to cut latency for time-sensitive workloads, so a penalty could complicate global buildout.</div>",
+   "title": "Trump says the US will tax American companies that build data centers abroad, citing China's access to rented compute (2 minute read)",
+   "url": "https://www.reuters.com/technology/trump-says-us-penalize-firms-building-data-centers-abroad-2026-11-20/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
+   "issue_date": "2026-11-23",
+   "position": 1,
+   "section": "Headlines and Launches",
+   "summary_html": "<div class=\"newsletter-html\">Alice Huang, a Megaspeed executive, was in touch with a Ministry of State Security officer from Spring 2025 until this fall, overlapping with her relationship with Jensen Huang. Her business partner, Kang Wei, worked with the same agency. Trump was briefed at least twice. Megaspeed, the Singapore operator suspected of diverting restricted Nvidia chips, is now a focus of the investigations, which are continuing.</div>",
+   "title": "US intelligence reportedly tracked Alice Huang's contacts with China's spy agency for over a year, while Megaspeed sat inside Nvidia's cloud partner network (2 minute read)",
+   "url": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://avi-go.com/news/articles/021f9bbf9ef77e9f998d4d793e326ce9",
+   "issue_date": "2026-11-23",
+   "position": 2,
+   "section": "Engineering and Applications",
+   "summary_html": "<div class=\"newsletter-html\">The core reached 6,500 rpm with nearly 2,000 sensors on its second light-off attempt, on a Colorado rig that uses a vacuum pump to simulate the bypass duct and a variable nozzle to simulate the low-pressure turbine. The same core underpins the 42 MW Superpower gas turbine for AI data centers and the 40,000 lb Symphony turbofan for the Mach 1.7 Overture, with over 75% commonality. Boom is also building a tooling-free foundry for single-crystal turbine blades.</div>",
+   "title": "Boom Supersonic lights its in-house engine core for the first time, a six-stage compressor and single-stage turbine shared by a data center turbine and Overture's engine (2 minute read)",
+   "url": "https://avi-go.com/news/articles/021f9bbf9ef77e9f998d4d793e326ce9"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view",
+   "issue_date": "2026-11-23",
+   "position": 3,
+   "section": "Engineering and Applications",
+   "summary_html": "<div class=\"newsletter-html\">The encoder is trained on millions of internet videos and runs on AI4 (HW4) hardware. A new Reality View replaces separate model signals with one end-to-end visualization that uses less compute. v15 also targets known weak spots, including sign reading, potholes, standing water, school zones, and speed cameras, but Tesla published only the 25x multiplier, not the underlying intervention rate. It also loosens driver monitoring at higher-speed profiles.</div>",
+   "title": "Tesla rolls out FSD v15 with a vision encoder shared across FSD, Robotaxi, and Optimus, claiming 25x better critical intervention rate (3 minute read)",
+   "url": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://phys.org/news/2026-11-hybrid-nanocrystal-surface-reveals-tune.html",
+   "issue_date": "2026-11-23",
+   "position": 4,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">Researchers mixed two kinds of tiny crystals, differing in how much tin they contain, into a film just one crystal thick. When infrared light hits it, each crystal's electrons ripple at a slightly different rate, and those ripples overlap in the tiny gaps between neighbors. The film is made in solution, so it avoids expensive etching, and it could be used in thermal camouflage or self-cooling surfaces.</div>",
+   "title": "A one-crystal-thick film of mixed nanocrystals can boost or block infrared light, and a new model shows how to tune it (3 minute read)",
+   "url": "https://phys.org/news/2026-11-hybrid-nanocrystal-surface-reveals-tune.html"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale",
+   "issue_date": "2026-11-23",
+   "position": 5,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">Contextuality means a qubit's measured value depends on which compatible measurements are made alongside it. New research shows it survives at scale instead of only in few-particle systems. The same game doubles as a sensitive test for subtle hardware errors, which helps validate processors for chemistry and materials science. The qubits also beat constrained classical strategies on tasks spanning up to 105 qubits.</div>",
+   "title": "Google's quantum processor wins a contextuality game 98.3% of the time against an 88.9% classical limit, across tasks up to 105 qubits (2 minute read)",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.datacenterdynamics.com/en/opinions/why-the-next-phase-of-the-data-center-buildout-runs-on-light",
+   "issue_date": "2026-11-23",
+   "position": 6,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">With construction spending above a $75 billion annual pace and about 3,000 buildings planned or underway, phase-one architecture choices will carry into capacity arriving at the end of the decade. The interconnect between chips sets power per token, and moving data as infrared light through silicon waveguides removes the reach limit. Photonics-SOI, PD-SOI, and RF-SOI platforms each optimize for different metrics and aren't interchangeable.</div>",
+   "title": "Silicon photonics is the next step for AI data centers (3 minute read)",
+   "url": "https://www.datacenterdynamics.com/en/opinions/why-the-next-phase-of-the-data-center-buildout-runs-on-light"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space",
+   "issue_date": "2026-11-23",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Lenders fear that if SpaceX defaults, repossessing and reselling GPUs installed in a satellite in orbit would be effectively impossible. SpaceX says the chips are for US data centers it owns and operates, but Musk's orbital compute plans depend on launching silicon aboard Starship. Whether the restriction made it into the final documents, led by Apollo and Goldman Sachs, remains unclear.</div>",
+   "title": "SpaceX lenders sought covenants barring Nvidia chips securing a $43B debt package from being launched into orbit (2 minute read)",
+   "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.reuters.com/world/asia-pacific/sk-hynix-become-top-shareholder-rival-kioxia-after-bond-conversion-2026-11-20",
+   "issue_date": "2026-11-23",
+   "position": 8,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The stake comes from converting an investment vehicle's bonds into 129,000 Kioxia shares and buying 1,001 more from Bain Capital, which puts SK Hynix ahead of Toshiba at 10.45%.</div>",
+   "title": "SK Hynix becomes Kioxia's largest shareholder with a 14.1% indirect stake (2 minute read)",
+   "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-become-top-shareholder-rival-kioxia-after-bond-conversion-2026-11-20/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests",
+   "issue_date": "2026-11-23",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Frostbite compiles programs into interaction nets, graphs where node pairs rewrite independently, so parallel work is exposed by the program itself and needs no threads, locks, or out-of-order hardware.</div>",
+   "title": "Frostbite, a new interaction-net CPU, with reportedly 4.59x the performance per watt of a silicon-proven in-order core (5 minute read)",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips",
+   "issue_date": "2026-11-23",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">TSMC told Chinese designers to halt 16nm-and-below orders without a US license, leaving them on 28nm and 40nm.</div>",
+   "title": "TSMC reportedly pauses China shipments after new US rules presume 16nm and 14nm logic chips are controlled (3 minute read)",
+   "url": "https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTQxMzQ3MiwiZXhwIjoxNzk2MDE4MjcyLCJhcnRpY2xlSWQiOiJUT1I0RTJSS1YyVUYwMCIsImJjb25uZWN0SWQiOiI0NUZGMzc2RThENDg0NzYxQTkwQ0JEMzc4OTMzQjg2RiJ9.n8NrCiaouSfLLnub19gq6tiYkVY5YhVlqYprEHXqaoY%3Futm_source%3Dtldrhardware",
+   "issue_date": "2026-11-23",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The round also drew existing backers Alibaba and Tencent into the same cap table.</div>",
+   "title": "Ant Group leads a $100M pre-Series A in Chinese humanoid startup Simplexity Robotics at a $1.6B valuation (2 minute read)",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTQxMzQ3MiwiZXhwIjoxNzk2MDE4MjcyLCJhcnRpY2xlSWQiOiJUT1I0RTJSS1YyVUYwMCIsImJjb25uZWN0SWQiOiI0NUZGMzc2RThENDg0NzYxQTkwQ0JEMzc4OTMzQjg2RiJ9.n8NrCiaouSfLLnub19gq6tiYkVY5YhVlqYprEHXqaoY%3Futm_source%3Dtldrhardware"
   }
  ]
 }

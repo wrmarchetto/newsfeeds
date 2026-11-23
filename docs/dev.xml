@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-11-20T11:00:00+00:00</updated>
+  <updated>2026-11-23T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://danholloran.me/posts/streaming-llm-responses-tokens-arrive-faster-than-you-should-render-them</id>
+    <title>Streaming LLM Responses Without Rendering Every Token (3 minute read)</title>
+    <updated>2026-11-23T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Give your streaming relay explicit completion and error events, and abort upstream generation when the client disconnects. Buffer incoming tokens and render at most once per animation frame so the browser can keep up.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-23"&gt;TLDR Dev · 2026-11-23 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danholloran.me/posts/streaming-llm-responses-tokens-arrive-faster-than-you-should-render-them"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-23T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://aleahim.com/blog/swiftui-has-no-list</id>
+    <title>SwiftUI Doesn't Have a List. It Wraps Someone Else's (14 minute read)</title>
+    <updated>2026-11-23T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Runtime inspection found that SwiftUI's List wraps NSOutlineView on macOS and UICollectionView on iPhone and iPad. SwiftUI still computes its own diffs and hosts each row in a SwiftUI view, so using the same underlying container leaves room for different update costs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-23"&gt;TLDR Dev · 2026-11-23 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://aleahim.com/blog/swiftui-has-no-list/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-23T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://newsletter.chainofthought.show/p/the-state-of-agent-memory-how-it</id>
+    <title>Your AI Agent Remembers Everything. That's the Problem (19 minute read)</title>
+    <updated>2026-11-23T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Persistent memory can feed stale facts back to an agent after circumstances change. This piece covers background passes that review and rewrite stored memories and asks how systems should handle corrections, forgetting, and portability.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-23"&gt;TLDR Dev · 2026-11-23 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.chainofthought.show/p/the-state-of-agent-memory-how-it"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-23T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.com/alexandr_wang/status/2124636606959345776</id>
+    <title>Superintelligence Is Arriving (2 minute read)</title>
+    <updated>2026-11-23T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A reported AI-assisted proof of the Riemann hypothesis is a sign that superintelligence is approaching. The industry should build AI that expands human agency and keeps people in control.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-23"&gt;TLDR Dev · 2026-11-23 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/alexandr_wang/status/2124636606959345776"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-23T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post</id>
+    <title>Assume People Are Not Interested in Your Blog Post (1 minute read)</title>
+    <updated>2026-11-23T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Open by telling readers who needs to pay attention so everyone else can move on. In Slack or Teams, put the essentials in the first three to five lines and leave the details in the thread.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-23"&gt;TLDR Dev · 2026-11-23 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-23T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://thinkingmachines.ai/news/inkling-2-mini</id>
+    <title>Introducing Inkling 2 Mini (18 minute read)</title>
+    <updated>2026-11-23T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Thinking Machines Lab released an open-weight model that runs its middle layers three times per token and uses about 20 GB of memory. The lab reports a 48.2% score on DeepSWE v1.1, with evaluation setups varying across models.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-23"&gt;TLDR Dev · 2026-11-23 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://thinkingmachines.ai/news/inkling-2-mini/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-23T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/croffasia/itsaplan</id>
+    <title>It's a Plan (GitHub Repo)</title>
+    <updated>2026-11-23T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;It's a Plan is a self-hosted issue tracker where teams can assign work to AI agents alongside human teammates. Agents have their own roles and permissions, and an assignment, mention, or schedule can start a run.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-23"&gt;TLDR Dev · 2026-11-23 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/croffasia/itsaplan"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-23T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-23T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-23"&gt;TLDR Dev · 2026-11-23 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-23T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://kamathhrishi.substack.com/p/i-analyzed-the-ai-stack-used-by-40000</id>
+    <title>I Analyzed the AI Stack Used by 40,000+ Companies (5 minute read)</title>
+    <updated>2026-11-23T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;An analysis of vendor disclosures found that 44.8% of companies naming an AI model provider listed at least two. Anthropic and OpenAI led the counts, while routers grew fastest over the month studied, driven mainly by OpenRouter.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-23"&gt;TLDR Dev · 2026-11-23 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://kamathhrishi.substack.com/p/i-analyzed-the-ai-stack-used-by-40000"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-23T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/perplexity-and-intelligence</id>
+    <title>Perplexity and Intelligence (7 minute read)</title>
+    <updated>2026-11-23T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI reports that log perplexity on its held-out dataset fell from about 0.99 for GPT-3.5 to 0.91 for GPT-4. It proposes using perplexity alongside other measures to set shared safety thresholds, while acknowledging that different evaluation datasets make cross-lab comparisons difficult.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-23"&gt;TLDR Dev · 2026-11-23 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openai.com/index/perplexity-and-intelligence/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-23T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dennisforbes.ca/blog/2026/11/reading_a_chess_board_from_a_picture</id>
+    <title>Teaching a Web Page to Read a Chess Board (43 minute read)</title>
+    <updated>2026-11-23T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This browser demo reconstructs a chess position from a screenshot in about a quarter of a second using a 131 KB model and plain JavaScript. Inference stays on the device. The system is designed for flat screenshots and diagrams.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-23"&gt;TLDR Dev · 2026-11-23 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://dennisforbes.ca/blog/2026/11/reading_a_chess_board_from_a_picture/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-23T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://frn.sh/postgres-io</id>
+    <title>A Short History of Read Streams in Postgres (5 minute read)</title>
+    <updated>2026-11-23T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Postgres read streams combine adjacent disk pages into a single read, but a page already in shared buffers can split the range into two requests.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-23"&gt;TLDR Dev · 2026-11-23 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://frn.sh/postgres-io/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-23T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://revyl.com/blog/pattern-engineering</id>
+    <title>Pattern Engineering (3 minute read)</title>
+    <updated>2026-11-23T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Engineering teams can make coding agents more reliable by turning recurring workflows into reusable patterns and giving agents ways to verify their work.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-23"&gt;TLDR Dev · 2026-11-23 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://revyl.com/blog/pattern-engineering/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-23T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis</id>
+    <title>What We Learned Operating Auth for 1,000+ APIs (6 minute read)</title>
+    <updated>2026-11-23T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;After a bug discarded newly rotated OAuth refresh tokens and forced users to reconnect, Nango began saving replacement tokens immediately and allowing only one refresh at a time per connection.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-23"&gt;TLDR Dev · 2026-11-23 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-23T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</id>
+    <title>A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth (11 minute read)</title>
+    <updated>2026-11-23T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Set up Unsloth Desktop on Windows, pick a quantized Inkling or Qwen model that leaves enough GPU memory for your context window, and share it over your home network.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-23"&gt;TLDR Dev · 2026-11-23 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-23T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</id>
     <title>How OpenAI's Performance Factory Keeps ChatGPT Fast (15 minute read)</title>

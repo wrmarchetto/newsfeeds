@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/hardware.xml</id>
   <title>TLDR Hardware</title>
-  <updated>2026-11-20T11:00:00+00:00</updated>
+  <updated>2026-11-23T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,126 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.reuters.com/technology/trump-says-us-penalize-firms-building-data-centers-abroad-2026-11-20</id>
+    <title>Trump says the US will tax American companies that build data centers abroad, citing China's access to rented compute (2 minute read)</title>
+    <updated>2026-11-23T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;At a White House press conference, Trump promised a "tremendous tax" on US firms building data centers overseas, specifically naming a proposed Google facility in Finland. Chinese firms rent restricted GPUs from data centers in countries that can legally import them, which is the route Commerce's new licensing rule targets. Operators like Equinix and Digital Realty run facilities abroad partly to cut latency for time-sensitive workloads, so a penalty could complicate global buildout.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-23"&gt;TLDR Hardware · 2026-11-23 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.reuters.com/technology/trump-says-us-penalize-firms-building-data-centers-abroad-2026-11-20/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-11-23T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html</id>
+    <title>US intelligence reportedly tracked Alice Huang's contacts with China's spy agency for over a year, while Megaspeed sat inside Nvidia's cloud partner network (2 minute read)</title>
+    <updated>2026-11-23T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Alice Huang, a Megaspeed executive, was in touch with a Ministry of State Security officer from Spring 2025 until this fall, overlapping with her relationship with Jensen Huang. Her business partner, Kang Wei, worked with the same agency. Trump was briefed at least twice. Megaspeed, the Singapore operator suspected of diverting restricted Nvidia chips, is now a focus of the investigations, which are continuing.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-23"&gt;TLDR Hardware · 2026-11-23 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-11-23T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://avi-go.com/news/articles/021f9bbf9ef77e9f998d4d793e326ce9</id>
+    <title>Boom Supersonic lights its in-house engine core for the first time, a six-stage compressor and single-stage turbine shared by a data center turbine and Overture's engine (2 minute read)</title>
+    <updated>2026-11-23T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The core reached 6,500 rpm with nearly 2,000 sensors on its second light-off attempt, on a Colorado rig that uses a vacuum pump to simulate the bypass duct and a variable nozzle to simulate the low-pressure turbine. The same core underpins the 42 MW Superpower gas turbine for AI data centers and the 40,000 lb Symphony turbofan for the Mach 1.7 Overture, with over 75% commonality. Boom is also building a tooling-free foundry for single-crystal turbine blades.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-23"&gt;TLDR Hardware · 2026-11-23 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://avi-go.com/news/articles/021f9bbf9ef77e9f998d4d793e326ce9"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-11-23T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view</id>
+    <title>Tesla rolls out FSD v15 with a vision encoder shared across FSD, Robotaxi, and Optimus, claiming 25x better critical intervention rate (3 minute read)</title>
+    <updated>2026-11-23T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The encoder is trained on millions of internet videos and runs on AI4 (HW4) hardware. A new Reality View replaces separate model signals with one end-to-end visualization that uses less compute. v15 also targets known weak spots, including sign reading, potholes, standing water, school zones, and speed cameras, but Tesla published only the 25x multiplier, not the underlying intervention rate. It also loosens driver monitoring at higher-speed profiles.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-23"&gt;TLDR Hardware · 2026-11-23 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-11-23T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://phys.org/news/2026-11-hybrid-nanocrystal-surface-reveals-tune.html</id>
+    <title>A one-crystal-thick film of mixed nanocrystals can boost or block infrared light, and a new model shows how to tune it (3 minute read)</title>
+    <updated>2026-11-23T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Researchers mixed two kinds of tiny crystals, differing in how much tin they contain, into a film just one crystal thick. When infrared light hits it, each crystal's electrons ripple at a slightly different rate, and those ripples overlap in the tiny gaps between neighbors. The film is made in solution, so it avoids expensive etching, and it could be used in thermal camouflage or self-cooling surfaces.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-23"&gt;TLDR Hardware · 2026-11-23 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://phys.org/news/2026-11-hybrid-nanocrystal-surface-reveals-tune.html"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-11-23T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale</id>
+    <title>Google's quantum processor wins a contextuality game 98.3% of the time against an 88.9% classical limit, across tasks up to 105 qubits (2 minute read)</title>
+    <updated>2026-11-23T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Contextuality means a qubit's measured value depends on which compatible measurements are made alongside it. New research shows it survives at scale instead of only in few-particle systems. The same game doubles as a sensitive test for subtle hardware errors, which helps validate processors for chemistry and materials science. The qubits also beat constrained classical strategies on tasks spanning up to 105 qubits.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-23"&gt;TLDR Hardware · 2026-11-23 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-11-23T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.datacenterdynamics.com/en/opinions/why-the-next-phase-of-the-data-center-buildout-runs-on-light</id>
+    <title>Silicon photonics is the next step for AI data centers (3 minute read)</title>
+    <updated>2026-11-23T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;With construction spending above a $75 billion annual pace and about 3,000 buildings planned or underway, phase-one architecture choices will carry into capacity arriving at the end of the decade. The interconnect between chips sets power per token, and moving data as infrared light through silicon waveguides removes the reach limit. Photonics-SOI, PD-SOI, and RF-SOI platforms each optimize for different metrics and aren't interchangeable.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-23"&gt;TLDR Hardware · 2026-11-23 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.datacenterdynamics.com/en/opinions/why-the-next-phase-of-the-data-center-buildout-runs-on-light"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-23T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space</id>
+    <title>SpaceX lenders sought covenants barring Nvidia chips securing a $43B debt package from being launched into orbit (2 minute read)</title>
+    <updated>2026-11-23T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Lenders fear that if SpaceX defaults, repossessing and reselling GPUs installed in a satellite in orbit would be effectively impossible. SpaceX says the chips are for US data centers it owns and operates, but Musk's orbital compute plans depend on launching silicon aboard Starship. Whether the restriction made it into the final documents, led by Apollo and Goldman Sachs, remains unclear.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-23"&gt;TLDR Hardware · 2026-11-23 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-23T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.reuters.com/world/asia-pacific/sk-hynix-become-top-shareholder-rival-kioxia-after-bond-conversion-2026-11-20</id>
+    <title>SK Hynix becomes Kioxia's largest shareholder with a 14.1% indirect stake (2 minute read)</title>
+    <updated>2026-11-23T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The stake comes from converting an investment vehicle's bonds into 129,000 Kioxia shares and buying 1,001 more from Bain Capital, which puts SK Hynix ahead of Toshiba at 10.45%.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-23"&gt;TLDR Hardware · 2026-11-23 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.reuters.com/world/asia-pacific/sk-hynix-become-top-shareholder-rival-kioxia-after-bond-conversion-2026-11-20/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-23T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests</id>
+    <title>Frostbite, a new interaction-net CPU, with reportedly 4.59x the performance per watt of a silicon-proven in-order core (5 minute read)</title>
+    <updated>2026-11-23T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Frostbite compiles programs into interaction nets, graphs where node pairs rewrite independently, so parallel work is exposed by the program itself and needs no threads, locks, or out-of-order hardware.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-23"&gt;TLDR Hardware · 2026-11-23 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-23T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips</id>
+    <title>TSMC reportedly pauses China shipments after new US rules presume 16nm and 14nm logic chips are controlled (3 minute read)</title>
+    <updated>2026-11-23T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TSMC told Chinese designers to halt 16nm-and-below orders without a US license, leaving them on 28nm and 40nm.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-23"&gt;TLDR Hardware · 2026-11-23 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-23T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTQxMzQ3MiwiZXhwIjoxNzk2MDE4MjcyLCJhcnRpY2xlSWQiOiJUT1I0RTJSS1YyVUYwMCIsImJjb25uZWN0SWQiOiI0NUZGMzc2RThENDg0NzYxQTkwQ0JEMzc4OTMzQjg2RiJ9.n8NrCiaouSfLLnub19gq6tiYkVY5YhVlqYprEHXqaoY%3Futm_source%3Dtldrhardware</id>
+    <title>Ant Group leads a $100M pre-Series A in Chinese humanoid startup Simplexity Robotics at a $1.6B valuation (2 minute read)</title>
+    <updated>2026-11-23T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The round also drew existing backers Alibaba and Tencent into the same cap table.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-23"&gt;TLDR Hardware · 2026-11-23 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTQxMzQ3MiwiZXhwIjoxNzk2MDE4MjcyLCJhcnRpY2xlSWQiOiJUT1I0RTJSS1YyVUYwMCIsImJjb25uZWN0SWQiOiI0NUZGMzc2RThENDg0NzYxQTkwQ0JEMzc4OTMzQjg2RiJ9.n8NrCiaouSfLLnub19gq6tiYkVY5YhVlqYprEHXqaoY%3Futm_source%3Dtldrhardware"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-23T10:59:49+00:00</published>
+  </entry>
   <entry>
     <id>https://www.blueorigin.com/news/google-selects-new-glenn-for-project-suncatcher</id>
     <title>Google books a dedicated New Glenn launch in Q1 2029 for Project Suncatcher, its orbital TPU compute constellation (1 minute read)</title>
