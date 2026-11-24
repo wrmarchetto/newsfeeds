@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/tech.xml</id>
   <title>TLDR</title>
-  <updated>2026-11-23T11:00:00+00:00</updated>
+  <updated>2026-11-24T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,136 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html</id>
+    <title>Trump sealed deal for Nvidia to rehire Jensen Huang as CEO (4 minute read)</title>
+    <updated>2026-11-24T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;President Trump made a personal promise that Jensen Huang had not broken national security laws. The sharp stock price drop after his resignation and questions about the leadership of the interim CEO also spurred the board's decision. Nvidia's newly appointed board chair had previously stated that the board did not intend to reinstate Huang as CEO. Trump believes his administration's close working relationship with Huang gives the US its best opportunity to protect national security and prevent cutting-edge AI chips from reaching banned customers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-24"&gt;TLDR · 2026-11-24 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-24T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2026-11-23/openai-staffer-likely-captured-secrets-on-hidden-bug-us-says?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTQ5NjMwMCwiZXhwIjoxNzk2MTAxMTAwLCJhcnRpY2xlSWQiOiJUT1o2VVdLSVVQUzEwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.N7ikxB_CzK7JVs74WFY_eWYh8e8c-872QbDRx1wp95s&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>OpenAI Staffer Likely Captured Secrets on Hidden Bug, US Says (3 minute read)</title>
+    <updated>2026-11-24T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Abdulrahman Alfozan, a former engineer at OpenAI, has pleaded not guilty to an eavesdropping charge for bugging an office conference room, likely to intercept trade secrets. He has requested bail, but there are concerns that he may try to flee before trial given his relatively weak ties to the US and the considerable resources and connections he has to Saudi Arabia. The government has so far located hundreds of audio files on Alfozan's computer, many of which involve discussions of what may be trade secrets. He appears to have uploaded at least some of the recordings to Dropbox.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-24"&gt;TLDR · 2026-11-24 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-23/openai-staffer-likely-captured-secrets-on-hidden-bug-us-says?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTQ5NjMwMCwiZXhwIjoxNzk2MTAxMTAwLCJhcnRpY2xlSWQiOiJUT1o2VVdLSVVQUzEwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.N7ikxB_CzK7JVs74WFY_eWYh8e8c-872QbDRx1wp95s&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-24T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://electrek.co/2026/11/23/tesla-fsd-v15-ai4-last-shot-compute-limit</id>
+    <title>Tesla FSD v15 is AI4's last shot as Musk reveals how little compute is left (5 minute read)</title>
+    <updated>2026-11-24T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Tesla's FSD v15 is the company's last real shot at delivering unsupervised self-driving on the AI4 computer. The next-gen A15 chip will not be coming to cars, and the mid-cycle AI4.5 upgrade had its RAM cut from 32GB to 24GB. The mid-cycle refresh exists mainly because Tesla needs a new memory type it can actually buy. The cost of the AI4 chip is now twice as much due to memory and storage price hikes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-24"&gt;TLDR · 2026-11-24 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://electrek.co/2026/11/23/tesla-fsd-v15-ai4-last-shot-compute-limit/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-24T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123</id>
+    <title>The Incredible, Elegant DNA Repair System Makes Gene Editing Work (12 minute read)</title>
+    <updated>2026-11-24T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Cells have a native repair mechanism for DNA that recognizes and replaces faulty DNA before lasting damage or dysfunction can set in. This ability evolved essentially at the same time as DNA, as it is impossible to have stable genetic information without DNA repair. The mechanisms are essential to the evolutionary lineage of all known life. Scientists and doctors experimenting with gene editing use these natural self-editing and repair tools to insert, delete, or mutate genes to study and treat disease.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-24"&gt;TLDR · 2026-11-24 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-24T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-24T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-24"&gt;TLDR · 2026-11-24 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-24T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://davidtemkin.github.io/declarelang</id>
+    <title>Declare (Website)</title>
+    <updated>2026-11-24T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Declare is a domain-specific UI language for humans and AI agents. It turns prototypes into structured and verifiable apps with the design written plainly in the code. Examples of apps created with Declare are available.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-24"&gt;TLDR · 2026-11-24 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://davidtemkin.github.io/declarelang/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-24T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.phoronix.com/news/Ladybird-Browser-Alpha</id>
+    <title>Ladybird Web Browser/Engine Reaches Alpha (2 minute read)</title>
+    <updated>2026-11-24T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Ladybird open source desktop web browser was built from scratch with its own independent web engine. After four years of dedicated development, it has now entered its alpha phase. Usability is still modest, but the browser is functional. Some websites will still crash. The alpha build is available for macOS and Linux.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-24"&gt;TLDR · 2026-11-24 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.phoronix.com/news/Ladybird-Browser-Alpha"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-24T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://jan.miksovsky.com/posts/2026/11-23-observing-users.html</id>
+    <title>Watching users is how you make products better (6 minute read)</title>
+    <updated>2026-11-24T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Observing someone try to use your product is humbling and often excruciating. Watching a real user do realistic tasks will reveal problems you would have never guessed at, no matter how much careful thought you put into it. Some people have great difficulty acknowledging that the thing they helped make is the problem. Being afraid of feedback is a surefire way to create bad products.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-24"&gt;TLDR · 2026-11-24 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://jan.miksovsky.com/posts/2026/11-23-observing-users.html"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-24T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://windowsontheory.org/2026/11/23/human-empowerment-in-a-few-fake-graphs</id>
+    <title>Human empowerment in a few fake graphs (6 minute read)</title>
+    <updated>2026-11-24T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Humanity is capable of charting a path that ends up in both prosperity and sovereignty, but we cannot count on this happening by default.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-24"&gt;TLDR · 2026-11-24 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://windowsontheory.org/2026/11/23/human-empowerment-in-a-few-fake-graphs/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-24T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tomassetti.me/legacy-modernization-llms-measured</id>
+    <title>Legacy Modernization with LLMs, measured (25 minute read)</title>
+    <updated>2026-11-24T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;It costs about $1,100 at API prices for the first generation of a translation of more than half a million lines of source.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-24"&gt;TLDR · 2026-11-24 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://tomassetti.me/legacy-modernization-llms-measured/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-24T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?st=6oUoAT&amp;amp%3Breflink=desktopwebshare_permalink&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him (6 minute read)</title>
+    <updated>2026-11-24T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The wave of scrutiny surrounding Jensen Huang before his resignation isn't going away.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-24"&gt;TLDR · 2026-11-24 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?st=6oUoAT&amp;amp%3Breflink=desktopwebshare_permalink&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-24T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/resources/articles/introducing-claude-ship</id>
+    <title>Introducing Claude Ship (6 minute read)</title>
+    <updated>2026-11-24T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Claude can now review, fix, and approve pull requests if a team's policy allows it.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-24"&gt;TLDR · 2026-11-24 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://claude.com/resources/articles/introducing-claude-ship"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-24T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://jurajb.dev/coding-agents-mostly-waiting</id>
+    <title>My AI coding agents spend most of their time waiting (6 minute read)</title>
+    <updated>2026-11-24T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A developer discovered that their Claude Code agents were only running about 26% of the time.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-24"&gt;TLDR · 2026-11-24 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://jurajb.dev/coding-agents-mostly-waiting/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-24T10:59:48+00:00</published>
+  </entry>
   <entry>
     <id>https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view</id>
     <title>Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes (10 minute read)</title>

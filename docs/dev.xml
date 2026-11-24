@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-11-23T11:00:00+00:00</updated>
+  <updated>2026-11-24T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,136 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://jonmagic.com/posts/trying-over-and-over-to-build-a-continuous-software-machine</id>
+    <title>Building a Continuous Software Engine the Hard Way (10 minute read)</title>
+    <updated>2026-11-24T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;After an overnight coding agent kept getting stuck, its orchestrator was rebuilt to manage state, retries, and independent review in code. The new engine landed 137 verified commits across three repositories in roughly 24 hours, including benchmarks and diagnostic writeups, and still hit a scheduler deadlock.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-24"&gt;TLDR Dev · 2026-11-24 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://jonmagic.com/posts/trying-over-and-over-to-build-a-continuous-software-machine"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-24T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/introducing-shirudo</id>
+    <title>OpenAI and Cisco Introduce Shirudo (4 minute read)</title>
+    <updated>2026-11-24T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Shirudo is an open-source runtime that lets operators deploy temporary eBPF protections on Linux while they roll out permanent patches. Teams can observe a shield's effect on live workloads before enabling it, and apply approved protections without restarting the service.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-24"&gt;TLDR Dev · 2026-11-24 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openai.com/index/introducing-shirudo/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-24T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://lethain.com/small-changes</id>
+    <title>Speeding Up Code Review with small-change (7 minute read)</title>
+    <updated>2026-11-24T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Imprint uses a CI check to identify pull requests eligible for a lighter review process. The check considers the size of the diff, the author's history in the affected services, and whether automated review flagged any high-priority issues.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-24"&gt;TLDR Dev · 2026-11-24 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://lethain.com/small-changes/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-24T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://shannadige.com/blog/performance-is-design</id>
+    <title>Fast Is a Design Decision (8 minute read)</title>
+    <updated>2026-11-24T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Decisions about rendering, caching, and what loads first shape how fast a site feels. On one throttled mobile test, prioritizing a small prerendered version of the homepage's lead card cut Largest Contentful Paint from about 2.5 seconds to 1.3 seconds.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-24"&gt;TLDR Dev · 2026-11-24 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://shannadige.com/blog/performance-is-design/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-24T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://nuxt.com/blog/v4-7</id>
+    <title>Nuxt 4.7 (20 minute read)</title>
+    <updated>2026-11-24T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Nuxt 4.7 lets you opt into experimental Nitro v3 on an existing Nuxt 4 app ahead of the Nuxt 5 upgrade. It also adds schema validation for runtime config, shows type and lint diagnostics in the dev overlay, and previews WebMCP support for exposing app actions to browser agents.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-24"&gt;TLDR Dev · 2026-11-24 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://nuxt.com/blog/v4-7"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-24T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/resources/articles/introducing-claude-ship</id>
+    <title>Introducing Claude Ship (6 minute read)</title>
+    <updated>2026-11-24T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Claude Ship brings pull request review, fixes, and policy-based approvals to GitHub repositories on Claude Team and Enterprise. The new /ship command can open a PR and work through feedback and failing checks while repository rules govern what can merge.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-24"&gt;TLDR Dev · 2026-11-24 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://claude.com/resources/articles/introducing-claude-ship"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-24T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-24T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-24"&gt;TLDR Dev · 2026-11-24 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-24T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tomassetti.me/legacy-modernization-llms-large-translation-consistency</id>
+    <title>Legacy Modernization with LLMs: Is a Large Translation Consistent with Itself? (28 minute read)</title>
+    <updated>2026-11-24T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;An experiment used 49 Claude Code sessions to translate 600,000 lines of IBM i source into more than a million lines of Java. Deterministic generators produced the most uniform code, while independently translated programs drifted in style and duplicated helpers, with 20 implementations of a single date conversion helper.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-24"&gt;TLDR Dev · 2026-11-24 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://tomassetti.me/legacy-modernization-llms-large-translation-consistency"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-24T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://z.ai/blog/glm-5.4</id>
+    <title>GLM-5.4: Toward Generalized Coding with Our First Loop Transformer (6 minute read)</title>
+    <updated>2026-11-24T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Z.ai's GLM-5.4 runs the same block of 28 layers twice, giving its 750-billion-parameter model more compute per token without adding parameters for the second pass. Z.ai shows demos in CAD and video generation and reports that the model can still spend too long reasoning.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-24"&gt;TLDR Dev · 2026-11-24 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://z.ai/blog/glm-5.4"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-24T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/gpui</id>
+    <title>GPUI (GitHub Repo)</title>
+    <updated>2026-11-24T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Zed's GPU-accelerated Rust UI framework has its own repository and combines immediate-mode and retained-mode techniques.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-24"&gt;TLDR Dev · 2026-11-24 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/zed-industries/gpui"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-24T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis</id>
+    <title>What We Learned Operating Auth for 1,000+ APIs (6 minute read)</title>
+    <updated>2026-11-24T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;After losing rotated OAuth credentials in production, Nango began persisting replacement tokens immediately and serializing refreshes per connection.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-24"&gt;TLDR Dev · 2026-11-24 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-24T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://frn.sh/postgres-io</id>
+    <title>A Short History of Read Streams in Postgres (5 minute read)</title>
+    <updated>2026-11-24T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Postgres read streams let scans look ahead and combine adjacent disk pages into one read even when their destination buffers are scattered in memory.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-24"&gt;TLDR Dev · 2026-11-24 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://frn.sh/postgres-io/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-24T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/google-labs-code/stitch-skills</id>
+    <title>Stitch Skills (GitHub Repo)</title>
+    <updated>2026-11-24T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Google's Stitch skills give coding agents reusable workflows for working with the Stitch MCP server.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-24"&gt;TLDR Dev · 2026-11-24 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/google-labs-code/stitch-skills"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-24T10:59:48+00:00</published>
+  </entry>
   <entry>
     <id>https://danholloran.me/posts/streaming-llm-responses-tokens-arrive-faster-than-you-should-render-them</id>
     <title>Streaming LLM Responses Without Rendering Every Token (3 minute read)</title>
