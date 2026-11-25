@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/tech.xml</id>
   <title>TLDR</title>
-  <updated>2026-11-24T11:00:00+00:00</updated>
+  <updated>2026-11-25T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2026-11-24/nvidia-s-huang-to-host-all-hands-meeting-a-day-after-his-return?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTU5MTYxNCwiZXhwIjoxNzk2MTk2NDE0LCJhcnRpY2xlSWQiOiJUUDBONzNUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.e37IuvlQG2Nbdkmu77u9Od_yrwzGDZCDDSPQzom9vOM&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>Huang Apologizes to Nvidia Staff, Says He's in Daily Therapy (3 minute read)</title>
+    <updated>2026-11-25T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Jensen Huang said to staff during an all-hands meeting that he has been in daily therapy to address the behavior that led to his brief ouster as CEO of Nvidia. He insists that he wasn't reinstated because he is a 'tech bro' who's above the law. Nvidia's board will hold him to account going forward. He acknowledges violating Nvidia's code of conduct and says he is grateful to have a second chance to lead the company he co-founded three decades ago.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-25"&gt;TLDR · 2026-11-25 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-24/nvidia-s-huang-to-host-all-hands-meeting-a-day-after-his-return?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTU5MTYxNCwiZXhwIjoxNzk2MTk2NDE0LCJhcnRpY2xlSWQiOiJUUDBONzNUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.e37IuvlQG2Nbdkmu77u9Od_yrwzGDZCDDSPQzom9vOM&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-25T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTU5MTYyMCwiZXhwIjoxNzk2MTk2NDIwLCJhcnRpY2xlSWQiOiJUT1JXRUFLSzNOWUQwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.-sqwf6C1BvamK1ZA2Lkjm-srlgaILnVETGcTVrN6OCE&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>xAI Founders Unveil New AI Startup to Predict Future Events (2 minute read)</title>
+    <updated>2026-11-25T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Epochal, a startup founded by three former xAI founders, has developed an initial product that lets AI agents browse an archived version of the internet as it existed on specific dates. It is designed to simulate the past to teach AI to predict the future. The company's goal is to create an AI model that can help with decision-making through superhuman prediction.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-25"&gt;TLDR · 2026-11-25 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTU5MTYyMCwiZXhwIjoxNzk2MTk2NDIwLCJhcnRpY2xlSWQiOiJUT1JXRUFLSzNOWUQwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.-sqwf6C1BvamK1ZA2Lkjm-srlgaILnVETGcTVrN6OCE&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-25T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://scottaaronson.blog/?p=10362&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>I've been drinking wine in my kitchen (3 minute read)</title>
+    <updated>2026-11-25T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI has been solving long-standing problems in mathematics at an increasing rate. These proofs come with formal certifications that prove their correctness to a level beyond what would normally be demanded for a math paper published in a journal. Many people will try to deny that these proofs are valid, but experts agree there aren't any real technical issues with the proofs. The phenomenon is causing some mathematicians to rethink their lives.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-25"&gt;TLDR · 2026-11-25 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://scottaaronson.blog/?p=10362&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-25T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb?st=o1qGTt&amp;amp%3Breflink=desktopwebshare_permalink&amp;amp%3Butm_source=tldrnewsletter</id>
+    <title>The Most Famous Problem in Math Was Just Solved by AI—and This Human (10 minute read)</title>
+    <updated>2026-11-25T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Levent Alpöge graduated from Harvard with the highest GPA in his class, won the prize for America's top young math researcher, and earned his Ph.D. in math from Princeton before he took a job at Anthropic. He recently stepped into the public limelight due to his claim of having solved the Riemann Hypothesis with the help of AI. His 17-million-line-long proof has already been verified by two independent groups. If it holds up to further scrutiny, Alpöge will become one of the most prominent mathematicians in history.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-25"&gt;TLDR · 2026-11-25 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb?st=o1qGTt&amp;amp%3Breflink=desktopwebshare_permalink&amp;amp%3Butm_source=tldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-25T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.frankrousseau.fr/agentic-coding-on-an-open-source-project</id>
+    <title>Agentic coding on an open-source project (35 minute read)</title>
+    <updated>2026-11-25T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;LLM usage in the developer community has evolved drastically over the past year. Models' progress has been so impressive that developers are now delegating all of the coding to LLM agents. This article discusses how to deal with all of the aspects of agentic coding: prompting, context management, skills, reviews, and orchestration. It also shares a process for performing large QA operations, running data migration, and writing entirely new software.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-25"&gt;TLDR · 2026-11-25 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.frankrousseau.fr/agentic-coding-on-an-open-source-project/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-25T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://antithesis.com/blog/2026/nightmare-mode</id>
+    <title>Nightmare mode: simulating disk failures (20 minute read)</title>
+    <updated>2026-11-25T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This post looks at the disk faults that a 'nightmare mode' fault injector needs to be able to emulate. Disk fault injection can uncover a number of bugs in customer software. Antithesis' disk fault injector covers power failures, torn writes and torn sequences, disk I/O errors, and the latency faults that shake out concurrency bugs. It is customizable, so users don't have to turn everything on.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-25"&gt;TLDR · 2026-11-25 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://antithesis.com/blog/2026/nightmare-mode/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-25T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-25T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-25"&gt;TLDR · 2026-11-25 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-25T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://colossus.com/article/bret-taylor-founder-guy</id>
+    <title>Tinker Taylor Founder Guy (72 minute read)</title>
+    <updated>2026-11-25T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Bret Taylor created Google Maps, invented the Like button, was co-CEO of Salesforce, and is now the chairman of OpenAI. He sold his first startup to Facebook for $50 million, and his next one to Salesforce for $750 million. By all accounts, he is normal - which is strange for a tech leader. This article contains a transcript of an interview with him where he discusses his career in detail.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-25"&gt;TLDR · 2026-11-25 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://colossus.com/article/bret-taylor-founder-guy/"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-25T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.allthingsdistributed.com/2026/11/tech-predictions-for-2027-and-beyond.html</id>
+    <title>Tech predictions for 2027 and beyond (24 minute read)</title>
+    <updated>2026-11-25T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Neuroscience will increasingly influence how we design systems in the years to come as computing returns to biology. Adversarial testing will soon move into every phase of software development. Sovereignty will become a non-functional requirement. Collaboration between scientists and agents will lead to new cures and diagnostic technologies.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-25"&gt;TLDR · 2026-11-25 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.allthingsdistributed.com/2026/11/tech-predictions-for-2027-and-beyond.html"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-25T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.normaltech.ai/p/management-consulting-is-not-a-thin</id>
+    <title>Management consulting is not a thin wrapper on intelligence (30 minute read)</title>
+    <updated>2026-11-25T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Apocalyptic predictions about consulting misunderstand both the value of consulting firms and how new technologies change the demand for consulting.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-25"&gt;TLDR · 2026-11-25 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.normaltech.ai/p/management-consulting-is-not-a-thin"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-25T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6afe293472e19d05894f58bb/1795041588199/2026+11+AI+Questions.pdf</id>
+    <title>AI Questions (73 minute read)</title>
+    <updated>2026-11-25T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;All AI questions have one of two answers: 'no one knows' and 'what happened the last time that everything changed?'.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-25"&gt;TLDR · 2026-11-25 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6afe293472e19d05894f58bb/1795041588199/2026+11+AI+Questions.pdf"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-25T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://fzakaria.com/2026/11/23/2035-came-early</id>
+    <title>2035 came early (5 minute read)</title>
+    <updated>2026-11-25T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Large language models are rapidly speeding up prediction timelines.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-25"&gt;TLDR · 2026-11-25 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://fzakaria.com/2026/11/23/2035-came-early"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-25T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://simonwillison.net/2026/Nov/24/astra-historical-mystery</id>
+    <title>GPT 6.2 Astra Solves a Historical Mystery (2 minute read)</title>
+    <updated>2026-11-25T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;GPT-6.2 Astra autonomously identified the creator of an anonymous sketchbook from 1808 held at Yale's Beinecke Library.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-25"&gt;TLDR · 2026-11-25 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://simonwillison.net/2026/Nov/24/astra-historical-mystery/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-25T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms</id>
+    <title>Meta brings its Muse AI assistant directly into Instagram DMs (2 minute read)</title>
+    <updated>2026-11-25T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Instagram users can now chat with Muse to get more context about a post, place, or product they come across.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-25"&gt;TLDR · 2026-11-25 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-25T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://zhenyi.gibber.blog/building-software-for-modern-users</id>
+    <title>Building Software for Modern Users (3 minute read)</title>
+    <updated>2026-11-25T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This post contains several examples of how AI can be used to enhance customer workflows.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-25"&gt;TLDR · 2026-11-25 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://zhenyi.gibber.blog/building-software-for-modern-users"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-25T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html</id>
     <title>Trump sealed deal for Nvidia to rehire Jensen Huang as CEO (4 minute read)</title>

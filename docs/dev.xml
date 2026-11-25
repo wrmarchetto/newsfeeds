@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-11-24T11:00:00+00:00</updated>
+  <updated>2026-11-25T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,176 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://polypane.app/blog/getting-started-with-webmcp-building-and-testing-tools</id>
+    <title>Getting started with WebMCP (13 minute read)</title>
+    <updated>2026-11-25T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;WebMCP is a draft browser API that lets websites expose specific actions as tools agents can call directly. This post uses a restaurant booking demo to show how to register a tool, validate its inputs, and test calls in the browser without an agent.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-25"&gt;TLDR Dev · 2026-11-25 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://polypane.app/blog/getting-started-with-webmcp-building-and-testing-tools"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-25T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://sigh.dev/posts/vibecoding-faster-react-tests</id>
+    <title>React Testing Library is faster when it's part of the DOM (7 minute read)</title>
+    <updated>2026-11-25T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A DOM implementation with built-in Testing Library queries cut runtime by 32% to 54% across four unchanged React test suites. It caches accessibility queries and advances timers on a virtual clock, but requires Node 26 or later and React 19.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-25"&gt;TLDR Dev · 2026-11-25 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://sigh.dev/posts/vibecoding-faster-react-tests/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-25T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://three.dev/blog/how-the-memory-for-a-million-tokens-shrank</id>
+    <title>How the memory for a million tokens shrank 150,000 times (10 minute read)</title>
+    <updated>2026-11-25T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This breakdown traces how the GPU memory needed to handle a million tokens fell from an estimated 130.5 TB with standard attention on Llama 1 65B to 890 MB with DeepSeek-V4.1-Flash, excluding model weights. FlashAttention eliminated the giant score table, and later designs shrank the remaining KV cache by compressing entries, storing them at lower precision, and sharing them across layers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-25"&gt;TLDR Dev · 2026-11-25 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://three.dev/blog/how-the-memory-for-a-million-tokens-shrank"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-25T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://veszelovszki.com/a/tpe</id>
+    <title>I'm a 100x engineer now 🍄 (26 minute read)</title>
+    <updated>2026-11-25T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A solo developer building a macOS file manager estimates an 80x to 100x increase in coding output with Claude Code, using lines of code as an imperfect measure. The workflow trades manual code review for automated checks and final QA on a noncritical project.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-25"&gt;TLDR Dev · 2026-11-25 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://veszelovszki.com/a/tpe/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-25T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paddo.dev/blog/three-streams</id>
+    <title>Make It Work, Make It Right, Make It Land (5 minute read)</title>
+    <updated>2026-11-25T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Build against mocks, negotiate real integrations, and gather stakeholder feedback in parallel when implementation outpaces cross-team approvals. Running the replacement alongside the old system on real inputs before cutover makes unexplained differences visible.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-25"&gt;TLDR Dev · 2026-11-25 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://paddo.dev/blog/three-streams"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-25T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you</id>
+    <title>LLM agents work for their parent companies, not for you (5 minute read)</title>
+    <updated>2026-11-25T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A Claude Code workflow that finds music from Instagram clips hit a dead end when Bandcamp added a bot challenge. The experience prompts an argument for running agents locally so users have more control over which tasks their tools can perform.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-25"&gt;TLDR Dev · 2026-11-25 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-25T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/ocavue/astrobook</id>
+    <title>Astrobook (GitHub Repo)</title>
+    <updated>2026-11-25T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Astrobook is a lightweight component playground that supports Astro, React, Vue, Preact, Svelte, Solid, and Lit. It discovers story files automatically and supports a subset of Storybook's Component Story Format 3.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-25"&gt;TLDR Dev · 2026-11-25 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/ocavue/astrobook"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-25T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-25T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-25"&gt;TLDR Dev · 2026-11-25 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-25T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://cognition.com/blog/swe-2-1</id>
+    <title>Introducing SWE-2.1 (5 minute read)</title>
+    <updated>2026-11-25T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Cognition reports that SWE-2.1 scored 41.3 on FrontierCode 2.0 and 50.0 on Terminal-Bench 4.1, up from 24.1 and 24.2 for SWE-2. The Ultrafast version uses the same model and generates tokens 10 times as fast.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-25"&gt;TLDR Dev · 2026-11-25 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://cognition.com/blog/swe-2-1"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-25T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://component-party.dev/compare/solid1-vs-solid2</id>
+    <title>Solid 1 to Solid 2 (Website)</title>
+    <updated>2026-11-25T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Component Party puts Solid 1 and Solid 2 examples side by side so developers can scan what changes during a migration. It flags unchanged patterns, including basic templates, styling, loops, and click handlers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-25"&gt;TLDR Dev · 2026-11-25 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://component-party.dev/compare/solid1-vs-solid2/"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-25T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.justafewbugs.xyz/</id>
+    <title>Just a Few Bugs (21 minute read)</title>
+    <updated>2026-11-25T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;An independent security researcher recounts filing 95 reports through Google's Android and Devices bug bounty program and receiving one $250 payment. After comparing the closed reports with Pixel firmware, the researcher says eight fixes appeared in stable releases and two in beta without a bounty or public credit.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-25"&gt;TLDR Dev · 2026-11-25 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.justafewbugs.xyz/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-25T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ladybird.org/posts/alpha</id>
+    <title>Ladybird is now in alpha (2 minute read)</title>
+    <updated>2026-11-25T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Ladybird's first public alpha brings its independently built browser engine to macOS and Linux. Developers can test their sites with WebDriver, though the project expects some sites to break and the browser to crash occasionally.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-25"&gt;TLDR Dev · 2026-11-25 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://ladybird.org/posts/alpha/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-25T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.com/sarahfim/status/2125402373149557079</id>
+    <title>I reverse-engineered Grok Bot, Muse, and Instinct (9 minute read)</title>
+    <updated>2026-11-25T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This teardown compares how always-on assistants use tools, remember context, and start work on schedules or in response to events. OpenClaw illustrates one pattern by loading a small set of memory files at session start and searching daily notes when it needs more detail.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-25"&gt;TLDR Dev · 2026-11-25 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/sarahfim/status/2125402373149557079"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-25T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://claude.com/resources/articles/skills-over-mcp-tasks-and-more</id>
+    <title>MCP servers can now ship skills, run tasks, and more with Claude (6 minute read)</title>
+    <updated>2026-11-25T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Claude can now load skills from MCP servers in public beta, delegate long-running tasks to the background, and let servers pause to ask users for input.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-25"&gt;TLDR Dev · 2026-11-25 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://claude.com/resources/articles/skills-over-mcp-tasks-and-more"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-25T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.kizu.dev/lh-is-not-the-actual-line-height</id>
+    <title>The CSS lh Unit and Actual Line Height (2 minute read)</title>
+    <updated>2026-11-25T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A padded inline element shows why the CSS lh unit can misalign an icon and how aligning to the text baseline fixes it.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-25"&gt;TLDR Dev · 2026-11-25 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.kizu.dev/lh-is-not-the-actual-line-height/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-25T10:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bencodezen.io/blog/why-i-switched-to-vite-plus</id>
+    <title>Why I Switched to Vite+ (10 minute read)</title>
+    <updated>2026-11-25T10:59:45+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Vite+ brings formatting, linting, testing, and Node version management into one CLI and config file.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-25"&gt;TLDR Dev · 2026-11-25 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.bencodezen.io/blog/why-i-switched-to-vite-plus"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-25T10:59:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.builder.io/blog/reverse-engineer-website</id>
+    <title>How to reverse engineer a website with AI (8 minute read)</title>
+    <updated>2026-11-25T10:59:44+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Using Stripe's homepage wave as an example, this tutorial shows how an AI coding agent can isolate an animation's shape, motion, and lighting so you can build your own version.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-25"&gt;TLDR Dev · 2026-11-25 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.builder.io/blog/reverse-engineer-website"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-25T10:59:44+00:00</published>
+  </entry>
   <entry>
     <id>https://jonmagic.com/posts/trying-over-and-over-to-build-a-continuous-software-machine</id>
     <title>Building a Continuous Software Engine the Hard Way (10 minute read)</title>

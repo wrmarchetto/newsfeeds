@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/hardware.xml</id>
   <title>TLDR Hardware</title>
-  <updated>2026-11-23T11:00:00+00:00</updated>
+  <updated>2026-11-25T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,126 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress</id>
+    <title>Tesla and SpaceX reportedly aim to sign an all-stock merger by year-end, creating a roughly $3.5 trillion company (3 minute read)</title>
+    <updated>2026-11-25T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The FT says talks are moving toward a December 31 target, just before a new Congress where Democrats have vowed to probe Musk's companies, even though people familiar say an agreement isn't close. It would need more than 50% of all outstanding Tesla votes, where Musk holds about 20% of voting power, while he controls about 84% of SpaceX. Regulators in the US, China, Europe, and the UK could scrutinize it.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-25"&gt;TLDR Hardware · 2026-11-25 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-11-25T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director</id>
+    <title>Nvidia's board unanimously reinstates Jensen Huang as CEO (2 minute read)</title>
+    <updated>2026-11-25T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Nvidia's board says Jensen Huang's candor and the input of US officials left them confident his return poses no national security risk, despite the pending independent director investigation into the foreign intelligence effort targeting him. The company is searching for a new Chief Compliance Officer, who will report to the Nominating and Corporate Governance Committee, alongside the independent National Security and Export Control Committee formed last week.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-25"&gt;TLDR Hardware · 2026-11-25 · Headlines and Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"/>
+    <category term="TLDR Hardware"/>
+    <category term="Headlines and Launches"/>
+    <published>2026-11-25T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://newsroom.arianespace.com/?p=51508&amp;amp%3Butm_source=tldrhardware</id>
+    <title>Ariane 64 launches 36 Amazon Leo satellites to about 460 km on its second flight with longer P160C boosters, Ariane 6's 10th straight success (2 minute read)</title>
+    <updated>2026-11-25T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The mission ran 2 hours and 4 minutes from liftoff to final satellite separation, bringing Arianespace's total to 136 Amazon Leo satellites this year. Amazon has ordered six more Ariane 64 launches, for 24 contracted overall.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-25"&gt;TLDR Hardware · 2026-11-25 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://newsroom.arianespace.com/?p=51508&amp;amp%3Butm_source=tldrhardware"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-11-25T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch</id>
+    <title>Uber and Nuro begin driverless testing of Lucid Gravity robotaxis in the Bay Area ahead of a Q1 2027 commercial launch (2 minute read)</title>
+    <updated>2026-11-25T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The Gravity robotaxi uses high-resolution cameras, solid-state lidar, and radar running Nuro's driver, and testing has moved to no human at the wheel more than six months after California issued the driverless permit. Lucid is starting to build the first production versions at its Arizona factory, expanding the combined test fleet that stood at 100 vehicles earlier this year. Uber will own and operate the fleet and has committed to at least 20,000 Gravity SUVs over six years.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-25"&gt;TLDR Hardware · 2026-11-25 · Engineering and Applications&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Engineering and Applications"/>
+    <published>2026-11-25T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.politico.com/news/2026/11/11/its-kind-of-hard-to-wrap-your-mind-around-01160627</id>
+    <title>PsiQuantum CEO Victor Peng says quantum is a new form of computing that will create whole new industries, while governments are still catching up (3 minute read)</title>
+    <updated>2026-11-25T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Peng became CEO in February, more than a year after the Australian federal and Queensland governments signed an AU$900 million deal with PsiQuantum to build a first-of-its-kind quantum computer near Brisbane. He echoes co-founder Mark Thompson's claim that quantum will dwarf AI in impact, and says many in government find that hard to grasp, though some parts have physicists and deeply technical staff.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-25"&gt;TLDR Hardware · 2026-11-25 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.politico.com/news/2026/11/11/its-kind-of-hard-to-wrap-your-mind-around-01160627"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-11-25T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.science.org/content/article/when-will-insect-size-robots-be-able-fly-beyond-lab</id>
+    <title>Insect-size flying robots could leave the lab within two years, but onboard power, sensing, and control are the bottleneck (4 minute read)</title>
+    <updated>2026-11-25T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;University of Washington's Sawyer Fuller predicts a fully autonomous insect-size flyer could fly free soon, though techniques from larger drones break down at this scale and onboard controllers and sensors add weight. MIT's wing-halved design hovered for about 1,000 seconds, 100 times longer than prior bots, and leaves room for batteries and sensors. Other designs, like FVW-Fly, control altitude but still lack directional control.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-25"&gt;TLDR Hardware · 2026-11-25 · Research and Prototypes&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.science.org/content/article/when-will-insect-size-robots-be-able-fly-beyond-lab"/>
+    <category term="TLDR Hardware"/>
+    <category term="Research and Prototypes"/>
+    <published>2026-11-25T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date</id>
+    <title>Bambu Lab's P3C brings a seven-tool changer to a $1,149 printer, about half the price of the H3C (2 minute read)</title>
+    <updated>2026-11-25T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Instead of purging one nozzle on every color change, the Swaptek system swaps between separate nozzles in about six seconds, with five 0.4 mm tools included and two open slots that cost $99 each to fill. The build volume is 256 x 256 x 260 mm versus 330 x 320 x 325 mm on the H3C, and the bundled AMS 3P loads filament manually, which is the main compromise. It went on sale on November 24, with the seven-tool kit at $1,299.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-25"&gt;TLDR Hardware · 2026-11-25 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-25T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip</id>
+    <title>LLMs handle Verilog but not layouts or waveforms, and agents multiply load on design data systems by 10 to 20x (14 minute read)</title>
+    <updated>2026-11-25T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Public RTL is plentiful, but models have never seen layouts, and a terabyte waveform database must be converted to text, burning tokens, so panelists want queryable abstractions. Each engineer directing 10 to 20 agents scales version control, NFS, and license demand the same way, and IP governance is a worry. Customers are drifting back from air-gapped open models toward frontier ones, while hybrid specialized models may handle things like temporal assertions.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-25"&gt;TLDR Hardware · 2026-11-25 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-25T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.datacenterdynamics.com/en/news/tsmc-files-application-for-proposed-2nm-chip-fab-in-brazos-county-texas</id>
+    <title>TSMC files a Texas tax-break application for a $22.6B, 3,232-acre 2nm-and-beyond fab campus in Brazos County, with construction targeted for 2027 to 2031 (2 minute read)</title>
+    <updated>2026-11-25T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The filing proposes at least one logic fab for AI, HPC, and mobile chips and up to 2,099 direct jobs.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-25"&gt;TLDR Hardware · 2026-11-25 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.datacenterdynamics.com/en/news/tsmc-files-application-for-proposed-2nm-chip-fab-in-brazos-county-texas/"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-25T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.reuters.com/world/china/schumer-accuses-nvidia-ceo-violating-us-export-control-law-2026-11-24</id>
+    <title>Schumer accuses Nvidia CEO Jensen Huang of shipping advanced chips to China in violation of export law, days before a Senate Banking hearing (2 minute read)</title>
+    <updated>2026-11-25T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Schumer's X post compares the alleged shipments to "selling rocket engines to the Soviets".&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-25"&gt;TLDR Hardware · 2026-11-25 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.reuters.com/world/china/schumer-accuses-nvidia-ceo-violating-us-export-control-law-2026-11-24"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-25T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.techpowerup.com/355102/nvidias-ssd-writing-bug-needs-another-hotfix-as-issue-returns</id>
+    <title>NVIDIA's SSD Writing Bug Needs Another Hotfix as Issue Returns (2 minute read)</title>
+    <updated>2026-11-25T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;NVIDIA's GeForce RTX 40 series experiences ongoing excessive SSD writing, despite the recent GeForce Hotfix 621.35 reducing peak rates.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-25"&gt;TLDR Hardware · 2026-11-25 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.techpowerup.com/355102/nvidias-ssd-writing-bug-needs-another-hotfix-as-issue-returns"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-25T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis</id>
+    <title>The White House asks Congress for $2 billion more for Artemis in the next stopgap funding bill, or its activities "would be delayed" (2 minute read)</title>
+    <updated>2026-11-25T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The ask is one of a list of exemptions, called anomalies, to a funding freeze.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/hardware/2026-11-25"&gt;TLDR Hardware · 2026-11-25 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis"/>
+    <category term="TLDR Hardware"/>
+    <category term="Quick Links"/>
+    <published>2026-11-25T10:59:49+00:00</published>
+  </entry>
   <entry>
     <id>https://www.reuters.com/technology/trump-says-us-penalize-firms-building-data-centers-abroad-2026-11-20</id>
     <title>Trump says the US will tax American companies that build data centers abroad, citing China's access to rented compute (2 minute read)</title>

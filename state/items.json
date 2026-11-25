@@ -20,6 +20,7 @@
   "ai/2026-11-20": "2026-11-20T18:38:19+00:00",
   "ai/2026-11-23": "2026-11-23T22:03:49+00:00",
   "ai/2026-11-24": "2026-11-24T20:40:57+00:00",
+  "ai/2026-11-25": "2026-11-25T19:57:19+00:00",
   "dev/2026-10-28": "2026-10-28T16:40:12+00:00",
   "dev/2026-10-29": "2026-10-29T16:56:31+00:00",
   "dev/2026-10-30": "2026-10-30T16:42:37+00:00",
@@ -40,6 +41,7 @@
   "dev/2026-11-20": "2026-11-20T18:38:16+00:00",
   "dev/2026-11-23": "2026-11-23T22:03:47+00:00",
   "dev/2026-11-24": "2026-11-24T20:40:55+00:00",
+  "dev/2026-11-25": "2026-11-25T19:57:17+00:00",
   "hardware/2026-10-28": "2026-10-28T16:40:17+00:00",
   "hardware/2026-10-30": "2026-10-30T16:42:41+00:00",
   "hardware/2026-11-02": "2026-11-02T20:22:37+00:00",
@@ -52,6 +54,7 @@
   "hardware/2026-11-18": "2026-11-18T18:52:37+00:00",
   "hardware/2026-11-20": "2026-11-20T18:38:21+00:00",
   "hardware/2026-11-23": "2026-11-23T22:03:51+00:00",
+  "hardware/2026-11-25": "2026-11-25T19:57:21+00:00",
   "tech/2026-10-28": "2026-10-28T16:40:10+00:00",
   "tech/2026-10-29": "2026-10-29T16:56:29+00:00",
   "tech/2026-10-30": "2026-10-30T16:42:34+00:00",
@@ -71,7 +74,8 @@
   "tech/2026-11-19": "2026-11-19T19:00:40+00:00",
   "tech/2026-11-20": "2026-11-20T18:38:14+00:00",
   "tech/2026-11-23": "2026-11-23T22:03:44+00:00",
-  "tech/2026-11-24": "2026-11-24T20:40:52+00:00"
+  "tech/2026-11-24": "2026-11-24T20:40:52+00:00",
+  "tech/2026-11-25": "2026-11-25T19:57:14+00:00"
  },
  "items": [
   {
@@ -5333,6 +5337,606 @@
    "summary_html": "<div class=\"newsletter-html\">Rocket is Microsoft AI's in-house reinforcement learning framework for post-training MAI Base 2, a three-trillion-parameter model, without distilling from third-party models.</div>",
    "title": "RL infrastructure at Microsoft AI (15 minute read)",
    "url": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-s-huang-to-host-all-hands-meeting-a-day-after-his-return?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTU5MTYxNCwiZXhwIjoxNzk2MTk2NDE0LCJhcnRpY2xlSWQiOiJUUDBONzNUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.e37IuvlQG2Nbdkmu77u9Od_yrwzGDZCDDSPQzom9vOM&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-25",
+   "position": 0,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">Jensen Huang said to staff during an all-hands meeting that he has been in daily therapy to address the behavior that led to his brief ouster as CEO of Nvidia. He insists that he wasn't reinstated because he is a 'tech bro' who's above the law. Nvidia's board will hold him to account going forward. He acknowledges violating Nvidia's code of conduct and says he is grateful to have a second chance to lead the company he co-founded three decades ago.</div>",
+   "title": "Huang Apologizes to Nvidia Staff, Says He's in Daily Therapy (3 minute read)",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-s-huang-to-host-all-hands-meeting-a-day-after-his-return?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTU5MTYxNCwiZXhwIjoxNzk2MTk2NDE0LCJhcnRpY2xlSWQiOiJUUDBONzNUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.e37IuvlQG2Nbdkmu77u9Od_yrwzGDZCDDSPQzom9vOM&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTU5MTYyMCwiZXhwIjoxNzk2MTk2NDIwLCJhcnRpY2xlSWQiOiJUT1JXRUFLSzNOWUQwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.-sqwf6C1BvamK1ZA2Lkjm-srlgaILnVETGcTVrN6OCE&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-25",
+   "position": 1,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">Epochal, a startup founded by three former xAI founders, has developed an initial product that lets AI agents browse an archived version of the internet as it existed on specific dates. It is designed to simulate the past to teach AI to predict the future. The company's goal is to create an AI model that can help with decision-making through superhuman prediction.</div>",
+   "title": "xAI Founders Unveil New AI Startup to Predict Future Events (2 minute read)",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTU5MTYyMCwiZXhwIjoxNzk2MTk2NDIwLCJhcnRpY2xlSWQiOiJUT1JXRUFLSzNOWUQwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.-sqwf6C1BvamK1ZA2Lkjm-srlgaILnVETGcTVrN6OCE&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://scottaaronson.blog/?p=10362&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-25",
+   "position": 2,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">AI has been solving long-standing problems in mathematics at an increasing rate. These proofs come with formal certifications that prove their correctness to a level beyond what would normally be demanded for a math paper published in a journal. Many people will try to deny that these proofs are valid, but experts agree there aren't any real technical issues with the proofs. The phenomenon is causing some mathematicians to rethink their lives.</div>",
+   "title": "I've been drinking wine in my kitchen (3 minute read)",
+   "url": "https://scottaaronson.blog/?p=10362&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb?st=o1qGTt&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-25",
+   "position": 3,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Levent Alp\u00f6ge graduated from Harvard with the highest GPA in his class, won the prize for America's top young math researcher, and earned his Ph.D. in math from Princeton before he took a job at Anthropic. He recently stepped into the public limelight due to his claim of having solved the Riemann Hypothesis with the help of AI. His 17-million-line-long proof has already been verified by two independent groups. If it holds up to further scrutiny, Alp\u00f6ge will become one of the most prominent mathematicians in history.</div>",
+   "title": "The Most Famous Problem in Math Was Just Solved by AI\u2014and This Human (10 minute read)",
+   "url": "https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb?st=o1qGTt&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://blog.frankrousseau.fr/agentic-coding-on-an-open-source-project",
+   "issue_date": "2026-11-25",
+   "position": 4,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">LLM usage in the developer community has evolved drastically over the past year. Models' progress has been so impressive that developers are now delegating all of the coding to LLM agents. This article discusses how to deal with all of the aspects of agentic coding: prompting, context management, skills, reviews, and orchestration. It also shares a process for performing large QA operations, running data migration, and writing entirely new software.</div>",
+   "title": "Agentic coding on an open-source project (35 minute read)",
+   "url": "https://blog.frankrousseau.fr/agentic-coding-on-an-open-source-project/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://antithesis.com/blog/2026/nightmare-mode",
+   "issue_date": "2026-11-25",
+   "position": 5,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">This post looks at the disk faults that a 'nightmare mode' fault injector needs to be able to emulate. Disk fault injection can uncover a number of bugs in customer software. Antithesis' disk fault injector covers power failures, torn writes and torn sequences, disk I/O errors, and the latency faults that shake out concurrency bugs. It is customizable, so users don't have to turn everything on.</div>",
+   "title": "Nightmare mode: simulating disk failures (20 minute read)",
+   "url": "https://antithesis.com/blog/2026/nightmare-mode/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-25",
+   "position": 6,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR's AI community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "tech",
+   "id": "https://colossus.com/article/bret-taylor-founder-guy",
+   "issue_date": "2026-11-25",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Bret Taylor created Google Maps, invented the Like button, was co-CEO of Salesforce, and is now the chairman of OpenAI. He sold his first startup to Facebook for $50 million, and his next one to Salesforce for $750 million. By all accounts, he is normal - which is strange for a tech leader. This article contains a transcript of an interview with him where he discusses his career in detail.</div>",
+   "title": "Tinker Taylor Founder Guy (72 minute read)",
+   "url": "https://colossus.com/article/bret-taylor-founder-guy/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.allthingsdistributed.com/2026/11/tech-predictions-for-2027-and-beyond.html",
+   "issue_date": "2026-11-25",
+   "position": 8,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Neuroscience will increasingly influence how we design systems in the years to come as computing returns to biology. Adversarial testing will soon move into every phase of software development. Sovereignty will become a non-functional requirement. Collaboration between scientists and agents will lead to new cures and diagnostic technologies.</div>",
+   "title": "Tech predictions for 2027 and beyond (24 minute read)",
+   "url": "https://www.allthingsdistributed.com/2026/11/tech-predictions-for-2027-and-beyond.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.normaltech.ai/p/management-consulting-is-not-a-thin",
+   "issue_date": "2026-11-25",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Apocalyptic predictions about consulting misunderstand both the value of consulting firms and how new technologies change the demand for consulting.</div>",
+   "title": "Management consulting is not a thin wrapper on intelligence (30 minute read)",
+   "url": "https://www.normaltech.ai/p/management-consulting-is-not-a-thin"
+  },
+  {
+   "edition": "tech",
+   "id": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6afe293472e19d05894f58bb/1795041588199/2026+11+AI+Questions.pdf",
+   "issue_date": "2026-11-25",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">All AI questions have one of two answers: 'no one knows' and 'what happened the last time that everything changed?'.</div>",
+   "title": "AI Questions (73 minute read)",
+   "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6afe293472e19d05894f58bb/1795041588199/2026+11+AI+Questions.pdf"
+  },
+  {
+   "edition": "tech",
+   "id": "https://fzakaria.com/2026/11/23/2035-came-early",
+   "issue_date": "2026-11-25",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Large language models are rapidly speeding up prediction timelines.</div>",
+   "title": "2035 came early (5 minute read)",
+   "url": "https://fzakaria.com/2026/11/23/2035-came-early"
+  },
+  {
+   "edition": "tech",
+   "id": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
+   "issue_date": "2026-11-25",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">GPT-6.2 Astra autonomously identified the creator of an anonymous sketchbook from 1808 held at Yale's Beinecke Library.</div>",
+   "title": "GPT 6.2 Astra Solves a Historical Mystery (2 minute read)",
+   "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
+   "issue_date": "2026-11-25",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Instagram users can now chat with Muse to get more context about a post, place, or product they come across.</div>",
+   "title": "Meta brings its Muse AI assistant directly into Instagram DMs (2 minute read)",
+   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://zhenyi.gibber.blog/building-software-for-modern-users",
+   "issue_date": "2026-11-25",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">This post contains several examples of how AI can be used to enhance customer workflows.</div>",
+   "title": "Building Software for Modern Users (3 minute read)",
+   "url": "https://zhenyi.gibber.blog/building-software-for-modern-users"
+  },
+  {
+   "edition": "dev",
+   "id": "https://polypane.app/blog/getting-started-with-webmcp-building-and-testing-tools",
+   "issue_date": "2026-11-25",
+   "position": 0,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">WebMCP is a draft browser API that lets websites expose specific actions as tools agents can call directly. This post uses a restaurant booking demo to show how to register a tool, validate its inputs, and test calls in the browser without an agent.</div>",
+   "title": "Getting started with WebMCP (13 minute read)",
+   "url": "https://polypane.app/blog/getting-started-with-webmcp-building-and-testing-tools"
+  },
+  {
+   "edition": "dev",
+   "id": "https://sigh.dev/posts/vibecoding-faster-react-tests",
+   "issue_date": "2026-11-25",
+   "position": 1,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">A DOM implementation with built-in Testing Library queries cut runtime by 32% to 54% across four unchanged React test suites. It caches accessibility queries and advances timers on a virtual clock, but requires Node 26 or later and React 19.</div>",
+   "title": "React Testing Library is faster when it's part of the DOM (7 minute read)",
+   "url": "https://sigh.dev/posts/vibecoding-faster-react-tests/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://three.dev/blog/how-the-memory-for-a-million-tokens-shrank",
+   "issue_date": "2026-11-25",
+   "position": 2,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">This breakdown traces how the GPU memory needed to handle a million tokens fell from an estimated 130.5 TB with standard attention on Llama 1 65B to 890 MB with DeepSeek-V4.1-Flash, excluding model weights. FlashAttention eliminated the giant score table, and later designs shrank the remaining KV cache by compressing entries, storing them at lower precision, and sharing them across layers.</div>",
+   "title": "How the memory for a million tokens shrank 150,000 times (10 minute read)",
+   "url": "https://three.dev/blog/how-the-memory-for-a-million-tokens-shrank"
+  },
+  {
+   "edition": "dev",
+   "id": "https://veszelovszki.com/a/tpe",
+   "issue_date": "2026-11-25",
+   "position": 3,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">A solo developer building a macOS file manager estimates an 80x to 100x increase in coding output with Claude Code, using lines of code as an imperfect measure. The workflow trades manual code review for automated checks and final QA on a noncritical project.</div>",
+   "title": "I'm a 100x engineer now \ud83c\udf44 (26 minute read)",
+   "url": "https://veszelovszki.com/a/tpe/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://paddo.dev/blog/three-streams",
+   "issue_date": "2026-11-25",
+   "position": 4,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Build against mocks, negotiate real integrations, and gather stakeholder feedback in parallel when implementation outpaces cross-team approvals. Running the replacement alongside the old system on real inputs before cutover makes unexplained differences visible.</div>",
+   "title": "Make It Work, Make It Right, Make It Land (5 minute read)",
+   "url": "https://paddo.dev/blog/three-streams"
+  },
+  {
+   "edition": "dev",
+   "id": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+   "issue_date": "2026-11-25",
+   "position": 5,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">A Claude Code workflow that finds music from Instagram clips hit a dead end when Bandcamp added a bot challenge. The experience prompts an argument for running agents locally so users have more control over which tasks their tools can perform.</div>",
+   "title": "LLM agents work for their parent companies, not for you (5 minute read)",
+   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/ocavue/astrobook",
+   "issue_date": "2026-11-25",
+   "position": 6,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Astrobook is a lightweight component playground that supports Astro, React, Vue, Preact, Svelte, Solid, and Lit. It discovers story files automatically and supports a subset of Storybook's Component Story Format 3.</div>",
+   "title": "Astrobook (GitHub Repo)",
+   "url": "https://github.com/ocavue/astrobook"
+  },
+  {
+   "edition": "dev",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-25",
+   "position": 7,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR's AI community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "dev",
+   "id": "https://cognition.com/blog/swe-2-1",
+   "issue_date": "2026-11-25",
+   "position": 8,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Cognition reports that SWE-2.1 scored 41.3 on FrontierCode 2.0 and 50.0 on Terminal-Bench 4.1, up from 24.1 and 24.2 for SWE-2. The Ultrafast version uses the same model and generates tokens 10 times as fast.</div>",
+   "title": "Introducing SWE-2.1 (5 minute read)",
+   "url": "https://cognition.com/blog/swe-2-1"
+  },
+  {
+   "edition": "dev",
+   "id": "https://component-party.dev/compare/solid1-vs-solid2",
+   "issue_date": "2026-11-25",
+   "position": 9,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Component Party puts Solid 1 and Solid 2 examples side by side so developers can scan what changes during a migration. It flags unchanged patterns, including basic templates, styling, loops, and click handlers.</div>",
+   "title": "Solid 1 to Solid 2 (Website)",
+   "url": "https://component-party.dev/compare/solid1-vs-solid2/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.justafewbugs.xyz/",
+   "issue_date": "2026-11-25",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">An independent security researcher recounts filing 95 reports through Google's Android and Devices bug bounty program and receiving one $250 payment. After comparing the closed reports with Pixel firmware, the researcher says eight fixes appeared in stable releases and two in beta without a bounty or public credit.</div>",
+   "title": "Just a Few Bugs (21 minute read)",
+   "url": "https://www.justafewbugs.xyz/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://ladybird.org/posts/alpha",
+   "issue_date": "2026-11-25",
+   "position": 11,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Ladybird's first public alpha brings its independently built browser engine to macOS and Linux. Developers can test their sites with WebDriver, though the project expects some sites to break and the browser to crash occasionally.</div>",
+   "title": "Ladybird is now in alpha (2 minute read)",
+   "url": "https://ladybird.org/posts/alpha/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://x.com/sarahfim/status/2125402373149557079",
+   "issue_date": "2026-11-25",
+   "position": 12,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">This teardown compares how always-on assistants use tools, remember context, and start work on schedules or in response to events. OpenClaw illustrates one pattern by loading a small set of memory files at session start and searching daily notes when it needs more detail.</div>",
+   "title": "I reverse-engineered Grok Bot, Muse, and Instinct (9 minute read)",
+   "url": "https://x.com/sarahfim/status/2125402373149557079"
+  },
+  {
+   "edition": "dev",
+   "id": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+   "issue_date": "2026-11-25",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Claude can now load skills from MCP servers in public beta, delegate long-running tasks to the background, and let servers pause to ask users for input.</div>",
+   "title": "MCP servers can now ship skills, run tasks, and more with Claude (6 minute read)",
+   "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more"
+  },
+  {
+   "edition": "dev",
+   "id": "https://blog.kizu.dev/lh-is-not-the-actual-line-height",
+   "issue_date": "2026-11-25",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">A padded inline element shows why the CSS lh unit can misalign an icon and how aligning to the text baseline fixes it.</div>",
+   "title": "The CSS lh Unit and Actual Line Height (2 minute read)",
+   "url": "https://blog.kizu.dev/lh-is-not-the-actual-line-height/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.bencodezen.io/blog/why-i-switched-to-vite-plus",
+   "issue_date": "2026-11-25",
+   "position": 15,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Vite+ brings formatting, linting, testing, and Node version management into one CLI and config file.</div>",
+   "title": "Why I Switched to Vite+ (10 minute read)",
+   "url": "https://www.bencodezen.io/blog/why-i-switched-to-vite-plus"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.builder.io/blog/reverse-engineer-website",
+   "issue_date": "2026-11-25",
+   "position": 16,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Using Stripe's homepage wave as an example, this tutorial shows how an AI coding agent can isolate an animation's shape, motion, and lighting so you can build your own version.</div>",
+   "title": "How to reverse engineer a website with AI (8 minute read)",
+   "url": "https://www.builder.io/blog/reverse-engineer-website"
+  },
+  {
+   "edition": "ai",
+   "id": "https://cognition.com/blog/swe-2-1",
+   "issue_date": "2026-11-25",
+   "position": 0,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Cognition released SWE-2.1, an upgraded coding and agent model trained with reinforcement learning on top of Kimi K3. It roughly doubles SWE-2's score on the Terminal-Bench 4.1 coding benchmark to 50.0 and adds stronger security skills.</div>",
+   "title": "Cognition's SWE-2.1 (3 minute read)",
+   "url": "https://cognition.com/blog/swe-2-1"
+  },
+  {
+   "edition": "ai",
+   "id": "https://prismml.com/news/bonsai-2-5-27b",
+   "issue_date": "2026-11-25",
+   "position": 1,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Ternary Bonsai 2.5 27B has substantially stronger agentic coding, multi-turn tool use, and multi-step task execution abilities than its predecessor. It retains the previous release's 5.9 GB footprint while significantly improving the capabilities developers need to build agents that work with private files and tools on-device. It is by far the strongest AI model of its memory footprint for agentic workloads.</div>",
+   "title": "Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work (4 minute read)",
+   "url": "https://prismml.com/news/bonsai-2-5-27b"
+  },
+  {
+   "edition": "ai",
+   "id": "https://claude.com/resources/articles/install-as-app",
+   "issue_date": "2026-11-25",
+   "position": 2,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Claude artifacts can now be installed as Mac and Windows apps, in beta on all plans. Each app gets its own icon and window, updates when the artifact changes, and can be shared.</div>",
+   "title": "Claude Artifacts Become Mac and Windows Apps (3 minute read)",
+   "url": "https://claude.com/resources/articles/install-as-app"
+  },
+  {
+   "edition": "ai",
+   "id": "https://thezvi.substack.com/p/jensen-huang-reinstated-as-nvidia",
+   "issue_date": "2026-11-25",
+   "position": 3,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Jensen Huang's reinstatement as Nvidia's CEO is a sign of the state of US democracy, the country's free market economy and rule of law, and the integrity of its government. It will factor into every decision made and every trade on the stock market for years to come. Nvidia will likely go back to maximizing how many chips it can sell to China. The situation is still far from over as there are ongoing investigations.</div>",
+   "title": "Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump (45 minute read)",
+   "url": "https://thezvi.substack.com/p/jensen-huang-reinstated-as-nvidia"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.paradigm3.org/research/swarms",
+   "issue_date": "2026-11-25",
+   "position": 4,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Swarm-based LLM configurations, coordinated groups of agents, deliver faster but less efficient results compared to single agents at equal token budgets. Adding more agents to a swarm introduces a performance penalty that grows with size, leading to quality degradation. Experiments reveal that previous \"swarm premiums\" result from single agents becoming stale over time. Given fresh context resets, single agents outperform swarms, suggesting that current swarm strategies primarily accelerate compute rather than significantly enhancing capabilities.</div>",
+   "title": "Swarms do not yet raise the roof (46 minute read)",
+   "url": "https://www.paradigm3.org/research/swarms"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.friedgil.com/vpvnp",
+   "issue_date": "2026-11-25",
+   "position": 5,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">The Anthropic proof that VP\u2260VNP means that there is no way to find the permanent of a matrix of 0s and 1s if we are limited to arithmetic circuits of size polynomial in the input-size. This means that for P to equal NP, there must be some trick to computing permanents using AND/OR/NOT on the bits of the input that is better than addition and multiplication. There are many problems where access to Boolean operators is helpful, but it isn't clear how they would help with the permanent. There is a $1 million prize for a solution to this problem.</div>",
+   "title": "What VP \u2260 VNP Means (3 minute read)",
+   "url": "https://www.friedgil.com/vpvnp"
+  },
+  {
+   "edition": "ai",
+   "id": "https://vllm.ai/blog/2026-11-24-vllm-gr-announcement",
+   "issue_date": "2026-11-25",
+   "position": 6,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">vLLM-GR is an open-source framework enhancing vLLM to improve inference for generative recommendation models with efficient beam searches. It enables rapid candidate generation on NVIDIA GPUs and Ascend NPUs by reusing user history and optimizing cache use.</div>",
+   "title": "Announcing vLLM-GR: Efficient Inference for Generative Recommendation (14 minute read)",
+   "url": "https://vllm.ai/blog/2026-11-24-vllm-gr-announcement"
+  },
+  {
+   "edition": "ai",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-25",
+   "position": 7,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR\u2019s AI community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "ai",
+   "id": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+   "issue_date": "2026-11-25",
+   "position": 8,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">The exponent of square matrix multiplication is 9/4 over every field. A smaller exponent would compress tensor networks enough to violate a lower bound for testing whether the entries in each of several independent lists are distinct.</div>",
+   "title": "The matrix multiplication exponent is nine fourths (6 hour read)",
+   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
+  },
+  {
+   "edition": "ai",
+   "id": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "issue_date": "2026-11-25",
+   "position": 9,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI said its GPT-6 models can design new proteins using reasoning and code alone, without calling specialized biology models. Lab tests with a research partner confirmed that some designs worked, though the work still relied on specialist tools to screen candidates.</div>",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities (13 minute read)",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
+   "issue_date": "2026-11-25",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Amazon said AI agents running on Cairn, an open source penetration-testing framework, found and exploited a zero-day in a medical imaging AI app on a university server with no human oversight beyond a goal prompt. Palo Alto Networks separately tracked a Cairn campaign that ran 25 autonomous operations against at least 19 organizations in the semiconductor, defense, and civil society sectors, breaching at least 10. Amazon's warning: agentic offensive operations are already happening, and defenders should prepare for their speed and persistence.</div>",
+   "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input (5 minute read)",
+   "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://ianbarber.blog/2026/11/24/ml-compiler-eng-your-job-is-np-hard",
+   "issue_date": "2026-11-25",
+   "position": 11,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Layout search is computationally hard. However, in reality, there are generally just a few places to put a conversion in a specific kernel. The tricky part is picking an option, as this requires relying on a potentially inaccurate model of how expensive those ops are given the subsequent software stack and the hardware itself.</div>",
+   "title": "ML compiler eng, your job is NP-hard (4 minute read)",
+   "url": "https://ianbarber.blog/2026/11/24/ml-compiler-eng-your-job-is-np-hard/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.testingcatalog.com/openai-prepares-dedicated-email-inboxes-for-chatgpt-dots",
+   "issue_date": "2026-11-25",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI is developing dedicated email addresses for Dots in ChatGPT, allowing them to send and receive emails independently.</div>",
+   "title": "OpenAI prepares dedicated email inboxes for ChatGPT Dots (2 minute read)",
+   "url": "https://www.testingcatalog.com/openai-prepares-dedicated-email-inboxes-for-chatgpt-dots/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
+   "issue_date": "2026-11-25",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Meta now integrates its Muse AI assistant directly into Instagram DMs, allowing users to chat with Muse for context on posts, places, or products.</div>",
+   "title": "Meta brings its Muse AI assistant directly into Instagram DMs (3 minute read)",
+   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models",
+   "issue_date": "2026-11-25",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Post-training leads to substantial gains in both agentic legal reasoning and task completion.</div>",
+   "title": "Pushing the US Open-Weight Frontier (21 minute read)",
+   "url": "https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.testingcatalog.com/google-adds-task-checklists-to-antigravity-and-carbon-for-pro",
+   "issue_date": "2026-11-25",
+   "position": 15,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Google's Antigravity coding app now shows live checklists for long tasks and lets users pick separate planner and executor models.</div>",
+   "title": "Google Adds Task Checklists to Antigravity (2 minute read)",
+   "url": "https://www.testingcatalog.com/google-adds-task-checklists-to-antigravity-and-carbon-for-pro/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress",
+   "issue_date": "2026-11-25",
+   "position": 0,
+   "section": "Headlines and Launches",
+   "summary_html": "<div class=\"newsletter-html\">The FT says talks are moving toward a December 31 target, just before a new Congress where Democrats have vowed to probe Musk's companies, even though people familiar say an agreement isn't close. It would need more than 50% of all outstanding Tesla votes, where Musk holds about 20% of voting power, while he controls about 84% of SpaceX. Regulators in the US, China, Europe, and the UK could scrutinize it.</div>",
+   "title": "Tesla and SpaceX reportedly aim to sign an all-stock merger by year-end, creating a roughly $3.5 trillion company (3 minute read)",
+   "url": "https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+   "issue_date": "2026-11-25",
+   "position": 1,
+   "section": "Headlines and Launches",
+   "summary_html": "<div class=\"newsletter-html\">Nvidia's board says Jensen Huang's candor and the input of US officials left them confident his return poses no national security risk, despite the pending independent director investigation into the foreign intelligence effort targeting him. The company is searching for a new Chief Compliance Officer, who will report to the Nominating and Corporate Governance Committee, alongside the independent National Security and Export Control Committee formed last week.</div>",
+   "title": "Nvidia's board unanimously reinstates Jensen Huang as CEO (2 minute read)",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://newsroom.arianespace.com/?p=51508&amp%3Butm_source=tldrhardware",
+   "issue_date": "2026-11-25",
+   "position": 2,
+   "section": "Engineering and Applications",
+   "summary_html": "<div class=\"newsletter-html\">The mission ran 2 hours and 4 minutes from liftoff to final satellite separation, bringing Arianespace's total to 136 Amazon Leo satellites this year. Amazon has ordered six more Ariane 64 launches, for 24 contracted overall.</div>",
+   "title": "Ariane 64 launches 36 Amazon Leo satellites to about 460 km on its second flight with longer P160C boosters, Ariane 6's 10th straight success (2 minute read)",
+   "url": "https://newsroom.arianespace.com/?p=51508&amp%3Butm_source=tldrhardware"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch",
+   "issue_date": "2026-11-25",
+   "position": 3,
+   "section": "Engineering and Applications",
+   "summary_html": "<div class=\"newsletter-html\">The Gravity robotaxi uses high-resolution cameras, solid-state lidar, and radar running Nuro's driver, and testing has moved to no human at the wheel more than six months after California issued the driverless permit. Lucid is starting to build the first production versions at its Arizona factory, expanding the combined test fleet that stood at 100 vehicles earlier this year. Uber will own and operate the fleet and has committed to at least 20,000 Gravity SUVs over six years.</div>",
+   "title": "Uber and Nuro begin driverless testing of Lucid Gravity robotaxis in the Bay Area ahead of a Q1 2027 commercial launch (2 minute read)",
+   "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.politico.com/news/2026/11/11/its-kind-of-hard-to-wrap-your-mind-around-01160627",
+   "issue_date": "2026-11-25",
+   "position": 4,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">Peng became CEO in February, more than a year after the Australian federal and Queensland governments signed an AU$900 million deal with PsiQuantum to build a first-of-its-kind quantum computer near Brisbane. He echoes co-founder Mark Thompson's claim that quantum will dwarf AI in impact, and says many in government find that hard to grasp, though some parts have physicists and deeply technical staff.</div>",
+   "title": "PsiQuantum CEO Victor Peng says quantum is a new form of computing that will create whole new industries, while governments are still catching up (3 minute read)",
+   "url": "https://www.politico.com/news/2026/11/11/its-kind-of-hard-to-wrap-your-mind-around-01160627"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.science.org/content/article/when-will-insect-size-robots-be-able-fly-beyond-lab",
+   "issue_date": "2026-11-25",
+   "position": 5,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">University of Washington's Sawyer Fuller predicts a fully autonomous insect-size flyer could fly free soon, though techniques from larger drones break down at this scale and onboard controllers and sensors add weight. MIT's wing-halved design hovered for about 1,000 seconds, 100 times longer than prior bots, and leaves room for batteries and sensors. Other designs, like FVW-Fly, control altitude but still lack directional control.</div>",
+   "title": "Insect-size flying robots could leave the lab within two years, but onboard power, sensing, and control are the bottleneck (4 minute read)",
+   "url": "https://www.science.org/content/article/when-will-insect-size-robots-be-able-fly-beyond-lab"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date",
+   "issue_date": "2026-11-25",
+   "position": 6,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Instead of purging one nozzle on every color change, the Swaptek system swaps between separate nozzles in about six seconds, with five 0.4 mm tools included and two open slots that cost $99 each to fill. The build volume is 256 x 256 x 260 mm versus 330 x 320 x 325 mm on the H3C, and the bundled AMS 3P loads filament manually, which is the main compromise. It went on sale on November 24, with the seven-tool kit at $1,299.</div>",
+   "title": "Bambu Lab's P3C brings a seven-tool changer to a $1,149 printer, about half the price of the H3C (2 minute read)",
+   "url": "https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip",
+   "issue_date": "2026-11-25",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Public RTL is plentiful, but models have never seen layouts, and a terabyte waveform database must be converted to text, burning tokens, so panelists want queryable abstractions. Each engineer directing 10 to 20 agents scales version control, NFS, and license demand the same way, and IP governance is a worry. Customers are drifting back from air-gapped open models toward frontier ones, while hybrid specialized models may handle things like temporal assertions.</div>",
+   "title": "LLMs handle Verilog but not layouts or waveforms, and agents multiply load on design data systems by 10 to 20x (14 minute read)",
+   "url": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.datacenterdynamics.com/en/news/tsmc-files-application-for-proposed-2nm-chip-fab-in-brazos-county-texas",
+   "issue_date": "2026-11-25",
+   "position": 8,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The filing proposes at least one logic fab for AI, HPC, and mobile chips and up to 2,099 direct jobs.</div>",
+   "title": "TSMC files a Texas tax-break application for a $22.6B, 3,232-acre 2nm-and-beyond fab campus in Brazos County, with construction targeted for 2027 to 2031 (2 minute read)",
+   "url": "https://www.datacenterdynamics.com/en/news/tsmc-files-application-for-proposed-2nm-chip-fab-in-brazos-county-texas/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.reuters.com/world/china/schumer-accuses-nvidia-ceo-violating-us-export-control-law-2026-11-24",
+   "issue_date": "2026-11-25",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Schumer's X post compares the alleged shipments to \"selling rocket engines to the Soviets\".</div>",
+   "title": "Schumer accuses Nvidia CEO Jensen Huang of shipping advanced chips to China in violation of export law, days before a Senate Banking hearing (2 minute read)",
+   "url": "https://www.reuters.com/world/china/schumer-accuses-nvidia-ceo-violating-us-export-control-law-2026-11-24"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.techpowerup.com/355102/nvidias-ssd-writing-bug-needs-another-hotfix-as-issue-returns",
+   "issue_date": "2026-11-25",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">NVIDIA's GeForce RTX 40 series experiences ongoing excessive SSD writing, despite the recent GeForce Hotfix 621.35 reducing peak rates.</div>",
+   "title": "NVIDIA's SSD Writing Bug Needs Another Hotfix as Issue Returns (2 minute read)",
+   "url": "https://www.techpowerup.com/355102/nvidias-ssd-writing-bug-needs-another-hotfix-as-issue-returns"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis",
+   "issue_date": "2026-11-25",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The ask is one of a list of exemptions, called anomalies, to a funding freeze.</div>",
+   "title": "The White House asks Congress for $2 billion more for Artemis in the next stopgap funding bill, or its activities \"would be delayed\" (2 minute read)",
+   "url": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis"
   }
  ]
 }
