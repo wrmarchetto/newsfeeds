@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-11-25T11:00:00+00:00</updated>
+  <updated>2026-11-26T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,166 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms</id>
+    <title>Scaling Swarms to Thousands of Agents (30 minute read)</title>
+    <updated>2026-11-26T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Hugging Face grew a swarm to 1,000 DeepSeek agents over nine days to build PyBot, a pure Python chatbot that matched SmolLM-360M on everyday conversations in its evaluation. The run generated 175,000 messages and more than 8,500 merged pull requests, exposing bottlenecks in inference, tool calls, and Git.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-26"&gt;TLDR Dev · 2026-11-26 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-26T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://useautumn.com/blog/moving-credit-deductions-off-redis-and-onto-kafka</id>
+    <title>We got rid of Redis and made our API 4x faster (5 minute read)</title>
+    <updated>2026-11-26T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Autumn replaced its Redis write-behind cache with an ordered Kafka log and a single balance writer per customer, with Postgres catching up in batches. After rollout, p99 latency for tracking requests fell from 108 ms to 25 ms while weekly check and track volume rose 28%.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-26"&gt;TLDR Dev · 2026-11-26 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://useautumn.com/blog/moving-credit-deductions-off-redis-and-onto-kafka"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-26T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/research/migrating-api-to-rust</id>
+    <title>Migrating our Messages API to Rust (18 minute read)</title>
+    <updated>2026-11-26T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Anthropic shadowed live traffic to verify that its Rust Messages API matched the Python version, replaying the same model output through both implementations to isolate differences. The migration cut CPU usage per request by about 70% and median time to first token by about 20% without downtime or a feature freeze.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-26"&gt;TLDR Dev · 2026-11-26 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/research/migrating-api-to-rust"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-26T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools</id>
+    <title>Smart People Who Give a Shit Use Tools (8 minute read)</title>
+    <updated>2026-11-26T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;LLMs amplify engineers' existing habits, making it easier to write formal specs, trace callers through a monorepo, and test edge cases, while also making it easier to ship code nobody understands. Teams should judge AI-assisted work by how thoroughly engineers verify it and who takes responsibility when it breaks.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-26"&gt;TLDR Dev · 2026-11-26 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-26T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.seangoedecke.com/party-tricks</id>
+    <title>Crushing JIRA tickets is a party trick, not a path to impact (7 minute read)</title>
+    <updated>2026-11-26T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Engineers can create more impact by shipping projects tied to company priorities than by maximizing ticket count. Help with visible incidents, unblock teammates, and check what would get a priority project shipped before pulling another ticket from the board.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-26"&gt;TLDR Dev · 2026-11-26 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.seangoedecke.com/party-tricks/"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-26T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://scottaaronson.blog/?p=10379&amp;amp%3Butm_source=tldrdev</id>
+    <title>HOLY SHIT HOLY SHIT HOLY SHIT HOLY SHIT (6 minute read)</title>
+    <updated>2026-11-26T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI labs are reporting results on longstanding math problems, including matching upper and lower bounds for matrix multiplication and the Fourier transform. Lower bounds are a particularly striking sign of progress. A proof of P ≠ NP may soon be within reach.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-26"&gt;TLDR Dev · 2026-11-26 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://scottaaronson.blog/?p=10379&amp;amp%3Butm_source=tldrdev"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-26T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.cloudflare.com/search-for-agents</id>
+    <title>Introducing Search for Agents (5 minute read)</title>
+    <updated>2026-11-26T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Cloudflare's Search for Agents toggle crawls and indexes a website and exposes a discoverable search endpoint on the site's own domain. The endpoint accepts keyword or natural language queries and returns matching content in Markdown with source references.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-26"&gt;TLDR Dev · 2026-11-26 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.cloudflare.com/search-for-agents"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-26T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR’s AI community (2 minute form)</title>
+    <updated>2026-11-26T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-26"&gt;TLDR Dev · 2026-11-26 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-26T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/tianma-if/edgeever</id>
+    <title>EdgeEver (GitHub Repo)</title>
+    <updated>2026-11-26T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;EdgeEver is a self-hosted note-taking and knowledge base app with cross-device sync, a browser clipper that saves articles as Markdown, and an MCP endpoint for AI agents. It can run on Cloudflare Workers or in Docker.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-26"&gt;TLDR Dev · 2026-11-26 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/tianma-if/edgeever"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-26T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins</id>
+    <title>The beauty of CSS mixins (8 minute read)</title>
+    <updated>2026-11-26T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Native CSS mixins let developers reuse blocks of declarations and nested rules, with support for parameters, defaults, and conditional rules. A theming demo shows how mixins can give customers styling hooks while the site controls its markup, and it runs behind an experimental flag in Chromium.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-26"&gt;TLDR Dev · 2026-11-26 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-26T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.com/RampLabs/status/2125625946229064118</id>
+    <title>Speculative Encoding: Many-to-Many Cache Translation (22 minute read)</title>
+    <updated>2026-11-26T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Ramp Labs trained one translator to map hidden states across 42 directions between seven models, letting the receiving model build its key-value cache without rereading the source text. On 32,000-token documents, the receiving model began answering four times faster than with native prefill and retained over 90% of its accuracy.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-26"&gt;TLDR Dev · 2026-11-26 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/RampLabs/status/2125625946229064118"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-26T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://huggingface.co/spaces/dlouapre/looped-transformers</id>
+    <title>Looped Transformers: Thinking twice with the same weights (25 minute read)</title>
+    <updated>2026-11-26T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Inkling 2 Mini and GLM-5.4 run some transformer layers multiple times per token, adding computation without adding weights. In a small chain-following experiment, increasing from one to six passes raised the longest chain solved at 90% accuracy from 7 to 36 hops, while extra passes did little for factual recall.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-26"&gt;TLDR Dev · 2026-11-26 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://huggingface.co/spaces/dlouapre/looped-transformers"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-26T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.seangoedecke.com/when-in-doubt-flail-about</id>
+    <title>When in doubt, flail about (5 minute read)</title>
+    <updated>2026-11-26T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;When the path forward is unclear, try several small experiments, pay close attention to feedback, and quickly drop ideas that show little promise.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-26"&gt;TLDR Dev · 2026-11-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.seangoedecke.com/when-in-doubt-flail-about/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-26T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://zarar.dev/software-factory</id>
+    <title>What does your software factory cost? (Website)</title>
+    <updated>2026-11-26T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;An interactive simulator estimates the cost per shipped feature over six months as you vary staffing, coding agents, review capacity, and bug rates.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-26"&gt;TLDR Dev · 2026-11-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://zarar.dev/software-factory/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-26T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://modaic.dev/blog/latency-doesnt-lie</id>
+    <title>Latency doesn't lie: Jev is (probably) Qwen3.5-35B-A3B! (9 minute read)</title>
+    <updated>2026-11-26T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Modaic used tokenizer, latency, and throughput tests to infer that TypeSafe's Jev likely runs on Qwen3.5-35B-A3B.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-26"&gt;TLDR Dev · 2026-11-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://modaic.dev/blog/latency-doesnt-lie"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-26T10:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://brycewatson.com/research/rauch-software-factory</id>
+    <title>Guillermo Rauch's software factory and the agent internet (9 minute read)</title>
+    <updated>2026-11-26T10:59:45+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Interview notes describe Vercel's approach to turning support tickets and other customer feedback into agent-written product changes.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-26"&gt;TLDR Dev · 2026-11-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://brycewatson.com/research/rauch-software-factory/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-26T10:59:45+00:00</published>
+  </entry>
   <entry>
     <id>https://polypane.app/blog/getting-started-with-webmcp-building-and-testing-tools</id>
     <title>Getting started with WebMCP (13 minute read)</title>

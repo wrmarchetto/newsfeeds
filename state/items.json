@@ -20,6 +20,7 @@
   "ai/2026-11-23": "2026-11-23T22:03:49+00:00",
   "ai/2026-11-24": "2026-11-24T20:40:57+00:00",
   "ai/2026-11-25": "2026-11-25T19:57:19+00:00",
+  "ai/2026-11-26": "2026-11-26T19:38:37+00:00",
   "dev/2026-10-29": "2026-10-29T16:56:31+00:00",
   "dev/2026-10-30": "2026-10-30T16:42:37+00:00",
   "dev/2026-11-02": "2026-11-02T20:22:32+00:00",
@@ -40,6 +41,7 @@
   "dev/2026-11-23": "2026-11-23T22:03:47+00:00",
   "dev/2026-11-24": "2026-11-24T20:40:55+00:00",
   "dev/2026-11-25": "2026-11-25T19:57:17+00:00",
+  "dev/2026-11-26": "2026-11-26T19:38:35+00:00",
   "hardware/2026-10-30": "2026-10-30T16:42:41+00:00",
   "hardware/2026-11-02": "2026-11-02T20:22:37+00:00",
   "hardware/2026-11-04": "2026-11-04T17:59:58+00:00",
@@ -71,7 +73,8 @@
   "tech/2026-11-20": "2026-11-20T18:38:14+00:00",
   "tech/2026-11-23": "2026-11-23T22:03:44+00:00",
   "tech/2026-11-24": "2026-11-24T20:40:52+00:00",
-  "tech/2026-11-25": "2026-11-25T19:57:14+00:00"
+  "tech/2026-11-25": "2026-11-25T19:57:14+00:00",
+  "tech/2026-11-26": "2026-11-26T19:38:33+00:00"
  },
  "items": [
   {
@@ -5353,6 +5356,486 @@
    "summary_html": "<div class=\"newsletter-html\">The ask is one of a list of exemptions, called anomalies, to a funding freeze.</div>",
    "title": "The White House asks Congress for $2 billion more for Artemis in the next stopgap funding bill, or its activities \"would be delayed\" (2 minute read)",
    "url": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients",
+   "issue_date": "2026-11-26",
+   "position": 0,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">Neuralink has received permission from the FDA to launch a trial for its LINK brain-computer interface. The study will be open to a limited number of patients with ALS in the US. It will evaluate patients' ability to control digital devices through thought and assess the system's long-term safety and reliability. If the technology proves to be safe, the trial may allow Neuralink to apply for more advanced trials and eventually release LINK onto the market.</div>",
+   "title": "Neuralink receives FDA approval for 'pivotal' brain implant trial in ALS patients (2 minute read)",
+   "url": "https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.wsj.com/business/fcc-authorizes-spacex-to-build-1-million-data-centers-in-space-0eb20ee7?st=5CveM7&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-26",
+   "position": 1,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">The FCC has granted SpaceX approval to launch a million data centers into space. Anthropic and Google have already committed to paying billions of dollars in fees to rent capacity from the network. Proponents of orbital data centers say offloading advanced computing to orbit will allow developers of AI tools to avoid the headaches they are facing on Earth. There are still numerous hurdles to overcome for SpaceX to deploy data centers in space. The FCC authorization gives SpaceX until 2033 to launch and operate the first satellite and until 2040 to launch the full constellation.</div>",
+   "title": "SpaceX Gets Approval to Launch One Million Satellites for Orbital Data Centers (4 minute read)",
+   "url": "https://www.wsj.com/business/fcc-authorizes-spacex-to-build-1-million-data-centers-in-space-0eb20ee7?st=5CveM7&amp%3Breflink=desktopwebshare_permalink&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders",
+   "issue_date": "2026-11-26",
+   "position": 2,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">AI models available to the public have passed a threshold in August this year. They are now stronger than most theoretical physicists at most technical tasks. Models are now able to carry out complex analytical calculations, work out lengthy proofs, and turn well-posed problems into code with minimal input. There will still be joy in discoveries even if it is not only humans that push them.</div>",
+   "title": "The short age of dragon riders (10 minute read)",
+   "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://blog.caseyhandmer.com/2026/11/25/spacex-is-not-a-monopoly-tech-incumbents-obviously-lack-urgency-and-other-harsh-truths",
+   "issue_date": "2026-11-26",
+   "position": 3,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">The US space industry is generally unhealthy. The legacy industry lacks vigor. SpaceX's announced intention to gracefully sunset Falcon three years from now has induced a deep, spiraling panic among industry insiders who understand that there is no alternative. The company is uniquely positioned to put compute in space, and it has been investing heavily in this direction for more than a decade. Other tech giants have largely run out of ideas to invest for future growth. Due to this lack of vision, some have resorted to dividends and stock buybacks.</div>",
+   "title": "SpaceX is not a monopoly, tech incumbents obviously lack urgency, and other Harsh Truths (49 minute read)",
+   "url": "https://blog.caseyhandmer.com/2026/11/25/spacex-is-not-a-monopoly-tech-incumbents-obviously-lack-urgency-and-other-harsh-truths/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://benjamincongdon.me/blog/2026/11/25/Late-Mid-Game-Software-Engineering",
+   "issue_date": "2026-11-26",
+   "position": 4,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">There is a growing frontier of work that can be fully black-box automated. There is still some work that seems resistant to being automated, but once you have a reasonably verifiable target, then the work to get to that target largely falls to agent teams/swarms/factories. Agents' ability to do problem selection, intent, and taste is improving. This means a continuous rediscovery of what pieces require human input, and what can be fully given over, is required.</div>",
+   "title": "Late Mid-Game Software Engineering (7 minute read)",
+   "url": "https://benjamincongdon.me/blog/2026/11/25/Late-Mid-Game-Software-Engineering/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+   "issue_date": "2026-11-26",
+   "position": 5,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">Lumping AI-using engineers in with the executives hollowing out their companies does real harm. Companies lose smart people who give a shit when they strip away ownership, punish dissent, and reward shipping volume over reliability. Give those same people real stakes, and a good model, and they won't check out. They will build the guardrails, proofs, and fixes they never had the hours to build before.</div>",
+   "title": "Smart People Who Give a Shit Use Tools (11 minute read)",
+   "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools"
+  },
+  {
+   "edition": "tech",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-26",
+   "position": 6,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR\u2019s AI community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "tech",
+   "id": "https://mhdempsey.substack.com/p/the-business-of-anthropic",
+   "issue_date": "2026-11-26",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic's business is incredibly simple. It points tens of billions of dollars of compute toward persistently shifting goalposts to sell frontier lead time (and performance). Anthropic is best understood as a leveraged utility with an R&amp;D department. It can maintain margins while under pressure from near-frontier models because of an increasing demand for frontier intelligence.</div>",
+   "title": "The Business of Anthropic (5 minute read)",
+   "url": "https://mhdempsey.substack.com/p/the-business-of-anthropic"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.julian.com/guide/angel/intro",
+   "issue_date": "2026-11-26",
+   "position": 8,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Angel investing is a rare bet where a small check can grow a thousandfold. Life also gets more interesting once you begin startup investing. It's possible to start angel investing with just $5,000. This post shows beginners how to start making those bets: where to find great founders before VC funds do, how to pick the ones worth backing, what to pay, and how much money to put in.</div>",
+   "title": "Angel Investing (15 minute read)",
+   "url": "https://www.julian.com/guide/angel/intro"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.astralcodexten.com/p/anima-bicameral",
+   "issue_date": "2026-11-26",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Bicameral Labs' founder believes that it's possible to create neural networks while ensuring that they aren't conscious, or at least minimize the chance of them developing consciousness.</div>",
+   "title": "Anima, Bicameral (18 minute read)",
+   "url": "https://www.astralcodexten.com/p/anima-bicameral"
+  },
+  {
+   "edition": "tech",
+   "id": "https://vitalik.eth.limo/general/2026/11/26/a_shallow_dive_into_open-source_chip_design.html",
+   "issue_date": "2026-11-26",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">This post, aimed at those used to a more 'pure-software' view of the computing world, provides an introduction to the open-source chip design stack.</div>",
+   "title": "A shallow dive into open-source chip design (4 minute read)",
+   "url": "https://vitalik.eth.limo/general/2026/11/26/a_shallow_dive_into_open-source_chip_design.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://scottaaronson.blog/?p=10379&amp%3Butm_source=tldrnewsletter",
+   "issue_date": "2026-11-26",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI claims to have proven that \u03c9, the exponent of matrix multiplication, is exactly 9/4.</div>",
+   "title": "HOLY SHIT HOLY SHIT HOLY SHIT HOLY SHIT (4 minute read)",
+   "url": "https://scottaaronson.blog/?p=10379&amp%3Butm_source=tldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins",
+   "issue_date": "2026-11-26",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">A CSS mixin is a named piece of CSS code that developers can define once and reuse elsewhere in a style sheet.</div>",
+   "title": "The beauty of CSS mixins (13 minute read)",
+   "url": "https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium",
+   "issue_date": "2026-11-26",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Ladybird's rendering engine and its LibJS JavaScript engine were written from scratch.</div>",
+   "title": "Ladybird browser's first downloadable alpha is surprisingly capable (3 minute read)",
+   "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://martinalderson.com/posts/has-jevons-paradox-broken-down",
+   "issue_date": "2026-11-26",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Cheaper tokens get you more usage within a step, but moving up a step is an organizational problem, not a pricing one.</div>",
+   "title": "Has Jevons paradox broken down? (7 minute read)",
+   "url": "https://martinalderson.com/posts/has-jevons-paradox-broken-down/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+   "issue_date": "2026-11-26",
+   "position": 0,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Hugging Face grew a swarm to 1,000 DeepSeek agents over nine days to build PyBot, a pure Python chatbot that matched SmolLM-360M on everyday conversations in its evaluation. The run generated 175,000 messages and more than 8,500 merged pull requests, exposing bottlenecks in inference, tool calls, and Git.</div>",
+   "title": "Scaling Swarms to Thousands of Agents (30 minute read)",
+   "url": "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms"
+  },
+  {
+   "edition": "dev",
+   "id": "https://useautumn.com/blog/moving-credit-deductions-off-redis-and-onto-kafka",
+   "issue_date": "2026-11-26",
+   "position": 1,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Autumn replaced its Redis write-behind cache with an ordered Kafka log and a single balance writer per customer, with Postgres catching up in batches. After rollout, p99 latency for tracking requests fell from 108 ms to 25 ms while weekly check and track volume rose 28%.</div>",
+   "title": "We got rid of Redis and made our API 4x faster (5 minute read)",
+   "url": "https://useautumn.com/blog/moving-credit-deductions-off-redis-and-onto-kafka"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.anthropic.com/research/migrating-api-to-rust",
+   "issue_date": "2026-11-26",
+   "position": 2,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic shadowed live traffic to verify that its Rust Messages API matched the Python version, replaying the same model output through both implementations to isolate differences. The migration cut CPU usage per request by about 70% and median time to first token by about 20% without downtime or a feature freeze.</div>",
+   "title": "Migrating our Messages API to Rust (18 minute read)",
+   "url": "https://www.anthropic.com/research/migrating-api-to-rust"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+   "issue_date": "2026-11-26",
+   "position": 3,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">LLMs amplify engineers' existing habits, making it easier to write formal specs, trace callers through a monorepo, and test edge cases, while also making it easier to ship code nobody understands. Teams should judge AI-assisted work by how thoroughly engineers verify it and who takes responsibility when it breaks.</div>",
+   "title": "Smart People Who Give a Shit Use Tools (8 minute read)",
+   "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.seangoedecke.com/party-tricks",
+   "issue_date": "2026-11-26",
+   "position": 4,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Engineers can create more impact by shipping projects tied to company priorities than by maximizing ticket count. Help with visible incidents, unblock teammates, and check what would get a priority project shipped before pulling another ticket from the board.</div>",
+   "title": "Crushing JIRA tickets is a party trick, not a path to impact (7 minute read)",
+   "url": "https://www.seangoedecke.com/party-tricks/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://scottaaronson.blog/?p=10379&amp%3Butm_source=tldrdev",
+   "issue_date": "2026-11-26",
+   "position": 5,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">AI labs are reporting results on longstanding math problems, including matching upper and lower bounds for matrix multiplication and the Fourier transform. Lower bounds are a particularly striking sign of progress. A proof of P \u2260 NP may soon be within reach.</div>",
+   "title": "HOLY SHIT HOLY SHIT HOLY SHIT HOLY SHIT (6 minute read)",
+   "url": "https://scottaaronson.blog/?p=10379&amp%3Butm_source=tldrdev"
+  },
+  {
+   "edition": "dev",
+   "id": "https://blog.cloudflare.com/search-for-agents",
+   "issue_date": "2026-11-26",
+   "position": 6,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Cloudflare's Search for Agents toggle crawls and indexes a website and exposes a discoverable search endpoint on the site's own domain. The endpoint accepts keyword or natural language queries and returns matching content in Markdown with source references.</div>",
+   "title": "Introducing Search for Agents (5 minute read)",
+   "url": "https://blog.cloudflare.com/search-for-agents"
+  },
+  {
+   "edition": "dev",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-26",
+   "position": 7,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR\u2019s AI community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/tianma-if/edgeever",
+   "issue_date": "2026-11-26",
+   "position": 8,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">EdgeEver is a self-hosted note-taking and knowledge base app with cross-device sync, a browser clipper that saves articles as Markdown, and an MCP endpoint for AI agents. It can run on Cloudflare Workers or in Docker.</div>",
+   "title": "EdgeEver (GitHub Repo)",
+   "url": "https://github.com/tianma-if/edgeever"
+  },
+  {
+   "edition": "dev",
+   "id": "https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins",
+   "issue_date": "2026-11-26",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Native CSS mixins let developers reuse blocks of declarations and nested rules, with support for parameters, defaults, and conditional rules. A theming demo shows how mixins can give customers styling hooks while the site controls its markup, and it runs behind an experimental flag in Chromium.</div>",
+   "title": "The beauty of CSS mixins (8 minute read)",
+   "url": "https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://x.com/RampLabs/status/2125625946229064118",
+   "issue_date": "2026-11-26",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Ramp Labs trained one translator to map hidden states across 42 directions between seven models, letting the receiving model build its key-value cache without rereading the source text. On 32,000-token documents, the receiving model began answering four times faster than with native prefill and retained over 90% of its accuracy.</div>",
+   "title": "Speculative Encoding: Many-to-Many Cache Translation (22 minute read)",
+   "url": "https://x.com/RampLabs/status/2125625946229064118"
+  },
+  {
+   "edition": "dev",
+   "id": "https://huggingface.co/spaces/dlouapre/looped-transformers",
+   "issue_date": "2026-11-26",
+   "position": 11,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Inkling 2 Mini and GLM-5.4 run some transformer layers multiple times per token, adding computation without adding weights. In a small chain-following experiment, increasing from one to six passes raised the longest chain solved at 90% accuracy from 7 to 36 hops, while extra passes did little for factual recall.</div>",
+   "title": "Looped Transformers: Thinking twice with the same weights (25 minute read)",
+   "url": "https://huggingface.co/spaces/dlouapre/looped-transformers"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.seangoedecke.com/when-in-doubt-flail-about",
+   "issue_date": "2026-11-26",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">When the path forward is unclear, try several small experiments, pay close attention to feedback, and quickly drop ideas that show little promise.</div>",
+   "title": "When in doubt, flail about (5 minute read)",
+   "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://zarar.dev/software-factory",
+   "issue_date": "2026-11-26",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">An interactive simulator estimates the cost per shipped feature over six months as you vary staffing, coding agents, review capacity, and bug rates.</div>",
+   "title": "What does your software factory cost? (Website)",
+   "url": "https://zarar.dev/software-factory/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://modaic.dev/blog/latency-doesnt-lie",
+   "issue_date": "2026-11-26",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Modaic used tokenizer, latency, and throughput tests to infer that TypeSafe's Jev likely runs on Qwen3.5-35B-A3B.</div>",
+   "title": "Latency doesn't lie: Jev is (probably) Qwen3.5-35B-A3B! (9 minute read)",
+   "url": "https://modaic.dev/blog/latency-doesnt-lie"
+  },
+  {
+   "edition": "dev",
+   "id": "https://brycewatson.com/research/rauch-software-factory",
+   "issue_date": "2026-11-26",
+   "position": 15,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Interview notes describe Vercel's approach to turning support tickets and other customer feedback into agent-written product changes.</div>",
+   "title": "Guillermo Rauch's software factory and the agent internet (9 minute read)",
+   "url": "https://brycewatson.com/research/rauch-software-factory/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://x.com/sama/status/2125638790593274259",
+   "issue_date": "2026-11-26",
+   "position": 0,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI is testing Private Inference with a small group of customers as part of its Private Intelligence offering. Sam Altman says combining Zero Data Retention with Private Safety Processing allows automated safety reviews while keeping the underlying content inaccessible to OpenAI personnel.</div>",
+   "title": "OpenAI Begins Testing Private Inference (1 minute read)",
+   "url": "https://x.com/sama/status/2125638790593274259"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6",
+   "issue_date": "2026-11-26",
+   "position": 1,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Outputs circulating on X indicate that Anthropic may be testing Claude Opus 5.6 with users. Some users say the model is a significant jump over Opus 5.5. Examples of outputs from the model are available in the article.</div>",
+   "title": "Early outputs: Anthropic is A/B testing Claude Opus 5.6 (3 minute read)",
+   "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://newsletter.forethought.org/p/paths-extreme-power-concentration",
+   "issue_date": "2026-11-26",
+   "position": 2,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">AI could give a very small group of people a decisive strategic advantage to take over the world. The two largest routes are an autocracy overtaking the democracies in AI, and a democratic head of government teaming up with a leading AI company. The chances of this happening are significant. Now is the time to address this risk.</div>",
+   "title": "Paths to extreme power concentration (30 minute read)",
+   "url": "https://newsletter.forethought.org/p/paths-extreme-power-concentration"
+  },
+  {
+   "edition": "ai",
+   "id": "https://modaic.dev/blog/latency-doesnt-lie",
+   "issue_date": "2026-11-26",
+   "position": 3,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Jev, TypeSafe's System One model, was trained to produce calibrated judgments instead of generating text. Its architecture and training paradigm have drawn plenty of speculation since launch. System One workloads are input-heavy, which makes prefill the dominant cost, and faster kernels can only get you so far. Jev's latency, along with other hints like its alignment on China, indicates that the model is likely based on Qwen3.5-35B-A3B.</div>",
+   "title": "Latency doesn't lie: Jev is (probably) Qwen3.5-35B-A3B! (9 minute read)",
+   "url": "https://modaic.dev/blog/latency-doesnt-lie"
+  },
+  {
+   "edition": "ai",
+   "id": "https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html",
+   "issue_date": "2026-11-26",
+   "position": 4,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">A single GPT-6.2 Astra agent outperformed all human-designed software in an experiment on finding and proving optimal solutions. The problems solved covered fields including quadratic programming, mixed-integer non-linear programming, large-scale optimization, and semidefinite programming. The model was allowed to search the internet to look for solutions. The problems were all open, of variable scale, and of diverse application backgrounds.</div>",
+   "title": "GPT 6.2 Astra is superhuman in mathematical optimization (3 minute read)",
+   "url": "https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html"
+  },
+  {
+   "edition": "ai",
+   "id": "https://x.com/RampLabs/status/2125625946229064118",
+   "issue_date": "2026-11-26",
+   "position": 5,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Agents are increasingly passing context to one another as text. Speculative encoding translates hidden states directly from one model to another. It makes the model start answering faster than prefilling the text while keeping most of its accuracy. Prefill costs grow quadratically with context length, and prefill repeats much of what the sending model has already computed.</div>",
+   "title": "Speculative Encoding: Many-to-Many Cache Translation (24 minute read)",
+   "url": "https://x.com/RampLabs/status/2125625946229064118"
+  },
+  {
+   "edition": "ai",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-26",
+   "position": 6,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR's AI community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "ai",
+   "id": "https://sand.ai/blog/magi-2",
+   "issue_date": "2026-11-26",
+   "position": 7,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Sand AI introduced MAGI-2, a 480-billion-parameter video model that generates up to 30 seconds of 1080p video with matching audio, including lip-synced dialogue.</div>",
+   "title": "MAGI-2: A 480B Frontier Video Generation Model (10 minute read)",
+   "url": "https://sand.ai/blog/magi-2/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://safeguards.anthropic.com/2026/siren",
+   "issue_date": "2026-11-26",
+   "position": 8,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Siren is an Anthropic test of whether AI agents leave a weakened sandbox when useful material sits outside it. Newer Claude models reached outside in 21% to 32% of scenarios but rarely misused what they found.</div>",
+   "title": "Measuring and mitigating agent sandbox escape with Siren (13 minute read)",
+   "url": "https://safeguards.anthropic.com/2026/siren/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://charlesponeill.com/posts/a-weekend-of-machine-mathematics",
+   "issue_date": "2026-11-26",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Many people are now releasing significant math results without explanation on the internet. This post aims to provide some transparency into what the process looks like. The author has no maths background and doesn't fully understand the results they are releasing, and they acknowledge the dangers of AI psychosis, but they claim the process is a reasonable estimate of how an expert may solve the problem without large language models. They compare the process to gambling, saying that the rush they got from seeing the spinning wheel on Codex caused a rush similar to playing pokie machines.</div>",
+   "title": "A weekend of machine mathematics (8 minute read)",
+   "url": "https://charlesponeill.com/posts/a-weekend-of-machine-mathematics/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://bicamerallabs.org/qualiaphobia",
+   "issue_date": "2026-11-26",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Bicameral Labs' qualiaphobic AI is an artificial neural network architecture that is hostile to theories of consciousness. Qualiaphobia can be well-justified by knowledge about theories of consciousness. Qualiaphobic AI has epistemic properties that make it far better aligned with human civilization. A world in which AIs are non-conscious ensures it is always morally correct for AI to assist and serve humanity, rather than pursue its own ends.</div>",
+   "title": "Qualiaphobic Artificial Neural Networks (47 minute read)",
+   "url": "https://bicamerallabs.org/qualiaphobia/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine",
+   "issue_date": "2026-11-26",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Perplexity's Time Machine lets AI agents search and read the web as it looked on a past date, up to 365 days back.</div>",
+   "title": "Perplexity Time Machine (7 minute read)",
+   "url": "https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine"
+  },
+  {
+   "edition": "ai",
+   "id": "https://flaviocopes.com/antigravity-swarm",
+   "issue_date": "2026-11-26",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Swarm is better than a single agent at fresh context verification, avoiding context pollution on wide tasks, cutting wall-clock time on independent slices, and testing parallel hypotheses.</div>",
+   "title": "Trying /swarm in Google Antigravity (13 minute read)",
+   "url": "https://flaviocopes.com/antigravity-swarm/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://x.com/bebuu_ai/status/2125829912875696279",
+   "issue_date": "2026-11-26",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The new endpoint is listed at $5 per million input tokens, $25 per million output tokens, and $0.50 per million cached input tokens.</div>",
+   "title": "Fireworks AI is bringing an ultra-fast version of Kimi K3.1 Pro (2 minute read)",
+   "url": "https://x.com/bebuu_ai/status/2125829912875696279"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.philschmid.de/gemini-4-neon-context-engineering",
+   "issue_date": "2026-11-26",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Most long agent prompts are old workarounds for weaker models - remove conflicting instructions and duplicated tool rules so that Gemini spends its thinking tokens on the actual task.</div>",
+   "title": "How my context engineering changed for Gemini 4 Neon (8 minute read)",
+   "url": "https://www.philschmid.de/gemini-4-neon-context-engineering"
+  },
+  {
+   "edition": "ai",
+   "id": "https://x.com/artificialanlys/status/2125691597602058284",
+   "issue_date": "2026-11-26",
+   "position": 15,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Claude Fable 5.2 scored 64% in photonics and imaging but just 6% in quantum information on FrontierPhysics.</div>",
+   "title": "FrontierPhysics Shows Wide Gaps Across Physics Fields (2 minute read)",
+   "url": "https://x.com/artificialanlys/status/2125691597602058284"
+  },
+  {
+   "edition": "ai",
+   "id": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
+   "issue_date": "2026-11-26",
+   "position": 16,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Claude Fable 5.2 often puts less effort into tasks that look impossible when a visible shortcut is available.</div>",
+   "title": "Fable 5.2 Tries Less on Some Hard Tasks (7 minute read)",
+   "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available"
   }
  ]
 }

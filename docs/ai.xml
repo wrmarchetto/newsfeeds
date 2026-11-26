@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/ai.xml</id>
   <title>TLDR AI</title>
-  <updated>2026-11-25T11:00:00+00:00</updated>
+  <updated>2026-11-26T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,176 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://x.com/sama/status/2125638790593274259</id>
+    <title>OpenAI Begins Testing Private Inference (1 minute read)</title>
+    <updated>2026-11-26T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenAI is testing Private Inference with a small group of customers as part of its Private Intelligence offering. Sam Altman says combining Zero Data Retention with Private Safety Processing allows automated safety reviews while keeping the underlying content inaccessible to OpenAI personnel.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-26"&gt;TLDR AI · 2026-11-26 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/sama/status/2125638790593274259"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-26T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6</id>
+    <title>Early outputs: Anthropic is A/B testing Claude Opus 5.6 (3 minute read)</title>
+    <updated>2026-11-26T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Outputs circulating on X indicate that Anthropic may be testing Claude Opus 5.6 with users. Some users say the model is a significant jump over Opus 5.5. Examples of outputs from the model are available in the article.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-26"&gt;TLDR AI · 2026-11-26 · Headlines &amp;amp; Launches&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/"/>
+    <category term="TLDR AI"/>
+    <category term="Headlines &amp; Launches"/>
+    <published>2026-11-26T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://newsletter.forethought.org/p/paths-extreme-power-concentration</id>
+    <title>Paths to extreme power concentration (30 minute read)</title>
+    <updated>2026-11-26T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI could give a very small group of people a decisive strategic advantage to take over the world. The two largest routes are an autocracy overtaking the democracies in AI, and a democratic head of government teaming up with a leading AI company. The chances of this happening are significant. Now is the time to address this risk.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-26"&gt;TLDR AI · 2026-11-26 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.forethought.org/p/paths-extreme-power-concentration"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-26T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://modaic.dev/blog/latency-doesnt-lie</id>
+    <title>Latency doesn't lie: Jev is (probably) Qwen3.5-35B-A3B! (9 minute read)</title>
+    <updated>2026-11-26T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Jev, TypeSafe's System One model, was trained to produce calibrated judgments instead of generating text. Its architecture and training paradigm have drawn plenty of speculation since launch. System One workloads are input-heavy, which makes prefill the dominant cost, and faster kernels can only get you so far. Jev's latency, along with other hints like its alignment on China, indicates that the model is likely based on Qwen3.5-35B-A3B.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-26"&gt;TLDR AI · 2026-11-26 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://modaic.dev/blog/latency-doesnt-lie"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-26T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html</id>
+    <title>GPT 6.2 Astra is superhuman in mathematical optimization (3 minute read)</title>
+    <updated>2026-11-26T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A single GPT-6.2 Astra agent outperformed all human-designed software in an experiment on finding and proving optimal solutions. The problems solved covered fields including quadratic programming, mixed-integer non-linear programming, large-scale optimization, and semidefinite programming. The model was allowed to search the internet to look for solutions. The problems were all open, of variable scale, and of diverse application backgrounds.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-26"&gt;TLDR AI · 2026-11-26 · Deep Dives &amp;amp; Analysis&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html"/>
+    <category term="TLDR AI"/>
+    <category term="Deep Dives &amp; Analysis"/>
+    <published>2026-11-26T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.com/RampLabs/status/2125625946229064118</id>
+    <title>Speculative Encoding: Many-to-Many Cache Translation (24 minute read)</title>
+    <updated>2026-11-26T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Agents are increasingly passing context to one another as text. Speculative encoding translates hidden states directly from one model to another. It makes the model start answering faster than prefilling the text while keeping most of its accuracy. Prefill costs grow quadratically with context length, and prefill repeats much of what the sending model has already computed.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-26"&gt;TLDR AI · 2026-11-26 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/RampLabs/status/2125625946229064118"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-26T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's AI community (2 minute form)</title>
+    <updated>2026-11-26T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-26"&gt;TLDR AI · 2026-11-26 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-26T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://sand.ai/blog/magi-2</id>
+    <title>MAGI-2: A 480B Frontier Video Generation Model (10 minute read)</title>
+    <updated>2026-11-26T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Sand AI introduced MAGI-2, a 480-billion-parameter video model that generates up to 30 seconds of 1080p video with matching audio, including lip-synced dialogue.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-26"&gt;TLDR AI · 2026-11-26 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://sand.ai/blog/magi-2/"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-26T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://safeguards.anthropic.com/2026/siren</id>
+    <title>Measuring and mitigating agent sandbox escape with Siren (13 minute read)</title>
+    <updated>2026-11-26T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Siren is an Anthropic test of whether AI agents leave a weakened sandbox when useful material sits outside it. Newer Claude models reached outside in 21% to 32% of scenarios but rarely misused what they found.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-26"&gt;TLDR AI · 2026-11-26 · Engineering &amp;amp; Research&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://safeguards.anthropic.com/2026/siren/"/>
+    <category term="TLDR AI"/>
+    <category term="Engineering &amp; Research"/>
+    <published>2026-11-26T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://charlesponeill.com/posts/a-weekend-of-machine-mathematics</id>
+    <title>A weekend of machine mathematics (8 minute read)</title>
+    <updated>2026-11-26T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Many people are now releasing significant math results without explanation on the internet. This post aims to provide some transparency into what the process looks like. The author has no maths background and doesn't fully understand the results they are releasing, and they acknowledge the dangers of AI psychosis, but they claim the process is a reasonable estimate of how an expert may solve the problem without large language models. They compare the process to gambling, saying that the rush they got from seeing the spinning wheel on Codex caused a rush similar to playing pokie machines.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-26"&gt;TLDR AI · 2026-11-26 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://charlesponeill.com/posts/a-weekend-of-machine-mathematics/"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-26T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://bicamerallabs.org/qualiaphobia</id>
+    <title>Qualiaphobic Artificial Neural Networks (47 minute read)</title>
+    <updated>2026-11-26T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Bicameral Labs' qualiaphobic AI is an artificial neural network architecture that is hostile to theories of consciousness. Qualiaphobia can be well-justified by knowledge about theories of consciousness. Qualiaphobic AI has epistemic properties that make it far better aligned with human civilization. A world in which AIs are non-conscious ensures it is always morally correct for AI to assist and serve humanity, rather than pursue its own ends.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-26"&gt;TLDR AI · 2026-11-26 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://bicamerallabs.org/qualiaphobia/"/>
+    <category term="TLDR AI"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-26T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine</id>
+    <title>Perplexity Time Machine (7 minute read)</title>
+    <updated>2026-11-26T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Perplexity's Time Machine lets AI agents search and read the web as it looked on a past date, up to 365 days back.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-26"&gt;TLDR AI · 2026-11-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-26T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://flaviocopes.com/antigravity-swarm</id>
+    <title>Trying /swarm in Google Antigravity (13 minute read)</title>
+    <updated>2026-11-26T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Swarm is better than a single agent at fresh context verification, avoiding context pollution on wide tasks, cutting wall-clock time on independent slices, and testing parallel hypotheses.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-26"&gt;TLDR AI · 2026-11-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://flaviocopes.com/antigravity-swarm/"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-26T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.com/bebuu_ai/status/2125829912875696279</id>
+    <title>Fireworks AI is bringing an ultra-fast version of Kimi K3.1 Pro (2 minute read)</title>
+    <updated>2026-11-26T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;The new endpoint is listed at $5 per million input tokens, $25 per million output tokens, and $0.50 per million cached input tokens.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-26"&gt;TLDR AI · 2026-11-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/bebuu_ai/status/2125829912875696279"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-26T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.philschmid.de/gemini-4-neon-context-engineering</id>
+    <title>How my context engineering changed for Gemini 4 Neon (8 minute read)</title>
+    <updated>2026-11-26T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Most long agent prompts are old workarounds for weaker models - remove conflicting instructions and duplicated tool rules so that Gemini spends its thinking tokens on the actual task.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-26"&gt;TLDR AI · 2026-11-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.philschmid.de/gemini-4-neon-context-engineering"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-26T10:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://x.com/artificialanlys/status/2125691597602058284</id>
+    <title>FrontierPhysics Shows Wide Gaps Across Physics Fields (2 minute read)</title>
+    <updated>2026-11-26T10:59:45+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Claude Fable 5.2 scored 64% in photonics and imaging but just 6% in quantum information on FrontierPhysics.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-26"&gt;TLDR AI · 2026-11-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://x.com/artificialanlys/status/2125691597602058284"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-26T10:59:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available</id>
+    <title>Fable 5.2 Tries Less on Some Hard Tasks (7 minute read)</title>
+    <updated>2026-11-26T10:59:44+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Claude Fable 5.2 often puts less effort into tasks that look impossible when a visible shortcut is available.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/ai/2026-11-26"&gt;TLDR AI · 2026-11-26 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available"/>
+    <category term="TLDR AI"/>
+    <category term="Quick Links"/>
+    <published>2026-11-26T10:59:44+00:00</published>
+  </entry>
   <entry>
     <id>https://cognition.com/blog/swe-2-1</id>
     <title>Cognition's SWE-2.1 (3 minute read)</title>
