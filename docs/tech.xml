@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/tech.xml</id>
   <title>TLDR</title>
-  <updated>2026-11-26T11:00:00+00:00</updated>
+  <updated>2026-11-27T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://micjm.com/blog/openai-is-in-cost-control-mode</id>
+    <title>OpenAI may be in cost control mode (2 minute read)</title>
+    <updated>2026-11-27T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Astra 6.2 and Sol 6.2 have likely been tuned for cost savings. Output tokens per task and reasoning tokens per task have dropped significantly. The models seem to be reasoning a lot less compared to opponents. Charts showing the change in token usage across models are available in the article.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-27"&gt;TLDR · 2026-11-27 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://micjm.com/blog/openai-is-in-cost-control-mode/"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-27T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html</id>
+    <title>Nvidia chip buyers told to rule out Chinese renters to purchase GPUs (3 minute read)</title>
+    <updated>2026-11-27T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A new rule that restricts remote access to AI semiconductors was announced by the Trump administration on November 16. The new rule seeks to close an export controls loophole that allowed Chinese companies to rent access to Nvidia's most advanced chips when hosted in data centers overseas. Chip sellers have communicated the message to neoclouds, telling them they won't be able to purchase Nvidia chips if any of the computing capacity will be rented by Chinese companies. Neocloud stocks have come under renewed pressure lately as investors question the sustainability of the AI boom.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-27"&gt;TLDR · 2026-11-27 · Big Tech &amp;amp; Startups&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html"/>
+    <category term="TLDR"/>
+    <category term="Big Tech &amp; Startups"/>
+    <published>2026-11-27T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://nirmalyakajuri.substack.com/p/its-so-over-for-quantum-gravity</id>
+    <title>It's so over for Quantum Gravity? (6 minute read)</title>
+    <updated>2026-11-27T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A recent paper released by an OpenAI employee claimed to have quantized gravity. The paper quickly gained viral status on X. The employee, who is also currently a postdoc at Stanford, spent 400 million tokens while discussing and proving his results with ChatGPT Astra. However, for now, it appears that AI has not solved quantum gravity.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-27"&gt;TLDR · 2026-11-27 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://nirmalyakajuri.substack.com/p/its-so-over-for-quantum-gravity"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-27T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://heavytechasia.com/chinas-second-largest-hog-producer-turns-to-barn-robots</id>
+    <title>China's second-largest hog producer turns to barn robots (2 minute read)</title>
+    <updated>2026-11-27T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Wens Foodstuff Group, China's second-largest hog producer, has invested in Lasaite Robot, a maker of rail-riding barn robots. Lasaite's robots log body temperatures, feed intake, and the activity of the pigs in each pen to keep livestock healthy. Wens sells tens of millions of hogs every year. The automation provides early warning signals if disease or other health problems are detected.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-27"&gt;TLDR · 2026-11-27 · Science &amp;amp; Futuristic Technology&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://heavytechasia.com/chinas-second-largest-hog-producer-turns-to-barn-robots/"/>
+    <category term="TLDR"/>
+    <category term="Science &amp; Futuristic Technology"/>
+    <published>2026-11-27T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.philschmid.de/mcp-2027</id>
+    <title>Why I'm Bullish on MCP for 2027 (10 minute read)</title>
+    <updated>2026-11-27T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Early excitement about MCPs turned into backlash and confusion fast, and when Skills arrived, most developers moved to CLIs and progressive disclosure. However, the sentiment is now changing, and MCP traffic growth is growing again. The protocol is healthy and actively improving. Clients are also now smarter about how they use them.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-27"&gt;TLDR · 2026-11-27 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.philschmid.de/mcp-2027"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-27T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future</id>
+    <title>Multiagent coding is the future (23 minute read)</title>
+    <updated>2026-11-27T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Multiagent coding will have a seismic impact on the software development industry, and also the general way people do knowledge work. Early adopters have shipped a variety of experiments showing how multiagent collaboration could work. Labs have still not made good products around multiagent coding, possibly because they are waiting for approaches in the community to settle. There are also dangers with highly capable agent swarms autonomously interacting with infrastructure.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-27"&gt;TLDR · 2026-11-27 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-27T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR's community (2 minute form)</title>
+    <updated>2026-11-27T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss best practices and the latest AI news. The best links and comments will be featured in TLDR. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-27"&gt;TLDR · 2026-11-27 · Programming, Design &amp;amp; Data Science&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR"/>
+    <category term="Programming, Design &amp; Data Science"/>
+    <published>2026-11-27T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openrouter.ai/blog/insights/is-jevons-paradox-holding</id>
+    <title>Is Jevons Paradox holding? (3 minute read)</title>
+    <updated>2026-11-27T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Jevons Paradox has been the defining law of inference so far in the AI boom. Usage has exploded enough to push total spend higher as token prices have fallen. That dynamic has weakened in recent months. Token consumption shows no signs of slowing, but spend growth has slowed significantly.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-27"&gt;TLDR · 2026-11-27 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openrouter.ai/blog/insights/is-jevons-paradox-holding/"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-27T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://jiaxin-wen.github.io/blog/bullish-on-human-intelligence.html</id>
+    <title>Bullish on Human Intelligence (5 minute read)</title>
+    <updated>2026-11-27T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Some people believe that human intelligence is obsolete and that all there is left is to build RSI and prepare for an AI takeover. However, despite their recent successes, frontier AIs are still bottlenecked by human talent in getting better. Many of the properties of human intelligence are the moonshot goals of frontier AI labs. People should not give up so easily because of the hype.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-27"&gt;TLDR · 2026-11-27 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://jiaxin-wen.github.io/blog/bullish-on-human-intelligence.html"/>
+    <category term="TLDR"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-27T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wsj.com/tech/memory-chip-shortage-ai-electronics-prices-e58a065a?st=mmCEwL&amp;amp%3Breflink=desktopwebshare_permalink%3Futm_source%3Dtldrnewsletter</id>
+    <title>The Mad Dash for Memory Chips—and the Pain It's Causing Holiday Shoppers (11 minute read)</title>
+    <updated>2026-11-27T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Holiday gifts will be more expensive this year as chips are becoming more scarce.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-27"&gt;TLDR · 2026-11-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.wsj.com/tech/memory-chip-shortage-ai-electronics-prices-e58a065a?st=mmCEwL&amp;amp%3Breflink=desktopwebshare_permalink%3Futm_source%3Dtldrnewsletter"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-27T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.alexmiller.net/posts/who-owns-your-account</id>
+    <title>Who Owns Your Account (3 minute read)</title>
+    <updated>2026-11-27T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Companies are rolling out policies to restrict agents from accessing their information, but these desperate grasps to maintain the status quo will end up being bypassed as new technologies roll out and agents continue to get better at just using a browser.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-27"&gt;TLDR · 2026-11-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://blog.alexmiller.net/posts/who-owns-your-account"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-27T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://janlukas.blog/posts/ai-self-hosting</id>
+    <title>AI made self-hosting fun again (8 minute read)</title>
+    <updated>2026-11-27T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AI enables us to become a little less dependent on big tech companies.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-27"&gt;TLDR · 2026-11-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://janlukas.blog/posts/ai-self-hosting"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-27T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ilyabirman.net/meanwhile/all/interfaces-in-the-age-of-ai</id>
+    <title>Interfaces in the Age of AI (2 minute read)</title>
+    <updated>2026-11-27T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Interface design isn't just about drawing buttons, and designers are finally starting to realize that.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-27"&gt;TLDR · 2026-11-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://ilyabirman.net/meanwhile/all/interfaces-in-the-age-of-ai/"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-27T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asya.ai/blog/the-state-of-llm-costs-and-capabilities</id>
+    <title>The state of LLM: costs and capabilities (32 minute read)</title>
+    <updated>2026-11-27T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;LLMs are getting more capable and cheaper, but enterprise bills aren't shrinking&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-27"&gt;TLDR · 2026-11-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.asya.ai/blog/the-state-of-llm-costs-and-capabilities"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-27T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://amit.prasad.me/blog/ambiguous-errors</id>
+    <title>Ambiguous Errors Are the Mind Killer (4 minute read)</title>
+    <updated>2026-11-27T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Errors should encode enough meaning to help figure out how the software failed.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/tech/2026-11-27"&gt;TLDR · 2026-11-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://amit.prasad.me/blog/ambiguous-errors"/>
+    <category term="TLDR"/>
+    <category term="Quick Links"/>
+    <published>2026-11-27T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients</id>
     <title>Neuralink receives FDA approval for 'pivotal' brain implant trial in ALS patients (2 minute read)</title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://wrmarchetto.github.io/newsfeeds/dev.xml</id>
   <title>TLDR Dev</title>
-  <updated>2026-11-26T11:00:00+00:00</updated>
+  <updated>2026-11-27T11:00:00+00:00</updated>
   <author>
     <name>TLDR</name>
   </author>
@@ -10,6 +10,156 @@
   <link href="https://tldr.tech" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>TLDR newsletter, one entry per story</subtitle>
+  <entry>
+    <id>https://threadreaderapp.com/thread/2125913331915784509.html</id>
+    <title>There are six layers to a working agentic system (2 minute read)</title>
+    <updated>2026-11-27T11:00:00+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;This post lays out six layers for production agents, from event triggers and workflow state to tools, trusted context, evaluation, and runtime controls. It recommends checkpointing runs in Postgres, putting deterministic logic behind typed tools, and requiring human approval for high-impact actions. A shared model gateway can enforce spend caps and keep traces across providers.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-27"&gt;TLDR Dev · 2026-11-27 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://threadreaderapp.com/thread/2125913331915784509.html"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-27T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://jurajb.dev/main-session-manager</id>
+    <title>My main Claude Code session writes almost no code (5 minute read)</title>
+    <updated>2026-11-27T10:59:59+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;A main Claude Code session plans work and delegates implementation to agents running in separate Git worktrees through Herdr. The developer approves plans and tests betas, while the manager checks commits, tests, simulator recordings, and Release builds before merging and shipping. The workflow produced 37 TestFlight builds in five days, up from nine in the previous five.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-27"&gt;TLDR Dev · 2026-11-27 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://jurajb.dev/main-session-manager/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-27T10:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://voiceinthemachine.com/2026/11/26/the-ai-illusion</id>
+    <title>The AI Illusion (28 minute read)</title>
+    <updated>2026-11-27T10:59:58+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Drawing on the history of speech recognition, this essay examines five areas where AI claims can outrun the evidence, from agent autonomy to market readiness. In one travel-planning experiment, a single agent matched several multi-agent setups at equal compute. The piece argues for shared metrics, explicit verification, and deterministic code for checks with clear rules.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-27"&gt;TLDR Dev · 2026-11-27 · Articles &amp;amp; Tutorials&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://voiceinthemachine.com/2026/11/26/the-ai-illusion/"/>
+    <category term="TLDR Dev"/>
+    <category term="Articles &amp; Tutorials"/>
+    <published>2026-11-27T10:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.philschmid.de/mcp-2027</id>
+    <title>Why I'm Bullish on MCP for 2027 (10 minute read)</title>
+    <updated>2026-11-27T10:59:57+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;MCP is becoming more useful as clients use Code Mode to chain tool calls and process intermediate results outside the model's context. Use the protocol's asynchronous tasks and events to coordinate long-running work across agents.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-27"&gt;TLDR Dev · 2026-11-27 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.philschmid.de/mcp-2027"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-27T10:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://janlukas.blog/posts/ai-self-hosting</id>
+    <title>AI made self-hosting fun again (7 minute read)</title>
+    <updated>2026-11-27T10:59:56+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Coding agents make it easier to experiment with self-hosting when Docker Compose files, scripts, and system configuration already live in Git. The essay describes how to set up NixOS on a home server, build a Debian bootc image for VPSes, and use Renovate and CI to automate routine updates.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-27"&gt;TLDR Dev · 2026-11-27 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://janlukas.blog/posts/ai-self-hosting"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-27T10:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://kevinak.se/blog/3602153a-3f9c-4ce0-8a4b-fc8e0abceb4f</id>
+    <title>Why is every agent orchestrator the exact same app? (3 minute read)</title>
+    <updated>2026-11-27T10:59:55+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Many coding agent orchestrators pair Git worktrees with terminal panes and diff viewers, leaving engineers to review and integrate several streams of code by hand. Use alternatives, such as disposable environments with separate database state and notifications, when work passes automated checks or gets stuck.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-27"&gt;TLDR Dev · 2026-11-27 · Opinions &amp;amp; Advice&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://kevinak.se/blog/3602153a-3f9c-4ce0-8a4b-fc8e0abceb4f"/>
+    <category term="TLDR Dev"/>
+    <category term="Opinions &amp; Advice"/>
+    <published>2026-11-27T10:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/cli-agent-orchestrator</id>
+    <title>CLI Agent Orchestrator (GitHub Repo)</title>
+    <updated>2026-11-27T10:59:54+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;AWS Labs' CLI Agent Orchestrator runs tools such as Claude Code, Kiro, and Codex in separate tmux sessions. A local server gives a supervisor agent tools to delegate work to those sessions in parallel or in sequence.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-27"&gt;TLDR Dev · 2026-11-27 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://github.com/awslabs/cli-agent-orchestrator"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-27T10:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://vite.dev/blog/announcing-vite8-4</id>
+    <title>Vite 8.4 is out! (3 minute read)</title>
+    <updated>2026-11-27T10:59:53+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Vite 8.4 adds an opt-in dev server allowlist that limits file serving to assets and modules referenced by the project's entry points. The release also detects duplicate dev servers, supports package subpath imports in CSS URLs, and retries CSS loading when a failed dynamic import is retried in a supported browser.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-27"&gt;TLDR Dev · 2026-11-27 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://vite.dev/blog/announcing-vite8-4"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-27T10:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://danni763618.typeform.com/to/H1tYViME</id>
+    <title>Become a founding member of TLDR’s community (2 minute form)</title>
+    <updated>2026-11-27T10:59:52+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;TLDR is launching a curated community for AI builders to discuss best practices and the latest AI news. The best links and comments will be featured in TLDR. &lt;a href="https://danni763618.typeform.com/to/H1tYViME" rel="noopener noreferrer" target="_blank"&gt;Apply here to join&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-27"&gt;TLDR Dev · 2026-11-27 · Launches &amp;amp; Tools&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://danni763618.typeform.com/to/H1tYViME"/>
+    <category term="TLDR Dev"/>
+    <category term="Launches &amp; Tools"/>
+    <published>2026-11-27T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://micjm.com/blog/openai-is-in-cost-control-mode</id>
+    <title>OpenAI may be in cost control mode (2 minute read)</title>
+    <updated>2026-11-27T10:59:51+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;In a benchmark of head-to-head work tasks, GPT-6.2 Astra and Sol used fewer reasoning and output tokens relative to their opponents than earlier versions did. The results suggest a shift toward lower inference costs, though the benchmark does not establish OpenAI's intent.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-27"&gt;TLDR Dev · 2026-11-27 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://micjm.com/blog/openai-is-in-cost-control-mode/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-27T10:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techstackups.com/articles/google-workspace-ai-agents-mcp</id>
+    <title>Google Will Make AI Agents Use Its Workspace MCP Servers. The Gmail One Can't Send Email (9 minute read)</title>
+    <updated>2026-11-27T10:59:50+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Google's new Workspace terms require AI agents accessing Workspace data to use its MCP servers starting on February 1. The publicly available Gmail tools support search and draft creation, while sending, replying, forwarding, and editing drafts require partner access.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-27"&gt;TLDR Dev · 2026-11-27 · Miscellaneous&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://techstackups.com/articles/google-workspace-ai-agents-mcp/"/>
+    <category term="TLDR Dev"/>
+    <category term="Miscellaneous"/>
+    <published>2026-11-27T10:59:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://olumino.app/</id>
+    <title>Olumino (Website)</title>
+    <updated>2026-11-27T10:59:49+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Olumino combines Markdown notes and flashcards, using FSRS-7 to schedule reviews based on how well you recall each card.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-27"&gt;TLDR Dev · 2026-11-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://olumino.app/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-27T10:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openrouter.ai/blog/insights/is-jevons-paradox-holding</id>
+    <title>Is Jevons Paradox holding? (2 minute read)</title>
+    <updated>2026-11-27T10:59:48+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;OpenRouter reports that paid token usage grew 44-fold in 2026 as average token prices fell 83%, while spending has barely risen since early October.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-27"&gt;TLDR Dev · 2026-11-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://openrouter.ai/blog/insights/is-jevons-paradox-holding/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-27T10:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act</id>
+    <title>Curiosity Is No Solo Act (8 minute read)</title>
+    <updated>2026-11-27T10:59:47+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;An excerpt from Curious Minds argues that curiosity takes shape through relationships, tracing how Indigenous botany and early cabinets of curiosities reveal the people and places behind a discovery.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-27"&gt;TLDR Dev · 2026-11-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-27T10:59:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cesarsotovalero.net/blog/your-model-is-a-dependency.html</id>
+    <title>Your Model Is a Dependency (16 minute read)</title>
+    <updated>2026-11-27T10:59:46+00:00</updated>
+    <content type="html">&lt;div class="newsletter-html"&gt;Treat production LLMs like software dependencies by pinning model versions, prompts, and tools in a lockfile, testing upgrades on the same cases across repeated runs, and keeping a tested fallback for model retirements.&lt;/div&gt;&lt;p&gt;&lt;small&gt;From &lt;a href="https://tldr.tech/dev/2026-11-27"&gt;TLDR Dev · 2026-11-27 · Quick Links&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <link href="https://www.cesarsotovalero.net/blog/your-model-is-a-dependency.html"/>
+    <category term="TLDR Dev"/>
+    <category term="Quick Links"/>
+    <published>2026-11-27T10:59:46+00:00</published>
+  </entry>
   <entry>
     <id>https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms</id>
     <title>Scaling Swarms to Thousands of Agents (30 minute read)</title>

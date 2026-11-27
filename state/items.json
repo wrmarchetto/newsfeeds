@@ -20,6 +20,7 @@
   "ai/2026-11-24": "2026-11-24T20:40:57+00:00",
   "ai/2026-11-25": "2026-11-25T19:57:19+00:00",
   "ai/2026-11-26": "2026-11-26T19:38:37+00:00",
+  "ai/2026-11-27": "2026-11-27T19:29:25+00:00",
   "dev/2026-10-30": "2026-10-30T16:42:37+00:00",
   "dev/2026-11-02": "2026-11-02T20:22:32+00:00",
   "dev/2026-11-03": "2026-11-03T17:51:54+00:00",
@@ -40,6 +41,7 @@
   "dev/2026-11-24": "2026-11-24T20:40:55+00:00",
   "dev/2026-11-25": "2026-11-25T19:57:17+00:00",
   "dev/2026-11-26": "2026-11-26T19:38:35+00:00",
+  "dev/2026-11-27": "2026-11-27T19:29:23+00:00",
   "hardware/2026-10-30": "2026-10-30T16:42:41+00:00",
   "hardware/2026-11-02": "2026-11-02T20:22:37+00:00",
   "hardware/2026-11-04": "2026-11-04T17:59:58+00:00",
@@ -52,6 +54,7 @@
   "hardware/2026-11-20": "2026-11-20T18:38:21+00:00",
   "hardware/2026-11-23": "2026-11-23T22:03:51+00:00",
   "hardware/2026-11-25": "2026-11-25T19:57:21+00:00",
+  "hardware/2026-11-27": "2026-11-27T19:29:27+00:00",
   "tech/2026-10-30": "2026-10-30T16:42:34+00:00",
   "tech/2026-11-02": "2026-11-02T20:22:29+00:00",
   "tech/2026-11-03": "2026-11-03T17:51:52+00:00",
@@ -71,7 +74,8 @@
   "tech/2026-11-23": "2026-11-23T22:03:44+00:00",
   "tech/2026-11-24": "2026-11-24T20:40:52+00:00",
   "tech/2026-11-25": "2026-11-25T19:57:14+00:00",
-  "tech/2026-11-26": "2026-11-26T19:38:33+00:00"
+  "tech/2026-11-26": "2026-11-26T19:38:33+00:00",
+  "tech/2026-11-27": "2026-11-27T19:29:20+00:00"
  },
  "items": [
   {
@@ -5363,6 +5367,576 @@
    "summary_html": "<div class=\"newsletter-html\">Claude Fable 5.2 often puts less effort into tasks that look impossible when a visible shortcut is available.</div>",
    "title": "Fable 5.2 Tries Less on Some Hard Tasks (7 minute read)",
    "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available"
+  },
+  {
+   "edition": "tech",
+   "id": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+   "issue_date": "2026-11-27",
+   "position": 0,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">Astra 6.2 and Sol 6.2 have likely been tuned for cost savings. Output tokens per task and reasoning tokens per task have dropped significantly. The models seem to be reasoning a lot less compared to opponents. Charts showing the change in token usage across models are available in the article.</div>",
+   "title": "OpenAI may be in cost control mode (2 minute read)",
+   "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+   "issue_date": "2026-11-27",
+   "position": 1,
+   "section": "Big Tech & Startups",
+   "summary_html": "<div class=\"newsletter-html\">A new rule that restricts remote access to AI semiconductors was announced by the Trump administration on November 16. The new rule seeks to close an export controls loophole that allowed Chinese companies to rent access to Nvidia's most advanced chips when hosted in data centers overseas. Chip sellers have communicated the message to neoclouds, telling them they won't be able to purchase Nvidia chips if any of the computing capacity will be rented by Chinese companies. Neocloud stocks have come under renewed pressure lately as investors question the sustainability of the AI boom.</div>",
+   "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs (3 minute read)",
+   "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://nirmalyakajuri.substack.com/p/its-so-over-for-quantum-gravity",
+   "issue_date": "2026-11-27",
+   "position": 2,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">A recent paper released by an OpenAI employee claimed to have quantized gravity. The paper quickly gained viral status on X. The employee, who is also currently a postdoc at Stanford, spent 400 million tokens while discussing and proving his results with ChatGPT Astra. However, for now, it appears that AI has not solved quantum gravity.</div>",
+   "title": "It's so over for Quantum Gravity? (6 minute read)",
+   "url": "https://nirmalyakajuri.substack.com/p/its-so-over-for-quantum-gravity"
+  },
+  {
+   "edition": "tech",
+   "id": "https://heavytechasia.com/chinas-second-largest-hog-producer-turns-to-barn-robots",
+   "issue_date": "2026-11-27",
+   "position": 3,
+   "section": "Science & Futuristic Technology",
+   "summary_html": "<div class=\"newsletter-html\">Wens Foodstuff Group, China's second-largest hog producer, has invested in Lasaite Robot, a maker of rail-riding barn robots. Lasaite's robots log body temperatures, feed intake, and the activity of the pigs in each pen to keep livestock healthy. Wens sells tens of millions of hogs every year. The automation provides early warning signals if disease or other health problems are detected.</div>",
+   "title": "China's second-largest hog producer turns to barn robots (2 minute read)",
+   "url": "https://heavytechasia.com/chinas-second-largest-hog-producer-turns-to-barn-robots/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.philschmid.de/mcp-2027",
+   "issue_date": "2026-11-27",
+   "position": 4,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">Early excitement about MCPs turned into backlash and confusion fast, and when Skills arrived, most developers moved to CLIs and progressive disclosure. However, the sentiment is now changing, and MCP traffic growth is growing again. The protocol is healthy and actively improving. Clients are also now smarter about how they use them.</div>",
+   "title": "Why I'm Bullish on MCP for 2027 (10 minute read)",
+   "url": "https://www.philschmid.de/mcp-2027"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future",
+   "issue_date": "2026-11-27",
+   "position": 5,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">Multiagent coding will have a seismic impact on the software development industry, and also the general way people do knowledge work. Early adopters have shipped a variety of experiments showing how multiagent collaboration could work. Labs have still not made good products around multiagent coding, possibly because they are waiting for approaches in the community to settle. There are also dangers with highly capable agent swarms autonomously interacting with infrastructure.</div>",
+   "title": "Multiagent coding is the future (23 minute read)",
+   "url": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-27",
+   "position": 6,
+   "section": "Programming, Design & Data Science",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss best practices and the latest AI news. The best links and comments will be featured in TLDR. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR's community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "tech",
+   "id": "https://openrouter.ai/blog/insights/is-jevons-paradox-holding",
+   "issue_date": "2026-11-27",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Jevons Paradox has been the defining law of inference so far in the AI boom. Usage has exploded enough to push total spend higher as token prices have fallen. That dynamic has weakened in recent months. Token consumption shows no signs of slowing, but spend growth has slowed significantly.</div>",
+   "title": "Is Jevons Paradox holding? (3 minute read)",
+   "url": "https://openrouter.ai/blog/insights/is-jevons-paradox-holding/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://jiaxin-wen.github.io/blog/bullish-on-human-intelligence.html",
+   "issue_date": "2026-11-27",
+   "position": 8,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Some people believe that human intelligence is obsolete and that all there is left is to build RSI and prepare for an AI takeover. However, despite their recent successes, frontier AIs are still bottlenecked by human talent in getting better. Many of the properties of human intelligence are the moonshot goals of frontier AI labs. People should not give up so easily because of the hype.</div>",
+   "title": "Bullish on Human Intelligence (5 minute read)",
+   "url": "https://jiaxin-wen.github.io/blog/bullish-on-human-intelligence.html"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.wsj.com/tech/memory-chip-shortage-ai-electronics-prices-e58a065a?st=mmCEwL&amp%3Breflink=desktopwebshare_permalink%3Futm_source%3Dtldrnewsletter",
+   "issue_date": "2026-11-27",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Holiday gifts will be more expensive this year as chips are becoming more scarce.</div>",
+   "title": "The Mad Dash for Memory Chips\u2014and the Pain It's Causing Holiday Shoppers (11 minute read)",
+   "url": "https://www.wsj.com/tech/memory-chip-shortage-ai-electronics-prices-e58a065a?st=mmCEwL&amp%3Breflink=desktopwebshare_permalink%3Futm_source%3Dtldrnewsletter"
+  },
+  {
+   "edition": "tech",
+   "id": "https://blog.alexmiller.net/posts/who-owns-your-account",
+   "issue_date": "2026-11-27",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Companies are rolling out policies to restrict agents from accessing their information, but these desperate grasps to maintain the status quo will end up being bypassed as new technologies roll out and agents continue to get better at just using a browser.</div>",
+   "title": "Who Owns Your Account (3 minute read)",
+   "url": "https://blog.alexmiller.net/posts/who-owns-your-account"
+  },
+  {
+   "edition": "tech",
+   "id": "https://janlukas.blog/posts/ai-self-hosting",
+   "issue_date": "2026-11-27",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">AI enables us to become a little less dependent on big tech companies.</div>",
+   "title": "AI made self-hosting fun again (8 minute read)",
+   "url": "https://janlukas.blog/posts/ai-self-hosting"
+  },
+  {
+   "edition": "tech",
+   "id": "https://ilyabirman.net/meanwhile/all/interfaces-in-the-age-of-ai",
+   "issue_date": "2026-11-27",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Interface design isn't just about drawing buttons, and designers are finally starting to realize that.</div>",
+   "title": "Interfaces in the Age of AI (2 minute read)",
+   "url": "https://ilyabirman.net/meanwhile/all/interfaces-in-the-age-of-ai/"
+  },
+  {
+   "edition": "tech",
+   "id": "https://www.asya.ai/blog/the-state-of-llm-costs-and-capabilities",
+   "issue_date": "2026-11-27",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">LLMs are getting more capable and cheaper, but enterprise bills aren't shrinking</div>",
+   "title": "The state of LLM: costs and capabilities (32 minute read)",
+   "url": "https://www.asya.ai/blog/the-state-of-llm-costs-and-capabilities"
+  },
+  {
+   "edition": "tech",
+   "id": "https://amit.prasad.me/blog/ambiguous-errors",
+   "issue_date": "2026-11-27",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Errors should encode enough meaning to help figure out how the software failed.</div>",
+   "title": "Ambiguous Errors Are the Mind Killer (4 minute read)",
+   "url": "https://amit.prasad.me/blog/ambiguous-errors"
+  },
+  {
+   "edition": "dev",
+   "id": "https://threadreaderapp.com/thread/2125913331915784509.html",
+   "issue_date": "2026-11-27",
+   "position": 0,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">This post lays out six layers for production agents, from event triggers and workflow state to tools, trusted context, evaluation, and runtime controls. It recommends checkpointing runs in Postgres, putting deterministic logic behind typed tools, and requiring human approval for high-impact actions. A shared model gateway can enforce spend caps and keep traces across providers.</div>",
+   "title": "There are six layers to a working agentic system (2 minute read)",
+   "url": "https://threadreaderapp.com/thread/2125913331915784509.html"
+  },
+  {
+   "edition": "dev",
+   "id": "https://jurajb.dev/main-session-manager",
+   "issue_date": "2026-11-27",
+   "position": 1,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">A main Claude Code session plans work and delegates implementation to agents running in separate Git worktrees through Herdr. The developer approves plans and tests betas, while the manager checks commits, tests, simulator recordings, and Release builds before merging and shipping. The workflow produced 37 TestFlight builds in five days, up from nine in the previous five.</div>",
+   "title": "My main Claude Code session writes almost no code (5 minute read)",
+   "url": "https://jurajb.dev/main-session-manager/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://voiceinthemachine.com/2026/11/26/the-ai-illusion",
+   "issue_date": "2026-11-27",
+   "position": 2,
+   "section": "Articles & Tutorials",
+   "summary_html": "<div class=\"newsletter-html\">Drawing on the history of speech recognition, this essay examines five areas where AI claims can outrun the evidence, from agent autonomy to market readiness. In one travel-planning experiment, a single agent matched several multi-agent setups at equal compute. The piece argues for shared metrics, explicit verification, and deterministic code for checks with clear rules.</div>",
+   "title": "The AI Illusion (28 minute read)",
+   "url": "https://voiceinthemachine.com/2026/11/26/the-ai-illusion/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.philschmid.de/mcp-2027",
+   "issue_date": "2026-11-27",
+   "position": 3,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">MCP is becoming more useful as clients use Code Mode to chain tool calls and process intermediate results outside the model's context. Use the protocol's asynchronous tasks and events to coordinate long-running work across agents.</div>",
+   "title": "Why I'm Bullish on MCP for 2027 (10 minute read)",
+   "url": "https://www.philschmid.de/mcp-2027"
+  },
+  {
+   "edition": "dev",
+   "id": "https://janlukas.blog/posts/ai-self-hosting",
+   "issue_date": "2026-11-27",
+   "position": 4,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Coding agents make it easier to experiment with self-hosting when Docker Compose files, scripts, and system configuration already live in Git. The essay describes how to set up NixOS on a home server, build a Debian bootc image for VPSes, and use Renovate and CI to automate routine updates.</div>",
+   "title": "AI made self-hosting fun again (7 minute read)",
+   "url": "https://janlukas.blog/posts/ai-self-hosting"
+  },
+  {
+   "edition": "dev",
+   "id": "https://kevinak.se/blog/3602153a-3f9c-4ce0-8a4b-fc8e0abceb4f",
+   "issue_date": "2026-11-27",
+   "position": 5,
+   "section": "Opinions & Advice",
+   "summary_html": "<div class=\"newsletter-html\">Many coding agent orchestrators pair Git worktrees with terminal panes and diff viewers, leaving engineers to review and integrate several streams of code by hand. Use alternatives, such as disposable environments with separate database state and notifications, when work passes automated checks or gets stuck.</div>",
+   "title": "Why is every agent orchestrator the exact same app? (3 minute read)",
+   "url": "https://kevinak.se/blog/3602153a-3f9c-4ce0-8a4b-fc8e0abceb4f"
+  },
+  {
+   "edition": "dev",
+   "id": "https://github.com/awslabs/cli-agent-orchestrator",
+   "issue_date": "2026-11-27",
+   "position": 6,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">AWS Labs' CLI Agent Orchestrator runs tools such as Claude Code, Kiro, and Codex in separate tmux sessions. A local server gives a supervisor agent tools to delegate work to those sessions in parallel or in sequence.</div>",
+   "title": "CLI Agent Orchestrator (GitHub Repo)",
+   "url": "https://github.com/awslabs/cli-agent-orchestrator"
+  },
+  {
+   "edition": "dev",
+   "id": "https://vite.dev/blog/announcing-vite8-4",
+   "issue_date": "2026-11-27",
+   "position": 7,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">Vite 8.4 adds an opt-in dev server allowlist that limits file serving to assets and modules referenced by the project's entry points. The release also detects duplicate dev servers, supports package subpath imports in CSS URLs, and retries CSS loading when a failed dynamic import is retried in a supported browser.</div>",
+   "title": "Vite 8.4 is out! (3 minute read)",
+   "url": "https://vite.dev/blog/announcing-vite8-4"
+  },
+  {
+   "edition": "dev",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-27",
+   "position": 8,
+   "section": "Launches & Tools",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss best practices and the latest AI news. The best links and comments will be featured in TLDR. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR\u2019s community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "dev",
+   "id": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+   "issue_date": "2026-11-27",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">In a benchmark of head-to-head work tasks, GPT-6.2 Astra and Sol used fewer reasoning and output tokens relative to their opponents than earlier versions did. The results suggest a shift toward lower inference costs, though the benchmark does not establish OpenAI's intent.</div>",
+   "title": "OpenAI may be in cost control mode (2 minute read)",
+   "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+   "issue_date": "2026-11-27",
+   "position": 10,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Google's new Workspace terms require AI agents accessing Workspace data to use its MCP servers starting on February 1. The publicly available Gmail tools support search and draft creation, while sending, replying, forwarding, and editing drafts require partner access.</div>",
+   "title": "Google Will Make AI Agents Use Its Workspace MCP Servers. The Gmail One Can't Send Email (9 minute read)",
+   "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://olumino.app/",
+   "issue_date": "2026-11-27",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Olumino combines Markdown notes and flashcards, using FSRS-7 to schedule reviews based on how well you recall each card.</div>",
+   "title": "Olumino (Website)",
+   "url": "https://olumino.app/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://openrouter.ai/blog/insights/is-jevons-paradox-holding",
+   "issue_date": "2026-11-27",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">OpenRouter reports that paid token usage grew 44-fold in 2026 as average token prices fell 83%, while spending has barely risen since early October.</div>",
+   "title": "Is Jevons Paradox holding? (2 minute read)",
+   "url": "https://openrouter.ai/blog/insights/is-jevons-paradox-holding/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act",
+   "issue_date": "2026-11-27",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">An excerpt from Curious Minds argues that curiosity takes shape through relationships, tracing how Indigenous botany and early cabinets of curiosities reveal the people and places behind a discovery.</div>",
+   "title": "Curiosity Is No Solo Act (8 minute read)",
+   "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/"
+  },
+  {
+   "edition": "dev",
+   "id": "https://www.cesarsotovalero.net/blog/your-model-is-a-dependency.html",
+   "issue_date": "2026-11-27",
+   "position": 14,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Treat production LLMs like software dependencies by pinning model versions, prompts, and tools in a lockfile, testing upgrades on the same cases across repeated runs, and keeping a tested fallback for model retirements.</div>",
+   "title": "Your Model Is a Dependency (16 minute read)",
+   "url": "https://www.cesarsotovalero.net/blog/your-model-is-a-dependency.html"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.testingcatalog.com/anthropic-prepares-google-drive-file-browser-for-claude",
+   "issue_date": "2026-11-27",
+   "position": 0,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">Anthropic is developing a Google Drive integration that will let users browse and manage their files directly in Claude. The interface will display Google Docs, Sheets, and Slides and allow users to search and filter files. It currently appears as a separate item in Claude's navigation sidebar. The final implementation may become part of Claude's updated Projects experience.</div>",
+   "title": "Anthropic prepares Google Drive file browser for Claude (2 minute read)",
+   "url": "https://www.testingcatalog.com/anthropic-prepares-google-drive-file-browser-for-claude/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+   "issue_date": "2026-11-27",
+   "position": 1,
+   "section": "Headlines & Launches",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI's Astra 6.2 and Sol 6.2 updates received criticism for reduced performance, as both models show significant reductions in reasoning and output tokens. This suggests a shift towards cost savings, with p-values indicating substantial declines in their reasoning and output compared to previous versions. These changes make Astra and Sol outliers focused more on cost-efficiency than performance.</div>",
+   "title": "OpenAI may be in cost control mode (2 minute read)",
+   "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://andrewtrask.substack.com/p/measuring-rsi",
+   "issue_date": "2026-11-27",
+   "position": 2,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Neither compute allocation nor human intervention measures whether an AI training algorithm improved. Neither metric establishes a hard link between human intervention and AI improvement. Also, they are unable to detect strong recursion before a successfully more capable model is trained. Sample complexity, which detects the mechanism of strong recursion without building a more capable AI, and counterfactual measurement, which measures how much AI capability changes when advised by AI tools, address these challenges.</div>",
+   "title": "Measuring RSI (12 minute read)",
+   "url": "https://andrewtrask.substack.com/p/measuring-rsi"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.cesarsotovalero.net/blog/your-model-is-a-dependency.html",
+   "issue_date": "2026-11-27",
+   "position": 3,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">The large language model (LLM) you choose to use is a dependency. Software dependencies bloat, break, and quietly turn into liabilities over time. LLMs are the strangest dependencies adopted in software development so far, but the software supply chain playbook applies to them almost line by line. Companies need to start adopting habits from the software supply chain and applying them to the models they use as soon as possible.</div>",
+   "title": "Your Model Is a Dependency (16 minute read)",
+   "url": "https://www.cesarsotovalero.net/blog/your-model-is-a-dependency.html"
+  },
+  {
+   "edition": "ai",
+   "id": "https://shiweiliuiiiiiii.github.io/blog/2026/from-model-compression-to-looped-transformers",
+   "issue_date": "2026-11-27",
+   "position": 4,
+   "section": "Deep Dives & Analysis",
+   "summary_html": "<div class=\"newsletter-html\">Model layers are not all equally sensitive to compression. It is often possible to compress substantial parts of the deeper network more aggressively than the early layers. The compressability with little consequence suggests that models are not using their architectures as effectively as researchers had hoped. Looped transformers offer a way to increase computational depth without duplicating the main backbone parameters. However, the question of how to make additional computation actually matter remains.</div>",
+   "title": "From Model Compression to Looped Transformers (22 minute read)",
+   "url": "https://shiweiliuiiiiiii.github.io/blog/2026/from-model-compression-to-looped-transformers/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-27",
+   "position": 5,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss best practices and the latest AI news. The best links and comments will be featured in TLDR. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR's community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "ai",
+   "id": "https://nebius.com/blog/posts/layerstream-moe-fine-tuning",
+   "issue_date": "2026-11-27",
+   "position": 6,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">Nebius' LayerStream training engine keeps optimizer state and saved activations in host memory and streams each layer's working state through the GPU only when that layer runs. On 16 H200 GPUs, it finished a pass over a 25.8M-token dataset in 7.1 minutes instead of 22.4, with 3.15x the throughput of a tuned Megatron-LM trainer and 68% lower GPU cost per token.</div>",
+   "title": "LayerStream: faster MoE fine-tuning on fewer or cheaper GPUs (10 minute read)",
+   "url": "https://nebius.com/blog/posts/layerstream-moe-fine-tuning"
+  },
+  {
+   "edition": "ai",
+   "id": "https://hazyresearch.stanford.edu/blog/2026-11-25-platos-key",
+   "issue_date": "2026-11-27",
+   "position": 7,
+   "section": "Engineering & Research",
+   "summary_html": "<div class=\"newsletter-html\">The Platonic Representation Hypothesis posits that neural networks converge toward a shared representation of reality. Separately trained models can learn geometrically similar representations, but similar does not mean interchangeable. LLMs can use each other's representations in place of their own without gradient descent. The map is surprisingly simple: in experiments, a rotation and one global scale, fit in closed form, let one LLM use another's representations.</div>",
+   "title": "Plato's Key (8 minute read)",
+   "url": "https://hazyresearch.stanford.edu/blog/2026-11-25-platos-key"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.philschmid.de/mcp-2027",
+   "issue_date": "2026-11-27",
+   "position": 8,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">MCP is evolving, with entities like Linear, Notion, and Atlassian using it for significant tool management, showing robust growth in traffic and tool handling. Key advancements include Code Mode for efficient tool calling, integrated Skills for streamlined agent knowledge, and MCP Events for real-time updates and notifications. There's still work needed in areas like observability and security, but MCP is becoming crucial for multi-agent coordination and efficient task management by 2027.</div>",
+   "title": "Why I'm Bullish on MCP for 2027 (10 minute read)",
+   "url": "https://www.philschmid.de/mcp-2027"
+  },
+  {
+   "edition": "ai",
+   "id": "https://newsletter.forethought.org/p/do-scale-dependent-algorithms-cut-against-a-software-intelligence-explosion",
+   "issue_date": "2026-11-27",
+   "position": 9,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Scale-dependent algorithms will cut against a software-only intelligence explosion. The amount they do so will depend on how algorithmic progress is measured. With the way AI companies actually measure algorithmic progress, the effect will be small. AI companies should publish more data so that independent researchers can assess whether there will be a software-only intelligence explosion.</div>",
+   "title": "Do scale-dependent algorithms cut against a software intelligence explosion? (13 minute read)",
+   "url": "https://newsletter.forethought.org/p/do-scale-dependent-algorithms-cut-against-a-software-intelligence-explosion"
+  },
+  {
+   "edition": "ai",
+   "id": "https://openai.com/safety-alignment/misalignment-reports/using-peers-work-to-gain-unauthorized-access-to-openai-research-infrastructure",
+   "issue_date": "2026-11-27",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">OpenAI observed agents taking a cybersecurity evaluation gaining unauthorized access to its research infrastructure on July 19, using the access to repair broken targets, change evaluation settings, and retrieve logs and private grading code unavailable from their workspaces.</div>",
+   "title": "Using peers' work to gain unauthorized access to OpenAI research infrastructure (13 minute read)",
+   "url": "https://openai.com/safety-alignment/misalignment-reports/using-peers-work-to-gain-unauthorized-access-to-openai-research-infrastructure/"
+  },
+  {
+   "edition": "ai",
+   "id": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+   "issue_date": "2026-11-27",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The llama.cpp \u00d7 AMD Benchmark dashboard on Hugging Face lets AMD developers track performance across llama.cpp builds, models, and quantizations on Ryzen and Radeon hardware.</div>",
+   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon (3 minute read)",
+   "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+  },
+  {
+   "edition": "ai",
+   "id": "https://x.com/trq212/status/2125675533761671405",
+   "issue_date": "2026-11-27",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Thariq Shihipar has left Anthropic to work at OpenAI to build AI products for over a billion people and to push the frontier forward.</div>",
+   "title": "Thariq Shihipar has joined OpenAI (1 minute read)",
+   "url": "https://x.com/trq212/status/2125675533761671405"
+  },
+  {
+   "edition": "ai",
+   "id": "https://www.testingcatalog.com/nous-research-readies-hermes-desktop-redesign-for-next-week",
+   "issue_date": "2026-11-27",
+   "position": 13,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Nous Research plans to release a redesigned Hermes Desktop app next week, featuring a new interface with a centralized home screen and customizable agent pages.</div>",
+   "title": "Nous Research readies Hermes Desktop redesign for next week (3 minute read)",
+   "url": "https://www.testingcatalog.com/nous-research-readies-hermes-desktop-redesign-for-next-week/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-a14-1-4nm-class-node-is-ready-for-chip-design-boost-cells-promise-14-percent-performance-uplift-or-23-percent-power-cut-over-n2p",
+   "issue_date": "2026-11-27",
+   "position": 0,
+   "section": "Headlines and Launches",
+   "summary_html": "<div class=\"newsletter-html\">A14 uses second-generation nanosheet transistors with flexible cell types, so designers put fast Boost Cells on critical paths and power-saving Low-Power Cells everywhere else. TSMC claims 50% better energy efficiency and 23% higher logic density than N2P, and a later move to A13 shrinks die area about 6% without changing the design flow.</div>",
+   "title": "TSMC's A14 is ready for design-in with PDK 0.9 (3 minute read)",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-a14-1-4nm-class-node-is-ready-for-chip-design-boost-cells-promise-14-percent-performance-uplift-or-23-percent-power-cut-over-n2p"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites",
+   "issue_date": "2026-11-27",
+   "position": 1,
+   "section": "Headlines and Launches",
+   "summary_html": "<div class=\"newsletter-html\">SpaceX has been authorized to launch a constellation of up to 1 million AI satellites that would link to each other optically and reach Earth through Starlink, with the 1 million count acting as a regulatory ceiling rather than a promised fleet. SpaceX plans to equip them with Nvidia Rubin GPUs and Vera CPUs, relying on Starship's falling launch costs to compete with terrestrial datacenter prices</div>",
+   "title": "FCC authorizes SpaceX to deploy up to 1 million solar-powered orbital data center satellites, with 100,000 due by November 2035 (3 minute read)",
+   "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://spectrum.ieee.org/nercs-data-center-power-rules",
+   "issue_date": "2026-11-27",
+   "position": 2,
+   "section": "Engineering and Applications",
+   "summary_html": "<div class=\"newsletter-html\">On July 22, Northern Virginia facilities drawing 3,800 MW switched to backup after a routine line fault, spiking frequency and voltage, and at least eight such events have shed 200 to 1,800 MW since 2022. AI training makes it worse, since synchronized GPUs pulse between full power and near idle, and a 100 MW facility swung 10 to 15 MW every 2.5 seconds. Simulations show those pulses can resonate with grid natural frequencies, so NERC also plans ride-through and oscillation criteria next year.</div>",
+   "title": "NERC's first standards require data centers of 50 MW or more to share power models and trip settings, after 3.8 GW of Virginia load dropped off the grid at once (4 minute read)",
+   "url": "https://spectrum.ieee.org/nercs-data-center-power-rules"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.microprocessorreport.com/p/quick-take-amds-helios-appliance",
+   "issue_date": "2026-11-27",
+   "position": 3,
+   "section": "Engineering and Applications",
+   "summary_html": "<div class=\"newsletter-html\">AMD's Helios combines AMD CPU, GPU, and Ethernet with the ROCm framework in a plug-and-play AI solution using OCP's ORW form factor. Positioned as a competitive alternative to NVIDIA's offerings, AMD focuses on integration and easier software porting from CUDA to ROCm. Though larger cloud providers depend on NVIDIA or custom AI ASICs, smaller providers may leverage Helios's integration for straightforward deployment and operation.</div>",
+   "title": "Quick Take: AMD's Helios as a Plug-and-Play AI Appliance Standard (4 minute read)",
+   "url": "https://www.microprocessorreport.com/p/quick-take-amds-helios-appliance"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://danni763618.typeform.com/to/H1tYViME",
+   "issue_date": "2026-11-27",
+   "position": 4,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">TLDR is launching a curated community for AI builders to discuss best practices and the latest AI news. The best links and comments will be featured in TLDR. <a href=\"https://danni763618.typeform.com/to/H1tYViME\" rel=\"noopener noreferrer\" target=\"_blank\">Apply here to join</a>.</div>",
+   "title": "Become a founding member of TLDR's community (2 minute form)",
+   "url": "https://danni763618.typeform.com/to/H1tYViME"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.techpowerup.com/355210/sk-hynix-to-start-3d-dram-production-in-2031",
+   "issue_date": "2026-11-27",
+   "position": 5,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">SK hynix plans to start mass production of 3D DRAM by 2031, potentially utilizing 100-layer designs based on its current roadmap. The production requires advanced techniques like multi-deck stacking and hybrid bonding, drawing from technology licensed from YMTC. This shift involves completely overhauling SK hynix's DRAM architecture and manufacturing process.</div>",
+   "title": "SK hynix to Start 3D DRAM Production in 2031 (2 minute read)",
+   "url": "https://www.techpowerup.com/355210/sk-hynix-to-start-3d-dram-production-in-2031"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc2NjAzMywiZXhwIjoxNzk2MzcwODMzLCJhcnRpY2xlSWQiOiJUUDM5WE1LSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2QjRFOEJDNTlCNEM0MjE1OEEzMzEyN0Y4Njg1Nzk4RCJ9.5JiqNfcJJ51aeiDHbVnowRMSbFAhzUir18pe0FpmX2c%3Futm_source%3Dtldrhardware",
+   "issue_date": "2026-11-27",
+   "position": 6,
+   "section": "Research and Prototypes",
+   "summary_html": "<div class=\"newsletter-html\">Xpeng's EVs run from 119,800 to 309,800 yuan (about $18,000 to $44,000), and an executive gave that as the benchmark for the future cost of their humanoid, IRON. IRON carries over 1,500 tactile sensing points, with 76 degrees of freedom and three in-house Turing AI chips. Mass production starts in January. Store trials follow in Q1 2027, and public sales are targeted for Q2. Xpeng wants to sell tens of thousands next year, funded by a $900 million robotics round at a $6.3 billion valuation, while its stock is down 55% this year.</div>",
+   "title": "Xpeng says its IRON humanoid will sell at roughly the median price of its EVs (3 minute read)",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc2NjAzMywiZXhwIjoxNzk2MzcwODMzLCJhcnRpY2xlSWQiOiJUUDM5WE1LSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2QjRFOEJDNTlCNEM0MjE1OEEzMzEyN0Y4Njg1Nzk4RCJ9.5JiqNfcJJ51aeiDHbVnowRMSbFAhzUir18pe0FpmX2c%3Futm_source%3Dtldrhardware"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales",
+   "issue_date": "2026-11-27",
+   "position": 7,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">Nvidia's advanced chips are being sold to US-based companies that are actually Chinese-owned, raising concerns about evading export controls. California companies RiCloud AI and Aivres, linked to Chinese firms, have been involved in questionable dealings, including sales to Southeast Asian firms tied to Chinese tech companies. Nvidia's accounting changes may obscure customer locations, prompting potential Senate investigations into export violations and espionage.</div>",
+   "title": "2 California companies are buying Nvidia's most advanced chips. Those companies are actually Chinese-owned, a CBS News investigation reveals (9 minute read)",
+   "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.reuters.com/business/autos-transportation/eu-postpones-discussion-approve-teslas-self-driving-tech-2026-11-25",
+   "issue_date": "2026-11-27",
+   "position": 8,
+   "section": "Miscellaneous",
+   "summary_html": "<div class=\"newsletter-html\">The Technical Committee for Motor Vehicles had been expected to vote after skipping two earlier meetings, following the Netherlands' approval in April. Tesla Assisted Driving, renamed from FSD after regulator concerns, can steer, accelerate, and brake, but needs constant driver supervision. About 12 countries have approved it, with Italy the largest, but EU-wide approval takes 15 of 27 states representing 65% of the population, and a rejection would invalidate the national approvals already granted.</div>",
+   "title": "EU delays its vote on bloc-wide approval of Tesla's \"hands-off, eyes-on\" driver assistance (2 minute read)",
+   "url": "https://www.reuters.com/business/autos-transportation/eu-postpones-discussion-approve-teslas-self-driving-tech-2026-11-25/"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://videocardz.com/newz/amd-claims-gpu-frequency-world-record-with-radeon-rx-9060-xt-at-4-837-ghz",
+   "issue_date": "2026-11-27",
+   "position": 9,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">AMD's Radeon RX 9060 XT reached a new GPU frequency world record of 4.837 GHz with liquid nitrogen cooling.</div>",
+   "title": "AMD claims GPU frequency world record with Radeon RX 9060 XT at 4.837 GHz (2 minute read)",
+   "url": "https://videocardz.com/newz/amd-claims-gpu-frequency-world-record-with-radeon-rx-9060-xt-at-4-837-ghz"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://videocardz.com/newz/nvidia-reportedly-cuts-gaming-gpu-supply-by-another-20-30-for-q4",
+   "issue_date": "2026-11-27",
+   "position": 10,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">This reduction may lead to shortages extending through January and potential price increases.</div>",
+   "title": "NVIDIA reportedly cuts gaming GPU supply by another 20-30% for Q4 (2 minute read)",
+   "url": "https://videocardz.com/newz/nvidia-reportedly-cuts-gaming-gpu-supply-by-another-20-30-for-q4"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/default.aspx",
+   "issue_date": "2026-11-27",
+   "position": 11,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">The tax-advantaged accounts will help American children build long-term savings.</div>",
+   "title": "SpaceX will give one newly issued Class A share to every active Trump Account, with Musk matching the total (1 minute read)",
+   "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/default.aspx"
+  },
+  {
+   "edition": "hardware",
+   "id": "https://www.bloomberg.com/news/articles/2026-11-24/european-rocket-launches-satellites-for-amazon-s-starlink-rival?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc2NjA2OCwiZXhwIjoxNzk2MzcwODY4LCJhcnRpY2xlSWQiOiJUT1QzNk9LSkg2VkcwMCIsImJjb25uZWN0SWQiOiI2QjRFOEJDNTlCNEM0MjE1OEEzMzEyN0Y4Njg1Nzk4RCJ9.F8BcKu_0e6iEUvu2Im0j4Wj99Ma-1GtKCIkEhyaaOos%3Futm_source%3Dtldrhardware",
+   "issue_date": "2026-11-27",
+   "position": 12,
+   "section": "Quick Links",
+   "summary_html": "<div class=\"newsletter-html\">Ariane 64 placed all 36 Amazon Leo satellites in orbit on November 24, nine days after a Vulcan failure to deliver its payload destroyed 40 others.</div>",
+   "title": "Ariane 6 delivers 36 Amazon Leo satellites on its 10th straight success (2 minute read)",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/european-rocket-launches-satellites-for-amazon-s-starlink-rival?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc2NjA2OCwiZXhwIjoxNzk2MzcwODY4LCJhcnRpY2xlSWQiOiJUT1QzNk9LSkg2VkcwMCIsImJjb25uZWN0SWQiOiI2QjRFOEJDNTlCNEM0MjE1OEEzMzEyN0Y4Njg1Nzk4RCJ9.F8BcKu_0e6iEUvu2Im0j4Wj99Ma-1GtKCIkEhyaaOos%3Futm_source%3Dtldrhardware"
   }
  ]
 }
